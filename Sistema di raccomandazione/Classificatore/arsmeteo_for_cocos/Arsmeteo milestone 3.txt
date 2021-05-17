@@ -1,0 +1,8 @@
+ibf:                  0.9
+panel:                0.9
+archives:             0.9
+fiera_libro_duemilasette:0.9
+associazione_tag:     0.9
+easybit:              0.9
+dissemination:        0.9
+flavio_portis:        0.9

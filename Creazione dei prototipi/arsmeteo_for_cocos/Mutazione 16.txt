@@ -1,0 +1,3 @@
+crescita:             0.9
+vulcanico:            0.9
+minaccia:             0.9

@@ -1,0 +1,5 @@
+india:                0.9
+uomo:                 0.9
+assorto:              0.9
+occhi_chiusi:         0.9
+spiraglio:            0.9

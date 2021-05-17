@@ -1,0 +1,3 @@
+mostro:               0.9
+casa_dolce_casa:      0.9
+home_sweet_home:      0.9

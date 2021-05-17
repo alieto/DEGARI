@@ -1,0 +1,4 @@
+collage:              0.9
+disegno:              0.9
+pennarello:           0.9
+amico:                0.9

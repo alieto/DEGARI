@@ -1,0 +1,4 @@
+neve:                 0.9
+ghiaccio:             0.9
+carta:                0.9
+acqua:                0.9

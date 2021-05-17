@@ -1,0 +1,1 @@
+barchette_di_carta:   0.9

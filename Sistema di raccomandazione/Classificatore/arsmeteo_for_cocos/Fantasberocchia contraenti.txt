@@ -1,0 +1,7 @@
+contraente:           0.9
+fantasberocchia:      0.9
+surreale:             0.9
+surfanta:             0.9
+fantasia:             0.9
+catena_alimentare:    0.9
+autogenerazione:      0.9

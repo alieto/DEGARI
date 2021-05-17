@@ -1,0 +1,8 @@
+vela:                 0.9
+mentire:              0.9
+latina:               0.9
+mare:                 0.9
+galleggiamento:       0.9
+regata:               0.9
+storico:              0.9
+dazur:                0.9

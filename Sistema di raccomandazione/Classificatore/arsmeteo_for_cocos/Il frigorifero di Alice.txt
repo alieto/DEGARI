@@ -1,0 +1,9 @@
+peso:                 0.9
+frigorifero:          0.6
+alice:                0.6
+libro:                0.6
+libreria:             0.6
+alternativa:          0.6
+non_ingrassare:       0.6
+occhio_al_peso:       0.6
+bilancia:             0.6

@@ -1,0 +1,6 @@
+stalla:               0.9
+filare:               0.9
+un_tempo:             0.9
+lana:                 0.9
+pace:                 0.9
+foglia:               0.9

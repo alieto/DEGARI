@@ -1,0 +1,3 @@
+i_ching:              0.9
+cristallo:            0.9
+mandare:              0.9

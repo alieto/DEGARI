@@ -1,0 +1,3 @@
+ritratto:             0.9
+sconosciuto:          0.9
+acquerello:           0.9

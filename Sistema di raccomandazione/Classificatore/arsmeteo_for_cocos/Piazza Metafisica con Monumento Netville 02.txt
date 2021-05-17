@@ -1,0 +1,6 @@
+piazza:               0.9
+nietzsche:            0.9
+giselle:              0.9
+madunina:             0.9
+metafisica|metafisico:0.9
+netville:             0.9

@@ -1,0 +1,10 @@
+lettera_f:            0.9
+brodo:                0.9
+brodino:              0.9
+broth:                0.9
+arte:                 0.9
+luce:                 0.9
+alfabeto:             0.9
+viaggio:              0.9
+goccia:               0.9
+astratto:             0.9

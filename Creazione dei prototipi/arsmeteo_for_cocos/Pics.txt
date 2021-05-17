@@ -1,0 +1,6 @@
+punta:                0.9
+spazio:               0.9
+terra:                0.9
+angolo:               0.9
+interno:              0.9
+sviluppo:             0.9

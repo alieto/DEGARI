@@ -1,0 +1,6 @@
+nick:                 0.9
+de:                   0.9
+replaced-dns:         0.9
+paris:                0.9
+vicino:               0.9
+beaubourg:            0.9

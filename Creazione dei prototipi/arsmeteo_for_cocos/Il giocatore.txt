@@ -1,0 +1,2 @@
+giocatore:            0.9
+autoritratto:         0.9

@@ -1,0 +1,4 @@
+luna:                 0.9
+cosmo:                0.9
+linea:                0.9
+universo:             0.9

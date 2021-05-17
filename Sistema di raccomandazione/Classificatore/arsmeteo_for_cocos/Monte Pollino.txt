@@ -1,0 +1,7 @@
+montagna:             0.9
+il_monte_analogo:     0.9
+cespuglio:            0.9
+cielo:                0.9
+cima:                 0.9
+neve:                 0.9
+terra:                0.9

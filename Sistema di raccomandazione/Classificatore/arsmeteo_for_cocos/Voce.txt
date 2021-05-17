@@ -1,0 +1,4 @@
+animazione:           0.9
+espressione:          0.9
+interpretazione:      0.9
+lunetta:              0.9

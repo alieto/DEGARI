@@ -1,0 +1,12 @@
+twin:                 0.9
+icons:                0.9
+giorgio_vaccarino:    0.9
+obama:                0.9
+icone_gemelle:        0.9
+anno_zero:            0.9
+incertezza:           0.9
+promessa:             0.9
+primi_approcci:       0.9
+dell_anno:            0.9
+sguardi_al_futuro:    0.9
+compito_difficile:    0.9

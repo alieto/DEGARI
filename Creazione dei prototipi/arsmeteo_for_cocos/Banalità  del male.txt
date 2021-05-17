@@ -1,0 +1,6 @@
+male:                 0.9
+banalità:             0.9
+tristezza:            0.9
+dittatura:            0.9
+ipocrisia:            0.9
+umanità:              0.9

@@ -1,0 +1,7 @@
+bruxelles:            0.9
+inverno:              0.9
+luce:                 0.9
+spensieratezza:       0.9
+viaggio:              0.9
+incontro:             0.9
+rivisitazione:        0.9

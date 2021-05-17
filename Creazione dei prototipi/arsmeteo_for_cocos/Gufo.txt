@@ -1,0 +1,2 @@
+collage:              0.9
+gufo:                 0.9

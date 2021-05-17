@@ -1,0 +1,6 @@
+parigi_pekino:        0.9
+gara:                 0.9
+auto_d_epoca:         0.9
+automobile:           0.9
+intercontinentale:    0.9
+epoca_eroica:         0.9

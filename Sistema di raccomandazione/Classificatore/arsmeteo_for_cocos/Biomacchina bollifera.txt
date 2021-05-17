@@ -1,0 +1,9 @@
+bolla:                0.9
+generatore:           0.9
+factory:              0.9
+macchina:             0.9
+meccanismo:           0.9
+biomeccanico:         0.9
+apparato:             0.9
+congegno:             0.9
+fantasia:             0.9

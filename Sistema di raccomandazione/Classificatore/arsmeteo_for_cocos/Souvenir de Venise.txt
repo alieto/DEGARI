@@ -1,0 +1,5 @@
+tavolo:               0.9
+sedia:                0.9
+coppia:               0.9
+uccello:              0.9
+bicchiere:            0.9

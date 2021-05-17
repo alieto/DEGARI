@@ -1,0 +1,8 @@
+memoria:              0.9
+giorno:               0.9
+banalità:             0.9
+_del_male:            0.9
+fotoarchiv:           0.9
+rifotografare:        0.9
+_buchenwald:          0.9
+unbekannt:            0.9

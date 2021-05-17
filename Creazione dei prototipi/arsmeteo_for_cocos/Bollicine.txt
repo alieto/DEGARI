@@ -1,0 +1,3 @@
+brindisi:             0.9
+fascino:              0.9
+vetrina:              0.9

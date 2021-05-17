@@ -1,0 +1,12 @@
+torture: 0.984
+terrorist: 0.972
+horrific: 0.969
+terrorism: 0.969
+kill: 0.962
+homicidal: 0.959
+annihilate: 0.953
+terror: 0.953
+catastrophe: 0.953
+war: 0.942
+bombing: 0.938
+horror: 0.923

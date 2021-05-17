@@ -1,0 +1,2 @@
+le_tavole_di_niépce:  0.9
+sciarpa_rossa:        0.9

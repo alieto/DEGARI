@@ -1,0 +1,2 @@
+salto:                0.9
+direzione:            0.9

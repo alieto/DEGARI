@@ -1,0 +1,9 @@
+matita:               0.9
+chiocciola:           0.6
+sogno:                0.6
+soffondere:           0.6
+fantasia:             0.6
+matitona:             0.6
+zig_zag:              0.6
+angolo:               0.6
+triangolo:            0.6

@@ -1,0 +1,9 @@
+albero_giallo_oro:    0.9
+albero:               0.9
+giallo:               0.9
+oro:                  0.9
+solitudine:           0.9
+letto_del_fiume:      0.9
+greto:                0.9
+sasso:                0.9
+spazio:               0.9

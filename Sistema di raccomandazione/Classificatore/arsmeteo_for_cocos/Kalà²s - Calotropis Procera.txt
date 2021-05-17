@@ -1,0 +1,8 @@
+kalà²s_bellezza:      0.9
+frutto:               0.9
+follicolare:          0.9
+velenoso:             0.9
+stupefacente:         0.9
+melo_di_sodoma:       0.9
+esplosione:           0.9
+verde:                0.9

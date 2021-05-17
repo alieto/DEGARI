@@ -1,0 +1,16 @@
+albero:               0.9
+scoprire:             0.9
+straordinario:        0.9
+mondo:                0.9
+racconto:             0.6
+cura:                 0.6
+tutela:               0.6
+splendido:            0.6
+viaggio:              0.6
+speciale:             0.6
+porre:                0.6
+ruolo:                0.6
+comunità:             0.6
+centinaio:            0.6
+accudire:             0.6
+anno:                 0.6

@@ -1,0 +1,4 @@
+onnipresente:         0.9
+incubo:               0.9
+megalomania:          0.9
+culto_della_personalità:0.9

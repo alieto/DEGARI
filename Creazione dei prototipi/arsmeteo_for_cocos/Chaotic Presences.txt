@@ -1,0 +1,8 @@
+mixed:                0.9
+media:                0.9
+oil:                  0.9
+painting:             0.9
+gold:                 0.9
+pigment:              0.9
+figurativo:           0.9
+art:                  0.9

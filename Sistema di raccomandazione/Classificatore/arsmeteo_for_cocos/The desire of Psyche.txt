@@ -1,0 +1,6 @@
+psyche:               0.9
+farfalla:             0.9
+ala:                  0.9
+profilo:              0.9
+metafora:             0.9
+metamorfosi:          0.9

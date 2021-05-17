@@ -1,0 +1,6 @@
+danza:                0.9
+sorriso:              0.9
+condivisione:         0.9
+accusa:               0.9
+torino:               0.9
+gioventà¹:            0.9

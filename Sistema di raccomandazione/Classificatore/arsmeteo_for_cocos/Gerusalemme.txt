@@ -1,0 +1,4 @@
+bambino:              0.9
+futuro:               0.9
+indaco:               0.9
+gerusalemme:          0.9

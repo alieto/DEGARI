@@ -1,0 +1,4 @@
+umano:                0.9
+parodia:              0.9
+bataille:             0.9
+coincidenza:          0.9

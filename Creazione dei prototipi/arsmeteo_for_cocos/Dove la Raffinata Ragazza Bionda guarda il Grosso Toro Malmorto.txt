@@ -1,0 +1,13 @@
+bianco_e_nero:        0.9
+fotografia:           0.9
+biondo:               0.9
+toro:                 0.9
+sangue:               0.9
+morte:                0.9
+spagna:               0.9
+tristezza:            0.9
+infame:               0.9
+cattiveria:           0.9
+carne:                0.9
+animale:              0.9
+abbandono:            0.9

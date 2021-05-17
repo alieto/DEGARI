@@ -1,0 +1,5 @@
+casello:              0.9
+binario:              0.9
+apparizione:          0.9
+coniglio:             0.9
+spettro:              0.9

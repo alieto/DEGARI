@@ -1,0 +1,5 @@
+sedia_a_rotelle:      0.9
+baltimora:            0.9
+panca_continua:       0.9
+binario:              0.9
+lividore:             0.9

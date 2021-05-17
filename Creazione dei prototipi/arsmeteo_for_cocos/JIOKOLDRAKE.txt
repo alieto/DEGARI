@@ -1,0 +1,5 @@
+jiokonda:             0.9
+bar_code:             0.9
+viagra:               0.9
+fontana:              0.9
+goldrake:             0.9

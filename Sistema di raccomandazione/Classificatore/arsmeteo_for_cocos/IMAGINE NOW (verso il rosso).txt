@@ -1,0 +1,3 @@
+luna:                 0.9
+immagina-ora:         0.9
+stella:               0.9

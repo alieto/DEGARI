@@ -1,0 +1,1 @@
+personaggio:          0.9

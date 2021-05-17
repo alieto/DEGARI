@@ -1,0 +1,7 @@
+lettura:              0.9
+travel_gear:          0.9
+boarding_pass:        0.9
+occhiale:             0.9
+tom_tom:              0.9
+telefono:             0.9
+biglietto:            0.9

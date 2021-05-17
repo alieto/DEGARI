@@ -1,0 +1,3 @@
+città:                0.9
+gioiello:             0.9
+d_artista:            0.9

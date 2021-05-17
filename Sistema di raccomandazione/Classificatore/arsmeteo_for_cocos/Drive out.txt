@@ -1,0 +1,7 @@
+drive_out:            0.9
+desolazione:          0.9
+attesa:               0.9
+fine_corsa:           0.9
+terreno_vago:         0.9
+sogno:                0.9
+cinema:               0.9

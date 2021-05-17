@@ -1,0 +1,10 @@
+rumore:               0.9
+luce:                 0.9
+musica_concreta:      0.9
+ingranaggio:          0.9
+puleggia:             0.9
+torino:               0.9
+stridii:              0.9
+sera:                 0.9
+cavallerizza|cavallerizzo:0.9
+teatro_urbano:        0.9

@@ -1,0 +1,10 @@
+onda_ghiacciata:      0.9
+neve:                 0.9
+ghiaccio:             0.9
+rosso:                0.9
+diario:               0.9
+pagina:               0.9
+varco:                0.9
+contrasto:            0.9
+freddo:               0.9
+diario_aperto:        0.9

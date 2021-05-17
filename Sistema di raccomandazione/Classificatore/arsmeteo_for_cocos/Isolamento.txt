@@ -1,0 +1,1 @@
+isolamento:           0.9

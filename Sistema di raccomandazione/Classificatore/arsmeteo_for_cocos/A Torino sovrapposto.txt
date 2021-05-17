@@ -1,0 +1,1 @@
+ponte_su_lamiera:     0.9

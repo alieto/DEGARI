@@ -1,0 +1,2 @@
+pixel_art:            0.9
+digitale:             0.9

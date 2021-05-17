@@ -1,0 +1,6 @@
+lumaca:               0.9
+subaffittare:         0.9
+topo:                 0.9
+casa:                 0.9
+caus:                 0.9
+umorismo:             0.9

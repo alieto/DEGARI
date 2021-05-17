@@ -1,0 +1,11 @@
+zuccardi:             0.9
+vino:                 0.9
+tavola_imbandita:     0.9
+bicchiere:            0.9
+degustazione:         0.9
+empanadas:            0.9
+verdura_saporita:     0.9
+spazio:               0.9
+foresteria:           0.9
+sguardo:              0.9
+intenso:              0.9

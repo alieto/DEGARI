@@ -1,0 +1,3 @@
+analisi:              0.9
+gradiente:            0.9
+negativo:             0.9

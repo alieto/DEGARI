@@ -1,0 +1,6 @@
+ultimo_treno:         0.9
+ultimo_viaggio:       0.9
+ultimo_fischio:       0.9
+ultimo_atto:          0.9
+conduzione:           0.9
+viaggio:              0.9

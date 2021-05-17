@@ -1,0 +1,4 @@
+seduzione:            0.9
+vetrina:              0.9
+riflesso:             0.9
+effimero:             0.9

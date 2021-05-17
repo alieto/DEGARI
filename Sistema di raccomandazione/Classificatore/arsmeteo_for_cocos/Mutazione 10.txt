@@ -1,0 +1,3 @@
+surreale:             0.9
+mutazione:            0.9
+sensualità:           0.9

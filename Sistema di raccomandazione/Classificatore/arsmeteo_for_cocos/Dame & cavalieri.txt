@@ -1,0 +1,8 @@
+dama:                 0.9
+cavaliere:            0.9
+dame_e_cavalieri:     0.9
+quadrato:             0.9
+forma:                0.9
+sinuoso:              0.9
+cerchio:              0.9
+geometria:            0.9

@@ -1,0 +1,7 @@
+nido:                 0.9
+rifugio:              0.9
+futuro:               0.9
+dolce:                0.9
+plastica:             0.9
+poliver:              0.9
+colore:               0.9

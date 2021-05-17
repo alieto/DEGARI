@@ -1,0 +1,7 @@
+golem:                0.9
+totem:                0.9
+legno_dipinto:        0.9
+simbolo:              0.9
+ombra:                0.9
+albero:               0.9
+legno:                0.9

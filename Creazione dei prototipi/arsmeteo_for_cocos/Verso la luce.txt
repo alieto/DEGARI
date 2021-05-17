@@ -1,0 +1,7 @@
+luce:                 0.9
+apertura:             0.9
+interno:              0.9
+cupola:               0.9
+sisifo:               0.9
+smaterializzazione:   0.9
+scala:                0.9

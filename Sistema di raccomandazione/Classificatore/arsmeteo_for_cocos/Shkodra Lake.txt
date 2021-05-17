@@ -1,0 +1,6 @@
+shkodra:              0.9
+lake:                 0.9
+luce:                 0.9
+lago:                 0.9
+fuoco:                0.9
+giallo:               0.9

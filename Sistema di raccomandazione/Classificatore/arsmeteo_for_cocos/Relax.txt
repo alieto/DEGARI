@@ -1,0 +1,8 @@
+riposo:               0.9
+sognare:              0.9
+abbandono:            0.9
+corpo:                0.9
+anima:                0.9
+gatto:                0.9
+donna:                0.9
+letto:                0.9

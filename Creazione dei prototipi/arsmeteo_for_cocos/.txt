@@ -1,0 +1,7 @@
+straniamento:         0.9
+magritte:             0.9
+centre_pompidou:      0.9
+punto_interrogativo:  0.9
+ombrello:             0.9
+non_esistenza:        0.9
+metafisico:           0.9

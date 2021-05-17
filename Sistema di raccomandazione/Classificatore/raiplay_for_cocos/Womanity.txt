@@ -1,0 +1,17 @@
+racconto:             0.9
+forza:                0.9
+positiva:             0.9
+donna:                0.9
+società:              0.9
+esercitare:           0.9
+ambito:               0.9
+familiare:            0.9
+comunità:             0.9
+luogo:                0.9
+lavoro:               0.9
+politica:             0.9
+azione:               0.9
+grado:                0.9
+numeroso:             0.9
+agire:                0.9
+difficoltà:           0.9

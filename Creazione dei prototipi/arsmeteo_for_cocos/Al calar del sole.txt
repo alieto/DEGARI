@@ -1,0 +1,4 @@
+rosso_di_sera:        0.9
+tramonto:             0.9
+laguna:               0.9
+calore:               0.9

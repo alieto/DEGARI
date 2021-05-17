@@ -1,0 +1,2 @@
+tappeto:              0.9
+mappa:                0.9

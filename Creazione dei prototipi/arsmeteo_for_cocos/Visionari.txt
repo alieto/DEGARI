@@ -1,0 +1,7 @@
+visionario:           0.9
+visione:              0.9
+estasi:               0.9
+sacralità:            0.9
+psicopatologia:       0.9
+stati_modificati_di_coscienza:0.9
+visioni_mistiche:     0.9

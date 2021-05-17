@@ -1,0 +1,7 @@
+vetrina:              0.9
+effimero:             0.9
+consumo:              0.9
+contraddizione:       0.9
+lusso:                0.9
+commercio:            0.9
+illusione:            0.9

@@ -1,0 +1,4 @@
+manifesto:            0.9
+esposizione:          0.9
+manifestazione:       0.9
+arte:                 0.9

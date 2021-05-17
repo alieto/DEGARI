@@ -1,0 +1,6 @@
+ascensione:           0.9
+solo:                 0.9
+luce:                 0.9
+scala:                0.9
+biomorfo:             0.9
+salire:               0.9

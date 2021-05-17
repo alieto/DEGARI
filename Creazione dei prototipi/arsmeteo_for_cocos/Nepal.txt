@@ -1,0 +1,9 @@
+offerta:              0.9
+nepal:                0.6
+tradizione:           0.6
+petalo:               0.6
+incenso:              0.6
+siva:                 0.6
+trasformazione:       0.6
+richiesta:            0.6
+spiritualità:         0.6

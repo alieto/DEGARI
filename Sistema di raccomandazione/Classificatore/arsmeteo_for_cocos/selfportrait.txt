@@ -1,0 +1,4 @@
+specchio:             0.9
+buenos_aires:         0.9
+claridge:             0.9
+hotel:                0.9

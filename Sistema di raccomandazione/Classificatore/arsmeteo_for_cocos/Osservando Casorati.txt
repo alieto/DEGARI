@@ -1,0 +1,5 @@
+nudo:                 0.9
+donna:                0.9
+di_schiena:           0.9
+casorati:             0.9
+geometria:            0.9

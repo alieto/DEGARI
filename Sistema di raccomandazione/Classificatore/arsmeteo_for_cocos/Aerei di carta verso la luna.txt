@@ -1,0 +1,3 @@
+luna:                 0.9
+aerei_di_carta:       0.9
+cielo:                0.9

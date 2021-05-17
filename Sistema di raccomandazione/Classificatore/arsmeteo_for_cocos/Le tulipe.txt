@@ -1,0 +1,3 @@
+afghanistan:          0.9
+mostra:               0.9
+volto:                0.9

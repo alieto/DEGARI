@@ -1,0 +1,5 @@
+scatola:              0.9
+box:                  0.9
+tetris:               0.9
+trentotto:            0.9
+quarantatatre:        0.9

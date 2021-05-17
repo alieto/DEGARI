@@ -1,0 +1,8 @@
+parabola:             0.9
+antenna:              0.9
+ascolto:              0.9
+comunicazione:        0.9
+diffusione:           0.9
+spettacolo:           0.9
+informazione:         0.9
+disinformazione:      0.9

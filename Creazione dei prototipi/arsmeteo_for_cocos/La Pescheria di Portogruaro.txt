@@ -1,0 +1,6 @@
+tecnica:              0.9
+mista:                0.9
+faesite:              0.9
+anno:                 0.9
+cm:                   0.9
+70x100:               0.9

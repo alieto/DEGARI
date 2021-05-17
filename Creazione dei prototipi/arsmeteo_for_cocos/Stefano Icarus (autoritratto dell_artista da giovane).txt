@@ -1,0 +1,4 @@
+icaro:                0.9
+dedalus:              0.9
+joice:                0.9
+microfono:            0.9

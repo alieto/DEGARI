@@ -1,0 +1,6 @@
+borgata:              0.9
+verde:                0.9
+borgata_verde:        0.9
+collage:              0.9
+nuvole_tessili:       0.9
+veduta:               0.9

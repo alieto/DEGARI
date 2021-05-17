@@ -1,0 +1,5 @@
+motore:               0.9
+turbina|turbine:      0.9
+meccanica:            0.9
+precisione:           0.9
+tecnologia:           0.9

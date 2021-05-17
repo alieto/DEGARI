@@ -1,0 +1,4 @@
+madre:                0.9
+affetto:              0.9
+second_life:          0.9
+attualizzazione:      0.9

@@ -1,0 +1,11 @@
+50x70:                0.9
+cm:                   0.9
+mixed:                0.9
+on:                   0.9
+canvas:               0.9
+bambina:              0.9
+gatto:                0.9
+strada:               0.9
+amicizia:             0.9
+semplicità:           0.9
+curiosità:            0.9

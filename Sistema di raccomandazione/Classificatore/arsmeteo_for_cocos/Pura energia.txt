@@ -1,0 +1,4 @@
+energia:              0.9
+richiamo:             0.9
+roccia:               0.9
+luna:                 0.9

@@ -1,0 +1,16 @@
+ladri_di_biciclette:  0.9
+prendi_i_soldi_e_scappa:0.9
+non_aprite_quella_porta:0.9
+i_soliti_ignoti:      0.9
+entrata:              0.9
+senza_freni:          0.9
+ruota:                0.9
+raggio:               0.9
+dinamo:               0.9
+al_di_là:             0.9
+_dello_specchio:      0.9
+condor:               0.9
+traduzione:           0.9
+edo_in_bici:          0.9
+casa:                 0.9
+duchamp:              0.9

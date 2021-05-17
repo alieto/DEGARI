@@ -1,0 +1,5 @@
+portale:              0.9
+alieno:               0.9
+senso:                0.9
+frattali:             0.9
+percezione:           0.9

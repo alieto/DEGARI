@@ -1,0 +1,8 @@
+auto:                 0.9
+mezzo:                0.9
+locomozione:          0.9
+traffico:             0.9
+rientro:              0.9
+congestione:          0.9
+addensamento:         0.9
+inquinamento:         0.9

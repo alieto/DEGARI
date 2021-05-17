@@ -1,0 +1,4 @@
+vicinanza:            0.9
+sfuocatura:           0.9
+particolare:          0.9
+generale:             0.9

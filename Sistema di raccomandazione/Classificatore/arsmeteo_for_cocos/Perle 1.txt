@@ -1,0 +1,3 @@
+mare:                 0.9
+conghiglia:           0.9
+perla:                0.9

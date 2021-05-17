@@ -1,0 +1,11 @@
+presidente_mao:       0.9
+farfalla:             0.9
+luce:                 0.9
+stella:               0.9
+oro:                  0.9
+tiepolo:              0.9
+delice_de_l_orient:   0.9
+trompe_l_oeil:        0.9
+piramide:             0.9
+vol_au_vent:          0.9
+volo:                 0.9

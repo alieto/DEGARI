@@ -1,0 +1,7 @@
+matador:              0.9
+olè:                  0.9
+toro:                 0.9
+meccanico:            0.9
+macchima_da_cucire:   0.9
+metallo:              0.9
+recupero:             0.9

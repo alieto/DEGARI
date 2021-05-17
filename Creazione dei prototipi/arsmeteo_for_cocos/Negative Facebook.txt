@@ -1,0 +1,4 @@
+facebook:             0.9
+social_network:       0.9
+elaborazione:         0.9
+mixedmedia:           0.9

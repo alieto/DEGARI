@@ -1,0 +1,3 @@
+forchetta:            0.9
+movimento:            0.9
+vita:                 0.9

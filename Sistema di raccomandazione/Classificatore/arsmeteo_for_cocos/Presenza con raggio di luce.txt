@@ -1,0 +1,1 @@
+raggio_di_uce:        0.9

@@ -1,0 +1,4 @@
+bambina:              0.9
+colore:               0.9
+messico:              0.9
+povertà:              0.9

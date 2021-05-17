@@ -1,0 +1,3 @@
+ragno:                0.9
+spartito:             0.9
+violino:              0.9

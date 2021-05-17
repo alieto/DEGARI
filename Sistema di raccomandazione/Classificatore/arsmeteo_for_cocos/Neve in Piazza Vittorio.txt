@@ -1,0 +1,8 @@
+neve:                 0.9
+strada:               0.9
+macchina:             0.9
+notte:                0.9
+luce:                 0.9
+nevicata:             0.9
+torino:               0.9
+piazza_vittorio:      0.9

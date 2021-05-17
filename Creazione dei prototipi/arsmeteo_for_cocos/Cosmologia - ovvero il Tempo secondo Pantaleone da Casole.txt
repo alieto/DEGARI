@@ -1,0 +1,5 @@
+otranto:              0.9
+icona:                0.9
+mosaico:              0.9
+stella:               0.9
+singlossia:           0.9

@@ -1,0 +1,5 @@
+grenoble:             0.9
+fnac:                 0.9
+mostra:               0.9
+autore_di_cui_non:    0.9
+ricordo_il_nome:      0.9

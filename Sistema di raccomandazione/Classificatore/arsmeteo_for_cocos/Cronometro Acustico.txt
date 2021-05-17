@@ -1,0 +1,9 @@
+cronometro:           0.9
+audio:                0.9
+suono:                0.9
+sonoro:               0.9
+secondo:              0.9
+vibrazione:           0.9
+ghisa:                0.9
+zildjian:             0.9
+orologio:             0.9

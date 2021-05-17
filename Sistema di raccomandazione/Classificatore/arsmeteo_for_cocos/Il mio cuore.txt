@@ -1,0 +1,8 @@
+cuore:                0.9
+cupo:                 0.9
+spezzato:             0.9
+dividere:             0.9
+solitudine:           0.9
+tristezza:            0.9
+immobilità:           0.9
+solidità:             0.9

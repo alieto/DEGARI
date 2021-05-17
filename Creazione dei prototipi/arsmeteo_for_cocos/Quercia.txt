@@ -1,0 +1,3 @@
+quercia:              0.9
+albero:               0.9
+sviluppo:             0.9

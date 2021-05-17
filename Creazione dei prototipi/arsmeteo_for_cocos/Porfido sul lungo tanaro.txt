@@ -1,0 +1,5 @@
+porfido:              0.9
+sequenza:             0.9
+ripetizione:          0.9
+passeggiata:          0.9
+incastro:             0.9

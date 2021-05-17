@@ -1,0 +1,7 @@
+nuvola:               0.9
+santuario:            0.6
+cielo:                0.6
+siluette:             0.6
+chiesa:               0.6
+ombra:                0.6
+luce:                 0.6

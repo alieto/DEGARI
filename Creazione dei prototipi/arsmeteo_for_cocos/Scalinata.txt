@@ -1,0 +1,8 @@
+ascesa:               0.9
+grata:                0.9
+cancellata:           0.9
+curia:                0.9
+sacro:                0.9
+mistero:              0.9
+bagliore:             0.9
+texture:              0.9

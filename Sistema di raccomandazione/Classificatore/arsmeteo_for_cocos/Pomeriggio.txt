@@ -1,0 +1,4 @@
+uomo:                 0.9
+fotografia:           0.9
+strada:               0.9
+sud:                  0.9

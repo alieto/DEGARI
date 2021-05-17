@@ -1,0 +1,3 @@
+mondo_di_vetro:       0.9
+bottiglia:            0.9
+bicchiere:            0.9

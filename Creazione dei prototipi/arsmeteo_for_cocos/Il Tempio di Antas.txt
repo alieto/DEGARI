@@ -1,0 +1,4 @@
+simbolismo:           0.9
+digitale:             0.9
+pastello:             0.9
+fotografia:           0.9

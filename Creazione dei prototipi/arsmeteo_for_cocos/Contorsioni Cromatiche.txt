@@ -1,0 +1,8 @@
+impasto:              0.9
+magmatico:            0.9
+cromatismo:           0.9
+ribollire:            0.9
+evoluzione:           0.9
+rimescolamento:       0.9
+spiroidale:           0.9
+fusione:              0.9

@@ -1,0 +1,6 @@
+follia_del_tango:     0.9
+scarpa:               0.9
+speciale:             0.9
+bella:                0.9
+contesa:              0.9
+desiderare:           0.9

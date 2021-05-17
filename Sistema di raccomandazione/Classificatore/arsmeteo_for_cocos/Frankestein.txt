@@ -1,0 +1,3 @@
+maschera:             0.9
+museo_cinema:         0.9
+francoforte:          0.9

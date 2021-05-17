@@ -1,0 +1,5 @@
+equipaggiamento:      0.9
+cartolina:            0.9
+passaporto:           0.9
+chiave:               0.9
+albergo:              0.9

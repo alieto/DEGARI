@@ -1,0 +1,2 @@
+pesce:                0.9
+strano:               0.9

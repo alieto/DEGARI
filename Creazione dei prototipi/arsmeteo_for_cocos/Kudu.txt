@@ -1,0 +1,6 @@
+cibo:                 0.9
+audacia:              0.9
+corno:                0.9
+legno:                0.9
+intarsio:             0.9
+natura:               0.9

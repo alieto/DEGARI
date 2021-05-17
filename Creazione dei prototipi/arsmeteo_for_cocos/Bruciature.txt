@@ -1,0 +1,2 @@
+solare:               0.9
+giallo:               0.9

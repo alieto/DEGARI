@@ -1,0 +1,9 @@
+mole:                 0.9
+torino:               0.9
+spazio:               0.9
+tempo:                0.9
+sincronicità:         0.9
+aquilone:             0.9
+uccello:              0.9
+aereo:                0.9
+linea:                0.9

@@ -1,0 +1,7 @@
+terril:               0.9
+auto_fine_vita:       0.9
+charleroi:            0.9
+miniera:              0.9
+scoria:               0.9
+autodemolizione:      0.9
+rottamazione:         0.9

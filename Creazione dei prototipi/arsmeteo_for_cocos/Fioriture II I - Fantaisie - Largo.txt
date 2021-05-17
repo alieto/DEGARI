@@ -1,0 +1,6 @@
+cina:                 0.9
+oriente:              0.9
+viola:                0.9
+contemporaneo:        0.9
+immaginario:          0.9
+fantastico:           0.9

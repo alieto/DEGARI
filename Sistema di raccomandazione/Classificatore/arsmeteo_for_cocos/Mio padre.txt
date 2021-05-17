@@ -1,0 +1,2 @@
+parola:               0.9
+padre:                0.9

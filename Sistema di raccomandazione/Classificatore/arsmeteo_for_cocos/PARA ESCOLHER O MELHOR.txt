@@ -1,0 +1,11 @@
+seno:                 0.9
+collana:              0.9
+riscatto:             0.9
+stregoneria:          0.9
+malattia:             0.9
+netville:             0.9
+terzo_mondo:          0.9
+sottosviluppo:        0.9
+fame:                 0.9
+latta|latte:          0.9
+povertà:              0.9

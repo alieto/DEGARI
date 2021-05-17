@@ -1,0 +1,4 @@
+vespa:                0.9
+libertà:              0.9
+anni_50:              0.9
+gamba:                0.9

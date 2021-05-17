@@ -1,0 +1,5 @@
+libro:                0.9
+monaco:               0.9
+rosso:                0.9
+eleganza:             0.9
+trait_d_union:        0.9

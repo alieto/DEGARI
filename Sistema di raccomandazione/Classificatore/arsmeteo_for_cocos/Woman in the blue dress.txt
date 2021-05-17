@@ -1,0 +1,5 @@
+donna:                0.9
+blue:                 0.9
+vestire:              0.9
+panchina:             0.9
+attesa:               0.9

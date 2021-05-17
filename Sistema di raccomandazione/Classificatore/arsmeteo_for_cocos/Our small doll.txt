@@ -1,0 +1,8 @@
+bello:                0.9
+bambola:              0.9
+bambina:              0.9
+diadema:              0.9
+orsacchiotto:         0.9
+siringa:              0.9
+mela_rossa:           0.9
+sangue:               0.9

@@ -1,0 +1,10 @@
+forma:                0.9
+corpo:                0.9
+astrazione:           0.9
+curva:                0.9
+linea:                0.9
+geometria:            0.9
+campiture:            0.9
+intersezione:         0.9
+stilizzazione:        0.9
+orecchio:             0.9

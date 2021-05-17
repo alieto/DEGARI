@@ -1,0 +1,12 @@
+matita:               0.9
+chiocciola:           0.9
+sogno:                0.9
+soffondere:           0.9
+fantasia:             0.9
+tenue:                0.9
+costruzione:          0.9
+combinazione:         0.9
+matitona:             0.9
+barchetta_di_carta:   0.9
+zig_zag:              0.9
+corda:                0.9

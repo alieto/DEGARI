@@ -1,0 +1,7 @@
+mattino:              0.9
+fatica:               0.9
+dignità:              0.9
+in_divenire:          0.9
+bruma:                0.9
+inverno:              0.9
+africo:               0.9

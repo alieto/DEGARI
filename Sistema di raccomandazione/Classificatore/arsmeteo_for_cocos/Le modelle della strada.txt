@@ -1,0 +1,3 @@
+donna:                0.9
+strada:               0.9
+posa:                 0.9

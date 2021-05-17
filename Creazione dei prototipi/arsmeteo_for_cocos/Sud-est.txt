@@ -1,0 +1,3 @@
+orientamento:         0.9
+freccia:              0.9
+segno:                0.9

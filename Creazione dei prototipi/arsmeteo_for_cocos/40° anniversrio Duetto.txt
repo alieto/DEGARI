@@ -1,0 +1,7 @@
+automobile:           0.9
+design:               0.9
+anni_sessanta:        0.9
+spider:               0.9
+duetto:               0.9
+alfa_romeo:           0.9
+stile:                0.9

@@ -1,0 +1,8 @@
+acrilico:             0.9
+tecnica:              0.9
+mista:                0.9
+cartone:              0.9
+cm:                   0.9
+50x70:                0.9
+.realizzao:           0.9
+anno:                 0.9

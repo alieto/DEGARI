@@ -1,0 +1,1 @@
+solitario:            0.9

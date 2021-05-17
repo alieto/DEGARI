@@ -1,0 +1,6 @@
+pensieroso:           0.9
+pensare:              0.9
+sovrappensiero:       0.9
+espressione:          0.9
+simpatico:            0.9
+sdentato:             0.9

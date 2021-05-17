@@ -1,0 +1,2 @@
+bestia:               0.9
+malignità:            0.9

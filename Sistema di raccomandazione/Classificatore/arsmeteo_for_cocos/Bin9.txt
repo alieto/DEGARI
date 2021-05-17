@@ -1,0 +1,7 @@
+lampada:              0.9
+perdita:              0.9
+ferraglia:            0.9
+ruggine:              0.9
+alice:                0.9
+luce:                 0.9
+ferro:                0.9

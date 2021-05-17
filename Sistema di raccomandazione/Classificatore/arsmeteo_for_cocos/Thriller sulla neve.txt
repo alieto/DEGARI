@@ -1,0 +1,6 @@
+neve:                 0.9
+scarpa:               0.9
+hitchcock:            0.9
+cappello:             0.9
+principe:             0.9
+father:               0.9

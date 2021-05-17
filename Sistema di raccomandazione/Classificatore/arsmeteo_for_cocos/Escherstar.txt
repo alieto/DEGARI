@@ -1,0 +1,4 @@
+geometria:            0.9
+simmetria:            0.9
+stella:               0.9
+escher:               0.9

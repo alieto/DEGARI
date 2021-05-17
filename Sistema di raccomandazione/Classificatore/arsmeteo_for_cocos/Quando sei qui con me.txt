@@ -1,0 +1,3 @@
+bosco:                0.9
+fluido:               0.9
+amore:                0.9

@@ -1,0 +1,3 @@
+nostalgia:            0.9
+mancanza:             0.9
+mito:                 0.9

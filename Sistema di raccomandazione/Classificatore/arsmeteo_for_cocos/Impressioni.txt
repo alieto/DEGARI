@@ -1,0 +1,11 @@
+torino:               0.9
+fiume:                0.9
+impressionismo:       0.9
+valentino:            0.9
+valentina:            0.9
+fiume_po:             0.9
+imbarco:              0.9
+barca:                0.9
+impressione:          0.9
+garofano:             0.9
+fiore:                0.9

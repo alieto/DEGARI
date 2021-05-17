@@ -1,0 +1,8 @@
+enne:                 0.9
+lettera:              0.9
+sigla:                0.9
+città:                0.9
+serranda:             0.9
+vacanza:              0.9
+vuoto:                0.9
+nulla:                0.9

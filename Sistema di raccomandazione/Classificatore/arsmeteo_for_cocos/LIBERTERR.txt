@@ -1,0 +1,11 @@
+terrore:              0.9
+libertà:              0.9
+arma:                 0.9
+soldato:              0.9
+stop:                 0.9
+jungla:               0.9
+squallore:            0.9
+evanescenza:          0.9
+bestiale:             0.9
+petrolio:             0.9
+netville:             0.9

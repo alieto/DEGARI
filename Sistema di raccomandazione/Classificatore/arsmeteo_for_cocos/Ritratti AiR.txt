@@ -1,0 +1,7 @@
+acquerello:           0.9
+ritratto:             0.9
+ragazza:              0.9
+viso:                 0.9
+figurativo:           0.9
+disegno:              0.9
+carta:                0.9

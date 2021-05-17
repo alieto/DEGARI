@@ -1,0 +1,6 @@
+vetrina:              0.9
+ammiccamento:         0.9
+moda:                 0.9
+seduzione:            0.9
+fascino:              0.9
+effimero:             0.9

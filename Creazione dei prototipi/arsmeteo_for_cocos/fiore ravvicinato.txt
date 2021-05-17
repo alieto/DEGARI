@@ -1,0 +1,4 @@
+fiore:                0.9
+vicino:               0.9
+sfuocare:             0.9
+particolare:          0.9

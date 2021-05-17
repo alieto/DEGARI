@@ -1,0 +1,3 @@
+murart:               0.9
+basic_village:        0.9
+olimpiade:            0.9

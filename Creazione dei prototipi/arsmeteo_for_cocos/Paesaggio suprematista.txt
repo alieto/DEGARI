@@ -1,0 +1,5 @@
+paesaggio:            0.9
+suprematismo:         0.9
+paesaggio_interiore:  0.9
+utopia:               0.9
+modello:              0.9

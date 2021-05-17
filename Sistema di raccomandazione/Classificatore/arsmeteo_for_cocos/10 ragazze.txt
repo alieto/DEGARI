@@ -1,0 +1,8 @@
+dieci_ragazze:        0.9
+occhiale:             0.9
+differenza:           0.9
+occhiali_neri:        0.9
+look:                 0.9
+labbro:               0.9
+testa|teste:          0.9
+sguardi_celati:       0.9

@@ -1,0 +1,5 @@
+danzatore:            0.9
+frattali:             0.9
+scia:                 0.9
+intreccio:            0.9
+optical:              0.9

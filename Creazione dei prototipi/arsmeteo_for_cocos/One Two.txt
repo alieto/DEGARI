@@ -1,0 +1,11 @@
+-segni+:              0.9
+-bianco+:             0.9
+-carta+:              0.9
+-impronte+:           0.9
+-rilievi+:            0.9
+-orme+:               0.9
+-spazialismo+:        0.9
+-bianco_su_bianco+:   0.9
+-spazialità:          0.9
+-punti+:              0.9
+-braille+:            0.9

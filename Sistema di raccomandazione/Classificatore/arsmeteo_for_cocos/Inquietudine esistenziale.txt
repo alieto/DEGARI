@@ -1,0 +1,4 @@
+inquietudine:         0.9
+angoscia:             0.9
+donna:                0.9
+preoccupazione:       0.9

@@ -1,0 +1,8 @@
+suicidio:             0.9
+magritte:             0.9
+players:              0.9
+sigaretta:            0.9
+tabacco:              0.9
+morte:                0.9
+falce:                0.9
+alta_marea:           0.9

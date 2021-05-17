@@ -1,0 +1,5 @@
+tsunami:              0.9
+grattacielo:          0.9
+turbolenza:           0.9
+energia:              0.9
+furia:                0.9

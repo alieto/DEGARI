@@ -1,0 +1,7 @@
+sposo:                0.9
+felice:               0.9
+sorriso:              0.9
+intesa:               0.9
+contratto:            0.9
+matrimonio:           0.9
+famiglia:             0.9

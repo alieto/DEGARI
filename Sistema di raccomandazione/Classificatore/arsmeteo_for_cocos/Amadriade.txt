@@ -1,0 +1,5 @@
+amadriade:            0.9
+donna:                0.9
+seduzione:            0.9
+adagiare:             0.9
+percorso:             0.9

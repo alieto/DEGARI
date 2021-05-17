@@ -1,0 +1,5 @@
+monogramma:           0.9
+lettera_c:            0.9
+lettera_g:            0.9
+pesce:                0.9
+sotto_il_mare:        0.9

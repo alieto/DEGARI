@@ -1,0 +1,12 @@
+parola:               0.9
+verbo:                0.9
+nome:                 0.9
+precetto:             0.9
+fondamentalismo:      0.9
+padre:                0.9
+profeta:              0.9
+guida:                0.9
+islam:                0.9
+pace:                 0.9
+terrore:              0.9
+netville:             0.9

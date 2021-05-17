@@ -1,0 +1,5 @@
+flamenco:             0.9
+lamento:              0.9
+bianco:               0.9
+nero:                 0.9
+story:                0.9

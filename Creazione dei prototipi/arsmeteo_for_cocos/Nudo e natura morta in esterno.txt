@@ -1,0 +1,1 @@
+rosso_tenda_limone_giallo:0.9

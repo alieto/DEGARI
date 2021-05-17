@@ -1,0 +1,9 @@
+pop:                  0.9
+newpop:               0.9
+soggetto:             0.9
+oggetto:              0.9
+tv:                   0.9
+divano:               0.9
+interno:              0.9
+soggiorno:            0.9
+famiglia:             0.9

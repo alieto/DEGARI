@@ -1,0 +1,3 @@
+crosta:               0.9
+secondo:              0.9
+capo:                 0.9

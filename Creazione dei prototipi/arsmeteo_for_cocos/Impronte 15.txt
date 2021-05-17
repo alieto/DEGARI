@@ -1,0 +1,10 @@
+impronta:             0.9
+foglia:               0.9
+azzurro:              0.9
+traccia:              0.9
+vegetale:             0.9
+linfa:                0.9
+tracce_vegetali:      0.9
+vita:                 0.9
+natura:               0.9
+microcosmo:           0.9

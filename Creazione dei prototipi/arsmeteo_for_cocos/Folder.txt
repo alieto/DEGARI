@@ -1,0 +1,5 @@
+digitale:             0.9
+pixel:                0.9
+ink_jet:              0.9
+pixel_art:            0.9
+colors:               0.9

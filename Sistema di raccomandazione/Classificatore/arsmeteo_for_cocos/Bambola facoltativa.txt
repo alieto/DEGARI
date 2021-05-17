@@ -1,0 +1,8 @@
+bambola:              0.9
+facoltativo:          0.9
+surfanta:             0.9
+surreale:             0.9
+palla:                0.9
+numero:               0.9
+cappello_a_fiori:     0.9
+stivale:              0.9

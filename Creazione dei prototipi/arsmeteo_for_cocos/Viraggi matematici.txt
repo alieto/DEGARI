@@ -1,0 +1,2 @@
+conchiglia:           0.9
+frattali:             0.9

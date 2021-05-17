@@ -1,0 +1,2 @@
+pesciolino:           0.9
+argento:              0.9

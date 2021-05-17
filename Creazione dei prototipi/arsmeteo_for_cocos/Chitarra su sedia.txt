@@ -1,0 +1,5 @@
+chitarra:             0.9
+sedia:                0.9
+angolo:               0.9
+mobile:               0.9
+plettro:              0.9

@@ -1,0 +1,4 @@
+elaborazione:         0.9
+digitale:             0.9
+contrasto:            0.9
+stampa:               0.9

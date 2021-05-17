@@ -1,0 +1,5 @@
+storia:               0.9
+radice:               0.9
+territorio:           0.9
+sacro:                0.9
+pietra:               0.9

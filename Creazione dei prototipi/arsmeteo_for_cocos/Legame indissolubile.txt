@@ -1,0 +1,6 @@
+radice:               0.9
+muro:                 0.9
+edera:                0.9
+legame:               0.9
+intrico:              0.9
+unione:               0.9

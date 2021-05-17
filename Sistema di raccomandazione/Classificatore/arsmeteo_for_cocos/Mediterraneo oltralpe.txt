@@ -1,0 +1,5 @@
+cellulare:            0.9
+ciotola:              0.9
+fichi_secchi:         0.9
+frutta:               0.9
+spuntino:             0.9

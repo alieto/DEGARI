@@ -1,0 +1,7 @@
+geometrie_accennate:  0.9
+linea:                0.9
+stilizzazione:        0.9
+astratto:             0.9
+ricerca:              0.9
+mandare:              0.9
+cromatismo:           0.9

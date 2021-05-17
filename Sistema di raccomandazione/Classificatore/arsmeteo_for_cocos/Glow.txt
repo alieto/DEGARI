@@ -1,0 +1,4 @@
+goccia:               0.9
+splash:               0.9
+liquido:              0.9
+fermo_immagine:       0.9

@@ -1,0 +1,8 @@
+notte:                0.9
+stella:               0.9
+luna:                 0.9
+riflesso:             0.9
+via:                  0.9
+numero_tre:           0.9
+falce_di_luna:        0.9
+caus:                 0.9

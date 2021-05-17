@@ -1,0 +1,7 @@
+scultura:             0.9
+bass:                 0.9
+strumento:            0.9
+musica:               0.9
+surrealismo:          0.9
+cesare_vignato:       0.9
+cubo:                 0.9

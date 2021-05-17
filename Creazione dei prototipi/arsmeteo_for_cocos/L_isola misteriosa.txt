@@ -1,0 +1,8 @@
+linea:                0.9
+divisione:            0.9
+verde:                0.9
+spartito:             0.9
+partitura:            0.9
+lucertola:            0.9
+lizard:               0.9
+frammento:            0.9

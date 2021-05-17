@@ -1,0 +1,7 @@
+graffito:             0.9
+coralità:             0.9
+cabaret:              0.9
+canzone:              0.9
+spettacolo:           0.9
+musica:               0.9
+trasgressione:        0.9

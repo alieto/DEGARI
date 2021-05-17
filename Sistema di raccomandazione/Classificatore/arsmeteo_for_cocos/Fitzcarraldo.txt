@@ -1,0 +1,5 @@
+adrassan:             0.9
+spiaggia:             0.9
+cantiere:             0.9
+incendio:             0.9
+abbandono:            0.9

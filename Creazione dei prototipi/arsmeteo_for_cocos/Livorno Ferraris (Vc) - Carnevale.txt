@@ -1,0 +1,9 @@
+la_gente_che_ho_incontrato:0.9
+carnevale:            0.9
+livorno_ferraris:     0.9
+allegria:             0.9
+enigma:               0.9
+gente_comune:         0.9
+street_photography:   0.9
+spontaneità:          0.9
+immediatezza:         0.9

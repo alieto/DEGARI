@@ -1,0 +1,10 @@
+fulminato:            0.9
+lava:                 0.9
+eruzione:             0.9
+cataclisma:           0.9
+sovvertimento:        0.9
+fuga:                 0.9
+sodoma:               0.9
+vesuvio:              0.9
+gomorra:              0.9
+sotto:                0.9

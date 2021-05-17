@@ -1,0 +1,15 @@
+sheffield:            0.9
+brutalism:            0.9
+architecture:         0.9
+cages:                0.9
+residential:          0.9
+urbanism:             0.9
+urban:                0.9
+architettura:         0.9
+casa:                 0.9
+residenziale:         0.9
+england:              0.9
+gabbia:               0.9
+inghilterra:          0.9
+decadence:            0.9
+decadenza:            0.9

@@ -1,0 +1,5 @@
+children:             0.9
+virtual_life:         0.9
+avatar:               0.9
+photo_portrait:       0.9
+second_life:          0.9

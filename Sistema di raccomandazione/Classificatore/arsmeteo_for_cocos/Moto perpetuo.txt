@@ -1,0 +1,8 @@
+moto:                 0.9
+circolare:            0.9
+corso:                0.9
+ricorso:              0.9
+mutazione:            0.9
+eterno:               0.9
+ossessione:           0.9
+tempo:                0.9

@@ -1,0 +1,2 @@
+cartoccio:            0.9
+latta|latte:          0.9

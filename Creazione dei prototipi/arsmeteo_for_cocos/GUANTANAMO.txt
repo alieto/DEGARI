@@ -1,0 +1,13 @@
+libertà:              0.9
+individuo:            0.9
+pensiero:             0.9
+coscienza:            0.9
+religione:            0.9
+nessuno:              0.9
+filo_spinato:         0.9
+recinzione:           0.9
+costrizione:          0.9
+diritto:              0.9
+proprietà:            0.9
+netville:             0.9
+angoscia:             0.9

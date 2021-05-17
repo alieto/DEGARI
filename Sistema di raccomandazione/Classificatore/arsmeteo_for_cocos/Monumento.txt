@@ -1,0 +1,4 @@
+contaminazione:       0.9
+reperto:              0.9
+poster:               0.9
+spinoza:              0.9

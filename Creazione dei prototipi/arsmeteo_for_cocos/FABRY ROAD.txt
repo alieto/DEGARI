@@ -1,0 +1,7 @@
+fabrizio:             0.9
+fontana:              0.9
+road:                 0.9
+beatles:              0.9
+abbey_road:           0.9
+jioko:                0.9
+polizia:              0.9

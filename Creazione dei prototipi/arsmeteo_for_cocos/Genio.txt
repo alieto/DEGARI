@@ -1,0 +1,4 @@
+genio:                0.9
+balcone:              0.9
+porta:                0.9
+esageruma_nen:        0.9

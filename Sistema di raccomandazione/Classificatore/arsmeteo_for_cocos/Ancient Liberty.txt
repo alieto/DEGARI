@@ -1,0 +1,5 @@
+liberty:              0.9
+costruzione:          0.9
+pilastro:             0.9
+linea:                0.9
+sinuoso:              0.9

@@ -1,0 +1,2 @@
+fragola:              0.9
+chirurgico:           0.9

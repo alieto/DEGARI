@@ -1,0 +1,7 @@
+eruzione:             0.9
+cromatismo:           0.9
+esplosione:           0.9
+frattali:             0.9
+colore:               0.9
+cangiante:            0.9
+cromaticità:          0.9

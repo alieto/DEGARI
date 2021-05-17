@@ -1,0 +1,7 @@
+performance:          0.9
+rude:                 0.9
+magia:                0.9
+terri:                0.9
+suono:                0.9
+movimento:            0.9
+evocazione:           0.9

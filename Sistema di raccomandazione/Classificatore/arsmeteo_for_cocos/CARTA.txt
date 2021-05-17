@@ -1,0 +1,4 @@
+movimento:            0.9
+carta:                0.9
+sangue:               0.9
+rosso:                0.9

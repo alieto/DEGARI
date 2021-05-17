@@ -1,0 +1,4 @@
+ape:                  0.9
+nebulosa:             0.9
+fiore:                0.9
+luce:                 0.9

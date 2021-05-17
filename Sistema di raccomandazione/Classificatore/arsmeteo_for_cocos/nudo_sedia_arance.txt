@@ -1,0 +1,9 @@
+sedia:                0.9
+nudo:                 0.9
+arancia:              0.9
+geometria:            0.9
+geometrizzazione:     0.9
+solo:                 0.9
+caldo:                0.9
+donna:                0.9
+di_schiena:           0.9

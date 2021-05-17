@@ -1,0 +1,5 @@
+notturna:             0.9
+partitura:            0.9
+pentagramma:          0.9
+stelle_note:          0.9
+spirale:              0.9

@@ -1,0 +1,9 @@
+senso:                0.9
+memoria:              0.9
+sinestesia:           0.9
+videoscore:           0.9
+tatto:                0.9
+olfatto:              0.9
+gusto:                0.9
+udito:                0.9
+vista:                0.9

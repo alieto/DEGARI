@@ -1,0 +1,6 @@
+deserto:              0.9
+vita:                 0.9
+pianta:               0.9
+fragilità:            0.9
+vento:                0.9
+forza:                0.9

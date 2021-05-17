@@ -1,0 +1,10 @@
+mantide:              0.9
+perdita:              0.9
+perdere:              0.9
+amant:                0.9
+id:                   0.9
+tanatosi:             0.9
+morte:                0.9
+finzione:             0.9
+paura:                0.9
+salvezza:             0.9

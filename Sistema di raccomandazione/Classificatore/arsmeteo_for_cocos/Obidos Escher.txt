@@ -1,0 +1,7 @@
+paio:                 0.9
+coppia:               0.9
+vaso:                 0.9
+arco:                 0.9
+finestra:             0.9
+escher:               0.9
+obidos:               0.9

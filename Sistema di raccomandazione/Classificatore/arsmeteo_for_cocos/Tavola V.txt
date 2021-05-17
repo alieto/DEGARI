@@ -1,0 +1,3 @@
+mutilato:             0.9
+ritaglio:             0.9
+quotidiano:           0.9

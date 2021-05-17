@@ -1,0 +1,6 @@
+chiocciola:           0.9
+rampa:                0.9
+gente:                0.9
+wright:               0.9
+salomon:              0.9
+peggy:                0.9

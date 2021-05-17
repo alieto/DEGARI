@@ -1,0 +1,6 @@
+guru:                 0.9
+dalà¬:                0.9
+gianni_colombo:       0.9
+confronto:            0.9
+salvador_dalà¬:       0.9
+genio:                0.9

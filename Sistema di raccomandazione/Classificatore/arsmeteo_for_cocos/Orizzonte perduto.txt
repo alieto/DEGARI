@@ -1,0 +1,6 @@
+orizzonte:            0.9
+frattali:             0.9
+alieno:               0.9
+straniamento:         0.9
+sogno:                0.9
+surreale:             0.9

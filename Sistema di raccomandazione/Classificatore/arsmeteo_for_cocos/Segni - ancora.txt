@@ -1,0 +1,2 @@
+rosso:                0.9
+capello:              0.9

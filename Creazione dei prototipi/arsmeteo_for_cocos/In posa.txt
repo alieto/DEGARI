@@ -1,0 +1,3 @@
+duplicazione:         0.9
+ingresso:             0.9
+rivolo:               0.9

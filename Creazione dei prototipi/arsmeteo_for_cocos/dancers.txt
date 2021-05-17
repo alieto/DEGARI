@@ -1,0 +1,7 @@
+danza:                0.9
+bianco:               0.9
+nero:                 0.9
+movimento:            0.9
+armonia:              0.9
+amore:                0.9
+grazia:               0.9

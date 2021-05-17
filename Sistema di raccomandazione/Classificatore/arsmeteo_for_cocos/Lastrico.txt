@@ -1,0 +1,6 @@
+pietra:               0.9
+marciapiede:          0.9
+lastricato:           0.9
+sfumatura:            0.9
+colori_nascosti:      0.9
+texture:              0.9

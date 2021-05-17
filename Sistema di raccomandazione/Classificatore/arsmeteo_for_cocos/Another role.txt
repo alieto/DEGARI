@@ -1,0 +1,5 @@
+ruolo:                0.9
+parte:                0.9
+attore:               0.9
+clown:                0.9
+gioco_delle_parti:    0.9

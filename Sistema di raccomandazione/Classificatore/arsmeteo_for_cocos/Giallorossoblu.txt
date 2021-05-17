@@ -1,0 +1,5 @@
+giallo_rosso_blu:     0.9
+pomodoro:             0.9
+arancia:              0.9
+composizione:         0.9
+asterisco:            0.9

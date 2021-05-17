@@ -1,0 +1,11 @@
+insignificante:       0.9
+semplice:             0.9
+cosa:                 0.9
+fotografia:           0.9
+arte:                 0.9
+luce:                 0.9
+viaggio:              0.9
+brodino:              0.9
+brodo:                0.9
+goccia:               0.9
+universo:             0.9

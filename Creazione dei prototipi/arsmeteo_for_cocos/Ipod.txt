@@ -1,0 +1,5 @@
+distributore:         0.9
+consumo:              0.9
+desiderio:            0.9
+oggetti_di_culto:     0.9
+snob:                 0.9

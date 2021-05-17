@@ -1,0 +1,16 @@
+grande:               0.9
+ritrattista:          0.9
+tempo:                0.9
+arte:                 0.9
+inglese:              0.9
+holbein:              0.9
+ritratto:             0.9
+lasciare:             0.9
+corte:                0.9
+tudor:                0.9
+nobile:               0.9
+essenza:              0.9
+frequentare:          0.9
+stesso:               0.9
+periodo:              0.9
+storico:              0.9

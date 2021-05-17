@@ -1,0 +1,4 @@
+guru:                 0.9
+video:                0.9
+anni_settanta:        0.9
+subsito:              0.9

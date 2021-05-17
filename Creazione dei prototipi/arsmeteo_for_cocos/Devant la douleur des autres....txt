@@ -1,0 +1,5 @@
+sontag:               0.9
+susan:                0.9
+sbigottimento:        0.9
+emozione:             0.9
+riflessione:          0.9

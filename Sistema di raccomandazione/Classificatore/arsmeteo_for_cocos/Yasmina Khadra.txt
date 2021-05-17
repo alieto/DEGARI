@@ -1,0 +1,6 @@
+copertina:            0.9
+rifotografare:        0.9
+libro:                0.9
+istanbul:             0.9
+sala_attesa:          0.9
+lettura:              0.9

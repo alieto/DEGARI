@@ -1,0 +1,6 @@
+triangolo:            0.9
+ricorsione:           0.9
+ipnotico:             0.9
+spirituale:           0.9
+linea:                0.9
+angolo:               0.9

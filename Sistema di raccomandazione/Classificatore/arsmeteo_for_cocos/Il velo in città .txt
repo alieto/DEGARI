@@ -1,0 +1,4 @@
+velo:                 0.9
+architettura:         0.9
+strada:               0.9
+angolo:               0.9

@@ -1,0 +1,6 @@
+vento:                0.9
+solo:                 0.9
+sabbia:               0.9
+colore:               0.9
+acrilico:             0.9
+rosso:                0.9

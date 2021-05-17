@@ -1,0 +1,5 @@
+cielo:                0.9
+astronave:            0.9
+viaggio:              0.9
+sospendere:           0.9
+simmetria:            0.9

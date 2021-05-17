@@ -1,0 +1,1 @@
+scrutatore:           0.9

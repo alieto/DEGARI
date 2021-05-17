@@ -1,0 +1,9 @@
+linguaggio:           0.9
+tempo:                0.75
+tavola:               0.6
+pittura:              0.6
+storia:               0.6
+toccare:              0.6
+geroglifico:          0.6
+mare:                 0.6
+virtuale:             0.6

@@ -1,0 +1,7 @@
+barbie:               0.9
+bambola:              0.9
+vanessa_beecroft:     0.9
+precario:             0.9
+tvb:                  0.9
+fontana:              0.9
+jioko:                0.9

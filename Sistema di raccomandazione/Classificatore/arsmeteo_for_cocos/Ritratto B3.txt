@@ -1,0 +1,7 @@
+anno:                 0.9
+produzione:           0.9
+tecnica:              0.9
+acquerello:           0.9
+usare:                0.9
+misura:               0.9
+cm:                   0.9

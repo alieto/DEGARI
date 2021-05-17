@@ -1,0 +1,10 @@
+musica_ambulante:     0.9
+semovente:            0.9
+ruota:                0.9
+assemblaggio:         0.9
+ingranaggio:          0.9
+ludoarte:             0.9
+cicli_sonori:         0.9
+suono:                0.9
+macchina_musicale:    0.9
+meccanismo:           0.9

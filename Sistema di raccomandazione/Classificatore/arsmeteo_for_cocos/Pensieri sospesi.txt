@@ -1,0 +1,4 @@
+landscape:            0.9
+pensiero:             0.9
+incompleto:           0.9
+natura:               0.9

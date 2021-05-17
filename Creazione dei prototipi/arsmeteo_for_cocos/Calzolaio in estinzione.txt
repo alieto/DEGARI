@@ -1,0 +1,9 @@
+oggetto:              0.9
+calzolaio:            0.9
+banchetto:            0.9
+cuoio:                0.9
+colore:               0.9
+sgabuzzino:           0.9
+lavoro:               0.9
+scarpa:               0.9
+barattolo:            0.9

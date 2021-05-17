@@ -1,0 +1,5 @@
+baldanza:             0.9
+cavallo:              0.9
+macho:                0.9
+fierezza:             0.9
+cono_sud:             0.9

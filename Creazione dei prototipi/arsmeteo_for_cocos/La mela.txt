@@ -1,0 +1,7 @@
+mela:                 0.9
+peccato:              0.9
+conoscenza:           0.9
+eva:                  0.9
+albero:               0.9
+eden:                 0.9
+cogliere:             0.9

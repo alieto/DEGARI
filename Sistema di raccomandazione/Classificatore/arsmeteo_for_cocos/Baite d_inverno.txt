@@ -1,0 +1,5 @@
+neve:                 0.9
+inverno:              0.9
+montagna:             0.9
+camino:               0.9
+borgata:              0.9

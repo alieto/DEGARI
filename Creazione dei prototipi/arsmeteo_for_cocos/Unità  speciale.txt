@@ -1,0 +1,3 @@
+unità:                0.9
+cinzia_tani_daniele:  0.9
+_speciale:            0.9

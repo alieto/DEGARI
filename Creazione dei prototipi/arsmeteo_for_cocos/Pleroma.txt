@@ -1,0 +1,2 @@
+pienezza:             0.9
+grad_azione:          0.9

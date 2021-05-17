@@ -1,0 +1,4 @@
+palla:                0.9
+traccia:              0.9
+vita:                 0.9
+movimento:            0.9

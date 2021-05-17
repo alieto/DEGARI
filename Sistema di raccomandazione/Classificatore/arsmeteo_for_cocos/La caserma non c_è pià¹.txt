@@ -1,0 +1,10 @@
+areo:                 0.9
+atterraggio:          0.9
+biplano:              0.9
+surfanta:             0.9
+surreale:             0.9
+uccelli_impietosi:    0.9
+processione:          0.9
+candela:              0.9
+aereo_ciccione:       0.9
+vecchie_scritte:      0.9

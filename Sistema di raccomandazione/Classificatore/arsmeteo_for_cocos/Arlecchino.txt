@@ -1,0 +1,6 @@
+arlecchino:           0.9
+maschera:             0.9
+colore:               0.9
+costume:              0.9
+paesaggio_lineare:    0.9
+origami:              0.9

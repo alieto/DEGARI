@@ -1,0 +1,4 @@
+uomo:                 0.9
+nero:                 0.9
+bambina:              0.9
+muro:                 0.9

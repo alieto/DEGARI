@@ -1,0 +1,10 @@
+bandiera:             0.9
+vento:                0.9
+dinamismo:            0.9
+europa:               0.9
+blu:                  0.9
+cielo:                0.9
+verde:                0.9
+bianco:               0.9
+rosso:                0.9
+asta:                 0.9

@@ -1,0 +1,2 @@
+blu:                  0.9
+ondeggiare:           0.9

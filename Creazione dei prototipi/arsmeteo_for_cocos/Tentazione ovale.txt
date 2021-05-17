@@ -1,0 +1,16 @@
+br:                   0.9
+eva:                  0.7
+div:                  0.6
+40px:                 0.6
+margin:               0.6
+font-size:            0.6
+14px:                 0.6
+line-height:          0.6
+24px\:                0.6
+ovale:                0.6
+canto:                0.6
+mente:                0.6
+circondare:           0.6
+tentare:              0.6
+serpente:             0.6
+/:                    0.6

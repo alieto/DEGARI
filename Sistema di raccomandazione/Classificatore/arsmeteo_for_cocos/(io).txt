@@ -1,0 +1,5 @@
+giudizio:             0.9
+dio:                  0.9
+mio_dio:              0.9
+mi_odio:              0.9
+occhio:               0.9

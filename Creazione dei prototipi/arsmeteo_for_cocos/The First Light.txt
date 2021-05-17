@@ -1,0 +1,9 @@
+luce:                 0.9
+primordiale:          0.9
+bioluce:              0.9
+accensione:           0.9
+origine:              0.9
+reazione:             0.9
+fusione:              0.9
+vitalità:             0.9
+luminescenza:         0.9

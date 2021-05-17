@@ -1,0 +1,5 @@
+torino:               0.9
+parigi:               0.9
+autunno:              0.9
+mole_antonelliana:    0.9
+panorama:             0.9

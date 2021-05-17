@@ -1,0 +1,3 @@
+donna:                0.9
+cubana:               0.9
+collo_lungo:          0.9

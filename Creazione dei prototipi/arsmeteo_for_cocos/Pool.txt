@@ -1,0 +1,4 @@
+amsterdam:            0.9
+vicino:               0.9
+vondel:               0.9
+park:                 0.9

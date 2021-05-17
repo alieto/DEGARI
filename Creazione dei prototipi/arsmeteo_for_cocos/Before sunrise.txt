@@ -1,0 +1,6 @@
+cielo:                0.9
+nuvola:               0.9
+occhio:               0.9
+alba:                 0.9
+desiderio:            0.9
+sogno:                0.9

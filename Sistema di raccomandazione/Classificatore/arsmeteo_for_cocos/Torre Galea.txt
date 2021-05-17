@@ -1,0 +1,6 @@
+gocce_di_colore:      0.9
+torre:                0.9
+tronco:               0.9
+albero:               0.9
+agrume:               0.9
+caldo:                0.9

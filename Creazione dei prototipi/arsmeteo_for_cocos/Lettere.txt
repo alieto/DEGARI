@@ -1,0 +1,4 @@
+arco:                 0.9
+pilastro:             0.9
+piramide:             0.9
+hugo:                 0.9

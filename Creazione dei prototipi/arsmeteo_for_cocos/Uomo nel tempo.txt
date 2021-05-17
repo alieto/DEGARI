@@ -1,0 +1,6 @@
+uomo:                 0.9
+figura_umana:         0.9
+umanoide:             0.9
+arcaico:              0.9
+alieno:               0.9
+segno:                0.9

@@ -1,0 +1,9 @@
+senza_emozioni:       0.9
+donna:                0.9
+volto:                0.9
+maschera:             0.9
+labbro:               0.9
+occhio:               0.9
+guanto:               0.9
+viso:                 0.9
+bianco:               0.9

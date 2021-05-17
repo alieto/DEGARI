@@ -1,0 +1,1 @@
+striscia:             0.9

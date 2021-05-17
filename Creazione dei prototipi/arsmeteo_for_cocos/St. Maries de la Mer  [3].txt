@@ -1,0 +1,10 @@
+suonatore:            0.9
+guance_gonfie:        0.9
+impegno:              0.9
+trasporto:            0.9
+strumento:            0.9
+musica:               0.9
+musicante:            0.9
+strumento_a_fiato:    0.9
+soffiare:             0.9
+fiato:                0.9

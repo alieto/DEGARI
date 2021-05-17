@@ -1,0 +1,3 @@
+colore:               0.9
+involucro:            0.9
+trasformazione:       0.9

@@ -1,0 +1,7 @@
+bambola:              0.9
+aiuto:                0.9
+asteroide:            0.9
+caverna:              0.9
+grotta:               0.9
+surfanta:             0.9
+surreale:             0.9

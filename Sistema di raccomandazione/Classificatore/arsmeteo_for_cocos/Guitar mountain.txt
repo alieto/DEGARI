@@ -1,0 +1,5 @@
+montagna:             0.9
+trekking:             0.9
+chitarra:             0.9
+sentiero:             0.9
+simmetria:            0.9

@@ -1,0 +1,2 @@
+venditrice:           0.9
+frutta:               0.9

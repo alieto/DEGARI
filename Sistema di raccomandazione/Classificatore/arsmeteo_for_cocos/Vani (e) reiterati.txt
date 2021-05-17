@@ -1,0 +1,6 @@
+ripetizione:          0.9
+vuoto:                0.9
+reiterazione:         0.9
+vano:                 0.9
+optical:              0.9
+inganno:              0.9

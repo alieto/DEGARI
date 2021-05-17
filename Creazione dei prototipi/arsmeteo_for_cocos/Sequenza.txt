@@ -1,0 +1,11 @@
+pipa:                 0.9
+albero:               0.6
+ramo:                 0.6
+ramificazione:        0.6
+radice:               0.6
+radica:               0.6
+sequenza:             0.6
+continuità:           0.6
+bianco_nero:          0.6
+china:                0.6
+giallino:             0.6

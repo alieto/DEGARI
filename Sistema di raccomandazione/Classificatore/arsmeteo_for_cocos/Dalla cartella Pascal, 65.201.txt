@@ -1,0 +1,7 @@
+farfalla:             0.9
+rinoceronte:          0.9
+antropomorfo:         0.9
+surfanta:             0.9
+pascal:               0.9
+surreale:             0.9
+sigaro:               0.9

@@ -1,0 +1,3 @@
+sofferenza:           0.9
+origine:              0.9
+mito:                 0.9

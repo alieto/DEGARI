@@ -1,0 +1,5 @@
+veliero:              0.9
+souvenir:             0.9
+studio:               0.9
+progetto:             0.9
+pennarello:           0.9

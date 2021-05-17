@@ -1,0 +1,8 @@
+digitale:             0.9
+castello_sospeso:     0.9
+roccia:               0.9
+fluttuante:           0.9
+sospendere:           0.9
+mare:                 0.9
+omaggio:              0.9
+magritte:             0.9

@@ -1,0 +1,4 @@
+occhiale:             0.9
+psichedelia:          0.9
+virtuale:             0.9
+impressione:          0.9

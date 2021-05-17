@@ -1,0 +1,3 @@
+incompiuto:           0.9
+segnatempo:           0.9
+segnalibro:           0.9

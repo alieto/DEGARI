@@ -1,0 +1,2 @@
+negazione:            0.9
+tempo:                0.9

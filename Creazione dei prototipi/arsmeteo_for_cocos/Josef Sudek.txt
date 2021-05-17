@@ -1,0 +1,6 @@
+piccolo:              0.9
+omaggio:              0.9
+ombra:                0.9
+luce:                 0.9
+trama:                0.9
+struttura:            0.9

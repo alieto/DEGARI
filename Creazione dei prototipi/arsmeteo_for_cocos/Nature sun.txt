@@ -1,0 +1,5 @@
+paesaggio:            0.9
+frattali:             0.9
+solo:                 0.9
+natura:               0.9
+alieno:               0.9

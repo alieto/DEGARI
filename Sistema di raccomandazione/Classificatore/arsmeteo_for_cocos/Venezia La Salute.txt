@@ -1,0 +1,4 @@
+acquarello:           0.9
+-cotone:              0.9
+mano:                 0.9
+martellare:           0.9

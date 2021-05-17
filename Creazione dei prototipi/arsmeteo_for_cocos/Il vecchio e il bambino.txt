@@ -1,0 +1,5 @@
+vecchio:              0.9
+bambino:              0.9
+piazza:               0.9
+luce:                 0.9
+vita:                 0.9

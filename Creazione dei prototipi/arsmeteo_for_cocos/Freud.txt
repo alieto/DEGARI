@@ -1,0 +1,3 @@
+sigmound:             0.9
+confusione:           0.9
+da_cocaina:           0.9

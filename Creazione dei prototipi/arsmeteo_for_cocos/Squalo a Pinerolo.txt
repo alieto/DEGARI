@@ -1,0 +1,8 @@
+squalo:               0.9
+pinerolo:             0.9
+magrittiano:          0.9
+visione:              0.9
+sospendere:           0.9
+apparizione:          0.9
+assurdo:              0.9
+surreale:             0.9

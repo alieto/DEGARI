@@ -1,0 +1,9 @@
+spazio_conteso:       0.9
+vegetazione:          0.9
+lussureggiante:       0.9
+equatore:             0.9
+spazi_verticali:      0.9
+caldo:                0.9
+umido:                0.9
+appiccicoso:          0.9
+aria_condizionata:    0.9

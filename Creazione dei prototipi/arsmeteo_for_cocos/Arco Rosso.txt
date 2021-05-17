@@ -1,0 +1,6 @@
+arco:                 0.9
+rosso:                0.9
+ponte:                0.9
+unione:               0.9
+cambiamento:          0.9
+vertigine:            0.9

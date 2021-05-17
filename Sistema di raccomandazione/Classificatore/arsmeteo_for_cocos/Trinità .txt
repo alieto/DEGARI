@@ -1,0 +1,3 @@
+trinità:              0.9
+sintetico:            0.9
+digitale:             0.9

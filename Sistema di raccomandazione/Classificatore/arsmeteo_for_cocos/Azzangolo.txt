@@ -1,0 +1,3 @@
+tv:                   0.9
+azzurro:              0.9
+angolo:               0.9

@@ -1,0 +1,5 @@
+metro:                0.9
+paris:                0.9
+foule:                0.9
+visione:              0.9
+fugace:               0.9

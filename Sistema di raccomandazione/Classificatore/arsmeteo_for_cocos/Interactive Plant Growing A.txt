@@ -1,0 +1,5 @@
+crescita:             0.9
+artificiale:          0.9
+numerique:            0.9
+growing:              0.9
+plant:                0.9

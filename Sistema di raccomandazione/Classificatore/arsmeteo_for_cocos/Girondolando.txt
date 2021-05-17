@@ -1,0 +1,2 @@
+parole_disegni:       0.9
+girondolando:         0.9

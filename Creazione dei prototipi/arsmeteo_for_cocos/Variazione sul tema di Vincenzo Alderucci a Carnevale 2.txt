@@ -1,0 +1,2 @@
+stella:               0.9
+filante:              0.9

@@ -1,0 +1,5 @@
+attesa:               0.9
+mela:                 0.9
+cupertino:            0.9
+jobs:                 0.9
+consumismo:           0.9

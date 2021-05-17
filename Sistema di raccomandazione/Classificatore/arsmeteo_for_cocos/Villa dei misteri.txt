@@ -1,0 +1,13 @@
+dettaglio:            0.9
+affresco:             0.9
+villa:                0.9
+pompei:               0.9
+attualità:            0.9
+modernità:            0.9
+eleganza:             0.9
+benestante:           0.9
+minaccia_incipiente:  0.9
+vesuvio:              0.9
+lava:                 0.9
+lapillo:              0.9
+cenere:               0.9

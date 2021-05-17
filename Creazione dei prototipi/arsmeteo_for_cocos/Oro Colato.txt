@@ -1,0 +1,14 @@
+scintillio:           0.9
+giallo:               0.9
+brillare:             0.9
+oro:                  0.9
+colatura:             0.9
+liquido:              0.9
+riflesso:             0.9
+punti_luminosi:       0.9
+oro_colato:           0.9
+ricchezza:            0.9
+effimero:             0.9
+apparenza:            0.9
+violenza:             0.9
+bellezza:             0.9

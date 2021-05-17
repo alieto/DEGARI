@@ -1,0 +1,7 @@
+neve:                 0.9
+rosso:                0.9
+blu:                  0.9
+sudario:              0.9
+donna:                0.9
+geisha:               0.9
+capo_reclinato:       0.9

@@ -1,0 +1,7 @@
+vita:                 0.9
+yemen:                0.6
+mercato:              0.6
+colore:               0.6
+sapore:               0.6
+odore:                0.6
+commercio:            0.6

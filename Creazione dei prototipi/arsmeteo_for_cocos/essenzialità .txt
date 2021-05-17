@@ -1,0 +1,3 @@
+cani_tristi:          0.9
+rivolo:               0.9
+foto_rubate:          0.9

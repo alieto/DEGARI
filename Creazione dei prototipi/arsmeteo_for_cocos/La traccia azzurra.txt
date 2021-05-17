@@ -1,0 +1,5 @@
+matitona:             0.9
+la_scatola:           0.9
+matita_portamatita:   0.9
+chiocciola:           0.9
+fune:                 0.9

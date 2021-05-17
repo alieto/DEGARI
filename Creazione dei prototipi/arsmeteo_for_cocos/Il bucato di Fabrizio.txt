@@ -1,0 +1,10 @@
+giocattolo:           0.9
+peluches:             0.9
+colore:               0.9
+bucato:               0.9
+bambino:              0.9
+terrazzo:             0.9
+casa:                 0.9
+stenditoio:           0.9
+pulito:               0.9
+asciugare:            0.9

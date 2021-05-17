@@ -1,0 +1,5 @@
+città:                0.9
+acqua:                0.9
+cielo:                0.9
+nuvola:               0.9
+amante:               0.9

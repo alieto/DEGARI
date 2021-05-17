@@ -1,0 +1,5 @@
+città:                0.9
+sogno:                0.6
+fluttuare:            0.6
+utopia:               0.6
+_volante:             0.6

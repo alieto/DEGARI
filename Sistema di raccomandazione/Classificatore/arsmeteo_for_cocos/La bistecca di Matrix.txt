@@ -1,0 +1,10 @@
+libro:                0.9
+disappartenenza:      0.9
+libertà:              0.9
+società:              0.9
+diversità:            0.9
+rivoluzione:          0.9
+omologazione:         0.9
+scrittura:            0.9
+fantasia:             0.9
+decostruttivismo:     0.9

@@ -1,0 +1,3 @@
+venezia:              0.9
+sospiro:              0.9
+blu:                  0.9

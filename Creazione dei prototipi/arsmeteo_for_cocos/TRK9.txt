@@ -1,0 +1,6 @@
+techno:               0.9
+ritmo:                0.9
+dioniso:              0.9
+dance:                0.9
+electronic:           0.9
+alienazione:          0.9

@@ -1,0 +1,4 @@
+studio:               0.9
+gatto:                0.9
+pennarello:           0.9
+rapido:               0.9

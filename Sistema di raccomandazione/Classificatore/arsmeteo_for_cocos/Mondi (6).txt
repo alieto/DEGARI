@@ -1,0 +1,8 @@
+mondo:                0.9
+stella:               0.9
+raggio:               0.9
+linea:                0.9
+geometria:            0.9
+radiante:             0.9
+cerchio:              0.9
+cerchi_concentrici:   0.9

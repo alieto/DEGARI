@@ -1,0 +1,15 @@
+quinta:               0.9
+progetto:             0.9
+diretto:              0.9
+ideare:               0.9
+marco:                0.9
+paolini:              0.9
+vacis:                0.9
+gabriele:             0.9
+amleto:               0.9
+gerusalemme:          0.9
+gruppo:               0.9
+interpretare:         0.9
+giovane:              0.9
+attore:               0.9
+palestinese:          0.9

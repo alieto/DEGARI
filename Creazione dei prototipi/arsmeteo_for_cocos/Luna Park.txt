@@ -1,0 +1,7 @@
+giallo:               0.9
+arancio:              0.9
+curva:                0.9
+sinuoso:              0.9
+sinuosità:            0.9
+onda:                 0.9
+muro:                 0.9

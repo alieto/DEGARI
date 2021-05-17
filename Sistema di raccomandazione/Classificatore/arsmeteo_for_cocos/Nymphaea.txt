@@ -1,0 +1,9 @@
+ninfea:               0.9
+nymphaea:             0.9
+fiore:                0.9
+fiore_acquatico:      0.9
+acqua:                0.9
+vortice:              0.9
+gorgo:                0.9
+tenersi_a_galla:      0.9
+galleggiare:          0.9

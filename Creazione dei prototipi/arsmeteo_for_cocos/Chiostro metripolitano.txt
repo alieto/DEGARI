@@ -1,0 +1,8 @@
+mario_botta:          0.9
+architettura:         0.9
+paesaggio:            0.9
+industriale:          0.9
+diocesano:            0.9
+campanile:            0.9
+ciminiera:            0.9
+elicoide:             0.9

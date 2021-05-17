@@ -1,0 +1,17 @@
+affollamento:         0.9000000000000001
+finestra:             0.6
+normandia:            0.6
+accumulazione:        0.6
+ripetizione:          0.6
+aggregato:            0.6
+destrutturazione:     0.6
+casa_popolare:        0.6
+condominio:           0.6
+diluizione:           0.6
+sfasamento:           0.6
+capogiro:             0.6
+astigmatismo:         0.6
+stereogrammatico:     0.6
+frammentazione:       0.6
+torre_di_babele:      0.6
+formicaio:            0.6

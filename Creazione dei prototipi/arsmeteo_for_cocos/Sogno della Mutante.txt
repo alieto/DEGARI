@@ -1,0 +1,7 @@
+sogno:                0.9
+mutante:              0.9
+serpente:             0.9
+donna:                0.9
+tentazione:           0.9
+sensualità:           0.9
+surfanta:             0.9

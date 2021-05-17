@@ -1,0 +1,5 @@
+baratto:              0.9
+cosma:                0.9
+damiano:              0.9
+medico:               0.9
+jioko:                0.9

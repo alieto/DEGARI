@@ -1,0 +1,4 @@
+chiesa:               0.9
+presenza:             0.9
+imposizione:          0.9
+benedizione:          0.9

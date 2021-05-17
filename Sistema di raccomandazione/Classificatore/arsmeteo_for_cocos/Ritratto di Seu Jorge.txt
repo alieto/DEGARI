@@ -1,0 +1,9 @@
+seu:                  0.9
+jorge:                0.9
+musica:               0.9
+ritratto:             0.9
+acrilico:             0.9
+tela:                 0.9
+canvas:               0.9
+eleborazione:         0.9
+digitale:             0.9

@@ -1,0 +1,3 @@
+salento:              0.9
+danza:                0.9
+pizzicare:            0.9

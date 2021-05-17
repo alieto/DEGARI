@@ -1,0 +1,10 @@
+ricarica:             0.9
+travel_gear:          0.9
+energia:              0.9
+lettura:              0.9
+oz:                   0.9
+moneta:               0.9
+ritagli_riviste:      0.9
+tempo:                0.9
+luogo:                0.9
+eduardo_setimo:       0.9

@@ -1,0 +1,4 @@
+oliva:                0.9
+cosmetico:            0.9
+campagna:             0.9
+cartellone:           0.9

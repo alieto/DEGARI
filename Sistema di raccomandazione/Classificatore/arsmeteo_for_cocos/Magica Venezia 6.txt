@@ -1,0 +1,7 @@
+angolo:               0.9
+veneziano:            0.9
+acquerello:           0.9
+cartoncino:           0.9
+22x30:                0.9
+cm:                   0.9
+anno:                 0.9

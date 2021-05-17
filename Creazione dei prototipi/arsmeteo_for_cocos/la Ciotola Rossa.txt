@@ -1,0 +1,6 @@
+armonia:              0.9
+diverso:              0.9
+ripetizione:          0.9
+fornace:              0.9
+riso:                 0.9
+ciotola:              0.9

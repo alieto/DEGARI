@@ -1,0 +1,4 @@
+trekking:             0.9
+sfilata:              0.9
+deserto:              0.9
+tunisia:              0.9

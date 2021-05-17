@@ -1,0 +1,8 @@
+facciata:             0.9
+architettura:         0.9
+vista:                0.9
+incompleto:           0.9
+storia:               0.9
+ristrutturare:        0.9
+gru:                  0.9
+progetto:             0.9

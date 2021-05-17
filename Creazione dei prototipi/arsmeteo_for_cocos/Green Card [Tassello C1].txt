@@ -1,0 +1,9 @@
+alieno:               0.9
+verde:                0.9
+green_card:           0.9
+straniero:            0.9
+extracomunitario:     0.9
+permesso_di_residenza:0.9
+occhio:               0.9
+farfalla:             0.9
+frattali:             0.9

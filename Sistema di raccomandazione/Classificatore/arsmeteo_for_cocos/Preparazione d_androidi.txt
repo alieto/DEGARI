@@ -1,0 +1,6 @@
+preparazione:         0.9
+androidi:             0.9
+vetrina:              0.9
+manichino:            0.9
+futuro:               0.9
+inquietante:          0.9

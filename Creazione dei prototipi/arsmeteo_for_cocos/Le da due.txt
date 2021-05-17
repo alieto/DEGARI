@@ -1,0 +1,7 @@
+swan:                 0.9
+ledere:               0.9
+due:                  0.9
+twin:                 0.9
+towers:               0.9
+occhio:               0.9
+dittico:              0.9

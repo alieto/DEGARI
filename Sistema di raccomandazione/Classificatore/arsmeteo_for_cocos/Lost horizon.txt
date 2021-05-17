@@ -1,0 +1,5 @@
+orizzonte:            0.9
+lontano:              0.9
+frattali:             0.9
+visione:              0.9
+sole:                 0.9

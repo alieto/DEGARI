@@ -1,0 +1,8 @@
+flora:                0.9
+pietra:               0.9
+foglia:               0.9
+accumulo_metamorfico: 0.9
+lucertola:            0.9
+coccinella:           0.9
+tronco:               0.9
+chiocciola:           0.9

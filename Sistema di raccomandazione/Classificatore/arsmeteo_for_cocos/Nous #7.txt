@@ -1,0 +1,3 @@
+geometria:            0.9
+tassello:             0.9
+dissolvenza:          0.9

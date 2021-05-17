@@ -1,0 +1,3 @@
+tempesta:             0.9
+mareggiata:           0.9
+notte:                0.9

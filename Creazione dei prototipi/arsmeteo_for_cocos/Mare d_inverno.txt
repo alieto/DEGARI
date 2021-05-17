@@ -1,0 +1,4 @@
+pittura:              0.9
+dipinto:              0.6
+toccare:              0.6
+tela|tele:            0.6

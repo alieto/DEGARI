@@ -1,0 +1,9 @@
+matita:               0.9
+chiocciola:           0.9
+tenue:                0.9
+soffondere:           0.9
+compenetrazione:      0.9
+combinazione:         0.9
+matitona:             0.9
+fune:                 0.9
+appeso:               0.9

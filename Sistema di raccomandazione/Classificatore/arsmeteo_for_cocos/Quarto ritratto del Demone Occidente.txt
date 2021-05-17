@@ -1,0 +1,11 @@
+surfanta:             0.9
+surreale:             0.9
+demone:               0.9
+demone_occidente:     0.9
+porta_inferi:         0.9
+testa_pesce:          0.9
+guardiano:            0.9
+attesa:               0.9
+custode:              0.9
+notte:                0.9
+luna_piena:           0.9

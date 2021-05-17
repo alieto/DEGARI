@@ -1,0 +1,12 @@
+fuoco:                0.9
+impotenza:            0.9
+intolleranza:         0.9
+limite:               0.9
+rabbia:               0.9
+repressione:          0.9
+casseurs:             0.9
+ira:                  0.9
+noir:                 0.9
+police:               0.9
+paris:                0.9
+banlieue:             0.9

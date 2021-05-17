@@ -1,0 +1,2 @@
+droga:                0.9
+morte:                0.9

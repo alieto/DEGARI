@@ -1,0 +1,4 @@
+nave:                 0.9
+riflesso:             0.9
+cantiere_navale:      0.9
+mare:                 0.9

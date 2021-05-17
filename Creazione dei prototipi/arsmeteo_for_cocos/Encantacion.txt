@@ -1,0 +1,6 @@
+incantesimo:          0.9
+magia:                0.9
+elfo:                 0.9
+farfalla:             0.9
+danza:                0.9
+bosco:                0.9

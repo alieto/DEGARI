@@ -1,0 +1,8 @@
+conchiglia:           0.9
+anguria:              0.9
+casa:                 0.9
+albero:               0.9
+geometria:            0.9
+stilizzazione:        0.9
+geometrizzazione:     0.9
+estate:               0.9

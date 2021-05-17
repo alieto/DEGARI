@@ -1,0 +1,4 @@
+anger:                0.9
+disgust:              0.9
+sadness:              0.9
+fear:                 0.9

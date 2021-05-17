@@ -1,0 +1,8 @@
+family:               0.9
+ancient:              0.9
+warm:                 0.9
+colours:              0.9
+lino:                 0.9
+memoria:              0.9
+fragilità:            0.9
+family_day:           0.9

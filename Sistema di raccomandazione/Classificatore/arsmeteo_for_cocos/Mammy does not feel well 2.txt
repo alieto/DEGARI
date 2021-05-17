@@ -1,0 +1,5 @@
+mamma:                0.9
+bimbo:                0.9
+tenerezza:            0.9
+labbro:               0.9
+amore:                0.9

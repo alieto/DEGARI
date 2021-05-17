@@ -1,0 +1,9 @@
+11settembre:          0.9
+america:              0.9
+occidente:            0.9
+supepippo:            0.9
+torre:                0.9
+aereo:                0.9
+tragedia:             0.9
+ricordo:              0.9
+11_settembre:         0.9

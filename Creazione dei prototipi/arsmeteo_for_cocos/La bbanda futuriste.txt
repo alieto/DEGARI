@@ -1,0 +1,6 @@
+figura:               0.9
+musica:               0.9
+luna:                 0.9
+chiave_di_violino:    0.9
+nota:                 0.9
+banda:                0.9

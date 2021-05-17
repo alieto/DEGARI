@@ -1,0 +1,3 @@
+lineamento:           0.9
+infra_struttura:      0.9
+freccia:              0.9

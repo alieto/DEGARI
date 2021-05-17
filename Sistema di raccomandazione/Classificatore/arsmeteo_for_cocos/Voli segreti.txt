@@ -1,0 +1,15 @@
+volo:                 0.9
+br:                   0.75
+div:                  0.6
+font-size:            0.6
+style:                0.6
+14px:                 0.6
+40px:                 0.6
+margin:               0.6
+line-height:          0.6
+26px\:                0.6
+magico:               0.6
+radente:              0.6
+segreto:              0.6
+impotente:            0.6
+/:                    0.6

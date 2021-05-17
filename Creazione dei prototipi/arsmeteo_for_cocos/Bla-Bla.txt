@@ -1,0 +1,5 @@
+ink_jet:              0.9
+digitale:             0.9
+mixed_media:          0.9
+verde:                0.9
+giallo:               0.9

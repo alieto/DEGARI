@@ -1,0 +1,5 @@
+tecnica:              0.9
+mista:                0.9
+inchiostro:           0.9
+foglio:               0.9
+polietilene:          0.9

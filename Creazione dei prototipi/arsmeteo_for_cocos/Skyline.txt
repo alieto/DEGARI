@@ -1,0 +1,5 @@
+skyline:              0.9
+profilo:              0.9
+colore:               0.9
+ironia:               0.9
+metafora:             0.9

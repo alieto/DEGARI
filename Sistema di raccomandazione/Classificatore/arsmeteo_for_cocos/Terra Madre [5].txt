@@ -1,0 +1,4 @@
+valigia:              0.9
+terra_madre:          0.6
+attesa:               0.6
+bagaglio:             0.6

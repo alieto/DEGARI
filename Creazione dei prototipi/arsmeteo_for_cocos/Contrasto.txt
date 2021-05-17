@@ -1,0 +1,14 @@
+nuvola:               0.9
+tempo:                0.6
+azzurro:              0.6
+grigio:               0.6
+bel_tempo:            0.6
+contrasto:            0.6
+cambiamento:          0.6
+uomo:                 0.6
+natura:               0.6
+inquadratura:         0.6
+vento:                0.6
+neve:                 0.6
+zen:                  0.6
+haiku:                0.6

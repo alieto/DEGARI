@@ -1,0 +1,3 @@
+cm120x225:            0.9
+serva|servo:          0.9
+aggrappare:           0.9

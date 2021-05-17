@@ -1,0 +1,4 @@
+centro_borges:        0.9
+manual_de_instruccion:0.9
+dna:                  0.9
+seicentonovantatre_disquettes:0.9

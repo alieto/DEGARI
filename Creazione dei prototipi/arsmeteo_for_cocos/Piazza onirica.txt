@@ -1,0 +1,5 @@
+piazza:               0.9
+agorà:                0.9
+surreale:             0.9
+onirico:              0.9
+fontana:              0.9

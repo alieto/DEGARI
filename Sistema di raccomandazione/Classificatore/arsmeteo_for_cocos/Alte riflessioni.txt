@@ -1,0 +1,4 @@
+riflesso:             0.9
+acqua:                0.9
+inversione:           0.9
+altro_mondo:          0.9

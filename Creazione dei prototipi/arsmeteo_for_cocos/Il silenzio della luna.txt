@@ -1,0 +1,7 @@
+chitarra:             0.9
+sedia:                0.9
+barchetta_di_carta:   0.9
+mezza_luna:           0.9
+riflesso:             0.9
+spartito:             0.9
+notturno:             0.9

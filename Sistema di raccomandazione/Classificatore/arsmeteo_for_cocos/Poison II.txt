@@ -1,0 +1,6 @@
+coccinella:           0.9
+linea:                0.9
+sincronicità:         0.9
+inquinamento:         0.9
+ecologia:             0.9
+natura_contaminata:   0.9

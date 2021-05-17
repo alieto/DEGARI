@@ -1,0 +1,8 @@
+delicatessen:         0.9
+paris:                0.9
+cinesina:             0.9
+appetito:             0.9
+gourmandise:          0.9
+slurp:                0.9
+gnamgnam:             0.9
+est:                  0.9

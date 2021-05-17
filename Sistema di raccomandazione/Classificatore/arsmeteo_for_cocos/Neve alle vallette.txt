@@ -1,0 +1,8 @@
+surfanta:             0.9
+surreale:             0.9
+neve:                 0.9
+ascensione:           0.9
+processione:          0.9
+neve_sul_tetto:       0.9
+albero:               0.9
+casolare:             0.9

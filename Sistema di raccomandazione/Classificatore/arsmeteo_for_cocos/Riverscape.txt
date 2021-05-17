@@ -1,0 +1,8 @@
+contrasto:            0.9
+torino:               0.9
+fiume:                0.9
+fiume_po:             0.9
+ponte:                0.9
+riva:                 0.9
+sponda:               0.9
+cinemascope:          0.9

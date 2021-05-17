@@ -1,0 +1,8 @@
+visione:              0.9
+mare:                 0.9
+sfumatura:            0.9
+contro_luce:          0.9
+barca:                0.9
+vela:                 0.9
+sogno:                0.9
+orizzonti_lontani:    0.9

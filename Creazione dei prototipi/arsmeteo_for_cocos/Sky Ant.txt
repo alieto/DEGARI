@@ -1,0 +1,3 @@
+simmetria:            0.9
+cielo:                0.9
+insetto:              0.9

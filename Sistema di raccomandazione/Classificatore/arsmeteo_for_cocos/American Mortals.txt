@@ -1,0 +1,6 @@
+sovrapposizione:      0.9
+mistero:              0.9
+inquietudine:         0.9
+riflesso:             0.9
+specchio_delle_mie_brame:0.9
+philadelphia:         0.9

@@ -1,0 +1,17 @@
+profeta:              0.9
+geremia:              0.9
+dio:                  0.9
+chiamare:             0.9
+popolo:               0.9
+riportare:            0.9
+volta:                0.9
+israele:              0.9
+smarrito:             0.9
+fede:                 0.9
+verso:                0.9
+vero:                 0.9
+giustizia:            0.9
+fallimento:           0.9
+distruzione:          0.9
+provocare:            0.9
+eleggere:             0.6

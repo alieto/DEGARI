@@ -1,0 +1,8 @@
+gente:                0.9
+ibridazione:          0.9
+slancio:              0.9
+movimento:            0.9
+serietà:              0.9
+preoccupazione:       0.9
+tanto:                0.9
+folla:                0.9

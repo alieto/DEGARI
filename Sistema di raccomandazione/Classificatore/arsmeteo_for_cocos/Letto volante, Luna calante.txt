@@ -1,0 +1,4 @@
+cellulare:            0.9
+riflesso:             0.9
+città:                0.9
+nord:                 0.9

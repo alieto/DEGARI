@@ -1,0 +1,6 @@
+acconciatura:         0.9
+sorella:              0.9
+donna:                0.9
+pettinare:            0.9
+frutta:               0.9
+geometria:            0.9

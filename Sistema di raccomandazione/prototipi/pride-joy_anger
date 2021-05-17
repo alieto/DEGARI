@@ -1,0 +1,29 @@
+#Title composizione
+Title : joy-anger
+
+#Concetto Principale
+Head Concept Name : joy
+
+#Concetto Modificatore
+Modifier Concept Name : anger
+
+head, -holocaust
+
+
+
+T(modifier), outraged, 0.96
+T(modifier), brutality, 0.96
+T(modifier), hatred, 0.95
+T(modifier), terrorize, 0.94
+T(modifier), violently, 0.94
+T(modifier), infuriated, 0.94
+
+T(head), happiness, 0.98
+T(head), bliss, 0.97
+T(head), celebrating, 0.97
+T(head), jubilant, 0.97
+T(head), ecstatic, 0.95
+T(head), elation, 0.94
+
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 2.6707224357273737e-06

@@ -1,0 +1,4 @@
+montagna:             0.9
+vista:                0.9
+inquadratura:         0.9
+legno:                0.9

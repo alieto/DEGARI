@@ -1,0 +1,5 @@
+anger:                0.9
+optimism:             0.9
+gratitude:            0.9
+surprise:             0.9
+trust:                0.9

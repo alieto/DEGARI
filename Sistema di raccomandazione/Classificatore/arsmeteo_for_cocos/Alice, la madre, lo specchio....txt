@@ -1,0 +1,5 @@
+alice:                0.9
+madre:                0.9
+specchio:             0.9
+bianco:               0.9
+nero:                 0.9

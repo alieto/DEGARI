@@ -1,0 +1,7 @@
+implosione:           0.9
+vortice:              0.9
+nucleo:               0.9
+inquinamento:         0.9
+uomo:                 0.9
+riflessione:          0.9
+mente:                0.9

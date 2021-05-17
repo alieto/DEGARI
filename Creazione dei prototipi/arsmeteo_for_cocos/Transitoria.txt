@@ -1,0 +1,5 @@
+pop:                  0.9
+new:                  0.6
+oggetto:              0.6
+soggetto:             0.6
+blu:                  0.6

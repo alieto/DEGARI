@@ -1,0 +1,4 @@
+disegno:              0.9
+donna:                0.9
+venditrice:           0.9
+anfora:               0.9

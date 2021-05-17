@@ -1,0 +1,6 @@
+parole_che_danzano:   0.9
+danza:                0.9
+india:                0.9
+torino:               0.9
+colore:               0.9
+pigmento:             0.9

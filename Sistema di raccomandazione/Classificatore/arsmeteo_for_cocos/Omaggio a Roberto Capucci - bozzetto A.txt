@@ -1,0 +1,4 @@
+bozzetto:             0.9
+forma:                0.9
+colore:               0.9
+architettura:         0.9

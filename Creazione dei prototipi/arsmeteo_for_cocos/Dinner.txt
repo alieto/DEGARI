@@ -1,0 +1,7 @@
+poca_luce:            0.9
+cibo_abbondante:      0.9
+vino_buono:           0.9
+compagnia:            0.9
+atmosfera:            0.9
+grande:               0.9
+lago:                 0.9

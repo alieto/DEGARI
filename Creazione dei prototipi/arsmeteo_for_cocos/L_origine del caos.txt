@@ -1,0 +1,8 @@
+farfalla:             0.9
+azzurro:              0.9
+goccia:               0.9
+dripping:             0.9
+partitura:            0.9
+nota:                 0.9
+volo:                 0.9
+linea:                0.9

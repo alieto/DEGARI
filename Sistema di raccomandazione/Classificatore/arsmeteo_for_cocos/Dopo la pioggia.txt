@@ -1,0 +1,7 @@
+pioggia:              0.9
+donna:                0.9
+natura:               0.9
+catena:               0.9
+capello:              0.9
+anima:                0.9
+volto:                0.9

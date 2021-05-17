@@ -1,0 +1,6 @@
+gameboy:              0.9
+gioco:                0.9
+bambino:              0.9
+quick_joy:            0.9
+pollice:              0.9
+comando:              0.9

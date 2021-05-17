@@ -1,0 +1,7 @@
+viaggiatore:          0.9
+georges_lapassade:    0.9
+errare:               0.9
+culture_di_strada:    0.9
+ecoculture:           0.9
+creatività:           0.9
+ribellione:           0.9

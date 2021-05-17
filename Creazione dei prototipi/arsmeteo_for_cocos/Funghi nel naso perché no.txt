@@ -1,0 +1,3 @@
+mostra:               0.9
+rifotografare:        0.9
+the_box:              0.9

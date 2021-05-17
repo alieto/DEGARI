@@ -1,0 +1,3 @@
+sadness:              0.9
+fear:                 0.9
+shame:                0.9

@@ -1,0 +1,4 @@
+singapore:            0.9
+consumo:              0.9
+folla:                0.9
+aria_condizionata:    0.9

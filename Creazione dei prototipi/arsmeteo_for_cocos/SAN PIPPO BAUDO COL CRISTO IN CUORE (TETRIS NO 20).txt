@@ -1,0 +1,8 @@
+jioko:                0.9
+pippo_baudo:          0.9
+cristo:               0.9
+cuore:                0.9
+san:                  0.9
+croce:                0.9
+tetris:               0.9
+fontana:              0.9

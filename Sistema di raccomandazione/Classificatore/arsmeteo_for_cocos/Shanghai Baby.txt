@@ -1,0 +1,8 @@
+leggero:              0.9
+rifotografare:        0.9
+sensualità:           0.9
+labbro:               0.9
+esotismo:             0.9
+erotismo:             0.9
+trasgressione:        0.9
+vitalità:             0.9

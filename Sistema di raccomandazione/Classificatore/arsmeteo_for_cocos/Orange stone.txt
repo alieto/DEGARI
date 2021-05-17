@@ -1,0 +1,8 @@
+stone:                0.9
+pietra:               0.9
+orizzonte:            0.9
+striatura:            0.9
+mare_arancio:         0.9
+alieno:               0.9
+memoria:              0.9
+cielo_striato:        0.9

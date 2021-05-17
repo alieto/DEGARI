@@ -1,0 +1,8 @@
+uomo:                 0.9
+quadro:               0.9
+dipinto:              0.9
+mostra:               0.9
+pensiero:             0.9
+riflessione:          0.9
+totem:                0.9
+chitarra:             0.9

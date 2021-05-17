@@ -1,0 +1,4 @@
+bonnatale:            0.9
+effe:                 0.9
+liceannon:            0.9
+uovo:                 0.9

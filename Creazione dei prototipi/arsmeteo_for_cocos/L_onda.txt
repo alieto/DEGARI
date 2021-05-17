@@ -1,0 +1,10 @@
+tavola:               0.9
+pittura:              0.9
+onda:                 0.9
+toccare:              0.9
+mare:                 0.9
+vortice:              0.9
+movimento:            0.9
+energia:              0.9
+forza:                0.9
+blu:                  0.9

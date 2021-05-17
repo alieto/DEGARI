@@ -1,0 +1,4 @@
+monumento:            0.9
+lettera:              0.9
+numero:               0.9
+alla_resistenza:      0.9

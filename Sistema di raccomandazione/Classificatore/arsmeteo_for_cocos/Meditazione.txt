@@ -1,0 +1,6 @@
+vincenzo_ampolo:      0.9
+luisella_carretta:    0.9
+tavola:               0.9
+tempera:              0.9
+lampone:              0.9
+acqua:                0.9

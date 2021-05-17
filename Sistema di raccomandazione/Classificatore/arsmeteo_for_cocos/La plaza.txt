@@ -1,0 +1,5 @@
+piazza:               0.9
+gente:                0.9
+persona:              0.9
+comunicazione:        0.9
+incontro:             0.9

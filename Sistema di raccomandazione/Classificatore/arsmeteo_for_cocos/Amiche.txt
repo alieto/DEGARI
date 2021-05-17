@@ -1,0 +1,5 @@
+lettura:              0.9
+complicità:           0.9
+moma:                 0.9
+nyc:                  0.9
+scultura:             0.9

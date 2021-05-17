@@ -1,0 +1,6 @@
+tango:                0.9
+danza:                0.6
+feeling:              0.6
+trasporto:            0.6
+seduzione:            0.6
+ritmo:                0.6

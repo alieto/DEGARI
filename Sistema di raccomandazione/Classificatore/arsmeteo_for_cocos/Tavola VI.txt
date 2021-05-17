@@ -1,0 +1,5 @@
+mondo:                0.9
+centrifuga:           0.9
+trovare:              0.9
+pià¹:                 0.9
+reggere:              0.9

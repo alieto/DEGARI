@@ -1,0 +1,45 @@
+/:                    0.9
+10px:                 0.8558823529411765
+div:                  0.7323529411764707
+style:                0.7323529411764707
+text-align:           0.7235294117647059
+center:               0.7235294117647059
+img:                  0.7235294117647059
+margin:               0.7235294117647059
+src:                  0.7235294117647059
+alt:                  0.7235294117647059
+width:                0.6088235294117647
+arskeologia:          0.6
+macchina_desiderante: 0.6
+fossile_digitale:     0.6
+memoria:              0.6
+ripescaggio:          0.6
+tra_parigi_e_tango:   0.6
+table:                0.6
+0\:                   0.6
+border:               0.6
+tbody:                0.6
+td:                   0.6
+tr:                   0.6
+align:                0.6
+center\:              0.6
+760px:                0.6
+height:               0.6
+480px:                0.6
+overflow:             0.6
+auto:                 0.6
+3eabd6052804ed7916e7c1c0e05743db\:0.6
+705996a7c1c6305312d3088ffa6f4036\:0.6
+b5998ffd0bdd5c2f3df90cc823a6dc7d\:0.6
+466d58a3a86c5c3ff106001e216c3e57\:0.6
+b2989ef2abfdfb959a0b64508b12ce18\:0.6
+cf4301a59946e36c74db6aef89858a83\:0.6
+18958af00fb978895912098cdb5fd386\:0.6
+1c2d3926ed890e57185d26cf9791f8fb\:0.6
+50515cb1749329597c87e637c9ccfaa2\:0.6
+b6e8152fab6fc8bcb284b39b2c96ee84\:0.6
+fec4023bd5580bafe0f0d0b9e0fc854a\:0.6
+c02b0ea3f1cd439c71584329424c01b9\:0.6
+5a33243d424c4c0bc92f00557c0b09f1\:0.6
+24ad848b6a2938c3dc7126106ec8c64b\:0.6
+609cc0ccc9789ed788a87a77cc8f3560\:0.6

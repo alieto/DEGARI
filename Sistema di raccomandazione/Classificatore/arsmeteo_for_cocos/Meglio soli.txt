@@ -1,0 +1,8 @@
+faccia:               0.9
+raffigurazione:       0.9
+terracotta:           0.9
+ceramica:             0.9
+sole:                 0.9
+luna:                 0.9
+farfalla:             0.9
+vetrina:              0.9

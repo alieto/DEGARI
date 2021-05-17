@@ -1,0 +1,7 @@
+mano:                 0.9
+bottono:              0.9
+chiave:               0.9
+materia:              0.9
+materico:             0.9
+terra:                0.9
+impronta:             0.9

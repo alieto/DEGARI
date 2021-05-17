@@ -1,0 +1,16 @@
+documentario:         0.9
+ultimo:               0.9
+ricostruire:          0.9
+carnevale:            0.9
+trascorso:            0.9
+goldoni:              0.9
+venezia:              0.9
+primo:                0.9
+esilio:               0.9
+francese:             0.9
+omaggio:              0.9
+tradizione:           0.9
+teatrale:             0.9
+lagunare:             0.9
+illustre:             0.9
+rappresentante:       0.9

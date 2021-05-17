@@ -1,0 +1,4 @@
+bambino:              0.9
+cane:                 0.9
+libro:                0.9
+sedia:                0.9

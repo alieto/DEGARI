@@ -1,0 +1,6 @@
+mare:                 0.9
+bianco:               0.9
+donare:               0.9
+fuga:                 0.9
+non_vedo:             0.9
+spettatore:           0.9

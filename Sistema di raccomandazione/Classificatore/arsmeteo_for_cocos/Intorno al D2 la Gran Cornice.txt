@@ -1,0 +1,2 @@
+istruzioni_per_uso:   0.9
+mode_d_emploi:        0.9

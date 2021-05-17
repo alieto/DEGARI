@@ -1,0 +1,6 @@
+pop:                  0.9
+hamilton:             0.9
+newpop:               0.9
+seriale:              0.9
+serigrafia:           0.9
+manifesto:            0.9

@@ -1,0 +1,5 @@
+porta:                0.9
+pensiero:             0.9
+barriera:             0.9
+frattali:             0.9
+superamento:          0.9

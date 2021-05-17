@@ -1,0 +1,3 @@
+disegno:              0.9
+maschera:             0.9
+autoerotismo:         0.9

@@ -1,0 +1,4 @@
+donna:                0.9
+pensiero:             0.9
+andare:               0.9
+proposito:            0.9

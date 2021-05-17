@@ -1,0 +1,3 @@
+jiokube:              0.9
+performance:          0.9
+jioka_come_puoi:      0.9

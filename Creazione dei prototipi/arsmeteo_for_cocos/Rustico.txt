@@ -1,0 +1,10 @@
+abitazione:           0.9
+casa:                 0.9
+casa_di_campagna:     0.6
+bucolico:             0.6
+agresto:              0.6
+rustico:              0.6
+vecchio:              0.6
+porta:                0.6
+sedia:                0.6
+campagna:             0.6

@@ -1,0 +1,5 @@
+solitudine:           0.9
+mare:                 0.9
+pesca:                0.9
+pace:                 0.9
+pescatore:            0.9

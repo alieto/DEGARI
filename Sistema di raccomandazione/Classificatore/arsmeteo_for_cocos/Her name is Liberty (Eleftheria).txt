@@ -1,0 +1,5 @@
+bambino:              0.9
+libertà:              0.9
+manetta:              0.9
+lucchetto:            0.9
+costrizione:          0.9

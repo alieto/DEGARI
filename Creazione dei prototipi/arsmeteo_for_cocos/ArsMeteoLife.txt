@@ -1,0 +1,10 @@
+arsmeteo:             0.9
+vita:                 0.9
+reale:                0.9
+porta:                0.9
+limbo:                0.9
+varco:                0.9
+cancellazione_dell_io:0.9
+stratificazione:      0.9
+metafisica|metafisico:0.9
+essenza:              0.9

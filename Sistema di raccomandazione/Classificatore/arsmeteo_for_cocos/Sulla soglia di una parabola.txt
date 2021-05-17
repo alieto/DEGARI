@@ -1,0 +1,7 @@
+astratto:             0.9
+colore:               0.9
+curva:                0.9
+stilizzazione:        0.9
+linea:                0.9
+angolo:               0.9
+segmento:             0.9

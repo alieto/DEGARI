@@ -1,0 +1,4 @@
+piazza:               0.9
+folla:                0.9
+ballo:                0.9
+vestito_rosso:        0.9

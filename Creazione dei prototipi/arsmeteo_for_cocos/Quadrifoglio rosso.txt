@@ -1,0 +1,4 @@
+peperone:             0.9
+quadrifoglio:         0.9
+rosso:                0.9
+composizione:         0.9

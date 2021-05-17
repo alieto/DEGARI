@@ -1,0 +1,7 @@
+marciapiede:          0.9
+porfido:              0.9
+texture:              0.9
+colori_nascosti:      0.9
+trama:                0.9
+iterazione:           0.9
+ripetizione:          0.9

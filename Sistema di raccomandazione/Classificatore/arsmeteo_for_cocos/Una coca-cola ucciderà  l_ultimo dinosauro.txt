@@ -1,0 +1,6 @@
+media:                0.9
+comunicazione:        0.9
+arte:                 0.9
+dinosauro:            0.9
+coca_cola:            0.9
+superficialità:       0.9

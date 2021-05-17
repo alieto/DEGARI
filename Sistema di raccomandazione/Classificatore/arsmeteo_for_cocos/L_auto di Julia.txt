@@ -1,0 +1,6 @@
+snobismo:             0.9
+spider:               0.9
+vento:                0.9
+velocità:             0.9
+linea:                0.9
+stile:                0.9

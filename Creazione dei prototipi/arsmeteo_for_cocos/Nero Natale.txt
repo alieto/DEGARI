@@ -1,0 +1,4 @@
+natale:               0.9
+colore_antracite:     0.9
+palla:                0.9
+evocazione:           0.9

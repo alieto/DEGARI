@@ -1,0 +1,12 @@
+scoppio:              0.9
+scippare:             0.9
+fiamma:               0.9
+oro:                  0.9
+fire:                 0.9
+tesoro:               0.9
+che_fine_ha_fatto:    0.9
+raccolta:             0.9
+minareto:             0.9
+torre:                0.9
+grattacielo:          0.9
+netville:             0.9

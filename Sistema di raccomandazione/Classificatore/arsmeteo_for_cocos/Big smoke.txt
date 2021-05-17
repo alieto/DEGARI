@@ -1,0 +1,9 @@
+guerra:               0.9
+distruzione:          0.9
+dolore:               0.9
+sparizione:           0.9
+mistero:              0.9
+terrore:              0.9
+immaginario_collettivo:0.9
+drammaturgia_della_televisione:0.9
+stansted:             0.9

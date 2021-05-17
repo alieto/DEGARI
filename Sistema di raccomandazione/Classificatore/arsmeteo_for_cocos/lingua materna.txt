@@ -1,0 +1,8 @@
+mother_tongue:        0.9
+intimità:             0.9
+affettività:          0.9
+padronanza:           0.9
+appartenenza:         0.9
+riconoscimento:       0.9
+senso:                0.9
+sensazione:           0.9

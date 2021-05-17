@@ -1,0 +1,8 @@
+-posa+:               0.9
+-moda+:               0.9
+-donna+:              0.9
+-sensualità:          0.9
+-sinuosa+:            0.9
+-seduzione+:          0.9
+-calze_rosse+:        0.9
+draga:                0.9

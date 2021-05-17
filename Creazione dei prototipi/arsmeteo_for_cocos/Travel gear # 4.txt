@@ -1,0 +1,7 @@
+hotel:                0.9
+libro:                0.9
+telefono:             0.9
+medicina:             0.9
+tavolino_da_notte:    0.9
+chiave:               0.9
+agenda:               0.9

@@ -1,0 +1,7 @@
+palazzo:              0.9
+città:                0.9
+_del_messico:         0.9
+finestra:             0.9
+soffitto:             0.9
+buco:                 0.9
+linea:                0.9

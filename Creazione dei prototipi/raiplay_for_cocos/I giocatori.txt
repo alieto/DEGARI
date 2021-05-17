@@ -1,0 +1,12 @@
+becchino:             0.9
+professore:           0.9
+attore:               0.9
+barbiere:             0.9
+tavolo:               0.9
+ritrovare:            0.9
+gioco:                0.9
+conta|conte:          0.9
+fare:                 0.9
+vita:                 0.9
+solitudine:           0.9
+fallimento:           0.9

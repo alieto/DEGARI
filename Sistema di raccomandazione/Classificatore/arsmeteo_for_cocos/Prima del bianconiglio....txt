@@ -1,0 +1,3 @@
+gamba:                0.9
+prato:                0.9
+alice:                0.9

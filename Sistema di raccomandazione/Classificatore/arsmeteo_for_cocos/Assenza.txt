@@ -1,0 +1,6 @@
+riposo:               0.9
+giardino:             0.9
+scultura:             0.9
+hong_kong:            0.9
+caldo:                0.9
+pomeriggio:           0.9

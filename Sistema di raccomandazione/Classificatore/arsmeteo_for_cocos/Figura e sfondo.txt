@@ -1,0 +1,4 @@
+sorriso:              0.9
+smalto:               0.9
+ricoprimenti:         0.9
+citazione:            0.9

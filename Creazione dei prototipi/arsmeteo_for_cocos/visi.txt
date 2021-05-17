@@ -1,0 +1,5 @@
+houston:              0.9
+foto_rubate:          0.9
+boltanski:            0.9
+imperterrito:         0.9
+continuo:             0.9

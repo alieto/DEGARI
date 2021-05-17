@@ -1,0 +1,5 @@
+rennes:               0.9
+le_chateau:           0.9
+cataro:               0.9
+albigesi:             0.9
+medioevo:             0.9

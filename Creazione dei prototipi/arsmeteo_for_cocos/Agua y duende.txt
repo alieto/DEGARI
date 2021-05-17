@@ -1,0 +1,6 @@
+acqua:                0.9
+agua:                 0.9
+duende:               0.9
+flamenco:             0.9
+andalusia:            0.9
+elisa_diaz:           0.9

@@ -1,0 +1,3 @@
+spazio:               0.9
+irrompere:            0.9
+forchetta:            0.9

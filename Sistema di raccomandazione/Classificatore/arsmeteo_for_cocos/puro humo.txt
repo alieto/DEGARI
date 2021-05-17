@@ -1,0 +1,7 @@
+infante:              0.9
+cabrera:              0.9
+holy:                 0.9
+smoke:                0.9
+groucho:              0.9
+marx:                 0.9
+bigote:               0.9

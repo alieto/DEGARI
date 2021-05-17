@@ -1,0 +1,17 @@
+isolamento:           0.9
+metallo:              0.9
+vuoto:                0.9
+colore:               0.9
+assenza:              0.9
+geometria:            0.9
+sintesi:              0.9
+synth:                0.9
+ambient:              0.9
+film:                 0.9
+project:              0.9
+vanhalia:             0.9
+alibrandi:            0.9
+giovanni:             0.9
+space:                0.9
+vacuo:                0.9
+void:                 0.9

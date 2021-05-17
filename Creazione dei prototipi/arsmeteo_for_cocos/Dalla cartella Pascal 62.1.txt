@@ -1,0 +1,9 @@
+surfanta:             0.9
+surreale:             0.9
+torre:                0.9
+bipede:               0.9
+tuffo:                0.9
+ricorsione:           0.9
+suicidio:             0.9
+salto_nel_vuoto:      0.9
+metafora:             0.9

@@ -1,0 +1,2 @@
+teatro:               0.9
+cuscino_rosso:        0.9

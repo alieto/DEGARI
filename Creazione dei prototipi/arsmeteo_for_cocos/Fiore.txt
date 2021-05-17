@@ -1,0 +1,6 @@
+plastica:             0.9
+trash:                0.9
+art:                  0.9
+bottiglia:            0.9
+riciclare:            0.9
+fiore:                0.9

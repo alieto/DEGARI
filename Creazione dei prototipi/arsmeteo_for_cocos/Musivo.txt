@@ -1,0 +1,3 @@
+frammento:            0.9
+negentropia:          0.9
+arte_minore:          0.9

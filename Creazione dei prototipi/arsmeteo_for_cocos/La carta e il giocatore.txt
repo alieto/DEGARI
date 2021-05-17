@@ -1,0 +1,2 @@
+carta:                0.9
+giocatore:            0.9

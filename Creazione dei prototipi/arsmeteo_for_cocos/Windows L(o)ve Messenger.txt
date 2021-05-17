@@ -1,0 +1,3 @@
+chat:                 0.9
+relazione:            0.9
+multimedia:           0.9

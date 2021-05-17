@@ -1,0 +1,7 @@
+bambola:              0.9
+uccello:              0.9
+spaventp:             0.9
+verdognolo:           0.9
+surfanta:             0.9
+pelle_di_serpente:    0.9
+smontare:             0.9

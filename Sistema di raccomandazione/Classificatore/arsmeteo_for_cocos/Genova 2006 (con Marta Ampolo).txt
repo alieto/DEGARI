@@ -1,0 +1,10 @@
+genova:               0.9
+bambina:              0.9
+cassonetto:           0.9
+lavoro:               0.9
+dichiarazione:        0.9
+intento:              0.9
+non_lavorarae:        0.9
+scritto:              0.9
+sul_muro:             0.9
+bambina_bianca:       0.9

@@ -1,0 +1,9 @@
+perugia:              0.9
+escher:               0.9
+terra:                0.9
+dal_basso:            0.9
+prospettiva:          0.9
+visione:              0.9
+assurdo:              0.9
+impossibile:          0.9
+architettura:         0.9

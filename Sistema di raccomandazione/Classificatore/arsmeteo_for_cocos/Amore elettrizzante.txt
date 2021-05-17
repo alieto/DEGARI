@@ -1,0 +1,4 @@
+cobra:                0.9
+amore_ed_elettricità: 0.9
+caus:                 0.9
+presa_e_spina:        0.9

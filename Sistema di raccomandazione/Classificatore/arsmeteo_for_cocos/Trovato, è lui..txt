@@ -1,0 +1,11 @@
+netville:             0.9
+mohamed:              0.9
+kebab:                0.9
+giornale:             0.9
+lettura:              0.9
+mondo:                0.9
+sguardo:              0.9
+meditazione:          0.9
+dopo_scuola:          0.9
+san_salvario:         0.9
+torino:               0.9

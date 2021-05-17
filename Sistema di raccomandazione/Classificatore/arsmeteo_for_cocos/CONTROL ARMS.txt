@@ -1,0 +1,7 @@
+netville:             0.9
+mondo:                0.9
+stop:                 0.9
+bastare:              0.9
+pace:                 0.9
+controllo:            0.9
+arma:                 0.9

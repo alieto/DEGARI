@@ -1,0 +1,6 @@
+sfera:                0.9
+insetto:              0.9
+cellula:              0.9
+energia:              0.9
+movimento:            0.9
+suono:                0.9

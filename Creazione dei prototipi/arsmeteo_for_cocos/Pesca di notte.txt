@@ -1,0 +1,6 @@
+lampara:              0.9
+lampada:              0.9
+riflesso:             0.9
+acqua:                0.9
+buio:                 0.9
+silenzio:             0.9

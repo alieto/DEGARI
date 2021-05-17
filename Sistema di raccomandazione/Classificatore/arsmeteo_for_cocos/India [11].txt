@@ -1,0 +1,6 @@
+india:                0.9
+coca_cola:            0.9
+vespa:                0.9
+mondializzazione:     0.9
+globalizzazione:      0.9
+attesa:               0.9

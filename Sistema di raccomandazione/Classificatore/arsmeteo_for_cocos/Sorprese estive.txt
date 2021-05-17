@@ -1,0 +1,3 @@
+incanto:              0.9
+sorpresa:             0.9
+cuore_rosso:          0.9

@@ -1,0 +1,6 @@
+strada:               0.9
+marciapiede|marciapiedi:0.9
+micro_centro:         0.9
+baires:               0.9
+indigenza:            0.9
+indifferenza:         0.9

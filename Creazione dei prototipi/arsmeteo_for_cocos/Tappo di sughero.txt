@@ -1,0 +1,2 @@
+tappo:                0.9
+sughero:              0.9

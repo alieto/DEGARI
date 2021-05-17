@@ -1,0 +1,5 @@
+glamour:              0.9
+moda:                 0.9
+book:                 0.9
+provino:              0.9
+polaroid:             0.9

@@ -1,0 +1,8 @@
+punto:                0.9000000000000001
+solitudine:           0.6
+spiaggia:             0.6
+presenza-assenza:     0.6
+salvataggio:          0.6
+salva_gente:          0.6
+osservazione:         0.6
+vista:                0.6

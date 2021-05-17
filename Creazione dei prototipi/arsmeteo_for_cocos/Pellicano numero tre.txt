@@ -1,0 +1,5 @@
+pellicano:            0.9
+fiore:                0.9
+surreale:             0.9
+fantasia:             0.9
+surfanta:             0.9

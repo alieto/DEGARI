@@ -1,0 +1,5 @@
+luna:                 0.9
+stesa:                0.9
+pozzo:                0.9
+stella_molletta:      0.9
+falce_di_luna:        0.9

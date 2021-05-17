@@ -1,0 +1,9 @@
+arma:                 0.9
+presentazione:        0.9
+pubblico:             0.9
+mostra:               0.9
+esibizionismo:        0.9
+esibire:              0.9
+terrorismo:           0.9
+oil:                  0.9
+netville:             0.9

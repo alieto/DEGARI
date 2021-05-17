@@ -1,0 +1,12 @@
+india:                0.9
+castagnoli:           0.9
+fusione:              0.9
+eterno_ritorno:       0.9
+incontro_di_orizzonti:0.9
+ciclo:                0.9
+clock:                0.9
+perenne_fluire:       0.9
+violino:              0.9
+flauto:               0.9
+sospensione:          0.9
+pausa:                0.9

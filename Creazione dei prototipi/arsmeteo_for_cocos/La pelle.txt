@@ -1,0 +1,8 @@
+pelle:                0.9
+senso:                0.9
+coppia:               0.9
+erotismo:             0.9
+amplesso:             0.9
+passione:             0.9
+abbandono:            0.9
+corpo:                0.9

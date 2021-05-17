@@ -1,0 +1,9 @@
+grottesco:            0.9
+rappresentazione:     0.9
+personaggio:          0.9
+figura:               0.9
+persona:              0.9
+capello:              0.9
+capigliatura:         0.9
+sangue:               0.9
+bianco:               0.9

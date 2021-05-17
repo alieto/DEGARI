@@ -1,0 +1,5 @@
+glamour:              0.9
+erotico:              0.9
+polaroid:             0.9
+scatto:               0.9
+provino:              0.9

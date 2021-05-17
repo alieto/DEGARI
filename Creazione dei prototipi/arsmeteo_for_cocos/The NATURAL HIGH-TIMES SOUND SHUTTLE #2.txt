@@ -1,0 +1,3 @@
+freaks:               0.9
+cicala:               0.9
+chilum:               0.9

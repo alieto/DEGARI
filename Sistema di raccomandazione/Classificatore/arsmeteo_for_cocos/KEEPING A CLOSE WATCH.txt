@@ -1,0 +1,12 @@
+segnaletica:          0.9
+graffito:             0.9
+segnalazione:         0.9
+arma:                 0.9
+uniforme:             0.9
+occhiale:             0.9
+protezione:           0.9
+decostruzione:        0.9
+esplosione:           0.9
+frammento:            0.9
+jeep:                 0.9
+controllo:            0.9

@@ -1,0 +1,4 @@
+neve:                 0.9
+lepre:                0.9
+in_via_di_estinzione: 0.9
+coppia:               0.9

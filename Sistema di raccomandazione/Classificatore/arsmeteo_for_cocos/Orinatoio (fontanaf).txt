@@ -1,0 +1,8 @@
+fontana_duchamp:      0.9
+orinatoio:            0.9
+fontana:              0.9
+ready_made:           0.9
+orinatoio_fontana:    0.9
+istantaneo:           0.9
+istantanea:           0.9
+detto_fatto:          0.9

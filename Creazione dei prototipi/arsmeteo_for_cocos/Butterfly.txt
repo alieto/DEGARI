@@ -1,0 +1,2 @@
+prigioniera:          0.9
+fragile:              0.9

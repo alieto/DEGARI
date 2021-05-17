@@ -1,0 +1,5 @@
+terra:                0.9
+traccia:              0.9
+secca:                0.9
+frammento:            0.9
+disegno:              0.9

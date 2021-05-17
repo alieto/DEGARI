@@ -1,0 +1,12 @@
+musica_elettronica:   0.9
+rave:                 0.9
+dance:                0.9
+musica_digitale:      0.9
+house:                0.9
+pasticca:             0.9
+ballare:              0.9
+dionisiaco:           0.9
+ritmo:                0.9
+sballo:               0.9
+divertimento:         0.9
+basso_elettrico:      0.9

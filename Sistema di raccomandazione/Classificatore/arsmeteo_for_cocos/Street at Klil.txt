@@ -1,0 +1,6 @@
+israel:               0.9
+landscape:            0.9
+green:                0.9
+lonelyness:           0.9
+smell:                0.9
+cane:                 0.9

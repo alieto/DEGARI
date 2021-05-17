@@ -1,0 +1,8 @@
+ferrovie_dello_stato: 0.9
+effe_esse:            0.9
+serpente:             0.9
+aereo:                0.9
+treno:                0.9
+ferrovia:             0.9
+lettera_c:            0.9
+zodiaco_cinese_serpente:0.9

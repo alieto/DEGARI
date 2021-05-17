@@ -1,0 +1,7 @@
+vetrina:              0.9
+rifotografare:        0.9
+national_geographic:  0.9
+libro:                0.9
+viaggiare:            0.9
+tanto:                0.9
+parola:               0.9

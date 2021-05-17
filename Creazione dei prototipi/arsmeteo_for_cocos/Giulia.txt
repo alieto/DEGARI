@@ -1,0 +1,13 @@
+sereno:               0.9
+azzurro:              0.9
+attesa:               0.9
+nostalgia:            0.9
+meditazione:          0.9
+sera:                 0.9
+calma:                0.9
+donna:                0.9
+oscurità:             0.9
+voltata:              0.9
+zoccolo:              0.9
+ombra:                0.9
+oro:                  0.9

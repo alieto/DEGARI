@@ -1,0 +1,3 @@
+palindromo:           0.9
+bifronte:             0.9
+bustrofedico:         0.9

@@ -1,0 +1,9 @@
+bianco_e_nero:        0.9
+quiete:               0.9
+fotografia:           0.9
+pecora:               0.9
+pastore:              0.9
+pace:                 0.9
+elaborazione:         0.9
+falso:                0.9
+realtà:               0.9

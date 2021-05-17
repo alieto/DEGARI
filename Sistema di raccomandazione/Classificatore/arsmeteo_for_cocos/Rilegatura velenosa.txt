@@ -1,0 +1,5 @@
+libro:                0.9
+rilegatura_vivente:   0.9
+serpente:             0.9
+velenoso:             0.9
+caus:                 0.9

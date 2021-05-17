@@ -1,0 +1,4 @@
+materiale:            0.9
+illusioni_ottiche:    0.9
+barocchismo:          0.9
+mandare:              0.9

@@ -1,0 +1,7 @@
+bianconiglio:         0.9
+chiaro_di_luna:       0.9
+pittore:              0.9
+notte:                0.9
+stella:               0.9
+notte_stellata:       0.9
+via_lattea:           0.9

@@ -1,0 +1,13 @@
+diamante:             0.9
+purezza:              0.9
+luccichio:            0.9
+luce:                 0.9
+chiarore:             0.9
+prezioso:             0.9
+caratura_morale:      0.9
+lusso:                0.9
+pensiero:             0.9
+argento:              0.9
+bianco:               0.9
+pietra:               0.9
+terra:                0.9

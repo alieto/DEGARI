@@ -1,0 +1,2 @@
+metallico:            0.9
+severini:             0.9

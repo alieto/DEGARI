@@ -1,0 +1,8 @@
+global_orgasm:        0.9
+wilhelm_reich:        0.9
+sessantotto:          0.9
+peace:                0.9
+war:                  0.9
+rettile:              0.9
+sesso:                0.9
+netville:             0.9

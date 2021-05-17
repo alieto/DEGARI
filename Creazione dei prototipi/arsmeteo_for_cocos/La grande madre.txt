@@ -1,0 +1,4 @@
+bradisismo:           0.9
+prospettiva:          0.9
+inclinazione:         0.9
+cellulare:            0.9

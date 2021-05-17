@@ -1,0 +1,6 @@
+scaffale:             0.9
+supermarket:          0.9
+food:                 0.9
+carrello:             0.9
+ricordare:            0.9
+netville:             0.9

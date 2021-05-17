@@ -1,0 +1,9 @@
+generatore:           0.9
+suono:                0.9
+acqua:                0.9
+fantastico:           0.9
+simmetria:            0.9
+piattaforma:          0.9
+visione:              0.9
+sul_mare:             0.9
+futuro:               0.9

@@ -1,0 +1,3 @@
+cappello:             0.9
+dame_vezzose:         0.9
+illinois:             0.9

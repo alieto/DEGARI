@@ -1,0 +1,2 @@
+foglia:               0.9
+rossa:                0.9

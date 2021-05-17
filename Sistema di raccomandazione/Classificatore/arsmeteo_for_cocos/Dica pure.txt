@@ -1,0 +1,5 @@
+burocrate:            0.9
+carta_straccia:       0.9
+cestinare:            0.9
+surfanta:             0.9
+reale_surreale:       0.9

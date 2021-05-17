@@ -1,0 +1,3 @@
+comedor:              0.9
+cubare:               0.9
+international_help:   0.9

@@ -1,0 +1,10 @@
+serpente:             0.9
+conoscenza:           0.9
+dolcezza:             0.9
+silenzio:             0.9
+fragilità:            0.9
+impossibilità:        0.9
+possibilità:          0.9
+bracciale:            0.9
+antiidoto:            0.9
+elisir_del_sogno:     0.9

@@ -1,0 +1,4 @@
+geometria:            0.9
+disegno:              0.9
+colorato:             0.9
+giostra:              0.9

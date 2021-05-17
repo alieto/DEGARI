@@ -1,0 +1,8 @@
+omino:                0.9
+reload:               0.9
+occhiale:             0.9
+attesa:               0.9
+sospensione:          0.9
+cromatismo:           0.9
+equilibrismo:         0.9
+netville:             0.9

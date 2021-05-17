@@ -1,0 +1,11 @@
+metallo+:             0.9
+-riciclato+:          0.9
+-rivivere+:           0.9
+-recupero+:           0.9
+-assemblaggio+:       0.9
+palla_ovale:          0.9
+giocatore:            0.9
+sport:                0.9
+robot:                0.9
+macchina:             0.9
+sport_machine:        0.9

@@ -1,0 +1,5 @@
+yemen:                0.9
+rudere:               0.9
+arcaico:              0.9
+vestigia:             0.9
+fascino:              0.9

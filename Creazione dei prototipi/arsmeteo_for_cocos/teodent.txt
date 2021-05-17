@@ -1,0 +1,3 @@
+dente:                0.9
+sorriso:              0.9
+durbans:              0.9

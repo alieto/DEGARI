@@ -1,0 +1,4 @@
+fresh_art:            0.9
+rino_marino:          0.9
+copertina:            0.9
+sancho_panza:         0.9

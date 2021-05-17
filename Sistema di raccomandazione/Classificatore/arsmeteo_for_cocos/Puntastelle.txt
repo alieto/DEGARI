@@ -1,0 +1,6 @@
+stella:               0.9
+notte:                0.6
+coppia:               0.6
+sasso:                0.6
+gioco:                0.6
+falce_di_luna:        0.6

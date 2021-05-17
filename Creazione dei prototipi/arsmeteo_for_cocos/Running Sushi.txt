@@ -1,0 +1,1 @@
+psedo_giapponese:     0.9

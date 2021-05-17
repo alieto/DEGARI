@@ -1,0 +1,10 @@
+vetrina:              0.9
+amantes:              0.9
+occhio:               0.9
+nero:                 0.9
+intenso:              0.9
+sorriso:              0.9
+sensuale:             0.9
+contenere:            0.9
+volitivo:             0.9
+chi_è_mai:            0.9

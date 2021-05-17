@@ -1,0 +1,7 @@
+vista:                0.9
+tatto:                0.9
+superficie:           0.9
+tempo:                0.9
+scrittura:            0.9
+velocità:             0.9
+luce:                 0.9

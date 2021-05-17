@@ -1,0 +1,5 @@
+luce:                 0.9
+ufo:                  0.9
+riflesso:             0.9
+cerchio:              0.9
+trasparenza:          0.9

@@ -1,0 +1,8 @@
+-strappi+:            0.9
+-decollage+:          0.9
+-frammenti+:          0.9
+-frammentazione+:     0.9
+nove_marzo:           0.9
+donna:                0.9
+capello:              0.9
+data:                 0.9

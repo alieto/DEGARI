@@ -1,0 +1,2 @@
+scansione:            0.9
+bidigigrafia:         0.9

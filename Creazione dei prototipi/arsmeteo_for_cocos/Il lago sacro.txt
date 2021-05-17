@@ -1,0 +1,7 @@
+lago:                 0.9
+sacro:                0.9
+rituale:              0.9
+scoprire:             0.9
+convegno:             0.9
+cristallo:            0.9
+nascondere:           0.9

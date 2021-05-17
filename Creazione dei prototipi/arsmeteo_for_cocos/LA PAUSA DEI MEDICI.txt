@@ -1,0 +1,8 @@
+pausa:                0.9
+medico:               0.9
+cosma_e_damiano:      0.9
+cosma:                0.9
+damiano:              0.9
+santo:                0.9
+cibo:                 0.9
+luce:                 0.9

@@ -1,0 +1,3 @@
+segno:                0.9
+finestra:             0.9
+andare_oltre:         0.9

@@ -1,0 +1,11 @@
+natura:               0.9
+autunno:              0.9
+acqua:                0.9
+loto:                 0.9
+appassire:            0.9
+morte:                0.9
+decadenza:            0.9
+pianta:               0.9
+foglia:               0.9
+radice:               0.9
+riflesso:             0.9

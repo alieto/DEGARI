@@ -1,0 +1,1 @@
+spazialismo:          0.9

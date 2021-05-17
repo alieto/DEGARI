@@ -1,0 +1,5 @@
+singlossia:           0.9
+arte:                 0.9
+poesia:               0.9
+visivo:               0.9
+costruttivismo:       0.9

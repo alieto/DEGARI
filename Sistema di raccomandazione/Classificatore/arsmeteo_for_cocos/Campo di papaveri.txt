@@ -1,0 +1,4 @@
+campo:                0.9
+papavero:             0.9
+giallo_grano:         0.9
+cielo:                0.9

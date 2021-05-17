@@ -1,0 +1,5 @@
+sélettrico:           0.9
+digitalismi:          0.9
+immagine:             0.9
+sintetico:            0.9
+divertissement:       0.9

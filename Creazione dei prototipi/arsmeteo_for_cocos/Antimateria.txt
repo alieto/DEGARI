@@ -1,0 +1,5 @@
+fisica|fisico:        0.9
+implosione:           0.9
+esplosione:           0.9
+antimateria:          0.9
+potenza:              0.9

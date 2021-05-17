@@ -1,0 +1,11 @@
+sirena:               0.9
+marina:               0.9
+lunare:               0.9
+bronzo:               0.9
+ubiquo:               0.9
+realtà:               0.9
+sogno:                0.9
+enigma:               0.9
+ambiguo:              0.9
+femmineo:             0.9
+una_due:              0.9

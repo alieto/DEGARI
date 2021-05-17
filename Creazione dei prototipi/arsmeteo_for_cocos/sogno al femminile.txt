@@ -1,0 +1,5 @@
+sogno:                0.9
+volo:                 0.9
+photoshop:            0.9
+femminile:            0.9
+natura:               0.9

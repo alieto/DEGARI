@@ -1,0 +1,31 @@
+#Title composizione
+Title : anger-trust
+
+#Concetto Principale
+Head Concept Name : anger
+
+#Concetto Modificatore
+Modifier Concept Name : trust
+
+
+
+modifier, -cannibalismo
+modifier, -molestia
+modifier, -stupro
+
+T(modifier), veracità, 0.91
+T(modifier), fidato, 0.87
+T(modifier), onesto, 0.84
+T(modifier), onore, 0.84
+T(modifier), verità, 0.84
+T(modifier), fiducia, 0.84
+
+T(head), oltraggiato, 0.96
+T(head), brutalità, 0.96
+T(head), odio, 0.95
+T(head), terrorizzare, 0.94
+T(head), violentemente, 0.94
+T(head), infuriato, 0.94
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '0', '1', '1', 0.00035986342099392975

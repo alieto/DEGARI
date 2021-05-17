@@ -1,0 +1,6 @@
+montagna:             0.9
+luogo_sacro:          0.9
+magia:                0.9
+terra:                0.9
+cielo:                0.9
+verde:                0.9

@@ -1,0 +1,2 @@
+sciopero:             0.9
+nulla:                0.9

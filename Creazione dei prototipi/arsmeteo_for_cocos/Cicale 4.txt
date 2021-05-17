@@ -1,0 +1,5 @@
+performance:          0.9
+rude:                 0.9
+castello:             0.9
+macchine_sonore:      0.9
+concentrazione:       0.9

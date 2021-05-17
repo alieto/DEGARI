@@ -1,0 +1,10 @@
+attenzione:           0.9
+attentare:            0.9
+gabbia:               0.9
+impegno:              0.9
+budda:                0.9
+percezione:           0.9
+significato:          0.9
+trasparenza:          0.9
+farfalla:             0.9
+cane:                 0.9

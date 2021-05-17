@@ -1,0 +1,8 @@
+profilo:              0.9
+prospetto:            0.9
+viso:                 0.9
+volto:                0.9
+espressione:          0.9
+nel_verde:            0.9
+accennare:            0.9
+fogliame:             0.9

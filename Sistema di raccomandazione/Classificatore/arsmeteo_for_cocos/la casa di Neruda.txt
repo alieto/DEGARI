@@ -1,0 +1,4 @@
+tolda:                0.9
+mare:                 0.9
+luce:                 0.9
+protendere:           0.9

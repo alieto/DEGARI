@@ -1,0 +1,7 @@
+mano:                 0.9
+trash:                0.9
+art:                  0.9
+plastica:             0.9
+poliver:              0.9
+recupero:             0.9
+riciclare:            0.9

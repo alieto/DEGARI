@@ -1,0 +1,10 @@
+finanziario:          0.9
+governo:              0.9
+disavanzo:            0.9
+previsione:           0.9
+rigore:               0.9
+fiducia:              0.9
+pil:                  0.9
+debito:               0.9
+pubblico:             0.9
+spesa:                0.9

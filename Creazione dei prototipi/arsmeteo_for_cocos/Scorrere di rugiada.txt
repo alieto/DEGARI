@@ -1,0 +1,7 @@
+disegno:              0.9
+libro:                0.9
+artista:              0.9
+natura:               0.9
+petalo:               0.9
+rugiada:              0.9
+acrilico:             0.9

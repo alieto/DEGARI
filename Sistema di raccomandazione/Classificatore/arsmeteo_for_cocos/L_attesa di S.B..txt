@@ -1,0 +1,9 @@
+montre:               0.9
+pompidou:             0.9
+centre:               0.9
+ponteggio:            0.9
+manifesto:            0.9
+orologio:             0.9
+notturno:             0.9
+visita:               0.9
+mostra:               0.9

@@ -1,0 +1,3 @@
+ulivo:                0.9
+papavero:             0.9
+salento:              0.9

@@ -1,0 +1,8 @@
+ombrello:             0.9000000000000001
+casolare:             0.6
+donna:                0.6
+due_ombrelli:         0.6
+sul_tetto:            0.6
+ombrelli_neri:        0.6
+presenze_inquietanti: 0.6
+figure_oscure:        0.6

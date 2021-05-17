@@ -1,0 +1,10 @@
+attentato:            0.9
+seguito:              0.9
+incredibile:          0.9
+giovanilismo:         0.9
+mediatico:            0.9
+tenacia:              0.9
+dominio:              0.9
+fede:                 0.9
+benedizione:          0.9
+netville:             0.9

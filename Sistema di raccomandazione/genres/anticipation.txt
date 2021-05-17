@@ -1,0 +1,12 @@
+anticipation: 0.859
+excited: 0.859
+eagerness: 0.812
+expectant: 0.789
+thrilling: 0.781
+hope: 0.773
+quest: 0.766
+start: 0.750
+adventure: 0.750
+climax: 0.742
+prophecy: 0.742
+arouse: 0.742

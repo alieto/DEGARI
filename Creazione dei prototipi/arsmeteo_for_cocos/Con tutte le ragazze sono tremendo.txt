@@ -1,0 +1,7 @@
+ragazza:              0.9
+spiaggia:             0.9
+squalo:               0.9
+me:                   0.9
+te:                   0.9
+magno:                0.9
+tutto:                0.9

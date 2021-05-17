@@ -1,0 +1,10 @@
+wish:                 0.9
+desire:               0.9
+perbacco:             0.9
+perdindirindina:      0.9
+malevic:              0.9
+stella:               0.9
+cadenza:              0.9
+star_wishes:          0.9
+interazione_stellare: 0.9
+repetita_iuvant:      0.9

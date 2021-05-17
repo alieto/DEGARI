@@ -1,0 +1,3 @@
+legame:               0.9
+connesioni:           0.9
+radice:               0.9

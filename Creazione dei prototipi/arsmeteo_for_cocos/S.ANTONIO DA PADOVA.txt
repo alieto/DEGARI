@@ -1,0 +1,4 @@
+santo:                0.9
+antonio:              0.9
+antonio_da_padova:    0.9
+baratto:              0.9

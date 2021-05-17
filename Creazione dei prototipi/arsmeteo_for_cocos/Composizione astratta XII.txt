@@ -1,0 +1,7 @@
+tecnica:              0.9
+mista:                0.9
+chinacolor:           0.9
+foglio:               0.9
+polietilene:          0.9
+anno:                 0.9
+eseguire:             0.9

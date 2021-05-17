@@ -1,0 +1,10 @@
+cielo:                0.9
+stella:               0.9
+passeggiata:          0.9
+bestia:               0.9
+occhio:               0.9
+zanna:                0.9
+coda:                 0.9
+maculare:             0.9
+bipede:               0.9
+lingua_blu:           0.9

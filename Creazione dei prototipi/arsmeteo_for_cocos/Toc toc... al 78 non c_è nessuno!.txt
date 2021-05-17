@@ -1,0 +1,5 @@
+pietra:               0.9
+portone:              0.9
+arco:                 0.9
+scala:                0.9
+casa_scasata:         0.9

@@ -1,0 +1,5 @@
+libro:                0.9
+pila:                 0.9
+torre:                0.9
+multiculturale:       0.9
+multilingua:          0.9

@@ -1,0 +1,5 @@
+segno_fisso:          0.9
+segno_zodiacale:      0.9
+verde:                0.9
+segno_di_terra:       0.9
+rosa:                 0.9

@@ -1,0 +1,9 @@
+livello:              0.9
+scrutare:             0.9
+intimità:             0.9
+introspezione:        0.9
+svelare:              0.9
+metropoli:            0.9
+finestra:             0.9
+vita:                 0.9
+interno:              0.9

@@ -1,0 +1,3 @@
+schermo:              0.9
+rifotografare:        0.9
+labbro:               0.9

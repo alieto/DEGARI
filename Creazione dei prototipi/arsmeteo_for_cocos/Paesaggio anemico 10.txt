@@ -1,0 +1,6 @@
+di_marmo:             0.9
+casa:                 0.9
+urbano:               0.9
+lettera:              0.9
+chiocciola:           0.9
+graffio:              0.9

@@ -1,0 +1,15 @@
+div:                  0.9
+basta_volare:         0.9
+font-size:            0.9
+style:                0.9
+16px:                 0.9
+40px:                 0.9
+margin:               0.9
+line-height:          0.9
+28px\:                0.9
+fantasia:             0.9
+volare:               0.9
+br:                   0.9
+anima:                0.9
+riposare:             0.9
+/:                    0.9

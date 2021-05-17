@@ -1,0 +1,3 @@
+il_grande_keith:      0.9
+trasgressione:        0.9
+liberazione:          0.9

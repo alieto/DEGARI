@@ -1,0 +1,2 @@
+vetta:                0.9
+luogo:                0.9

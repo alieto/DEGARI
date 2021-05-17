@@ -1,0 +1,4 @@
+rosso:                0.9
+energia:              0.9
+concentrazione:       0.9
+slancio:              0.9

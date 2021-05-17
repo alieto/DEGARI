@@ -1,0 +1,6 @@
+esplosione:           0.9
+estate:               0.9
+bambino:              0.9
+salto:                0.9
+piscina:              0.9
+gioia:                0.9

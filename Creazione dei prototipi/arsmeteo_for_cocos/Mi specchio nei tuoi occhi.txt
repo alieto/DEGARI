@@ -1,0 +1,5 @@
+cane:                 0.9
+sguardo:              0.9
+riflesso:             0.9
+pupilla:              0.9
+autoritratto_indiretto:0.9

@@ -1,0 +1,29 @@
+#Title composizione
+Title : disgust-surprise
+
+#Concetto Principale
+Head Concept Name : disgust
+
+#Concetto Modificatore
+Modifier Concept Name : surprise
+
+head, -onore
+
+modifier, -anticipazione
+
+T(modifier), sorpresa, 0.93
+T(modifier), sbalordire, 0.91
+T(modifier), esplodere, 0.91
+T(modifier), imboscata, 0.88
+T(modifier), eruzione, 0.88
+T(modifier), impaurire, 0.88
+
+T(head), cannibalismo, 0.95
+T(head), mutilazione, 0.93
+T(head), molestia, 0.91
+T(head), incesto, 0.91
+T(head), gonorrea, 0.91
+T(head), stupro, 0.91
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '0', '1', '1', 7.799826562968579e-05

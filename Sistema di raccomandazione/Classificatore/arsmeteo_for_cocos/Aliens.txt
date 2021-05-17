@@ -1,0 +1,3 @@
+citazione:            0.9
+fantascienza:         0.9
+macchiaiolo:          0.9

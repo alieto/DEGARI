@@ -1,0 +1,16 @@
+br:                   0.9
+economia:             0.75
+div:                  0.6
+font-size:            0.6
+style:                0.6
+14px:                 0.6
+40px:                 0.6
+margin:               0.6
+line-height:          0.6
+26px\:                0.6
+vivo:                 0.6
+soldo:                0.6
+magia:                0.6
+ala:                  0.6
+volare:               0.6
+/:                    0.6

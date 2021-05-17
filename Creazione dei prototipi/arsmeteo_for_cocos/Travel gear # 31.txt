@@ -1,0 +1,7 @@
+libro:                0.9
+travel_gear:          0.9
+lettura:              0.9
+non_imperdibile:      0.9
+chiave:               0.9
+comunicazione:        0.9
+presenza:             0.9

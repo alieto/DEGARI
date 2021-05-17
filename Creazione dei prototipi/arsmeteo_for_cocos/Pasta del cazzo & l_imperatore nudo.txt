@@ -1,0 +1,3 @@
+vetrina:              0.9
+gogliardata:          0.9
+grano_duro:           0.9

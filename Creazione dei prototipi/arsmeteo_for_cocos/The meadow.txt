@@ -1,0 +1,5 @@
+prato:                0.9
+famiglia:             0.9
+affetto:              0.9
+distanza:             0.9
+ricordo:              0.9

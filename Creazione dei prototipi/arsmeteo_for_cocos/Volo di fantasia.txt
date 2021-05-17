@@ -1,0 +1,7 @@
+torino:               0.9
+toro:                 0.9
+granata:              0.9
+farfalla:             0.9
+sincronicità:         0.9
+linea:                0.9
+subbuteo:             0.9

@@ -1,0 +1,5 @@
+seen_on_tv:           0.9
+ammicamenti:          0.9
+seduzione:            0.9
+turbamento:           0.9
+sesso_virtuale:       0.9

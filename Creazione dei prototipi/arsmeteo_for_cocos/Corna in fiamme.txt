@@ -1,0 +1,3 @@
+dennis:               0.9
+oppenheim:            0.9
+installazione:        0.9

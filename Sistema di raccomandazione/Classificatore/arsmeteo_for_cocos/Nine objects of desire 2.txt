@@ -1,0 +1,8 @@
+omaggio:              0.9
+donna:                0.9
+50x70:                0.9
+cm:                   0.9
+carta:                0.9
+acrilico:             0.9
+inchiostro:           0.9
+testo:                0.9

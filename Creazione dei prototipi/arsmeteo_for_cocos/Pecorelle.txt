@@ -1,0 +1,4 @@
+pecora:               0.9
+tosatura:             0.9
+idillio:              0.9
+ritaglio:             0.9

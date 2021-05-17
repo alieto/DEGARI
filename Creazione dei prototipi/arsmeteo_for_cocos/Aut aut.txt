@@ -1,0 +1,6 @@
+aut_aut:              0.9
+cielo:                0.9
+sospendere:           0.9
+simmetria:            0.9
+irnia:                0.9
+palindromo:           0.9

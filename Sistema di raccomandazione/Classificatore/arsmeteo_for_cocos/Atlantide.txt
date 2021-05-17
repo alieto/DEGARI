@@ -1,0 +1,11 @@
+linea:                0.9
+mito:                 0.9
+conchiglia:           0.9
+donna:                0.9
+nascita:              0.9
+bagno:                0.9
+coda_di_cavallo:      0.9
+platone:              0.9
+timeo:                0.9
+specchio:             0.9
+typos:                0.9

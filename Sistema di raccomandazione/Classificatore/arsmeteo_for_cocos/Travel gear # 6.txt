@@ -1,0 +1,7 @@
+nomadismo:            0.9
+oggetto:              0.9
+uso:                  0.9
+strumento:            0.9
+mezzo:                0.9
+comunicazione:        0.9
+supporto:             0.9

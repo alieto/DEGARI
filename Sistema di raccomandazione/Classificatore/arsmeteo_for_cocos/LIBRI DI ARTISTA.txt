@@ -1,0 +1,10 @@
+giallo:               0.9
+pagina:               0.9
+casa:                 0.9
+foglia:               0.9
+duna:                 0.9
+immagine:             0.9
+ombra:                0.9
+carta:                0.9
+pensiero:             0.9
+soffice:              0.9

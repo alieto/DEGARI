@@ -1,0 +1,3 @@
+oriente:              0.9
+damasco:              0.9
+notturno:             0.9

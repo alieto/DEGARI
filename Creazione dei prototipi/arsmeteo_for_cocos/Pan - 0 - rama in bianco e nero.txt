@@ -1,0 +1,3 @@
+simmetria:            0.9
+bianco_nero:          0.9
+mandare:              0.9

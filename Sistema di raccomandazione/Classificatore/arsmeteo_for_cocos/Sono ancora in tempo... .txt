@@ -1,0 +1,8 @@
+orologio:             0.9
+coccinella:           0.9
+mela:                 0.9
+lancetta:             0.9
+tempo:                0.9
+ritardo:              0.9
+tempo_della_mela:     0.9
+tempo_fermo:          0.9

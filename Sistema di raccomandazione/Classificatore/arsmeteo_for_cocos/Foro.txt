@@ -1,0 +1,7 @@
+foro_romano:          0.9
+brescia:              0.9
+rudere:               0.9
+archeologia:          0.9
+colonna:              0.9
+ricostruire:          0.9
+capitello:            0.9

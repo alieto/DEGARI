@@ -1,0 +1,11 @@
+mina:                 0.9
+soccorso:             0.9
+guerra:               0.9
+pacifismo:            0.9
+ospedale:             0.9
+mutilazione:          0.9
+ferito:               0.9
+appello:              0.9
+donazione:            0.9
+cuore:                0.9
+netville:             0.9

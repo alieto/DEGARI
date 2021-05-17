@@ -1,0 +1,8 @@
+incedere_incerto:     0.9
+mano_nella_mano:      0.9
+passo:                0.9
+piede:                0.9
+acqua:                0.9
+inquietudine:         0.9
+imprevisto:           0.9
+futuro:               0.9

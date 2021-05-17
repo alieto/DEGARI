@@ -1,0 +1,10 @@
+luna:                 0.9
+topo:                 0.9
+formaggio:            0.9
+notte:                0.9
+skyline:              0.9
+groviera:             0.9
+forma_di_formaggio:   0.9
+sogno:                0.9
+visione:              0.9
+interpretazione:      0.9

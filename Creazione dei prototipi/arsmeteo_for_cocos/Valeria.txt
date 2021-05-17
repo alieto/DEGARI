@@ -1,0 +1,7 @@
+ritratto:             0.9
+cromatico:            0.9
+matericità:           0.9
+giovane:              0.9
+donna:                0.9
+classico:             0.9
+sorridente:           0.9

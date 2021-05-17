@@ -1,0 +1,4 @@
+velo:                 0.9
+burka:                0.9
+inibizione:           0.9
+celare:               0.9

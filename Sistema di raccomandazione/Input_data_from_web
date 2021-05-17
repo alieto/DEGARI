@@ -1,0 +1,8 @@
+# Just copy paste to the 'Input' file with the other concept you want to combine
+
+modifier concept name : evil
+modifier,greedy
+T(modifier),evil,0.6415929203539823
+T(modifier),arrogant,0.6592920353982301
+T(modifier),selfish,0.6592920353982301
+T(modifier),mean,0.7035398230088495

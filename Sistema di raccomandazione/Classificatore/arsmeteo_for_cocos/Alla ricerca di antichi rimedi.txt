@@ -1,0 +1,9 @@
+erba:                 0.9
+rimedio:              0.9
+terra:                0.9
+medicina_popolare:    0.9
+tradizione:           0.9
+memoria:              0.9
+redici:               0.9
+storia:               0.9
+ab_origen:            0.9

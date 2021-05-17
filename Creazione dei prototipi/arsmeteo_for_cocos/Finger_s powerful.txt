@@ -1,0 +1,6 @@
+dito:                 0.9
+mano:                 0.9
+potenza:              0.9
+potere:               0.9
+divino:               0.9
+fulmine:              0.9

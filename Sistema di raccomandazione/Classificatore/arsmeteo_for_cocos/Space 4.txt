@@ -1,0 +1,12 @@
+pianeta:              0.9
+asteroide:            0.9
+ufo:                  0.9
+sfera:                0.9
+mondo:                0.9
+spazio:               0.9
+interplanetario:      0.9
+profondità:           0.9
+orizzonte:            0.9
+infinito:             0.9
+linea:                0.9
+parallelismo:         0.9

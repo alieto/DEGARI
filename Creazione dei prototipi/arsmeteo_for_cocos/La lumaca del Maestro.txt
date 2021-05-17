@@ -1,0 +1,4 @@
+sedile:               0.9
+lumaca:               0.9
+vasca_di_pesciolini:  0.9
+angolo_verde:         0.9

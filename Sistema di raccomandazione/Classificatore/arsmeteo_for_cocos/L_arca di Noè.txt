@@ -1,0 +1,8 @@
+arca:                 0.9
+veliero:              0.9
+guscio:               0.9
+noce:                 0.9
+guscio_scafo:         0.9
+guscio_di_noce:       0.9
+vela:                 0.9
+bandiera:             0.9

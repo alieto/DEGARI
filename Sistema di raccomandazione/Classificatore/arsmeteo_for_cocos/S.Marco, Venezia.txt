@@ -1,0 +1,5 @@
+disegno:              0.9
+biro:                 0.9
+arilici:              0.9
+cartoncino:           0.9
+cm15:                 0.9

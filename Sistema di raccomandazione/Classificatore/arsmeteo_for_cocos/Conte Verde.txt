@@ -1,0 +1,12 @@
+verde:                0.9
+contè:                0.9
+savoia:               0.9
+torino:               0.9
+photoshop:            0.9
+sommergere:           0.9
+mare:                 0.9
+blu:                  0.9
+statua:               0.9
+pesce:                0.9
+palazzo:              0.9
+municipio:            0.9

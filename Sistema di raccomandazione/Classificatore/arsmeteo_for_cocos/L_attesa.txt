@@ -1,0 +1,9 @@
+attesa:               0.9
+bianco:               0.6
+il_nulla:             0.6
+il_vuoto:             0.6
+volto:                0.6
+colore:               0.6
+materia:              0.6
+donna:                0.6
+sedia:                0.6

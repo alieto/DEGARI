@@ -1,0 +1,6 @@
+gatto:                0.9
+musica:               0.9
+nota:                 0.9
+spartito:             0.9
+partitura:            0.9
+linea:                0.9

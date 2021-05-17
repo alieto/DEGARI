@@ -1,0 +1,3 @@
+linearità:            0.9
+essenzialità:         0.9
+plasticità:           0.9

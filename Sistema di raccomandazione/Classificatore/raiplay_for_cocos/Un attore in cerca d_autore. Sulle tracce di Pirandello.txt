@@ -1,0 +1,14 @@
+viaggio:              0.9
+ricerca:              0.9
+attore:               0.9
+fabrizio:             0.9
+falco:                0.9
+luogo:                0.9
+pirandelliani:        0.9
+sicilia:              0.9
+milano:               0.9
+eredità:              0.9
+riflettere:           0.9
+scrittore:            0.9
+anno:                 0.9
+nascita:              0.9

@@ -1,0 +1,4 @@
+pesta|peste:          0.9
+corno:                0.9
+trappola:             0.9
+mano:                 0.9

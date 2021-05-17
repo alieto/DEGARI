@@ -1,0 +1,16 @@
+mostro:               0.9
+inconscio:            0.9
+surfanta:             0.9
+rigido:               0.9
+cretaceceo:           0.9
+corno:                0.9
+psichedelico:         0.9
+simbolo:              0.9
+occhio:               0.9
+verde:                0.9
+subconscio_spugnoso:  0.9
+butterato:            0.9
+decomporre:           0.9
+cucciolo:             0.9
+nutrimento:           0.9
+allattamento:         0.9

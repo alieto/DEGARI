@@ -1,0 +1,4 @@
+ritorno:              0.9
+casa:                 0.9
+perduto_amore:        0.9
+abbandono:            0.9

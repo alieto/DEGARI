@@ -1,0 +1,7 @@
+albero:               0.9
+frattali:             0.9
+neve:                 0.9
+verde:                0.9
+cielo:                0.9
+fiocchi_di_neve:      0.9
+cristallo:            0.9

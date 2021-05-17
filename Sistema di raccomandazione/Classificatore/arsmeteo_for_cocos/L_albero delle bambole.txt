@@ -1,0 +1,6 @@
+albero:               0.9
+bambola:              0.9
+surfanta:             0.9
+verde:                0.9
+acido:                0.9
+seduta:               0.9

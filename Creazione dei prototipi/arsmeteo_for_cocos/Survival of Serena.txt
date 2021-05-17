@@ -1,0 +1,5 @@
+iper_realista:        0.9
+costume_da_bagno:     0.9
+donna:                0.9
+bagno:                0.9
+survival:             0.9

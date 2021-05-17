@@ -1,0 +1,10 @@
+-digitale+:           0.9
+-vaso+:               0.9
+-riflessi+:           0.9
+-riflesso+:           0.9
+limone:               0.9
+-natura_morta+:       0.9
+-specchiato+:         0.9
+-innatura+:           0.9
+trasparenza:          0.9
+vetro:                0.9

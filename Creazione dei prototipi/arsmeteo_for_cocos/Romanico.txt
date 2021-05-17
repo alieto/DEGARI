@@ -1,0 +1,3 @@
+variazione:           0.9
+pulsazione:           0.9
+spettro_vivente:      0.9

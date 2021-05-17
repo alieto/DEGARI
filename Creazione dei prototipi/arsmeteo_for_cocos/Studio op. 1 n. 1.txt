@@ -1,0 +1,4 @@
+studio:               0.9
+linee_rette:          0.9
+oro:                  0.9
+blu:                  0.9

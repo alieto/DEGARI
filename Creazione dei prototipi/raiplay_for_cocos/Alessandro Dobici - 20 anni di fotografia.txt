@@ -1,0 +1,17 @@
+documentario:         0.9
+panoramica:           0.9
+offrire:              0.9
+lavoro:               0.9
+dobici:               0.9
+luogo:                0.9
+volto:                0.9
+gente:                0.9
+comune:               0.9
+famoso:               0.9
+personaggio:          0.9
+cultura:              0.9
+spettacolo:           0.9
+metà:                 0.9
+anno:                 0.9
+novanta:              0.9
+giorno:               0.9

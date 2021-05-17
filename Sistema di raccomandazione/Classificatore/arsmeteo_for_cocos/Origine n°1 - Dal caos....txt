@@ -1,0 +1,5 @@
+farfalla:             0.9
+sincronicità:         0.9
+caos:                 0.9
+musica:               0.9
+spartito:             0.9

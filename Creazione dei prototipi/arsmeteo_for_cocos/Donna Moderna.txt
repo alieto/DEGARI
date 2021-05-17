@@ -1,0 +1,8 @@
+vampiro:              0.9
+viola:                0.9
+castello:             0.9
+luna_nera:            0.9
+declivio:             0.9
+occhio:               0.9
+uccello:              0.9
+inquietante:          0.9

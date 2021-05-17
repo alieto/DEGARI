@@ -1,0 +1,4 @@
+tempesta:             0.9
+nave:                 0.9
+precariartà:          0.9
+vita:                 0.9

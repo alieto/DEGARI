@@ -1,0 +1,3 @@
+energia:              0.9
+zen:                  0.9
+kundalini:            0.9

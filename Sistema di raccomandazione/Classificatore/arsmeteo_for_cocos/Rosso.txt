@@ -1,0 +1,22 @@
+-paesaggio+:          0.9
+-contemporà:          0.9
+neo+:                 0.9
+-natura+:             0.9
+-materia+:            0.9
+-espressionismo+:     0.9
+-informale+:          0.9
+-concrezioni_materiche+:0.9
+-violenza+:           0.9
+-primordiale+:        0.9
+-terra+:              0.9
+-desertificato+:      0.9
+-marea+:              0.9
+-disastro_ambientale+:0.9
+motivo:               0.9
+fosforescenza:        0.9
+calore:               0.9
+temperamento:         0.9
+energia:              0.9
+graffito:             0.9
+segno:                0.9
+malta:                0.9

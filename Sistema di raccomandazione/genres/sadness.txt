@@ -1,0 +1,12 @@
+heartbreaking: 0.969
+mourning: 0.969
+tragic: 0.961
+holocaust: 0.953
+suicidal: 0.941
+misery: 0.938
+massacre: 0.931
+euthanasia: 0.927
+depression: 0.925
+fatal: 0.922
+devastation: 0.917
+death: 0.915

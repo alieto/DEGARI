@@ -1,0 +1,6 @@
+lettera:              0.9
+carattere:            0.9
+lettere_raccolte:     0.9
+palla_di_lettere:     0.9
+scarafaggio:          0.9
+caus:                 0.9

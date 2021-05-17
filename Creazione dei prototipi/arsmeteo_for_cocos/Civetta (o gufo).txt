@@ -1,0 +1,7 @@
+fiore:                0.9
+pianta:               0.9
+natura:               0.9
+gufo:                 0.9
+civetta:              0.9
+composizione:         0.9
+giardino:             0.9

@@ -1,0 +1,3 @@
+fuoco:                0.9
+tensione:             0.9
+determinazione:       0.9

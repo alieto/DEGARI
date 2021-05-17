@@ -1,0 +1,8 @@
+serendipity:          0.9
+netville:             0.9
+visualtag:            0.9
+serendipitag:         0.9
+arscrittura:          0.9
+machina:              0.9
+scrittura:            0.9
+word_in_process:      0.9

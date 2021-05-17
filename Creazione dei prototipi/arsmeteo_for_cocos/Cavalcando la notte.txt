@@ -1,0 +1,3 @@
+cavallo_alato:        0.9
+notte:                0.9
+falce_di_luna:        0.9

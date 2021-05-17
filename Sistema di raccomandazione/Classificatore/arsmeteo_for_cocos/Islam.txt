@@ -1,0 +1,6 @@
+islam:                0.9
+libro:                0.9
+futuro:               0.9
+cultura:              0.9
+colore:               0.9
+sguardo:              0.9

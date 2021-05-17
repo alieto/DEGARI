@@ -1,0 +1,2 @@
+cattedrale:           0.9
+paesaggio_fantastico: 0.9

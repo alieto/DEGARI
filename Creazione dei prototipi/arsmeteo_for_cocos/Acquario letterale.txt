@@ -1,0 +1,6 @@
+acquario:             0.9
+letterale:            0.9
+libro:                0.9
+lettera:              0.9
+acqua:                0.9
+bollicina:            0.9

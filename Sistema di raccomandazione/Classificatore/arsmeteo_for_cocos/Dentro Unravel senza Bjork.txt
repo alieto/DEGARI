@@ -1,0 +1,11 @@
+websistenzialismo:    0.9
+essere_nello_schermo: 0.9
+amico:                0.9
+essere:               0.9
+casa:                 0.9
+metavideo:            0.9
+rifilmare:            0.9
+triste:               0.9
+vuoto:                0.9
+lento:                0.9
+radiohead:            0.9

@@ -1,0 +1,4 @@
+ascolto:              0.9
+cuore:                0.9
+orecchio:             0.9
+ascolta_il_cuore:     0.9

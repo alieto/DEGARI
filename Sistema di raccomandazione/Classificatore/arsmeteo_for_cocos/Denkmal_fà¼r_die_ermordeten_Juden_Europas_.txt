@@ -1,0 +1,3 @@
+memoria:              0.9
+berlino:              0.9
+olocausto:            0.9

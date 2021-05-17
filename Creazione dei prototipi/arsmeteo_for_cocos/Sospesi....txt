@@ -1,0 +1,3 @@
+omino:                0.9
+sospeso:              0.9
+mondo:                0.9

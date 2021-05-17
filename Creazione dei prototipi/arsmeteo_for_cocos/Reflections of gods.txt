@@ -1,0 +1,7 @@
+isola:                0.9
+moai:                 0.9
+pasqua:               0.9
+simbolismo:           0.9
+sfera:                0.9
+conoscenza:           0.9
+microcosmo:           0.9

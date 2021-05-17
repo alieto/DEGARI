@@ -1,0 +1,7 @@
+arabesco:             0.9
+tunnel:               0.9
+porta:                0.9
+ramo:                 0.9
+ricorsione:           0.9
+labirinto:            0.9
+pennacchio:           0.9

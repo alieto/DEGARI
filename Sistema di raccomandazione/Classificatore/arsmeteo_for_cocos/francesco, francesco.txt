@@ -1,0 +1,6 @@
+houston:              0.9
+foto_rubate:          0.9
+fine_arts:            0.9
+_puà²_fotografare:    0.9
+perché_non_si:        0.9
+boh:                  0.9

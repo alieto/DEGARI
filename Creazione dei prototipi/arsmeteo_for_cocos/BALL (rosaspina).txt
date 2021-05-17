@@ -1,0 +1,7 @@
+ball:                 0.9
+rosaspina:            0.9
+multiplo:             0.9
+disco:                0.9
+vinile:               0.9
+lp:                   0.9
+calcio:               0.9

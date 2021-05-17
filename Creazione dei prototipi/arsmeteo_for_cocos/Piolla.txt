@@ -1,0 +1,8 @@
+cane:                 0.9
+femmina:              0.9
+gialla:               0.9
+solo:                 0.9
+ridere:               0.9
+bellezza:             0.9
+mammifero:            0.9
+animale:              0.9

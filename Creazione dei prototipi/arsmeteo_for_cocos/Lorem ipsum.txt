@@ -1,0 +1,6 @@
+lorem_ipsum:          0.9
+dolor_sit_amet:       0.9
+archetipo:            0.9
+simmetria:            0.9
+riflassioni:          0.9
+messaggio:            0.9

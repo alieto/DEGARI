@@ -1,0 +1,8 @@
+pauroso:              0.9
+timido:               0.9
+appariscente:         0.9
+nascondere:           0.9
+involontaria_apparenza:0.9
+colore:               0.9
+veleno:               0.9
+urticante:            0.9

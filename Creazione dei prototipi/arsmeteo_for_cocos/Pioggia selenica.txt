@@ -1,0 +1,5 @@
+linea:                0.9
+farfalla:             0.9
+spartito:             0.9
+partitura:            0.9
+selene:               0.9

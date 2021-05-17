@@ -1,0 +1,4 @@
+guru:                 0.9
+reggia_di_venaria:    0.9
+di_spalle:            0.9
+gianni_colombo:       0.9

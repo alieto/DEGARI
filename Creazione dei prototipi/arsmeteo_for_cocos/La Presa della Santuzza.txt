@@ -1,0 +1,9 @@
+festino:              0.9
+folla:                0.9
+palermo:              0.9
+confusione:           0.9
+esaltazione:          0.9
+pesta|peste:          0.9
+spettacolo:           0.9
+popolare:             0.9
+giochi_di_fuoco:      0.9

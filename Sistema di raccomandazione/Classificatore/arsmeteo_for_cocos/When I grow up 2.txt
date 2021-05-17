@@ -1,0 +1,6 @@
+occhio:               0.9
+ciglio:               0.9
+bocca:                0.9
+labbro:               0.9
+bambina:              0.9
+quando_sarà²_grande:  0.9

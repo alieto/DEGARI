@@ -1,0 +1,7 @@
+urbanistica:          0.9
+paesaggio:            0.9
+industriale:          0.9
+diocesano:            0.9
+condizionatore:       0.9
+mutamento:            0.9
+insediamento:         0.9

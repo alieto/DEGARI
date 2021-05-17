@@ -1,0 +1,12 @@
+donna:                0.9
+aspettare:            0.9
+orizzonte:            0.9
+barca:                0.9
+attesa:               0.9
+olismo:               0.9
+tutto_parte_di_tutto: 0.9
+gocce_di_colore:      0.9
+cromatismo:           0.9
+spiaggia:             0.9
+mare:                 0.9
+ritorno:              0.9

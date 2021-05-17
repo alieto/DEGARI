@@ -1,0 +1,7 @@
+velo:                 0.9
+dorare:               0.9
+statua:               0.9
+restauro:             0.9
+impermeabile:         0.9
+doratura:             0.9
+fede_nel_sintetico:   0.9

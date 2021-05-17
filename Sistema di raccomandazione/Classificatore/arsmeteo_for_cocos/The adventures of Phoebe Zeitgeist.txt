@@ -1,0 +1,7 @@
+zeitgeist:            0.9
+cartoon:              0.9
+published:            0.9
+sessantotto:          0.9
+grove_press:          0.9
+evergreen_review:     0.9
+beatnik_rag:          0.9

@@ -1,0 +1,5 @@
+rappresentazione:     0.9
+illusione:            0.9
+errequattro:          0.9
+verità:               0.9
+automobile:           0.9

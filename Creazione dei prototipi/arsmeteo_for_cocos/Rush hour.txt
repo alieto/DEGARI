@@ -1,0 +1,5 @@
+flamingo:             0.9
+volo:                 0.9
+leggiadria:           0.9
+rosa:                 0.9
+acqua:                0.9

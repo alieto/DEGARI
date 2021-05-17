@@ -1,0 +1,6 @@
+ragazza:              0.9
+nudo:                 0.9
+pudore:               0.9
+mano:                 0.9
+capelli_neri:         0.9
+orecchino:            0.9

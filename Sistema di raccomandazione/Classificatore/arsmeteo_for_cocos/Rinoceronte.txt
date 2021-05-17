@@ -1,0 +1,9 @@
+rinoceronte:          0.9
+corsa:                0.6
+animale:              0.6
+blu:                  0.6
+furia:                0.6
+carica:               0.6
+legno:                0.6
+juta:                 0.6
+composizione:         0.6

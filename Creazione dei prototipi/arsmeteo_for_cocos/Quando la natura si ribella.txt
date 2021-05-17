@@ -1,0 +1,4 @@
+acqua:                0.9
+turbina|turbine:      0.9
+carta:                0.9
+azzurro:              0.9

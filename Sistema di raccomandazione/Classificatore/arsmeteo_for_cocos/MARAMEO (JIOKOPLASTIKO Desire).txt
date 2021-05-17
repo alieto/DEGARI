@@ -1,0 +1,5 @@
+marameo:              0.9
+jiokoplastiko:        0.9
+streamfest:           0.9
+desire:               0.9
+corradu:              0.9

@@ -1,0 +1,5 @@
+mediterraneo:         0.9
+cortile:              0.9
+mattino:              0.9
+inverno:              0.9
+cellulare:            0.9

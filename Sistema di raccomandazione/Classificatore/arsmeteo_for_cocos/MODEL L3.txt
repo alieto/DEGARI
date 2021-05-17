@@ -1,0 +1,12 @@
+sguardo:              0.9
+occhio:               0.9
+natura:               0.9
+sauri|sauro:          0.9
+peace:                0.9
+global_orgasm:        0.9
+fallo:                0.9
+netville:             0.9
+fate_l_amore:         0.9
+pensiero_debole:      0.9
+solstizio:            0.9
+pelle:                0.9

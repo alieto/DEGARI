@@ -1,0 +1,7 @@
+tecnica:              0.9
+mista:                0.9
+mixed:                0.9
+media:                0.9
+tela:                 0.9
+canvas:               0.9
+variazione:           0.9

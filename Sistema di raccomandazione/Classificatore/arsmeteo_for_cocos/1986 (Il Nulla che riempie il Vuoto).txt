@@ -1,0 +1,5 @@
+infanzia:             0.9
+chernobyl:            0.9
+nucleare:             0.9
+storia:               0.9
+energia:              0.9

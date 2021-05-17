@@ -1,0 +1,5 @@
+obrello:              0.9
+armadio:              0.9
+divertente:           0.9
+appendere:            0.9
+movimento:            0.9

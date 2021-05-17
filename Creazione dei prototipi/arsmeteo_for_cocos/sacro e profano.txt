@@ -1,0 +1,5 @@
+moschea:              0.9
+omayad:               0.9
+verde_que_te_quiero_verde:0.9
+storia:               0.9
+mistica:              0.9

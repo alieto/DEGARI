@@ -1,0 +1,8 @@
+devastazione:         0.9
+umiliazione:          0.9
+orgoglio:             0.9
+presunzione:          0.9
+schiacciare:          0.9
+interpretazione:      0.9
+dono:                 0.9
+fatica:               0.9

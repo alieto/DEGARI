@@ -1,0 +1,4 @@
+sinapsi:              0.9
+disegno:              0.9
+colore:               0.9
+collega_menti:        0.9

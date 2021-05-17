@@ -1,0 +1,10 @@
+universo:             0.9
+spazio:               0.9
+pianeta:              0.9
+sfera:                0.9
+laser:                0.9
+luce:                 0.9
+luce_accecante:       0.9
+centro:               0.9
+gravità:              0.9
+irraggiamento:        0.9

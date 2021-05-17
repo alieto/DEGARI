@@ -1,0 +1,4 @@
+citazione:            0.9
+rivisitazione:        0.9
+restauro:             0.9
+piede:                0.9

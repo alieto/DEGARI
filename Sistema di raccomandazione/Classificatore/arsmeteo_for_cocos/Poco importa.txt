@@ -1,0 +1,7 @@
+lago:                 0.9
+montagna:             0.9
+freddo:               0.9
+riva:                 0.9
+ghiaccio:             0.9
+gelo:                 0.9
+lago_montano:         0.9

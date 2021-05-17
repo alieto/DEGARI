@@ -1,0 +1,5 @@
+la_luce:              0.9
+dancing:              0.9
+sotto_la_luna:        0.9
+porte_finestre:       0.9
+geometria:            0.9

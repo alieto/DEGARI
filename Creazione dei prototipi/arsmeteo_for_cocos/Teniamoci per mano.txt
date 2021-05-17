@@ -1,0 +1,3 @@
+legame:               0.9
+l_onda:               0.9
+greco:                0.9

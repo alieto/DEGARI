@@ -1,0 +1,6 @@
+bicchiere:            0.9
+mendoza:              0.9
+vino:                 0.9
+zuccardi:             0.9
+ospitalità:           0.9
+malbec:               0.9

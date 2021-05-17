@@ -1,0 +1,8 @@
+fuoco:                0.9
+terra:                0.9
+acqua:                0.9
+aria:                 0.9
+elemento:             0.9
+quattro_elementi:     0.9
+sostanza:             0.9
+alchimia:             0.9

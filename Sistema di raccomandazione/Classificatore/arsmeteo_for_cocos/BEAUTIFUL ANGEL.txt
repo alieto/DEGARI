@@ -1,0 +1,5 @@
+beautiful_angel:      0.9
+angelo:               0.9
+wim_wenders:          0.9
+ala:                  0.9
+tovaglia:             0.9

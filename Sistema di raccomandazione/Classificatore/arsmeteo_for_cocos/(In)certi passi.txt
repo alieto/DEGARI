@@ -1,0 +1,9 @@
+passo:                0.9
+piede:                0.9
+acqua:                0.9
+vuoto:                0.9
+baratro:              0.9
+inquietudine:         0.9
+sorvolare:            0.9
+imprevisto:           0.9
+futuro:               0.9

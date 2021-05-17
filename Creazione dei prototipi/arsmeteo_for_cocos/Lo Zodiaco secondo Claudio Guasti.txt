@@ -1,0 +1,11 @@
+segno_zodiaco_ariete+:0.9
+-segno_zodiaco_toro+: 0.9
+-segno_zodiaco_gemelli+:0.9
+-segno_zodiaco_cancro+:0.9
+-segno_zodiaco_leone+:0.9
+-segno_zodiaco_vergine+:0.9
+-segno_zodiaco_bilancia+:0.9
+-segno_zodiaco_scorpione+:0.9
+-segno_zodiaco_sagittario+:0.9
+-segno_zodiaco_capricorno+:0.9
+-segno_z:             0.9

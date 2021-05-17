@@ -1,0 +1,5 @@
+natura:               0.9
+incontaminato:        0.9
+serenità:             0.9
+relax:                0.9
+pace:                 0.9

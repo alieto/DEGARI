@@ -1,0 +1,13 @@
+digigrafia:           0.9
+acrilico:             0.9
+pittura:              0.9
+collezione:           0.9
+gallery:              0.9
+interiore:            0.9
+pensiero:             0.9
+giallo:               0.9
+colore:               0.9
+sogno:                0.9
+astratto:             0.9
+neo:                  0.9
+contemporà:           0.9

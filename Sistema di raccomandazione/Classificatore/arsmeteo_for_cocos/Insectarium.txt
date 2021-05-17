@@ -1,0 +1,3 @@
+zampette:             0.9
+insetto:              0.9
+solo:                 0.9

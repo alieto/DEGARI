@@ -1,0 +1,6 @@
+folla:                0.9
+odore:                0.9
+luce_tra_la_folla:    0.9
+sentore:              0.9
+fatica:               0.9
+paris:                0.9

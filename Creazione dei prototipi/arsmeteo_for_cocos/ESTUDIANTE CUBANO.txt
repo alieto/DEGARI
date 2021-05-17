@@ -1,0 +1,12 @@
+turismo:              0.9
+vacanza:              0.9
+barbudos:             0.9
+speciale:             0.9
+periodo:              0.9
+monologo:             0.9
+sovranità:            0.9
+potere:               0.9
+rivoluzione:          0.9
+fidel:                0.9
+havana:               0.9
+netville:             0.9

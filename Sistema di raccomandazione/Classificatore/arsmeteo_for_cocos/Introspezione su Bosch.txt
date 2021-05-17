@@ -1,0 +1,2 @@
+introspezione:        0.9
+bosch:                0.9

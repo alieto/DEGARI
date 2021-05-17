@@ -1,0 +1,6 @@
+vetro:                0.9
+rotto:                0.9
+crepatura:            0.9
+goccia:               0.9
+infrangere:           0.9
+separazione:          0.9

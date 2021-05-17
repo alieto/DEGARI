@@ -1,0 +1,4 @@
+pittura:              0.9
+olio:                 0.9
+simbolismo:           0.9
+uccello:              0.9

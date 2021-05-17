@@ -1,0 +1,4 @@
+mosca:                0.9
+specchio:             0.9
+profondità:           0.9
+campagna:             0.9

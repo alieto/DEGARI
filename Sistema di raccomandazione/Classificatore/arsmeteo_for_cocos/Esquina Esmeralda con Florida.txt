@@ -1,0 +1,5 @@
+angolo:               0.9
+bar:                  0.9
+gente:                0.9
+mangiare:             0.9
+bere:                 0.9

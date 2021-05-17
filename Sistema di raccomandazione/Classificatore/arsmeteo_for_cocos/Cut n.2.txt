@@ -1,0 +1,8 @@
+bambola:              0.9
+pezzo:                0.9
+merce:                0.9
+a_pezzi:              0.9
+consumo:              0.9
+carne:                0.9
+sfruttamento:         0.9
+uso:                  0.9

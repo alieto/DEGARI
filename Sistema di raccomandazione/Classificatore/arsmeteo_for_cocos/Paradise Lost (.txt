@@ -1,0 +1,6 @@
+paradise:             0.9
+dogs:                 0.9
+clones:               0.9
+dollars:              0.9
+clone_dollars:        0.9
+paradise_cloned:      0.9

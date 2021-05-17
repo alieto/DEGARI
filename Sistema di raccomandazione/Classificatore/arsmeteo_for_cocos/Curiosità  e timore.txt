@@ -1,0 +1,5 @@
+paura:                0.9
+timore:               0.9
+curiosità:            0.9
+ignorare:             0.9
+bambina:              0.9

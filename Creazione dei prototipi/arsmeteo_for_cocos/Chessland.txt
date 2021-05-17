@@ -1,0 +1,7 @@
+scacco:               0.9
+king:                 0.9
+pedone:               0.9
+scacchiera:           0.9
+digitale:             0.9
+virtuale:             0.9
+finto:                0.9

@@ -1,0 +1,13 @@
+morte:                0.9
+madre:                0.9
+protagonista:         0.9
+anima:                0.9
+pena:                 0.9
+luogo:                0.9
+ripercorrere:         0.9
+infanzia:             0.9
+tentativo:            0.9
+roma:                 0.9
+rapporto:             0.9
+ricostruire:          0.9
+padre:                0.9

@@ -1,0 +1,5 @@
+tramonto:             0.9
+torre:                0.9
+rossa:                0.9
+malta:                0.9
+orizzonte:            0.9

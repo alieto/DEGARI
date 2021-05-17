@@ -1,0 +1,4 @@
+donna:                0.9
+gente:                0.9
+cappello:             0.9
+ombrello:             0.9

@@ -1,0 +1,2 @@
+vinile:               0.9
+pienezza_sonora:      0.9

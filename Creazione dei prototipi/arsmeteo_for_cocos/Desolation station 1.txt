@@ -1,0 +1,4 @@
+baltimora:            0.9
+hopper:               0.9
+notte:                0.9
+curva:                0.9

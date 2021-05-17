@@ -1,0 +1,2 @@
+chiuso_per_restauro:  0.9
+arrivederci:          0.9

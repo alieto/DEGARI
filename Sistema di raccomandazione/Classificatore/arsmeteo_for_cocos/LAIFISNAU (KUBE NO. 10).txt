@@ -1,0 +1,6 @@
+laifisnau:            0.9
+life_is_now:          0.9
+dieci:                0.9
+totti:                0.9
+bambola:              0.9
+barbie:               0.9

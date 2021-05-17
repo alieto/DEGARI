@@ -1,0 +1,7 @@
+pininfarina:          0.9
+effe:                 0.9
+lettera_f:            0.9
+storia:               0.9
+cronaca_italiana:     0.9
+logo:                 0.9
+anni_italiani:        0.9

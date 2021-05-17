@@ -1,0 +1,5 @@
+100x150:              0.9
+cm:                   0.9
+tecnica:              0.9
+mista:                0.9
+tela:                 0.9

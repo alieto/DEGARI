@@ -1,0 +1,7 @@
+città:                0.9
+metropoli:            0.9
+edificio:             0.9
+attesa:               0.9
+evento:               0.9
+lettera:              0.9
+incombente:           0.9

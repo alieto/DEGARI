@@ -1,0 +1,5 @@
+maschera:             0.9
+grottesca:            0.9
+mascherone:           0.9
+smorfia:              0.9
+ceramica:             0.9

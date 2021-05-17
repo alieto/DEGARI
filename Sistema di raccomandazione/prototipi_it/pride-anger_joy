@@ -1,0 +1,29 @@
+#Title composizione
+Title : anger-joy
+
+#Concetto Principale
+Head Concept Name : anger
+
+#Concetto Modificatore
+Modifier Concept Name : joy
+
+
+
+modifier, -olocausto
+
+T(modifier), felicità, 0.98
+T(modifier), beatitudine, 0.97
+T(modifier), festeggiare, 0.97
+T(modifier), giubilante, 0.97
+T(modifier), estatico, 0.95
+T(modifier), euforia, 0.94
+
+T(head), oltraggiato, 0.96
+T(head), brutalità, 0.96
+T(head), odio, 0.95
+T(head), terrorizzare, 0.94
+T(head), violentemente, 0.94
+T(head), infuriato, 0.94
+
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 2.670722435727374e-06

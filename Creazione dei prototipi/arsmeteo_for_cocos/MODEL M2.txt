@@ -1,0 +1,11 @@
+tarantino:            0.9
+killer:               0.9
+regista:              0.9
+director:             0.9
+ghigno:               0.9
+quentin:              0.9
+cattivo:              0.9
+preciso:              0.9
+pulp:                 0.9
+estremo:              0.9
+netville:             0.9

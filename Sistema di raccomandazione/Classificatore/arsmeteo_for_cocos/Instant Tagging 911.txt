@@ -1,0 +1,6 @@
+negazione:            0.9
+bellezza:             0.9
+instant:              0.9
+tagging:              0.9
+beppe_ronco:          0.9
+kronenberg:           0.9

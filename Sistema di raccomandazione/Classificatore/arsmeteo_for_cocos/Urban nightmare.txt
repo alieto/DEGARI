@@ -1,0 +1,4 @@
+traffico:             0.9
+incubo_urbano:        0.9
+luce:                 0.9
+inquinamento:         0.9

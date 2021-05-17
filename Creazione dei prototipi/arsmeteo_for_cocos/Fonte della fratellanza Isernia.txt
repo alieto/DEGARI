@@ -1,0 +1,11 @@
+fontana:              0.9
+fonte:                0.9
+acqua:                0.9
+fratellanza:          0.9
+molise:               0.9
+cannella:             0.9
+isernia:              0.9
+colonna:              0.9
+seta|sete:            0.9
+vita:                 0.9
+condivisione:         0.9

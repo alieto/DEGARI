@@ -1,0 +1,14 @@
+albero:               0.9
+piattaforma:          0.6
+lembo:                0.6
+radice:               0.6
+nube:                 0.6
+nuvola:               0.6
+azzurro:              0.6
+cielo:                0.6
+tergere:              0.6
+ramo:                 0.6
+velo:                 0.6
+tulle:                0.6
+trasparenza:          0.6
+trasparente:          0.6

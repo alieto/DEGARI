@@ -1,0 +1,2 @@
+punti_di_vista:       0.9
+dall_alto:            0.9

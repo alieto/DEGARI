@@ -1,0 +1,3 @@
+mostro:               0.9
+giocattolo:           0.9
+scatola:              0.9

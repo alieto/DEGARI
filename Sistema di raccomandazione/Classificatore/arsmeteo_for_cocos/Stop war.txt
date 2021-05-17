@@ -1,0 +1,6 @@
+amore:                0.9
+kiss:                 0.9
+grata:                0.9
+minimo:               0.9
+diario:               0.9
+torino:               0.9

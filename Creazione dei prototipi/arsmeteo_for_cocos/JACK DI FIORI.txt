@@ -1,0 +1,5 @@
+jack:                 0.9
+fiore:                0.9
+shining:              0.9
+jack_nicholson:       0.9
+carta:                0.9

@@ -1,0 +1,9 @@
+bianco_e_nero:        0.9
+quiete:               0.9
+tempo:                0.9
+fotografia:           0.9
+attesa:               0.9
+pace:                 0.9
+pecora:               0.9
+prato:                0.9
+vecchio:              0.9

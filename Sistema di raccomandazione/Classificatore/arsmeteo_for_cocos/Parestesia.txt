@@ -1,0 +1,5 @@
+parestesia:           0.9
+sensibile:            0.9
+insensibile:          0.9
+sensibilità:          0.9
+insensibilità:        0.9

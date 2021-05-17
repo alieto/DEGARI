@@ -1,0 +1,7 @@
+tempio:               0.9
+colore:               0.9
+speranza:             0.9
+aspettativa:          0.9
+timore:               0.9
+reverenza:            0.9
+incenso:              0.9

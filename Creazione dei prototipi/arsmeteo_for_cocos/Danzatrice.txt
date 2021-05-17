@@ -1,0 +1,5 @@
+danza:                0.9
+danzatrice:           0.9
+armonia:              0.9
+musica:               0.9
+movimento:            0.9

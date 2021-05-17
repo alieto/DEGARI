@@ -1,0 +1,5 @@
+fondazione:           0.9
+gubelkian:            0.9
+mostra:               0.9
+aquilone:             0.9
+itinerante:           0.9

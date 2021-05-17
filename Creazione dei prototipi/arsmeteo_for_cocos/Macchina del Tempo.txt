@@ -1,0 +1,11 @@
+tempo:                0.9
+passaggio:            0.9
+soglia:               0.9
+varcare:              0.9
+sovrapposizione:      0.9
+ghirigoro:            0.9
+ritratto:             0.9
+plauso:               0.9
+charlie_chaplin:      0.9
+bombetta:             0.9
+strato:               0.9

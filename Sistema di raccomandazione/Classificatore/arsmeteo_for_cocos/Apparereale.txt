@@ -1,0 +1,12 @@
+reale:                0.9
+apparire:             0.9
+tela:                 0.9
+canvas:               0.9
+sabbia:               0.9
+sand:                 0.9
+salento:              0.9
+azzurro:              0.9
+arte:                 0.9
+contemporaneo:        0.9
+informale:            0.9
+materico:             0.9

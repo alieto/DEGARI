@@ -1,0 +1,10 @@
+bambino:              0.9
+povertà:              0.9
+bomba:                0.9
+aiuti_umanitari:      0.9
+capanna:              0.9
+dal_cielo:            0.9
+terzo_mondo:          0.9
+video_gioco:          0.9
+grottesco:            0.9
+tecnologia:           0.9

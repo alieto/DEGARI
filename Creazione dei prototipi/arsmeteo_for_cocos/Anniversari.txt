@@ -1,0 +1,3 @@
+celebrazione:         0.9
+mito:                 0.9
+sigaro:               0.9

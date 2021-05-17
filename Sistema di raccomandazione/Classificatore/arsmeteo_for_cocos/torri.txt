@@ -1,0 +1,8 @@
+cielo:                0.9
+svettare:             0.9
+contrasto:            0.9
+presunzione:          0.9
+soldo:                0.9
+bellezza:             0.9
+visionarietà:         0.9
+conoscenza:           0.9

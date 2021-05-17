@@ -1,0 +1,7 @@
+cappuccetto_rosso:    0.9
+bambina:              0.9
+lupo:                 0.9
+cattivo:              0.9
+possibilità:          0.9
+mondi_possibili:      0.9
+crudeltà:             0.9

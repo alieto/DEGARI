@@ -1,0 +1,7 @@
+gioco:                0.9
+giocatore:            0.9
+linea:                0.9
+dado:                 0.9
+manichino:            0.9
+azzardo:              0.9
+caso:                 0.9

@@ -1,0 +1,8 @@
+mare:                 0.9
+electronic:           0.9
+ambient:              0.9
+elettronico:          0.9
+violare:              0.9
+violino:              0.9
+documentario:         0.9
+poesia:               0.9

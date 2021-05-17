@@ -1,0 +1,5 @@
+strada:               0.9
+percorso:             0.9
+via:                  0.9
+astrazione:           0.9
+immaginazione:        0.9

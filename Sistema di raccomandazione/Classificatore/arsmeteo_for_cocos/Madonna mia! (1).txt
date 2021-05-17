@@ -1,0 +1,5 @@
+madonna_del_mare:     0.9
+devozione:            0.9
+sforzo:               0.9
+fardello:             0.9
+altarino:             0.9

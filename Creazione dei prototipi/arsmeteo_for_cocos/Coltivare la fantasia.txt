@@ -1,0 +1,6 @@
+fantasia:             0.9
+innaffiare:           0.9
+arcobaleno:           0.9
+colore:               0.9
+metafora:             0.9
+caus:                 0.9

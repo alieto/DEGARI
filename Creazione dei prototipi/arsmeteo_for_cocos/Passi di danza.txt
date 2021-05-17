@@ -1,0 +1,6 @@
+tango:                0.9
+isa:                  0.9
+piede:                0.9
+scarpa:               0.9
+gamba:                0.9
+ritmo:                0.9

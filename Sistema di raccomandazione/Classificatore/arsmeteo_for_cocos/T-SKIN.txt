@@ -1,0 +1,4 @@
+t_shirt:              0.9
+cerchio:              0.9
+cerchi_concentrici:   0.9
+design:               0.9

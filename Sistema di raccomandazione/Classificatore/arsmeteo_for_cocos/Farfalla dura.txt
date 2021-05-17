@@ -1,0 +1,5 @@
+farfalla:             0.9
+pesante:              0.9
+cielo:                0.9
+sospendere:           0.9
+grigio:               0.9

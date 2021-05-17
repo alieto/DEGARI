@@ -1,0 +1,3 @@
+astratto:             0.9
+matematizzazione:     0.9
+miracoli_digitali:    0.9

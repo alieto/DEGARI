@@ -1,0 +1,6 @@
+bambina:              0.9
+danza:                0.9
+iconografia_cattolica:0.9
+gesà¹:                0.9
+via_crucis:           0.9
+video_animazione:     0.9

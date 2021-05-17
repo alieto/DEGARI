@@ -1,0 +1,3 @@
+paese:                0.9
+giovane:              0.9
+blu:                  0.9

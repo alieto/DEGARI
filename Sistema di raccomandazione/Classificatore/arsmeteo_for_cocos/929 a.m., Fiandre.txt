@@ -1,0 +1,4 @@
+lancetta:             0.9
+convenzione:          0.9
+indicazione:          0.9
+restrizione:          0.9

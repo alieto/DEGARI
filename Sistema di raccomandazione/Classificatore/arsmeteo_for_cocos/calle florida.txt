@@ -1,0 +1,5 @@
+homer:                0.9
+rolling_stones:       0.9
+chiosco:              0.9
+mattino:              0.9
+buenos_aires:         0.9

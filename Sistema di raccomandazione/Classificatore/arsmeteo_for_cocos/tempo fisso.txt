@@ -1,0 +1,6 @@
+cortile:              0.9
+torino:               0.9
+incanto:              0.9
+sotto_la_mole:        0.9
+ruggine:              0.9
+verde:                0.9

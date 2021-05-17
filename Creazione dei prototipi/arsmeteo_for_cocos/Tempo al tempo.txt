@@ -1,0 +1,10 @@
+tempo:                0.9
+sogno:                0.9
+dreams:               0.9
+arte:                 0.9
+eco:                  0.9
+ecologia:             0.9
+pensiero:             0.9
+radice:               0.9
+gallery:              0.9
+surrealismo:          0.9

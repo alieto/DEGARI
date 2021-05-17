@@ -1,0 +1,2 @@
+gemello:              0.9
+rivista:              0.9

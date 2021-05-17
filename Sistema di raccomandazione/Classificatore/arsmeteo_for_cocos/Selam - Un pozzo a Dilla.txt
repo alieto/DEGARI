@@ -1,0 +1,3 @@
+etiopia:              0.9
+dire:                 0.9
+international_help:   0.9

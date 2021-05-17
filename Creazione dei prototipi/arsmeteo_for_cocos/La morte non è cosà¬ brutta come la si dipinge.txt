@@ -1,0 +1,3 @@
+morte:                0.9
+fiore:                0.9
+amore:                0.9

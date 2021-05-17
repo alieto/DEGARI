@@ -1,0 +1,5 @@
+natura-:              0.9
+colore-:              0.9
+verde-:               0.9
+piccolezza:           0.9
+sfuocatura:           0.9

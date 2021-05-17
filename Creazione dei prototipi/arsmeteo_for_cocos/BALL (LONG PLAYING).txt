@@ -1,0 +1,7 @@
+ball:                 0.9
+long_playing:         0.9
+lp:                   0.9
+33-giri:              0.9
+palla:                0.9
+pallone:              0.9
+calcio:               0.9

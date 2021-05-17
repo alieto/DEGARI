@@ -1,0 +1,6 @@
+bambola:              0.9
+periodo_blu:          0.9
+picasso:              0.9
+surfanta:             0.9
+surreale:             0.9
+blu:                  0.9

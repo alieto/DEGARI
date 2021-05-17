@@ -1,0 +1,5 @@
+reciso:               0.9
+metafora:             0.9
+mare:                 0.9
+radice:               0.9
+cielo:                0.9

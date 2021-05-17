@@ -1,0 +1,9 @@
+guardiano:            0.9
+becco:                0.9
+masso:                0.9
+ramo:                 0.9
+idea_pesante:         0.9
+surfanta:             0.9
+surreale:             0.9
+sul_ramo:             0.9
+sedere:               0.9

@@ -1,0 +1,3 @@
+paura:                0.9
+amore:                0.9
+negazione:            0.9

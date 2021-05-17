@@ -1,0 +1,9 @@
+madre:                0.9
+fotografia:           0.9
+colore:               0.9
+-legno+:              0.9
+cerchio:              0.9
+-minimale+:           0.9
+-forme+:              0.9
+-cerchi_concentrici+: 0.9
+spirituale:           0.9

@@ -1,0 +1,7 @@
+baldanza:             0.9
+tracotanza:           0.9
+sfida:                0.9
+cromatura:            0.9
+chiodo:               0.9
+ciuffo:               0.9
+motore:               0.9

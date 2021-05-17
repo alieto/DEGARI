@@ -1,0 +1,3 @@
+angelo:               0.9
+diavolo:              0.9
+quadratino_evoluto:   0.9

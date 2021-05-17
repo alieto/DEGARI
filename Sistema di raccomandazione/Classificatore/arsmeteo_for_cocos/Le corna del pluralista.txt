@@ -1,0 +1,3 @@
+memento:              0.9
+eppure_è_successo:    0.9
+memoria:              0.9

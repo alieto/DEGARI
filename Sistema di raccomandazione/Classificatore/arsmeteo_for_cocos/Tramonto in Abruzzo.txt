@@ -1,0 +1,7 @@
+tramonto:             0.9
+lampione:             0.9
+siluette:             0.9
+nuvola:               0.9
+imbrunire:            0.9
+fine:                 0.9
+pace:                 0.9

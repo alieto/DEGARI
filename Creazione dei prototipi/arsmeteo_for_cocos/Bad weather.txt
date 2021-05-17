@@ -1,0 +1,4 @@
+fulmine:              0.9
+pixel:                0.9
+digitale:             0.9
+frammentazione:       0.9

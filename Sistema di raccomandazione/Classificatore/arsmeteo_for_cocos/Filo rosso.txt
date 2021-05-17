@@ -1,0 +1,10 @@
+trittico:             0.9
+disegno:              0.9
+francesco:            0.9
+arte:                 0.9
+nociti:               0.9
+contemporaneo:        0.9
+torino:               0.9
+filo:                 0.9
+italia:               0.9
+rosso:                0.9

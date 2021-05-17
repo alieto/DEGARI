@@ -1,0 +1,3 @@
+pinocchio:            0.9
+burattino:            0.9
+studio:               0.9

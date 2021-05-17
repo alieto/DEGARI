@@ -1,0 +1,8 @@
+quadro:               0.9
+esposizione:          0.9
+artista:              0.9
+critica:              0.9
+interpretazione:      0.9
+opera_collettiva:     0.9
+ironia:               0.9
+arte:                 0.9

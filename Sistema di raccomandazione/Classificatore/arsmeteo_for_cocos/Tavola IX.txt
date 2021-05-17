@@ -1,0 +1,5 @@
+busto:                0.9
+sedia:                0.9
+seno:                 0.9
+collage:              0.9
+in_bilico:            0.9

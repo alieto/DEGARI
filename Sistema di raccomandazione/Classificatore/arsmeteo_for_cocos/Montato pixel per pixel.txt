@@ -1,0 +1,3 @@
+pixels:               0.9
+mandare:              0.9
+meditazione:          0.9

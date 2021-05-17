@@ -1,0 +1,3 @@
+sestri_levante:       0.9
+scorcio_villaggio:    0.9
+occultare:            0.9

@@ -1,0 +1,4 @@
+riflesso:             0.9
+oscuro:               0.9
+donna:                0.9
+specchio_nero:        0.9

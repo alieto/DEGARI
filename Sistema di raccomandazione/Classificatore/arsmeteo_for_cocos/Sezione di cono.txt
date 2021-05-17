@@ -1,0 +1,4 @@
+sezione:              0.9
+cono:                 0.9
+geometria:            0.9
+piano:                0.9

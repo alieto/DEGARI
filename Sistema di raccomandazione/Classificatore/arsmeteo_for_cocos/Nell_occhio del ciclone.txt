@@ -1,0 +1,3 @@
+mondo:                0.9
+celesta|celeste:      0.9
+pioggia:              0.9

@@ -1,0 +1,4 @@
+in_volo:              0.9
+farfalla:             0.9
+orizzonte:            0.9
+mare:                 0.9

@@ -1,0 +1,5 @@
+pop:                  0.9
+manifesto:            0.9
+percorso:             0.9
+verde:                0.9
+newpop:               0.9

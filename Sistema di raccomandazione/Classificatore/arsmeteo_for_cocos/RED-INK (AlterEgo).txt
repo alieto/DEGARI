@@ -1,0 +1,8 @@
+red_ink:              0.9
+red:                  0.9
+ink:                  0.9
+anagramma:            0.9
+kinder:               0.9
+alter_ego:            0.9
+eduardo:              0.9
+figlio:               0.9

@@ -1,0 +1,4 @@
+piramide:             0.9
+urbano:               0.9
+ripetizione:          0.9
+colori_nascosti:      0.9

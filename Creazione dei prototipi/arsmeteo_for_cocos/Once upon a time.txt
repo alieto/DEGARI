@@ -1,0 +1,6 @@
+bambino:              0.9
+mente:                0.9
+portatile:            0.9
+computer:             0.9
+conoscenza:           0.9
+generazione_x:        0.9

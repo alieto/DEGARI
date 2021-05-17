@@ -1,0 +1,6 @@
+yemen:                0.9
+entrata:              0.9
+muro:                 0.9
+tunica:               0.9
+entrare:              0.9
+direzioni_opposte:    0.9

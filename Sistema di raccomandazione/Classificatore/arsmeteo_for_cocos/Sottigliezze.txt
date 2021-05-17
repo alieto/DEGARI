@@ -1,0 +1,3 @@
+filamento:            0.9
+mandare:              0.9
+bios:                 0.9

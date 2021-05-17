@@ -1,0 +1,4 @@
+novissimo:            0.9
+labor_intus:          0.9
+verbalità:            0.9
+_scom_poste:          0.9

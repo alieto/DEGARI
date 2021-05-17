@@ -1,0 +1,4 @@
+arcobaleno:           0.9
+crescita:             0.9
+foresta:              0.9
+colore:               0.9

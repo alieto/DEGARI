@@ -1,0 +1,6 @@
+glamour:              0.9
+east:                 0.9
+west:                 0.9
+polaroid:             0.9
+sxsettanta:           0.9
+provino:              0.9

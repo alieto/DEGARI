@@ -1,0 +1,5 @@
+pesta|peste:          0.9
+corno:                0.9
+acido:                0.9
+donna:                0.9
+verde:                0.9

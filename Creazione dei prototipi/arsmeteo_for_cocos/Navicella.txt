@@ -1,0 +1,2 @@
+navicella_spaziale:   0.9
+ufo:                  0.9

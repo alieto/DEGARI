@@ -1,0 +1,5 @@
+fiore_fallico:        0.9
+magico:               0.9
+fiore:                0.9
+terra:                0.9
+fiore_strano:         0.9

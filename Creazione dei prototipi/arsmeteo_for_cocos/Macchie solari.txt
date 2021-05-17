@@ -1,0 +1,4 @@
+materiale:            0.9
+astrattismo:          0.9
+solo:                 0.9
+luce:                 0.9

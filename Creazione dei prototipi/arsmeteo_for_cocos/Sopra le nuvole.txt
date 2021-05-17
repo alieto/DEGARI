@@ -1,0 +1,7 @@
+nuvola:               0.9
+montagna:             0.9
+neve:                 0.9
+bianco:               0.9
+altitudine:           0.9
+sopra_le_nuvole:      0.9
+mare_di_nuvole:       0.9

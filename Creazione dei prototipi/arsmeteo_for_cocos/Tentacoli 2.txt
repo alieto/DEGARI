@@ -1,0 +1,3 @@
+cosa_vegetale:        0.9
+labirinto:            0.9
+variazione:           0.9

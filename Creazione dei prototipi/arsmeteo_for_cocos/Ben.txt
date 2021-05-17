@@ -1,0 +1,6 @@
+war:                  0.9
+guerra_mediatica:     0.9
+paura:                0.9
+tempi_duri:           0.9
+angoscia:             0.9
+tv:                   0.9

@@ -1,0 +1,7 @@
+wireframe:            0.9
+linea:                0.9
+geometria:            0.9
+digitale:             0.9
+vettoriale:           0.9
+sound_line:           0.9
+asino:                0.9

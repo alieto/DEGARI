@@ -1,0 +1,13 @@
+invasione:            0.9
+venezia:              0.9
+ufo:                  0.9
+alieno:               0.9
+sbarco:               0.9
+attacco:              0.9
+visionario:           0.9
+tim_burton:           0.9
+laguna:               0.9
+gondoliere:           0.9
+minaccia:             0.9
+extraterrestre:       0.9
+biennale:             0.9

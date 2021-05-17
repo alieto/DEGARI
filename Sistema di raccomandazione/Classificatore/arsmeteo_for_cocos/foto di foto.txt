@@ -1,0 +1,1 @@
+bianco_e_nero:        0.9

@@ -1,0 +1,4 @@
+fede:                 0.9
+telepredicatore:      0.9
+hezbollah:            0.9
+intortatore:          0.9

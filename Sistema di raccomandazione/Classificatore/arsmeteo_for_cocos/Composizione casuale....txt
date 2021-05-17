@@ -1,0 +1,4 @@
+danza:                0.9
+parola:               0.9
+albero:               0.9
+mano:                 0.9

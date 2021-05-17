@@ -1,0 +1,9 @@
+complesso:            0.9
+netville:             0.9
+tacere:               0.9
+embargo:              0.9
+stromboli:            0.9
+paura:                0.9
+viltà:                0.9
+vittima:              0.9
+sguardo:              0.9

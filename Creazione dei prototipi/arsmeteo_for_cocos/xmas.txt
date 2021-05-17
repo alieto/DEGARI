@@ -1,0 +1,4 @@
+cascata:              0.9
+tempio:               0.9
+acqua:                0.9
+improbabile:          0.9

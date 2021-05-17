@@ -1,0 +1,5 @@
+bambola:              0.9
+surfanta:             0.9
+farfalla:             0.9
+frutto:               0.9
+verdognolo:           0.9

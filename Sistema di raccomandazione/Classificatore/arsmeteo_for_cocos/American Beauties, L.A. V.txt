@@ -1,0 +1,8 @@
+glamour:              0.9
+califrnia:            0.9
+los_angeles:          0.9
+west_coast:           0.9
+anni_ruggenti:        0.9
+mito_americano:       0.9
+bellezza:             0.9
+pin_up:               0.9

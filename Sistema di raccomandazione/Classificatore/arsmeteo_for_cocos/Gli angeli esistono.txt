@@ -1,0 +1,5 @@
+angelo:               0.9
+neve:                 0.9
+candore:              0.9
+esistenza:            0.9
+traccia:              0.9

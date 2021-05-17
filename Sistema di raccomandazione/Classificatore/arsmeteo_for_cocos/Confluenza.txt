@@ -1,0 +1,8 @@
+conluenza:            0.9
+parallela:            0.9
+convoluzione:         0.9
+frattali:             0.9
+evoluzione:           0.9
+incontro:             0.9
+inatteso:             0.9
+meraviglia:           0.9

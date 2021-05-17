@@ -1,0 +1,3 @@
+riflesso:             0.9
+infinito:             0.9
+profondo:             0.9

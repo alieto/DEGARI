@@ -1,0 +1,12 @@
+a_night_with:         0.9
+second_life:          0.9
+radio_head:           0.9
+potere:               0.9
+vita:                 0.9
+under_ground:         0.9
+no_logo:              0.9
+artificiale:          0.9
+incontro:             0.9
+bar:                  0.9
+splash:               0.9
+perspective:          0.9

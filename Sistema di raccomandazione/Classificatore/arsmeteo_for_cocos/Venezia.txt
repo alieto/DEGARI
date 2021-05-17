@@ -1,0 +1,8 @@
+venezia:              0.9
+nostalgia:            0.6
+solitudine:           0.6
+pittura_digitale:     0.6
+gondola:              0.6
+bicchiere:            0.6
+acqua:                0.6
+tavolo:               0.6

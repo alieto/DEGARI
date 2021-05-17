@@ -1,0 +1,9 @@
+liguriabarcaimbarcazioneapprodo:0.9
+prua:                 0.9
+in_secca:             0.9
+s_antonio:            0.9
+genova:               0.9
+battigia:             0.9
+argano:               0.9
+carrucola:            0.9
+arenile:              0.9

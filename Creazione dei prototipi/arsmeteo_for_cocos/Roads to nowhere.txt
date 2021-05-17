@@ -1,0 +1,17 @@
+strada:               0.9000000000000001
+roads:                0.6
+way:                  0.6
+salento:              0.6
+lecce:                0.6
+perspective:          0.6
+prospettiva:          0.6
+depth:                0.6
+profondità:           0.6
+deep:                 0.6
+geometry:             0.6
+geometria:            0.6
+empty:                0.6
+vuoto:                0.6
+corsia:               0.6
+cielo:                0.6
+sky:                  0.6

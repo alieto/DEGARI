@@ -1,0 +1,5 @@
+futurismo:            0.9
+marinetti:            0.9
+audio:                0.9
+manifesto:            0.9
+le_figaro:            0.9

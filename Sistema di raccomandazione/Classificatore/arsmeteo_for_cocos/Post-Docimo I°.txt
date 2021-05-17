@@ -1,0 +1,2 @@
+omaggio_a_posdocimo:  0.9
+retro_di_busta:       0.9

@@ -1,0 +1,12 @@
+albero:               0.9
+asse|asso:            0.9
+trave:                0.9
+trasformazione:       0.9
+ponte:                0.9
+vuoto:                0.9
+levitazione:          0.9
+bianco:               0.9
+nero:                 0.9
+china:                0.9
+disegno:              0.9
+schizzo:              0.9

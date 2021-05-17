@@ -1,0 +1,4 @@
+prato:                0.9
+solco:                0.9
+traccia:              0.9
+segno:                0.9

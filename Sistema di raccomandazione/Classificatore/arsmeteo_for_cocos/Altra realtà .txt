@@ -1,0 +1,8 @@
+altra_realtà:         0.9
+pioggia:              0.9
+ombrello:             0.9
+sovrapposizione:      0.9
+altro_mondo:          0.9
+piano:                0.9
+arco:                 0.9
+passaggio:            0.9

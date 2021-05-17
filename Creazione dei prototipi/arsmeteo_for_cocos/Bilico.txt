@@ -1,0 +1,5 @@
+colore:               0.9
+energia:              0.9
+vespa:                0.9
+vicolo:               0.9
+bilico:               0.9

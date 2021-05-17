@@ -1,0 +1,6 @@
+chitarra:             0.9
+iterazione:           0.9
+ripetizione:          0.9
+arancio:              0.9
+gestuale:             0.9
+materico:             0.9

@@ -1,0 +1,4 @@
+finestra:             0.9
+normandia:            0.9
+accumulazione:        0.9
+ripetizione:          0.9

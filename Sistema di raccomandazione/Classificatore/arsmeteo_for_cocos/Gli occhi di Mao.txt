@@ -1,0 +1,4 @@
+zeit-magazine:        0.9
+rifotagrafare:        0.9
+mito:                 0.9
+icona:                0.9

@@ -1,0 +1,8 @@
+fuoco:                0.9000000000000001
+cielo:                0.6
+rosso:                0.6
+scuro:                0.6
+tramonto:             0.6
+terra:                0.6
+nube:                 0.6
+camino:               0.6

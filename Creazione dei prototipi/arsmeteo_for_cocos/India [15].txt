@@ -1,0 +1,5 @@
+india:                0.9
+cielo:                0.9
+azzurro:              0.9
+quadrato:             0.9
+superficie:           0.9

@@ -1,0 +1,8 @@
+medioevo:             0.9
+scala:                0.9
+marmo:                0.9
+abruzzo:              0.9
+portale:              0.9
+chiesa:               0.9
+composizione:         0.9
+stemma:               0.9

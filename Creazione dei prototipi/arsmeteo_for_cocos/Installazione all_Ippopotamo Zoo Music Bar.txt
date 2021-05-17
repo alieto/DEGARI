@@ -1,0 +1,12 @@
+ippopotamo:           0.9
+madre:                0.9
+figlio:               0.9
+zoo:                  0.9
+music:                0.9
+bar:                  0.9
+virtuale:             0.9
+hypercard:            0.9
+visione:              0.9
+multimedia:           0.9
+interattivo:          0.9
+little_brother:       0.9

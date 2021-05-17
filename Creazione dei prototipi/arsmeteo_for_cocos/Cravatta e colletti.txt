@@ -1,0 +1,8 @@
+pelata:               0.9
+occhiale:             0.9
+passeggio:            0.9
+sfocatura:            0.9
+colletto:             0.9
+cravatta:             0.9
+costume:              0.9
+distacco:             0.9

@@ -1,0 +1,4 @@
+trucco:               0.9
+paura:                0.9
+finzione:             0.9
+cine:                 0.9

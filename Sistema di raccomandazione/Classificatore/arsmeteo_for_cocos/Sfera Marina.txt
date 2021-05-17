@@ -1,0 +1,10 @@
+imbarcazione:         0.9
+vela:                 0.9
+mare:                 0.9
+sirena:               0.9
+sfera:                0.9
+albero:               0.9
+contorsione:          0.9
+vento:                0.9
+blu:                  0.9
+tempestoso:           0.9

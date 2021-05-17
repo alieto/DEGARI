@@ -1,0 +1,5 @@
+rude:                 0.9
+opera_in_affidamento: 0.9
+acustico:             0.9
+ricupero:             0.9
+macchina_musicale:    0.9

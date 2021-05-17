@@ -1,0 +1,5 @@
+occhiale:             0.9
+lametta:              0.9
+punizione:            0.9
+sarcasmo:             0.9
+aprire_gli_occhi:     0.9

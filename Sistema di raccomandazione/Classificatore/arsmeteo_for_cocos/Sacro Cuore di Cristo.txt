@@ -1,0 +1,4 @@
+cristo:               0.9
+cuore:                0.9
+figlio_di_dio:        0.9
+luce:                 0.9

@@ -1,0 +1,5 @@
+arte:                 0.9
+bello:                0.9
+mostro:               0.9
+donna:                0.9
+freak:                0.9

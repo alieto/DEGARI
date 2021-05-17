@@ -1,0 +1,8 @@
+taglio:               0.9
+frammento:            0.9
+linea:                0.9
+divisione:            0.9
+fiammifero:           0.9
+sparso:               0.9
+spartito:             0.9
+partitura:            0.9

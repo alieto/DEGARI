@@ -1,0 +1,5 @@
+medusa:               0.9
+medea:                0.9
+specchio:             0.9
+bianco:               0.9
+chiesa_sconsacrata:   0.9

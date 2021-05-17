@@ -1,0 +1,6 @@
+albo:                 0.9
+estate:               0.9
+atmosfera:            0.9
+accogliente:          0.9
+patina:               0.9
+ennio_bertrand:       0.9

@@ -1,0 +1,3 @@
+paesaggio:            0.9
+terra:                0.9
+mare:                 0.9

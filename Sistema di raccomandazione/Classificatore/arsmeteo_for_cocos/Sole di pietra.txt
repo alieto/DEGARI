@@ -1,0 +1,7 @@
+pietra:               0.9
+simbolo:              0.9
+ruota:                0.9
+solo:                 0.9
+petalo:               0.9
+soglia:               0.9
+portone:              0.9

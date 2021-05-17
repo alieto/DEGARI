@@ -1,0 +1,12 @@
+metallo+:             0.9
+-riciclato+:          0.9
+-rivivere+:           0.9
+-recupero+:           0.9
+-assemblaggio+:       0.9
+-rottami+:            0.9
+-composizione+:       0.9
+-pezzi+:              0.9
+fiat:                 0.9
+napoleone:            0.9
+generale:             0.9
+medaglia:             0.9

@@ -1,0 +1,5 @@
+scala:                0.9
+teatro:               0.9
+occhio:               0.9
+matita:               0.9
+colorato:             0.9

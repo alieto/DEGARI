@@ -1,0 +1,7 @@
+ristoro:              0.9
+caffè:                0.9
+merendina:            0.9
+pausa:                0.9
+cialda:               0.9
+moneta:               0.9
+macchinetta:          0.9

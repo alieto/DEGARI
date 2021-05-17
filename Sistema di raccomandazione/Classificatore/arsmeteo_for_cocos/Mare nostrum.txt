@@ -1,0 +1,6 @@
+mare:                 0.9
+banco:                0.9
+pesce:                0.9
+guizzo:               0.9
+ambiente:             0.9
+difesa:               0.9

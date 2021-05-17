@@ -1,0 +1,14 @@
+-fossili+:            0.9
+-paesaggio+:          0.9
+-contemporà:          0.9
+neo+:                 0.9
+-natura+:             0.9
+-artificio+:          0.9
+-cultura+:            0.9
+-materia+:            0.9
+-espressionismo+:     0.9
+-informale+:          0.9
+-segni_densi+:        0.9
+-concrezioni_materiche+:0.9
+-violenza+:           0.9
+-primordiale+:        0.9

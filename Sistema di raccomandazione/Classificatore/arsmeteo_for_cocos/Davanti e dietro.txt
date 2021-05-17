@@ -1,0 +1,4 @@
+di_fronte:            0.9
+incrociare:           0.9
+passante:             0.9
+giallastro:           0.9

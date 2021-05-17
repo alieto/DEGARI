@@ -1,0 +1,3 @@
+finzione:             0.9
+rappresentazione:     0.9
+fioritura_perenne:    0.9

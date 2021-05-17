@@ -1,0 +1,6 @@
+giocosita:            0.9
+emanuela:             0.9
+tina_turner:          0.9
+miriam:               0.9
+pistolere:            0.9
+orient:               0.9

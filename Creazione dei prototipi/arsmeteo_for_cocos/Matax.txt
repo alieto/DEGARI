@@ -1,0 +1,3 @@
+materiale:            0.9
+illusione_ottica:     0.9
+filamento:            0.9

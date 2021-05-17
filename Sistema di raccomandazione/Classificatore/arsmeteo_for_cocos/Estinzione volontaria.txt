@@ -1,0 +1,5 @@
+estinzione:           0.9
+volontaria:           0.9
+gesto_estremo:        0.9
+fine:                 0.9
+suicidio:             0.9

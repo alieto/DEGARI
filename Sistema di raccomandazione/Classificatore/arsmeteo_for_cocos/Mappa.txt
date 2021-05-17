@@ -1,0 +1,5 @@
+segno:                0.9
+cielo:                0.9
+quadratino:           0.9
+posizionamento:       0.9
+territorio_virtuale:  0.9

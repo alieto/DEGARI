@@ -1,0 +1,10 @@
+albero:               0.9
+bosco:                0.9
+land_art:             0.9
+installazione:        0.9
+arte_via:             0.9
+arte_impermanente:    0.9
+performance:          0.9
+comunità:             0.9
+protesta:             0.9
+testimonianza:        0.9

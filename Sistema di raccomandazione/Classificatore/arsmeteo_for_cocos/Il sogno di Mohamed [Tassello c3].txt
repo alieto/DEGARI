@@ -1,0 +1,8 @@
+sogno:                0.9
+volo:                 0.9
+occhio:               0.9
+sguardo:              0.9
+netville:             0.9
+reload:               0.9
+sovrapposizione:      0.9
+trasparenza:          0.9

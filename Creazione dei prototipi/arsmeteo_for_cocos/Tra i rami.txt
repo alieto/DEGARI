@@ -1,0 +1,2 @@
+ramo:                 0.9
+chioma:               0.9

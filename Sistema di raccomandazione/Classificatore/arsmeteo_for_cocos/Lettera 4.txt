@@ -1,0 +1,3 @@
+lettera:              0.9
+operazioni_matematiche:0.9
+logico_analogico:     0.9

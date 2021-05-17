@@ -1,0 +1,4 @@
+fuoco:                0.9
+vigile:               0.9
+sagoma:               0.9
+acqua:                0.9

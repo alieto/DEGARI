@@ -1,0 +1,6 @@
+infinito:             0.9
+ripetizione:          0.9
+profilo:              0.9
+ombra:                0.9
+cielo:                0.9
+luce:                 0.9

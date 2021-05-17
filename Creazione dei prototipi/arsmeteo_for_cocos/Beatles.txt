@@ -1,0 +1,5 @@
+san:                  0.9
+telmo:                0.9
+buenos:               0.9
+aires:                0.9
+brocanteur:           0.9

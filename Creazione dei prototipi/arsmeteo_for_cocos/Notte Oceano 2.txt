@@ -1,0 +1,2 @@
+libro:                0.9
+d_artista:            0.9

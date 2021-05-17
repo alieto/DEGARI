@@ -1,0 +1,12 @@
+terrorismo:           0.9
+tirannia:             0.9
+civiltà:              0.9
+confluenza:           0.9
+bombardamento:        0.9
+emergenza:            0.9
+occupazione:          0.9
+invasione:            0.9
+baghdad:              0.9
+castigo:              0.9
+castità:              0.9
+netville:             0.9

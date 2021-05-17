@@ -1,0 +1,3 @@
+geometria:            0.9
+ripetizione:          0.9
+granata:              0.9

@@ -1,0 +1,9 @@
+albero:               0.9
+foglia:               0.9
+autumn_leaves:        0.9
+foglie_cadute:        0.9
+costellazione:        0.9
+orsa_maggiore:        0.9
+orsa_minore:          0.9
+stelle_cadute:        0.9
+stella:               0.9

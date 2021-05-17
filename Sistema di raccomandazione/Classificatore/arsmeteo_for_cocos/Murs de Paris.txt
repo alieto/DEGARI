@@ -1,0 +1,9 @@
+sorpresa:             0.9
+esitazione:           0.9
+garbo:                0.9
+graffito:             0.9
+pochoir:              0.9
+lecito:               0.9
+illecito:             0.9
+evocazione:           0.9
+paesaggio_metropolitano:0.9

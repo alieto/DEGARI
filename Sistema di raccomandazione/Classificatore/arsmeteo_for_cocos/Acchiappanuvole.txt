@@ -1,0 +1,5 @@
+poesia:               0.9
+nuvola:               0.9
+acchiappanuvole:      0.9
+bagno:                0.9
+nuvola_spugna:        0.9

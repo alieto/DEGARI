@@ -1,0 +1,10 @@
+medievale:            0.9
+grafica:              0.9
+grafite:              0.9
+gessetto:             0.9
+battistero:           0.9
+tempo:                0.9
+antelami:             0.9
+lavoro:               0.9
+richiamo:             0.9
+gestualità:           0.9

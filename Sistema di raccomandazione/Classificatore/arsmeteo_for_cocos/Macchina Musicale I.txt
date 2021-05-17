@@ -1,0 +1,5 @@
+assemblaggio:         0.9
+ingranaggio:          0.9
+ruota:                0.9
+suono:                0.9
+circolare:            0.9

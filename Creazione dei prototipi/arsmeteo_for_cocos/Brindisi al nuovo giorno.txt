@@ -1,0 +1,7 @@
+speranza:             0.9
+bicchiere:            0.6
+orizzonte:            0.6
+alba:                 0.6
+nuovo_giorno:         0.6
+augurio:              0.6
+mare:                 0.6

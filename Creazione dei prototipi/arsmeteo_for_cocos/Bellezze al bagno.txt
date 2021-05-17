@@ -1,0 +1,5 @@
+museo_cinema:         0.9
+cancellata:           0.9
+cellulare:            0.9
+frontone:             0.9
+rifotografare:        0.9

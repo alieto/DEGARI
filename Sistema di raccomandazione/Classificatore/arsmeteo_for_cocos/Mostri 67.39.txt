@@ -1,0 +1,12 @@
+mostro:               0.9
+rospo:                0.9
+psichedelico:         0.9
+surfanta:             0.9
+surreale:             0.9
+inconscio:            0.9
+occhio:               0.9
+zanna:                0.9
+simbolo:              0.9
+corno:                0.9
+crepa:                0.9
+frammento:            0.9

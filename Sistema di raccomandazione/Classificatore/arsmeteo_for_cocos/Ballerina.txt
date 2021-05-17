@@ -1,0 +1,10 @@
+tango:                0.9
+riposo:               0.9
+verticale:            0.9
+digigrafia:           0.9
+amantes:              0.9
+buenos_aires:         0.9
+scansione:            0.9
+dettaglio:            0.9
+ballerina:            0.9
+velo:                 0.9

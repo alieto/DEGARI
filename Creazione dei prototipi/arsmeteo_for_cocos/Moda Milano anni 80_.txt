@@ -1,0 +1,4 @@
+glamour:              0.9
+eleganza:             0.9
+provino:              0.9
+raffinatezza:         0.9

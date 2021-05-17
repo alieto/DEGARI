@@ -1,0 +1,4 @@
+moustique:            0.9
+insetto:              0.9
+nuova_generazione:    0.9
+mostro:               0.9

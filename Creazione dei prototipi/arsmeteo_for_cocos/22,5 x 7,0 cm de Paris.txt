@@ -1,0 +1,7 @@
+briques:              0.9
+bruxelles:            0.9
+galleria:             0.9
+celebrazione:         0.9
+metro:                0.9
+luci_della_città:     0.9
+paris:                0.9

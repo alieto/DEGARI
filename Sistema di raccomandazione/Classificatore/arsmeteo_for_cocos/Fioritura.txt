@@ -1,0 +1,4 @@
+colore:               0.9
+soffondere:           0.9
+colori_pastello:      0.9
+nuvola_di_colori:     0.9

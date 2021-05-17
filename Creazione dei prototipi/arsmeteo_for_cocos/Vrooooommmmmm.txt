@@ -1,0 +1,6 @@
+velocità:             0.9
+motore:               0.9
+mito:                 0.9
+progresso:            0.9
+ricerca:              0.9
+mistificazione:       0.9

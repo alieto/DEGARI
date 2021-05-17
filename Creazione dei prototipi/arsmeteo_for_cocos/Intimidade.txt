@@ -1,0 +1,5 @@
+insegna:              0.9
+tropico:              0.9
+paraty:               0.9
+cielo:                0.9
+contrasto:            0.9

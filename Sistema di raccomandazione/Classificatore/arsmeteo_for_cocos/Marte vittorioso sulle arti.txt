@@ -1,0 +1,4 @@
+guerra:               0.9
+arte|arto:            0.9
+distruzione:          0.9
+marte:                0.9

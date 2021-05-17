@@ -1,0 +1,29 @@
+#Title composizione
+Title : disgust-joy
+
+#Concetto Principale
+Head Concept Name : disgust
+
+#Concetto Modificatore
+Modifier Concept Name : joy
+
+head, -onore
+
+modifier, -olocausto
+
+T(modifier), felicità, 0.98
+T(modifier), beatitudine, 0.97
+T(modifier), festeggiare, 0.97
+T(modifier), giubilante, 0.97
+T(modifier), estatico, 0.95
+T(modifier), euforia, 0.94
+
+T(head), cannibalismo, 0.95
+T(head), mutilazione, 0.93
+T(head), molestia, 0.91
+T(head), incesto, 0.91
+T(head), gonorrea, 0.91
+T(head), stupro, 0.91
+
+
+Result : '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', 2.2243740364653536e-05

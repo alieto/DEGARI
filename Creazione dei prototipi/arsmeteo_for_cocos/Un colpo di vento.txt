@@ -1,0 +1,3 @@
+torre:                0.9
+luna:                 0.9
+crollo:               0.9

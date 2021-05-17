@@ -1,0 +1,3 @@
+canale:               0.9
+olanda:               0.9
+pixel:                0.9

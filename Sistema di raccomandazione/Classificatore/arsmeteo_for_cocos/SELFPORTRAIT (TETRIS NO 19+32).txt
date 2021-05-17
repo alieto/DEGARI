@@ -1,0 +1,5 @@
+jioko:                0.9
+selfportrait:         0.9
+croce:                0.9
+tetris:               0.9
+fontana:              0.9

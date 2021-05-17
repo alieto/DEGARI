@@ -1,0 +1,5 @@
+spazio:               0.9
+apertura:             0.9
+ricorsivo:            0.9
+gate:                 0.9
+portale:              0.9

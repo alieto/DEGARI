@@ -1,0 +1,11 @@
+abbronzatura:         0.9
+spalla:               0.9
+nudo:                 0.9
+rasatura:             0.9
+mascara:              0.9
+rouge:                0.9
+recupero:             0.9
+incidente:            0.9
+composizione:         0.9
+matrimonio:           0.9
+netville:             0.9

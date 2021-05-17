@@ -1,0 +1,3 @@
+pessimism:            0.9
+fear:                 0.9
+surprise:             0.9

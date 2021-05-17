@@ -1,0 +1,6 @@
+maschera:             0.9
+tuba:                 0.9
+uccello_arcigno:      0.9
+serpente:             0.9
+gouache:              0.9
+guazzo:               0.9

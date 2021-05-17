@@ -1,0 +1,6 @@
+apparizione:          0.9
+surreale:             0.9
+surfanta:             0.9
+sirena_appesa:        0.9
+la_voce_del_padrone:  0.9
+negozio:              0.9

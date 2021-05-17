@@ -1,0 +1,10 @@
+demolizione:          0.9
+femminismo:           0.9
+dominio:              0.9
+trasparenza:          0.9
+reggiseno:            0.9
+struttura_antenna:    0.9
+abbronzatura:         0.9
+gemellaggio:          0.9
+torre:                0.9
+netville:             0.9

@@ -1,0 +1,5 @@
+reinterpretazione:    0.9
+viso:                 0.9
+rifotografare:        0.9
+sguardo:              0.9
+donna:                0.9

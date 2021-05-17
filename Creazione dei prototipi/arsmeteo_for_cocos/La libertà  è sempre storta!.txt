@@ -1,0 +1,4 @@
+libertà:              0.9
+cabina:               0.9
+mare:                 0.9
+wc:                   0.9

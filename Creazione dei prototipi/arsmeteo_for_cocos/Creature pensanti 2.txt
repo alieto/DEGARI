@@ -1,0 +1,5 @@
+espressione:          0.9
+sovrappensiero:       0.9
+pensieroso:           0.9
+agressivo:            0.9
+pensare:              0.9

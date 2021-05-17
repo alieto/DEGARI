@@ -1,0 +1,6 @@
+notte:                0.9
+provincia:            0.9
+cittadina:            0.9
+tervuren:             0.9
+comfort:              0.9
+civiltà:              0.9

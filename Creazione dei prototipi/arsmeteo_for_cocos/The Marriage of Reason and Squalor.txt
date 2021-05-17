@@ -1,0 +1,13 @@
+sovrapposizione:      0.9
+marriage:             0.9
+reason:               0.9
+squalor:              0.9
+chapmans:             0.9
+hermanos:             0.9
+cacmà:                0.9
+rivisitazione:        0.9
+ri_fotografare:       0.9
+neo:                  0.9
+contemporà:           0.9
+trash:                0.9
+museo:                0.9

@@ -1,0 +1,5 @@
+aereo:                0.9
+avia:                 0.9
+design:               0.9
+stile:                0.9
+volare:               0.9

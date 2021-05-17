@@ -1,0 +1,5 @@
+panorama:             0.9
+nebbia:               0.9
+sibillino:            0.9
+monte:                0.9
+azzurro:              0.9

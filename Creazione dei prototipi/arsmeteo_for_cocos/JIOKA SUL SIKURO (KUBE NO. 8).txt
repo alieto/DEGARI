@@ -1,0 +1,5 @@
+otto:                 0.9
+jioka:                0.9
+sikuro:               0.9
+doppio:               0.9
+superman:             0.9

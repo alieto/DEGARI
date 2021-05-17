@@ -1,0 +1,4 @@
+mondo:                0.9
+segno:                0.9
+sogno:                0.9
+segnale:              0.9

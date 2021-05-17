@@ -1,0 +1,2 @@
+foglia:               0.9
+locomotiva:           0.9

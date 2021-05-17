@@ -1,0 +1,7 @@
+ivo_jima:             0.9
+mosca:                0.9
+coca_cola:            0.9
+mosca_ottanta:        0.9
+ideologia:            0.9
+consumismo:           0.9
+falce_e_apribottiglie:0.9

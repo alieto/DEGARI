@@ -1,0 +1,5 @@
+piramide:             0.9
+miraggio:             0.9
+sacra_san_michele:    0.9
+egitto:               0.9
+deserto:              0.9

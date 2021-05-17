@@ -1,0 +1,3 @@
+lettera_punto_esclamativo:0.9
+digitalart:           0.9
+astratto:             0.9

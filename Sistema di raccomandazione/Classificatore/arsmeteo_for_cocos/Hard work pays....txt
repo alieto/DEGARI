@@ -1,0 +1,2 @@
+scuola:               0.9
+educazione:           0.9

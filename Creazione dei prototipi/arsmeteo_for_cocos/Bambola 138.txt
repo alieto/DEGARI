@@ -1,0 +1,8 @@
+bambola:              0.9
+surreale:             0.9
+surfanta:             0.9
+composizione:         0.9
+arti_antropomorfi:    0.9
+mascherone:           0.9
+grottesco:            0.9
+maschera:             0.9

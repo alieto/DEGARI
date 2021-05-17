@@ -1,0 +1,5 @@
+musica_in_libertà:    0.9
+via:                  0.9
+artom:                0.9
+scolaresca:           0.9
+spensierata_allegrezza:0.9

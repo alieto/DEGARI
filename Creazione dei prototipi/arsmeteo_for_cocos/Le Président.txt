@@ -1,0 +1,7 @@
+metro:                0.9
+il_giorno_dopo:       0.9
+attesa:               0.9
+speranza:             0.9
+paura:                0.9
+rabbia:               0.9
+aspettativa:          0.9

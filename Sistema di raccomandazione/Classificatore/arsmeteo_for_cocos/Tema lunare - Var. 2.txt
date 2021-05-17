@@ -1,0 +1,3 @@
+variazione:           0.9
+lunaticità:           0.9
+segno:                0.9

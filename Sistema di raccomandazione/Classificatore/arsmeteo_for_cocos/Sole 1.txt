@@ -1,0 +1,6 @@
+tavola:               0.9
+acrilico:             0.9
+pittura:              0.9
+solo:                 0.9
+toccare:              0.9
+tramonto:             0.9

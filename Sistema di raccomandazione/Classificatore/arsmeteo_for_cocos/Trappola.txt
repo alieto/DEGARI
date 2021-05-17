@@ -1,0 +1,8 @@
+buio:                 0.9
+varco:                0.9
+mistero:              0.9
+ignoto:               0.9
+entrata:              0.9
+uscita:               0.9
+fuori_luogo:          0.9
+buco_nero:            0.9

@@ -1,0 +1,8 @@
+possibile:            0.9
+infernale:            0.9
+languido:             0.9
+morbido:              0.9
+sguardo_fisso:        0.9
+ostensione:           0.9
+opposizione:          0.9
+offerta_negata:       0.9

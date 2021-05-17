@@ -1,0 +1,8 @@
+tramonto:             0.9
+cielo:                0.9
+terra:                0.9
+confine:              0.9
+solo:                 0.9
+distensione:          0.9
+nostalgia:            0.9
+serenità:             0.9

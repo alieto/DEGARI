@@ -1,0 +1,5 @@
+luce:                 0.9
+fili_di_luce:         0.9
+movimento_nello_spazio:0.9
+giochi_di_luce:       0.9
+notte:                0.9

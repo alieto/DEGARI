@@ -1,0 +1,4 @@
+plexiglass:           0.9
+pittura:              0.9
+dipinto:              0.9
+rosso:                0.9

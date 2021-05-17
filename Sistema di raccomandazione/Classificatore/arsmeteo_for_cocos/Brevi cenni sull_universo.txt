@@ -1,0 +1,12 @@
+universo:             0.9
+entropia:             0.9
+evoluzione:           0.9
+trasformazione:       0.9
+composizione:         0.9
+scomposizione:        0.9
+ricomposizione:       0.9
+energia:              0.9
+entalpia:             0.9
+differenziazione:     0.9
+caos:                 0.9
+punto_di_rottura:     0.9

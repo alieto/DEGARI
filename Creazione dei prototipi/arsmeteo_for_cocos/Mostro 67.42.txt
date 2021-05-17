@@ -1,0 +1,5 @@
+rospo:                0.9
+mostro:               0.9
+inconscio:            0.9
+surfanta:             0.9
+surreale:             0.9

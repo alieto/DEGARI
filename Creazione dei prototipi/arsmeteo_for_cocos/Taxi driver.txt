@@ -1,0 +1,15 @@
+arte:                 0.9
+de:                   0.6
+niro:                 0.6
+film:                 0.6
+cinema:               0.6
+contemporaneo:        0.6
+acrilico:             0.6
+torino:               0.6
+italia:               0.6
+nox:                  0.6
+francesco:            0.6
+taxi:                 0.6
+nociti:               0.6
+driver:               0.6
+punk:                 0.6

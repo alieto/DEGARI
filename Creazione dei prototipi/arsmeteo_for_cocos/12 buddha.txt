@@ -1,0 +1,4 @@
+numero:               0.9
+ricorrente:           0.9
+elevazione:           0.9
+rivelazione:          0.9

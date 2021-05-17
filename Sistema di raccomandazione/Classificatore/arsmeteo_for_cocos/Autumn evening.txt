@@ -1,0 +1,8 @@
+70x100:               0.9
+cm:                   0.9
+tecnica:              0.9
+mista:                0.9
+tela:                 0.9
+testo:                0.9
+nazim:                0.9
+hikmet:               0.9

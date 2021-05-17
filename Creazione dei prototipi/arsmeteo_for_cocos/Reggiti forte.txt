@@ -1,0 +1,3 @@
+notte:                0.9
+reggere:              0.9
+intimità:             0.9

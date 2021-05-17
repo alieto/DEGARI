@@ -1,0 +1,5 @@
+musica:               0.9
+tastiera:             0.9
+colore:               0.9
+strumento:            0.9
+fantastico:           0.9

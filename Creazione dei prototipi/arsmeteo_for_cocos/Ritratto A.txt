@@ -1,0 +1,6 @@
+ritratto:             0.9
+figurativo:           0.9
+acquerello:           0.9
+disegno:              0.9
+opera:                0.9
+carta:                0.9

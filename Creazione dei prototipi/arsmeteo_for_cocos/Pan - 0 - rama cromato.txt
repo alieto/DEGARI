@@ -1,0 +1,3 @@
+centro:               0.9
+mandare:              0.9
+cromatismo:           0.9

@@ -1,0 +1,7 @@
+fiat:                 0.9
+bianco:               0.9
+lampada:              0.9
+luce:                 0.9
+perdita:              0.9
+lettera_o:            0.9
+ruggine:              0.9

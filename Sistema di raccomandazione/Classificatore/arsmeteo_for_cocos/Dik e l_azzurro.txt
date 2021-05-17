@@ -1,0 +1,6 @@
+frammento:            0.9
+nell_opera:           0.9
+frammentazione:       0.9
+cane:                 0.9
+dik:                  0.9
+azzurro:              0.9

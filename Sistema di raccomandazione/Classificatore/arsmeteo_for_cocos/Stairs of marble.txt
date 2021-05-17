@@ -1,0 +1,6 @@
+light:                0.9
+cold:                 0.9
+life:                 0.9
+blue:                 0.9
+scala:                0.9
+marmo:                0.9

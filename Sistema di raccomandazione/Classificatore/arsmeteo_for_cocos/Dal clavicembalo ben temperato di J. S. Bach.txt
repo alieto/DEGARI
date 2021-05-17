@@ -1,0 +1,7 @@
+nodo:                 0.9
+estensione:           0.9
+giacca:               0.9
+camicia:              0.9
+cuerpo:               0.9
+cravatta:             0.9
+vestiario:            0.9

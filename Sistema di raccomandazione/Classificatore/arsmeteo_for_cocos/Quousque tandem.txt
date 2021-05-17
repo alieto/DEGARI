@@ -1,0 +1,4 @@
+guerra:               0.9
+eclisse|eclissi:      0.9
+voce:                 0.9
+fino_a_che_punto:     0.9

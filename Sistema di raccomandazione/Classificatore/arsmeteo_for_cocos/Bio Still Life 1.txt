@@ -1,0 +1,6 @@
+natura:               0.9
+still_life:           0.9
+organico:             0.9
+legno:                0.9
+iuta:                 0.9
+sacco:                0.9

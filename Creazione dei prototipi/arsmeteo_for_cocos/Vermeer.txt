@@ -1,0 +1,4 @@
+libertà:              0.9
+fotografare:          0.9
+amsterdam:            0.9
+rijksmuseum:          0.9

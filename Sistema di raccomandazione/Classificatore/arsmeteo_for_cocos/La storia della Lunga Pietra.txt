@@ -1,0 +1,4 @@
+menhir:               0.9
+singlossia:           0.9
+falegnameria:         0.9
+poesia:               0.9

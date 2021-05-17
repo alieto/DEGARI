@@ -1,0 +1,5 @@
+scalare:              0.9
+eccitazione:          0.9
+gioco:                0.9
+spensieratezza:       0.9
+gaiezza:              0.9

@@ -1,0 +1,9 @@
+cronaca:              0.9
+vero:                 0.9
+stazione:             0.9
+alessandria:          0.9
+leggero:              0.9
+viaggio:              0.9
+treno:                0.9
+binario:              0.9
+marciapiede:          0.9

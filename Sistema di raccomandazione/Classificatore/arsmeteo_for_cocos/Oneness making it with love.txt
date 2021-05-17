@@ -1,0 +1,41 @@
+/:                    0.9
+10px:                 0.8250000000000001
+div:                  0.72
+style:                0.72
+text-align:           0.7050000000000001
+center:               0.7050000000000001
+img:                  0.7050000000000001
+margin:               0.7050000000000001
+src:                  0.7050000000000001
+alt:                  0.7050000000000001
+width:                0.615
+oneness:              0.6
+performance:          0.6
+intensità:            0.6
+movimento:            0.6
+equilibrio:           0.6
+perfezione:           0.6
+body:                 0.6
+breath:               0.6
+mind:                 0.6
+table:                0.6
+0\:                   0.6
+border:               0.6
+tbody:                0.6
+td:                   0.6
+tr:                   0.6
+align:                0.6
+center\:              0.6
+760px:                0.6
+height:               0.6
+480px:                0.6
+overflow:             0.6
+auto:                 0.6
+a6ca09c954d54962f66678c65964166c\:0.6
+5470da460a67d8e9af5004991804a0ad\:0.6
+97e5fe73d76b19ab968267755669d729\:0.6
+719d04052cfc306753f926dfde483e6b\:0.6
+2e4973769eec38d141ff120f035e1ed3\:0.6
+ba831ec662678bea6a16a88d7684546d\:0.6
+82625c2539bc4037c43cabea91d1b3c7\:0.6
+53efbfdd34db7c521602c864141a00f2\:0.6

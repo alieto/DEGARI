@@ -1,0 +1,8 @@
+donna:                0.9
+legno:                0.9
+metallo:              0.9
+bello:                0.9
+ballerina:            0.9
+trappola:             0.9
+poverina:             0.9
+abbracciare:          0.9

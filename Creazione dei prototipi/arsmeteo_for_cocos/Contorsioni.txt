@@ -1,0 +1,16 @@
+scenografia:          0.9
+pietra:               0.9
+spiraloidi:           0.9
+muro:                 0.9
+contorsione:          0.9
+voluta:               0.9
+spira:                0.9
+gotico:               0.9
+blu:                  0.9
+rosso:                0.9
+sinusoide:            0.9
+onde_quadre:          0.9
+ovoidale:             0.9
+sasso:                0.9
+evoluzione:           0.9
+china:                0.9

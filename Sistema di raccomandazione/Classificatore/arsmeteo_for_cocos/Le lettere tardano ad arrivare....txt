@@ -1,0 +1,3 @@
+posta:                0.9
+lettera:              0.9
+antico:               0.9

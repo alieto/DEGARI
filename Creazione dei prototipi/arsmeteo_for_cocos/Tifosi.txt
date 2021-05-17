@@ -1,0 +1,5 @@
+mescolanza:           0.9
+città:                0.9
+dixième_arrondissement:0.9
+pallone:              0.9
+partita:              0.9

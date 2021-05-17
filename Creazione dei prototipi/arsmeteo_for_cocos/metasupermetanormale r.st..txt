@@ -1,0 +1,12 @@
+design:               0.9
+controdesign:         0.9
+alternativo:          0.9
+annisettanta:         0.9
+formidabile:          0.9
+laminato:             0.9
+contenitore:          0.9
+polifunzionale:       0.9
+concorso:             0.9
+ex_aequo:             0.9
+altro:                0.9
+alieno:               0.9

@@ -1,0 +1,6 @@
+diavolo:              0.9
+rosso:                0.9
+diavolo_rosso:        0.9
+red_devil:            0.9
+frattali:             0.9
+re_d_evil:            0.9

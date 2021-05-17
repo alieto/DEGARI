@@ -1,0 +1,12 @@
+bottiglia:            0.9
+terapia:              0.6
+creatore:             0.6
+viso:                 0.6
+cielo:                0.6
+nuvola:               0.6
+nube:                 0.6
+cocacola:             0.6
+raggio:               0.6
+fonte_luminosa:       0.6
+radiante:             0.6
+irradiare:            0.6

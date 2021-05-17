@@ -1,0 +1,7 @@
+alieno:               0.9
+vitruviano:           0.9
+leonardo:             0.9
+frattali:             0.9
+sviluppo:             0.9
+essere:               0.9
+geometrico:           0.9

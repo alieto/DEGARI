@@ -1,0 +1,16 @@
+/:                    0.9
+notte:                0.675
+bianca:               0.6375
+insonne:              0.6375
+bocca:                0.6375
+fremito:              0.6375
+e\:                   0.6375
+nbsp:                 0.6375
+desiderio:            0.6
+lawrence:             0.6
+ferlinghetti:         0.6
+piacere:              0.6
+prosdocimo:           0.6
+what:                 0.6
+is:                   0.6
+poetry:               0.6

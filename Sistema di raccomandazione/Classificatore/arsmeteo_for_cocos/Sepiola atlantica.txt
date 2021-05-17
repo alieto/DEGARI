@@ -1,0 +1,3 @@
+bestiario:            0.9
+seppia:               0.9
+segno:                0.9

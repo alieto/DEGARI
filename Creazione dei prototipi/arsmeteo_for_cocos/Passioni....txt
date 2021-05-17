@@ -1,0 +1,4 @@
+chitarra:             0.9
+sedia:                0.9
+giubbotto:            0.9
+chiodo:               0.9

@@ -1,0 +1,3 @@
+sorriso:              0.9
+vincenzo:             0.9
+fiore:                0.9

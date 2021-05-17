@@ -1,0 +1,6 @@
+salita:               0.9
+ski:                  0.9
+neve:                 0.9
+senzafatica:          0.9
+concentrazione:       0.9
+bosco:                0.9

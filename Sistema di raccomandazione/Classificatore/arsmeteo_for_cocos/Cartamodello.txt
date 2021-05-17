@@ -1,0 +1,1 @@
+ritaglio:             0.9

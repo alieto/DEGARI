@@ -1,0 +1,4 @@
+sette:                0.9
+nano:                 0.9
+porco:                0.9
+seven:                0.9

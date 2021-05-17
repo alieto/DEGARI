@@ -1,0 +1,9 @@
+bambola:              0.9
+tacconata:            0.9
+surfanta:             0.9
+surreale:             0.9
+cappuccio:            0.9
+ape:                  0.9
+cuore:                0.9
+pezza:                0.9
+sandalo:              0.9

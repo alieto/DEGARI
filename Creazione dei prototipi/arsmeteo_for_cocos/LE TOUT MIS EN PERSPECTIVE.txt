@@ -1,0 +1,10 @@
+annientamento:        0.9
+decostruzione:        0.9
+centro:               0.9
+punto:                0.9
+livello:              0.9
+prospettiva:          0.9
+geometria:            0.9
+natura:               0.9
+trattamento:          0.9
+netville:             0.9

@@ -1,0 +1,9 @@
+verniciatura:         0.9
+archeologia_industriare:0.9
+colorato:             0.9
+arco:                 0.9
+edificio:             0.9
+interno:              0.9
+industriale:          0.9
+vestigia:             0.9
+dismettere:           0.9

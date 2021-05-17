@@ -1,0 +1,6 @@
+cancello:             0.9
+ignoto:               0.9
+falsa_simmetria:      0.9
+inquietante:          0.9
+oppurtunità:          0.9
+pericolo:             0.9

@@ -1,0 +1,6 @@
+lezione:              0.9
+tango:                0.9
+peloso:               0.9
+festival:             0.9
+hombres:              0.9
+jugando:              0.9

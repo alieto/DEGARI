@@ -1,0 +1,4 @@
+india:                0.9
+donna:                0.9
+tradizione:           0.9
+colore:               0.9

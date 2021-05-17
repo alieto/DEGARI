@@ -1,0 +1,7 @@
+donna:                0.9
+luna:                 0.9
+notte:                0.9
+gocce_di_colore:      0.9
+falce_di_luna:        0.9
+sognante:             0.9
+litografia:           0.9

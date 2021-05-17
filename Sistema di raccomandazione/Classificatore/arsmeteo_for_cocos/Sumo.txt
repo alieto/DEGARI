@@ -1,0 +1,4 @@
+kobe:                 0.9
+leggerezza:           0.9
+scaltrezza:           0.9
+rapidità:             0.9

@@ -1,0 +1,3 @@
+idi:                  0.9
+marzo:                0.9
+vetrina:              0.9

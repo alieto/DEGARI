@@ -1,0 +1,5 @@
+cupola:               0.9
+tuolo:                0.9
+uovo:                 0.9
+rotto:                0.9
+il_rosso_e_il_bianco: 0.9

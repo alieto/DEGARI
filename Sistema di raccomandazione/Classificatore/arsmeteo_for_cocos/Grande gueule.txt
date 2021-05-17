@@ -1,0 +1,3 @@
+aggressivo:           0.9
+assertivo:            0.9
+messaggio:            0.9

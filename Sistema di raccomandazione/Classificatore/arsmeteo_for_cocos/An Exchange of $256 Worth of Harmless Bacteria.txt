@@ -1,0 +1,9 @@
+process:              0.9
+federal_judge:        0.9
+professor_kurtz:      0.9
+bio_artist:           0.9
+harmless:             0.9
+bacteria:             0.9
+charged:              0.9
+art_exhibit:          0.9
+critical_art_ensemble:0.9

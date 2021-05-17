@@ -1,0 +1,5 @@
+gemma:                0.9
+gialla:               0.9
+bocciolo:             0.9
+natura:               0.9
+vita:                 0.9

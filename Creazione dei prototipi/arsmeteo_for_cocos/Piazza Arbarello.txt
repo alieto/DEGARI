@@ -1,0 +1,8 @@
+porfido:              0.9
+pattern:              0.9
+ripetizione:          0.9
+pavimento:            0.9
+incastro:             0.9
+strada:               0.9
+via:                  0.9
+selciato:             0.9

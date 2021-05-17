@@ -1,0 +1,6 @@
+terra:                0.9
+gesso:                0.9
+circolare:            0.9
+rosso:                0.9
+scia:                 0.9
+luce:                 0.9

@@ -1,0 +1,4 @@
+simbolo:              0.9
+fallico:              0.9
+shiva:                0.9
+puja_al_lingam:       0.9

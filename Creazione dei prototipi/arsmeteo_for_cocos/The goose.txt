@@ -1,0 +1,5 @@
+oca:                  0.9
+stanza:               0.9
+colore:               0.9
+cotto:                0.9
+pavimento:            0.9

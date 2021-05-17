@@ -1,0 +1,29 @@
+#Title composizione
+Title : anger-anticipation
+
+#Concetto Principale
+Head Concept Name : anger
+
+#Concetto Modificatore
+Modifier Concept Name : anticipation
+
+
+
+modifier, -sorpresa
+
+T(modifier), anticipazione, 0.86
+T(modifier), eccitato, 0.86
+T(modifier), impazienza, 0.81
+T(modifier), attesa, 0.79
+T(modifier), eccitante, 0.78
+T(modifier), speranza, 0.77
+
+T(head), oltraggiato, 0.96
+T(head), brutalità, 0.96
+T(head), odio, 0.95
+T(head), terrorizzare, 0.94
+T(head), violentemente, 0.94
+T(head), infuriato, 0.94
+
+
+Result : '0', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 0.001128295687985529

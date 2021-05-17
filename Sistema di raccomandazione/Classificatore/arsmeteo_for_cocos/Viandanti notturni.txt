@@ -1,0 +1,2 @@
+viandante:            0.9
+viaggio:              0.9

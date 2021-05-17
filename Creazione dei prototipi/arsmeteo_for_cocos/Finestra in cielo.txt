@@ -1,0 +1,5 @@
+cielo:                0.9
+finestra:             0.9
+sogno:                0.9
+magritte:             0.9
+sospendere:           0.9

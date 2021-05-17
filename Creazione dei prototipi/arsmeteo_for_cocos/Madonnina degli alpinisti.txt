@@ -1,0 +1,4 @@
+montagna:             0.9
+nuvola:               0.9
+statua:               0.9
+madonna:              0.9

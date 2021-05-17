@@ -1,0 +1,6 @@
+sposo:                0.9
+matrimonio:           0.9
+intesa:               0.9
+sorriso:              0.9
+felicità:             0.9
+doppia_intesa:        0.9

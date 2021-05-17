@@ -1,0 +1,5 @@
+omino:                0.9
+sogno:                0.9
+grafia:               0.9
+bianco:               0.9
+nero:                 0.9

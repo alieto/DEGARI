@@ -1,0 +1,4 @@
+minestra:             0.9
+fumo:                 0.9
+ciotola:              0.9
+luna:                 0.9

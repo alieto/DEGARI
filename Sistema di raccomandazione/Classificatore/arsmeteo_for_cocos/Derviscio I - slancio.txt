@@ -1,0 +1,8 @@
+candore:              0.9
+mistico:              0.9
+trance:               0.9
+slancio:              0.9
+turbina|turbine:      0.9
+espn:                 0.9
+hongkong:             0.9
+albergo:              0.9

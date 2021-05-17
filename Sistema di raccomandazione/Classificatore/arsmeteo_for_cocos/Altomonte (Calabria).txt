@@ -1,0 +1,4 @@
+acquerello:           0.9
+cotone:               0.9
+cm:                   0.9
+anno:                 0.9

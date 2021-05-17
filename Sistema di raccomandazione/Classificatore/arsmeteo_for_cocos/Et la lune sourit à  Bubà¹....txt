@@ -1,0 +1,3 @@
+orsetto:              0.9
+peluche:              0.9
+notturno:             0.9

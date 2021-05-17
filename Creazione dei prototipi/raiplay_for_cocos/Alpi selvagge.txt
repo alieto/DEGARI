@@ -1,0 +1,16 @@
+chilometro:           0.9
+massiccio:            0.9
+roccia:               0.9
+alpe:                 0.9
+formare:              0.9
+mezzo:                0.9
+migliaio:             0.9
+vetta:                0.9
+mondo:                0.9
+esistere:             0.9
+sorprendente:         0.9
+zona:                 0.9
+selvaggia:            0.9
+ricco:                0.9
+biodiversità:         0.9
+europa:               0.9

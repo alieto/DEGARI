@@ -1,0 +1,5 @@
+calice:               0.9
+trasparenza:          0.9
+stele|stelo:          0.9
+ombra:                0.9
+fragilità:            0.9

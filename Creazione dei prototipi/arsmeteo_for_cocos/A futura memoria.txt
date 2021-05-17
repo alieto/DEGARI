@@ -1,0 +1,4 @@
+matita:               0.9
+acrilico:             0.9
+stampa:               0.9
+compensato:           0.9

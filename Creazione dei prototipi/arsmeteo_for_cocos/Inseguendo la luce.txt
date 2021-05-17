@@ -1,0 +1,5 @@
+strada:               0.9
+velocità:             0.9
+luce_in_fondo:        0.9
+roccia:               0.9
+ombra:                0.9

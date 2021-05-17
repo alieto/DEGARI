@@ -1,0 +1,4 @@
+impressione:          0.9
+soffondere:           0.9
+papavero:             0.9
+fiore:                0.9

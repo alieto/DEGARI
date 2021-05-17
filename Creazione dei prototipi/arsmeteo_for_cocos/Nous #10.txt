@@ -1,0 +1,3 @@
+fuga:                 0.9
+ratio:                0.9
+prospettiva:          0.9

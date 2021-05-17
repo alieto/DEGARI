@@ -1,0 +1,4 @@
+gobbo:                0.9
+omino:                0.9
+bianco:               0.9
+nero:                 0.9

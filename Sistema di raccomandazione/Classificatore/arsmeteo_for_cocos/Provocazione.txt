@@ -1,0 +1,3 @@
+locandina:            0.9
+doppia_visione:       0.9
+sfocare:              0.9

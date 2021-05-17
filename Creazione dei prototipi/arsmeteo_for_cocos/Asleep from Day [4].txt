@@ -1,0 +1,16 @@
+vorace:               0.9
+supermercato:         0.9
+moda:                 0.9
+capelli_platinati:    0.9
+consumismo:           0.9
+bellezza:             0.9
+vetro:                0.9
+attesa:               0.9
+guanto:               0.9
+assorto:              0.9
+fashion:              0.9
+esagerazione:         0.9
+esposizione:          0.9
+carne:                0.9
+carne_rossa:          0.9
+vetrina:              0.9

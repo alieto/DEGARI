@@ -1,0 +1,13 @@
+pink:                 0.9
+rosa:                 0.9
+cab:                  0.9
+chi_si_muove:         0.9
+muovere:              0.9
+black_cab:            0.9
+modernità:            0.9
+tradizione:           0.9
+città:                0.9
+metropoli:            0.9
+londra:               0.9
+mutazione:            0.9
+always_on_the_move:   0.9

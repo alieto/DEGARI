@@ -1,0 +1,8 @@
+memoria:              0.9
+riflesso:             0.9
+sfera:                0.9
+luce:                 0.9
+uomo:                 0.9
+donna:                0.9
+contatto:             0.9
+altromondo:           0.9

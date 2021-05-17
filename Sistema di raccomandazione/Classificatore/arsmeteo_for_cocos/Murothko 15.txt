@@ -1,0 +1,7 @@
+muro:                 0.9
+rothko:               0.9
+bianco_e_nero:        0.9
+legno:                0.9
+pietra:               0.9
+due:                  0.9
+grutuluto:            0.9

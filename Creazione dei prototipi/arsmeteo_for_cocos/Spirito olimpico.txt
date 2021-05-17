@@ -1,0 +1,5 @@
+olimpiade:            0.9
+torino:               0.9
+spirito_olimpico:     0.9
+vancouver:            0.9
+nuotatore:            0.9

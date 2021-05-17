@@ -1,0 +1,3 @@
+notte:                0.9
+luce:                 0.9
+puglia:               0.9

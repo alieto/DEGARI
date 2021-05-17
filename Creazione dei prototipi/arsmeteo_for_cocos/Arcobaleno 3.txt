@@ -1,0 +1,2 @@
+profilo:              0.9
+busto:                0.9

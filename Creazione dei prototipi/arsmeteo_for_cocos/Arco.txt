@@ -1,0 +1,4 @@
+arco:                 0.9
+mattone:              0.6
+balcone:              0.6
+ombra:                0.6

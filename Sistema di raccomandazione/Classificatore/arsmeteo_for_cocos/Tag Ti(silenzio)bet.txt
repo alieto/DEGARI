@@ -1,0 +1,9 @@
+capolettera_t:        0.9
+argonautag:           0.9
+silenzio_tibet:       0.9
+ne_t_ville:           0.9
+parliamo_d_altro:     0.9
+serendipi_tibet:      0.9
+resistenza:           0.9
+calligafia:           0.9
+spia:                 0.9

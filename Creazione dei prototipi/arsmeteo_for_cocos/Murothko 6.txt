@@ -1,0 +1,5 @@
+muro:                 0.9
+rothko:               0.9
+due:                  0.9
+nero_su_nero:         0.9
+legno:                0.9

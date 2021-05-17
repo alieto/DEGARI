@@ -1,0 +1,9 @@
+-pietra+:             0.9
+-sovrapposizioni+:    0.9
+-orizzonte+:          0.9
+-stone+:              0.9
+roccia:               0.9
+cielo:                0.9
+arcobaleno:           0.9
+azzurro:              0.9
+riflesso:             0.9

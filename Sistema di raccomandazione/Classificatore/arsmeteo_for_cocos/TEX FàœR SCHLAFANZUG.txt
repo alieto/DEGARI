@@ -1,0 +1,6 @@
+schlafanzug:          0.9
+pigiama:              0.9
+pistola:              0.9
+bang:                 0.9
+tex:                  0.9
+fumetto:              0.9

@@ -1,0 +1,3 @@
+ombra:                0.9
+jung:                 0.9
+cartiglio:            0.9

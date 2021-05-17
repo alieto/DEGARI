@@ -1,0 +1,6 @@
+mare:                 0.9
+lbero:                0.9
+cielo:                0.9
+vita:                 0.9
+creazione:            0.9
+inizio:               0.9

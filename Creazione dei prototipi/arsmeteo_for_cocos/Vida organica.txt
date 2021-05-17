@@ -1,0 +1,6 @@
+biologico:            0.9
+chardonnay:           0.9
+santa_julia:          0.9
+mendoza:              0.9
+vino:                 0.9
+deserto:              0.9

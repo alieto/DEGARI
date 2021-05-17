@@ -1,0 +1,15 @@
+guerra:               0.9
+africo:               0.9
+bambino:              0.9
+soldato:              0.9
+francesco:            0.9
+torino:               0.9
+italia:               0.9
+arte:                 0.9
+contemporaneo:        0.9
+disegno:              0.9
+carboncino:           0.9
+ala:                  0.9
+rosso:                0.9
+angelo:               0.9
+fucile:               0.9

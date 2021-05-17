@@ -1,0 +1,7 @@
+torino:               0.9
+vetrina:              0.9
+lusso:                0.9
+comodità:             0.9
+superfluo:            0.9
+aspirazione:          0.9
+progetto:             0.9

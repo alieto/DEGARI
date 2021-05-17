@@ -1,0 +1,8 @@
+red_ink:              0.9
+rosso:                0.9
+kinder:               0.9
+anagramma:            0.9
+minnie:               0.9
+superman:             0.9
+mickey_mouse:         0.9
+inchiostro_rosso:     0.9

@@ -1,0 +1,9 @@
+eleganza:             0.9
+forza:                0.9
+creatività:           0.9
+pietra:               0.9
+terra:                0.9
+radice:               0.9
+solo:                 0.9
+giallo:               0.9
+morbillo:             0.9

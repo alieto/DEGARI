@@ -1,0 +1,7 @@
+alice:                0.9
+secondo:              0.9
+paese_del_degrado:    0.9
+maschera:             0.9
+anti_gas:             0.9
+inquinamento:         0.9
+ambiente:             0.9

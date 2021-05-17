@@ -1,0 +1,4 @@
+libro:                0.9
+pensiero:             0.9
+simbolo:              0.9
+monumento:            0.9

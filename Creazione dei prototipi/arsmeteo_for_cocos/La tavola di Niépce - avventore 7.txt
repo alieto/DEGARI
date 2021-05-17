@@ -1,0 +1,8 @@
+tavola:               0.9
+niépce:               0.9
+apparecchiatura:      0.9
+sfotogramma:          0.9
+tavolo_da_gioco:      0.9
+conviviale:           0.9
+set_table:            0.9
+pessoa:               0.9

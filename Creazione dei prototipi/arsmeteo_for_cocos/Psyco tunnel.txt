@@ -1,0 +1,5 @@
+tunnel:               0.9
+frattali:             0.9
+psichedelico:         0.9
+allucinante:          0.9
+colore:               0.9

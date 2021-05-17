@@ -1,0 +1,4 @@
+intreccio:            0.9
+curiosità:            0.9
+spettatore:           0.9
+contorno:             0.9

@@ -1,0 +1,8 @@
+corea:                0.9
+bluff:                0.9
+copertina:            0.9
+strillo:              0.9
+notizia:              0.9
+disonestà:            0.9
+_intellettuale:       0.9
+trash:                0.9

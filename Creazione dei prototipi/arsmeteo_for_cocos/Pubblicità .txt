@@ -1,0 +1,3 @@
+pubblicità:           0.9
+farmaco:              0.9
+disegno:              0.9

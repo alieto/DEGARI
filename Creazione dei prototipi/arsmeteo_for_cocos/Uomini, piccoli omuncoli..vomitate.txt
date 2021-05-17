@@ -1,0 +1,1 @@
+puntasecca:           0.9

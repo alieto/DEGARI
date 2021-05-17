@@ -1,0 +1,5 @@
+volo:                 0.9
+futurismo:            0.9
+aeropittura:          0.9
+geometria:            0.9
+forme_aerodinamiche:  0.9

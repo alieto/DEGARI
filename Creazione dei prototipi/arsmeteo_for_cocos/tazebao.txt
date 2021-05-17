@@ -1,0 +1,2 @@
+hk:                   0.9
+long_time_ago:        0.9

@@ -1,0 +1,7 @@
+prima_di_mettere_le_griglie:0.9
+fatica:               0.9
+longevità:            0.9
+tempo:                0.9
+prima_di_:            0.9
+andare:               0.9
+xiao_ping:            0.9

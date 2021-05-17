@@ -1,0 +1,3 @@
+erba:                 0.9
+parola:               0.9
+invasione:            0.9

@@ -1,0 +1,6 @@
+sorriso:              0.9
+intimità:             0.9
+calore:               0.9
+dolce:                0.9
+cannolo:              0.9
+famiglia:             0.9

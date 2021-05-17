@@ -1,0 +1,4 @@
+pollo:                0.9
+becco:                0.9
+fardello:             0.9
+ritaglio:             0.9

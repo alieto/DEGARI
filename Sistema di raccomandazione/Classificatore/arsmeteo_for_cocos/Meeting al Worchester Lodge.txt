@@ -1,0 +1,8 @@
+aereo:                0.9
+surfanta:             0.9
+atterraggio:          0.9
+surreale:             0.9
+monoplano:            0.9
+esplosione:           0.9
+gatto_nero:           0.9
+fantasma:             0.9

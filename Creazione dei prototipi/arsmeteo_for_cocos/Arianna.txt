@@ -1,0 +1,3 @@
+scultura:             0.9
+forma:                0.9
+filo:                 0.9

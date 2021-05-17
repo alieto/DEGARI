@@ -1,0 +1,9 @@
+matita:               0.9
+chiocciola:           0.9
+combinazione:         0.9
+soffondere:           0.9
+matitona:             0.9
+fune:                 0.9
+appeso:               0.9
+souvenir:             0.9
+appesi_al_chiodo:     0.9

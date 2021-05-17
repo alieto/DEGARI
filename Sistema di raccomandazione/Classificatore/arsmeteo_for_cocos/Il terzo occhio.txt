@@ -1,0 +1,4 @@
+ochhio:               0.9
+pietra:               0.9
+trascendenza:         0.9
+visione_spirituale:   0.9

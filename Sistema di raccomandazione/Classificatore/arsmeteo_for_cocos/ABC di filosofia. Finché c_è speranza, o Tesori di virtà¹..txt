@@ -1,0 +1,12 @@
+speranza:             0.9
+ratzinger:            0.9
+enciclica:            0.9
+cattolicesimo:        0.9
+ferrara:              0.9
+televisione:          0.9
+melevisione:          0.9
+perevisione:          0.9
+filosofia:            0.9
+telesofia:            0.9
+giornalista:          0.9
+piccolo_schermo:      0.9

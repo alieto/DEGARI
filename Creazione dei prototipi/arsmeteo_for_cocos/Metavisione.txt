@@ -1,0 +1,6 @@
+metavisione:          0.9
+ricorsione:           0.9
+ragazza:              0.9
+fotografare:          0.9
+mare:                 0.9
+spiaggia:             0.9

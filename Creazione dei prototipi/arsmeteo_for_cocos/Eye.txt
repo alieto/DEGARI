@@ -1,0 +1,10 @@
+occhio:               0.9
+frattali:             0.9
+colore:               0.9
+pixel_art:            0.9
+tondo:                0.9
+illuminators:         0.9
+yekaterinburg_airport:0.9
+koltsovo:             0.9
+tela:                 0.9
+acquarello:           0.9

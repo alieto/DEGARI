@@ -1,0 +1,4 @@
+ulivo:                0.9
+salento:              0.6
+olio:                 0.6
+antropomorfo:         0.6

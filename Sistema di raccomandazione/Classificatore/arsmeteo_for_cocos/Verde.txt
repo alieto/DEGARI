@@ -1,0 +1,5 @@
+video:                0.9
+non_so_dove:          0.9
+colore_indefinito:    0.9
+verde:                0.9
+pennellata:           0.9

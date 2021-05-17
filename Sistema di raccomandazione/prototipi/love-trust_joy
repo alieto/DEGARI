@@ -1,0 +1,31 @@
+#Title composizione
+Title : trust-joy
+
+#Concetto Principale
+Head Concept Name : trust
+
+#Concetto Modificatore
+Modifier Concept Name : joy
+
+head, -cannibalism
+head, -molestation
+head, -rape
+
+modifier, -holocaust
+
+T(modifier), happiness, 0.98
+T(modifier), bliss, 0.97
+T(modifier), celebrating, 0.97
+T(modifier), jubilant, 0.97
+T(modifier), ecstatic, 0.95
+T(modifier), elation, 0.94
+
+T(head), truthfulness, 0.91
+T(head), trustworthy, 0.87
+T(head), honest, 0.84
+T(head), honor, 0.84
+T(head), truth, 0.84
+T(head), trusting, 0.84
+
+
+Result : '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', 0.0003952581279858038

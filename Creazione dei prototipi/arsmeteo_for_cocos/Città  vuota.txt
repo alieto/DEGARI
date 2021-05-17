@@ -1,0 +1,5 @@
+città:                0.9
+vuoto:                0.9
+strada:               0.9
+palazzo:              0.9
+vacanza:              0.9

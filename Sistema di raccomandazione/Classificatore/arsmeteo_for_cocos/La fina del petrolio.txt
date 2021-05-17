@@ -1,0 +1,5 @@
+benzina:              0.9
+disuso:               0.9
+fine:                 0.9
+fino:                 0.9
+pompa:                0.9

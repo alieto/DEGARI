@@ -1,0 +1,5 @@
+obscured:             0.9
+dark:                 0.9
+ambient:              0.9
+film:                 0.9
+soundtrack:           0.9

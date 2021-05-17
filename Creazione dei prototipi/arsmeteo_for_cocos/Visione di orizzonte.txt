@@ -1,0 +1,5 @@
+paesaggio:            0.9
+palma:                0.9
+frammento:            0.9
+memoria:              0.9
+ragione:              0.9

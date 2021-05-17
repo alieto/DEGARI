@@ -1,0 +1,6 @@
+gotico:               0.9
+tempesta:             0.9
+futuro:               0.9
+fato:                 0.9
+destino:              0.9
+occhio:               0.9

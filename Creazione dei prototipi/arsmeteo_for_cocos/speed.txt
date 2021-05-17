@@ -1,0 +1,6 @@
+altitudine:           0.9
+treno:                0.6
+navigatore:           0.6
+longitudine:          0.6
+velocità:             0.6
+sicurezza:            0.6

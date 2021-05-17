@@ -1,0 +1,5 @@
+torino:               0.9
+concorso:             0.9
+eleganza:             0.9
+automobile:           0.9
+gusto_retrà²:         0.9

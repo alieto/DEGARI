@@ -1,0 +1,9 @@
+metafora:             0.9
+falce_di_luna:        0.9
+terra:                0.9
+luna:                 0.9
+cuore:                0.9
+stella:               0.9
+spazio:               0.9
+tempo:                0.9
+clessidra:            0.9

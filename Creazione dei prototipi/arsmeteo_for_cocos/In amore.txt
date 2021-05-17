@@ -1,0 +1,2 @@
+viso:                 0.9
+paradise:             0.9

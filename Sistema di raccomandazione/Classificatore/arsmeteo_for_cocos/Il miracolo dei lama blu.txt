@@ -1,0 +1,7 @@
+miracolo:             0.9
+apparizionemlevitazione:0.9
+lama:                 0.9
+blu:                  0.9
+tibet:                0.9
+surfanta:             0.9
+surreale:             0.9

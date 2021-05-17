@@ -1,0 +1,6 @@
+tunnel:               0.9
+psichedelico:         0.9
+viaggiare:            0.9
+colore:               0.9
+infinito:             0.9
+ciclico:              0.9

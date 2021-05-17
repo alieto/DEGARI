@@ -1,0 +1,4 @@
+biribombo:            0.9
+via:                  0.9
+scià²:                0.9
+usta:                 0.9

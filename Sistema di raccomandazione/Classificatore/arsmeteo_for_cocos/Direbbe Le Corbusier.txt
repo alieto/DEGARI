@@ -1,0 +1,9 @@
+le_corbu:             0.9
+machine:              0.9
+a_vivre:              0.9
+a_suivre:             0.9
+arscrittura:          0.9
+life:                 0.9
+characters:           0.9
+netville:             0.9
+unité_de_vie:         0.9

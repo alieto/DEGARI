@@ -1,0 +1,7 @@
+concerto:             0.9
+clarinetto:           0.9
+violino:              0.9
+manichino:            0.9
+linea:                0.9
+metà:                 0.9
+fisica|fisico:        0.9

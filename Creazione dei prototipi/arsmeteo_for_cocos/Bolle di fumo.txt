@@ -1,0 +1,3 @@
+geometrie_non_euclidee:0.9
+fumo:                 0.9
+illusioni_ottiche:    0.9

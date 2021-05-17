@@ -1,0 +1,10 @@
+buren:                0.9
+luci_d_artista:       0.9
+rosso:                0.9
+blu:                  0.9
+geometricità:         0.9
+serialità:            0.9
+ripetitività:         0.9
+piazza:               0.9
+torino:               0.9
+anniversario:         0.9

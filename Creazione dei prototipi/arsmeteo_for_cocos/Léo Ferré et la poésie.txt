@@ -1,0 +1,11 @@
+baudelaire:           0.9
+musica:               0.9
+verlaine:             0.9
+robert:               0.9
+belleret:             0.9
+juliette:             0.9
+poeta:                0.9
+gréco:                0.9
+poesia:               0.9
+radio:                0.9
+ferré:                0.9

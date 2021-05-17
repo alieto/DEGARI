@@ -1,0 +1,4 @@
+hugo:                 0.9
+suolo:                0.9
+alfabeto:             0.9
+amalgama:             0.9

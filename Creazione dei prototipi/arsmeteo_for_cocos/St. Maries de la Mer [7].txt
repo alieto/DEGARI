@@ -1,0 +1,5 @@
+suonatore:            0.9
+musica:               0.9
+musicante:            0.9
+ottone:               0.9
+tromba:               0.9

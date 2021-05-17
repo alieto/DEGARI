@@ -1,0 +1,4 @@
+donna:                0.9
+attesa:               0.9
+luna:                 0.9
+notte:                0.9

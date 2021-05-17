@@ -1,0 +1,12 @@
+zio_francesco:        0.9
+prozio:               0.9
+principe:             0.9
+la_famiglia:          0.9
+del_padre:            0.9
+nome_di_maria:        0.9
+parente:              0.9
+tanto:                0.9
+livorno_ferraris:     0.9
+risaie_nei_pressi:    0.9
+la_foto:              0.9
+tutti_uniti:          0.9

@@ -1,0 +1,3 @@
+ammiccamento:         0.9
+sovrapposizione:      0.9
+ennio:                0.9

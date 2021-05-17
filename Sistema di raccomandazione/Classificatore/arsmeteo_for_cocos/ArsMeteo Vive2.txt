@@ -1,0 +1,5 @@
+arsmeteo:             0.9
+alfabeto_opere:       0.9
+alfabeto:             0.9
+lettera:              0.9
+vita:                 0.9

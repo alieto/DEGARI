@@ -1,0 +1,13 @@
+indifferenza:         0.9
+vacanza:              0.9
+holydais:             0.9
+stupidità:            0.9
+mare:                 0.9
+teschio:              0.9
+sabbia:               0.9
+rete:                 0.9
+onda:                 0.9
+arte:                 0.9
+gallery:              0.9
+asia:                 0.9
+conchiglia:           0.9

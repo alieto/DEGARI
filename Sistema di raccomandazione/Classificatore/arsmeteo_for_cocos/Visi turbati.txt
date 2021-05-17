@@ -1,0 +1,8 @@
+dettaglio:            0.9
+rifotografare:        0.9
+shirin:               0.9
+video:                0.9
+emozione:             0.9
+foto_rubate:          0.9
+rivolo:               0.9
+neshat:               0.9

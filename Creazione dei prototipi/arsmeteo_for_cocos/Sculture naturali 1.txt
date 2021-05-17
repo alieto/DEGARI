@@ -1,0 +1,3 @@
+nuvola:               0.9
+sagoma:               0.9
+nudo:                 0.9

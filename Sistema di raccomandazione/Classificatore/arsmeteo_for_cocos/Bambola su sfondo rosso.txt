@@ -1,0 +1,2 @@
+bambola:              0.9
+sfondo_rosso:         0.9

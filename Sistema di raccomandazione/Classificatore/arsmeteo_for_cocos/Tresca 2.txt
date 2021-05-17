@@ -1,0 +1,3 @@
+acrilico:             0.9
+tecnica_mista:        0.9
+intreccio:            0.9

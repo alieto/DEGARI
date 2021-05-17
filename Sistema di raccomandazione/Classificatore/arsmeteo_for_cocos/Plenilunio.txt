@@ -1,0 +1,4 @@
+anno:                 0.9
+tavola:               0.9
+eseguire:             0.9
+olio:                 0.9

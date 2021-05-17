@@ -1,0 +1,8 @@
+swarovski:            0.9
+watten:               0.9
+tirolo:               0.9
+parco:                0.9
+erba:                 0.9
+verde:                0.9
+fontana:              0.9
+arte:                 0.9

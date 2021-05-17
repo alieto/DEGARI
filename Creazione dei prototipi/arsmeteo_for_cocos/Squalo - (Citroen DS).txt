@@ -1,0 +1,16 @@
+bianco:               0.9
+automobile:           0.6
+citroen:              0.6
+squalo:               0.6
+pescecane:            0.6
+sinusoide:            0.6
+precipizio:           0.6
+baratro:              0.6
+nube:                 0.6
+nuvola:               0.6
+cielo:                0.6
+tergere:              0.6
+blu:                  0.6
+azzuro:               0.6
+celesta|celeste:      0.6
+vaporoso:             0.6

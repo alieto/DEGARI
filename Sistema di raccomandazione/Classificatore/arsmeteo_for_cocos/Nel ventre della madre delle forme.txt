@@ -1,0 +1,10 @@
+-astratto+:           0.9
+-colore+:             0.9
+-curve+:              0.9
+-stilizzazione+:      0.9
+-linee+:              0.9
+-angoli+:             0.9
+-segmenti+:           0.9
+-contrasti+:          0.9
+-intersezioni+:       0.9
+-scomposizione+:      0.9

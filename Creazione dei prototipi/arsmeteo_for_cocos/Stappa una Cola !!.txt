@@ -1,0 +1,4 @@
+pop:                  0.9
+cola:                 0.9
+fungo:                0.9
+atomico:              0.9

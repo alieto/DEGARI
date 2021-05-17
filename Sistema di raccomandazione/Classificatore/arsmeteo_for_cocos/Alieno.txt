@@ -1,0 +1,4 @@
+campana_di_vetro:     0.9
+estraneo:             0.9
+curioso:              0.9
+mondi_a_parte:        0.9

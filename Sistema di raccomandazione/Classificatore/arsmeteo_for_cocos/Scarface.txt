@@ -1,0 +1,14 @@
+film:                 0.9
+cinema:               0.9
+scarface:             0.9
+pacino:               0.9
+pittura:              0.9
+acrilico:             0.9
+torino:               0.9
+italia:               0.9
+francesco:            0.9
+noxarte:              0.9
+nociti:               0.9
+nox:                  0.9
+odio:                 0.9
+violenza:             0.9

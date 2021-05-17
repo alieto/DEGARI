@@ -1,0 +1,9 @@
+superfice:            0.9
+mattone:              0.9
+bologna:              0.9
+chiesa:               0.9
+sinuoso:              0.9
+curva:                0.9
+raccordo:             0.9
+muro:                 0.9
+dotta:                0.9

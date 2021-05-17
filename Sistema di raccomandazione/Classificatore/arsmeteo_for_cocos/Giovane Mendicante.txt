@@ -1,0 +1,4 @@
+reportage:            0.9
+mendicante:           0.9
+post_caravaggio:      0.9
+murillo:              0.9

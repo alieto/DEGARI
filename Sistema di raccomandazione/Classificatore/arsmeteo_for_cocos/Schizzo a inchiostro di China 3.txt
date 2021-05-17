@@ -1,0 +1,10 @@
+roccia:               0.9
+albero:               0.9
+foglia:               0.9
+inchiostro:           0.9
+stile_cinese:         0.9
+oriente:              0.9
+pennello:             0.9
+ideogramma:           0.9
+pittogramma:          0.9
+stile_delle_erbe:     0.9

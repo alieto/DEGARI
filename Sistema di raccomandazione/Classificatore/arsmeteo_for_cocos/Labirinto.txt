@@ -1,0 +1,4 @@
+materico:             0.9
+rosso:                0.9
+labirinto:            0.9
+amore:                0.9

@@ -1,0 +1,6 @@
+uomo_invisibile:      0.9
+atterraggio:          0.9
+aereo:                0.9
+avventore:            0.9
+bar:                  0.9
+surreale:             0.9

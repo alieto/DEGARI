@@ -1,0 +1,3 @@
+ponte:                0.9
+tramonto:             0.9
+bilbao:               0.9

@@ -1,0 +1,12 @@
+red_ink:              0.9
+tvb:                  0.9
+kinder:               0.9
+anagramma:            0.9
+barbie:               0.9
+disco:                0.9
+vinile:               0.9
+lp:                   0.9
+long_playing:         0.9
+giradischi:           0.9
+girare:               0.9
+vintage:              0.9

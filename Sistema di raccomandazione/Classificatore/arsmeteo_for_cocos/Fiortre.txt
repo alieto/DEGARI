@@ -1,0 +1,11 @@
+occhio:               0.9
+surreale:             0.9
+bicchiere:            0.9
+surfanta:             0.9
+antropomorfo:         0.9
+fantasia:             0.9
+natura_morta:         0.9
+vita:                 0.9
+foglia:               0.9
+pianta:               0.9
+gemma:                0.9

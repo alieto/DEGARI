@@ -1,0 +1,4 @@
+colonna:              0.9
+geroglifico:          0.9
+antico_egitto:        0.9
+suggestione:          0.9

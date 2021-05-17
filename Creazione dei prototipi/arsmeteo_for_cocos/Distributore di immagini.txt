@@ -1,0 +1,11 @@
+-metallo+:            0.9
+distributore:         0.9
+automatico:           0.9
+immagine:             0.9
+dispensatore:         0.9
+schermo:              0.9
+-riciclato+:          0.9
+-rivivere+:           0.9
+-recupero+:           0.9
+-assemblaggio+:       0.9
+-meccanico+:          0.9

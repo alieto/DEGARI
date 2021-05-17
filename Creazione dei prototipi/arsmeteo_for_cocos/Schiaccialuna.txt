@@ -1,0 +1,5 @@
+luna:                 0.9
+spremitura:           0.9
+schiaccianoci:        0.9
+rosso_di_sera:        0.9
+falce_di_luna:        0.9

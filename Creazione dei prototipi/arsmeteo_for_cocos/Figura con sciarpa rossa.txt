@@ -1,0 +1,4 @@
+rilievo:              0.9
+rosso:                0.9
+colore:               0.9
+materia:              0.9

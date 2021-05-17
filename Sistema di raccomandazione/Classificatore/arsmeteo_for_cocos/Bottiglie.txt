@@ -1,0 +1,4 @@
+bottiglia:            0.9
+vetro:                0.9
+trasparenza:          0.9
+luce:                 0.9

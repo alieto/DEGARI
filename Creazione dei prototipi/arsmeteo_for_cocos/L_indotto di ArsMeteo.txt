@@ -1,0 +1,5 @@
+spazio_conteso:       0.9
+lussureggiante:       0.9
+speculazione:         0.9
+verticale:            0.9
+discendente:          0.9

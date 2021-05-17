@@ -1,0 +1,3 @@
+farfalla:             0.9
+fuoco:                0.9
+sincronicità:         0.9

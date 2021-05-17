@@ -1,0 +1,4 @@
+ruggito:              0.9
+animale:              0.9
+amore:                0.9
+tenerezza:            0.9

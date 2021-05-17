@@ -1,0 +1,7 @@
+erotismo:             0.9
+sessualità:           0.9
+mutualità:            0.9
+benessere:            0.9
+carne:                0.9
+spettacolo:           0.9
+anima:                0.9

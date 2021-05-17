@@ -1,0 +1,11 @@
+sangue:               0.9
+ragazzo:              0.9
+cingolato:            0.9
+magenta:              0.9
+territorio:           0.9
+amministrazione:      0.9
+urbanistica:          0.9
+demolizione:          0.9
+schiacciamento:       0.9
+urlo:                 0.9
+netville:             0.9

@@ -1,0 +1,5 @@
+movimento:            0.9
+pensiero:             0.9
+tranquillità:         0.9
+_interiore:           0.9
+atlantico:            0.9

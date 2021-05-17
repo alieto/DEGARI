@@ -1,0 +1,4 @@
+libro:                0.9
+lettura:              0.9
+testo:                0.9
+carofiglio:           0.9

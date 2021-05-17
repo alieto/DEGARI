@@ -1,0 +1,8 @@
+amore:                0.9
+gelosia:              0.9
+triangolo:            0.9
+sospetto:             0.9
+tradimento:           0.9
+pantofola:            0.9
+paura:                0.9
+controllo:            0.9

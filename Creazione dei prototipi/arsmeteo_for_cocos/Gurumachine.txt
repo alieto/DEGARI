@@ -1,0 +1,9 @@
+macchina:             0.9
+automobile:           0.9
+bolide:               0.9
+mito:                 0.9
+velocità:             0.9
+lucente:              0.9
+argento:              0.9
+potenza:              0.9
+eleganza:             0.9

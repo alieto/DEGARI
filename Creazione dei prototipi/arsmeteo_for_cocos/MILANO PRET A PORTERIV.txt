@@ -1,0 +1,4 @@
+moda:                 0.9
+eleganza:             0.9
+sorriso:              0.9
+modella:              0.9

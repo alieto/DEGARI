@@ -1,0 +1,4 @@
+violino:              0.9
+conchiglia:           0.9
+linea:                0.9
+gestuale:             0.9

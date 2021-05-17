@@ -1,0 +1,10 @@
+pennello:             0.9
+triangolo:            0.9
+rosso:                0.9
+plastico:             0.9
+meridiana:            0.9
+opposto:              0.9
+manico:               0.9
+blu:                  0.9
+inclinazione:         0.9
+tempo:                0.9

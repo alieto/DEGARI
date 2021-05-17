@@ -1,0 +1,6 @@
+bianco:               0.9
+cappotto:             0.9
+passeggio:            0.9
+vetrina:              0.9
+lingotto:             0.9
+senza_meta:           0.9

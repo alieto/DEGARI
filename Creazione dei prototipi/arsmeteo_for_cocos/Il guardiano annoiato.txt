@@ -1,0 +1,8 @@
+guardiano:            0.9
+noia:                 0.9
+attesa:               0.9
+meraviglia:           0.9
+immaginazione:        0.9
+frattali:             0.9
+aspettativa:          0.9
+disillusione:         0.9

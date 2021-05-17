@@ -1,0 +1,5 @@
+numero:               0.9
+burattino:            0.9
+pinocchio:            0.9
+dall_uno_allo_zero:   0.9
+pinochio_da_i_numeri: 0.9

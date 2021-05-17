@@ -1,0 +1,11 @@
+netville:             0.9
+esistenza:            0.9
+rappresentazione:     0.9
+precauzione:          0.9
+attenzione:           0.9
+muro:                 0.9
+mitra:                0.9
+attacco:              0.9
+difesa:               0.9
+persecuzione:         0.9
+infanzia:             0.9

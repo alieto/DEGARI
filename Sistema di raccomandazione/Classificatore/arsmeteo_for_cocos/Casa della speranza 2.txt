@@ -1,0 +1,6 @@
+riquadro:             0.9
+nicchia:              0.9
+matitona:             0.9
+fune:                 0.9
+chiocciola:           0.9
+lumachina:            0.9

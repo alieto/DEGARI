@@ -1,0 +1,5 @@
+rosso:                0.9
+rifotografare:        0.9
+attesa:               0.9
+divenire:             0.9
+uomo_donna:           0.9

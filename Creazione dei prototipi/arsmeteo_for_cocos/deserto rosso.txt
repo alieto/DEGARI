@@ -1,0 +1,8 @@
+antonioni:            0.9
+vitto:                0.9
+harris:               0.9
+vetrina:              0.9
+capolavoro:           0.9
+disperazione_urbana:  0.9
+desolazione:          0.9
+cinema:               0.9

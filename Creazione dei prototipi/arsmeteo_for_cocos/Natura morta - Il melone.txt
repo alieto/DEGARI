@@ -1,0 +1,2 @@
+melone:               0.9
+natura_morta:         0.9

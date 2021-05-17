@@ -1,0 +1,6 @@
+arte_casuale:         0.9
+astratto:             0.9
+cancello:             0.9
+ruggine:              0.9
+verso_il_vuoto:       0.9
+metallo:              0.9

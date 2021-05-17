@@ -1,0 +1,3 @@
+sindone:              0.9
+deserto:              0.9
+telo:                 0.9

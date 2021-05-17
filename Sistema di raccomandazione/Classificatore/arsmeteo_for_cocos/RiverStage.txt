@@ -1,0 +1,4 @@
+fiume:                0.9
+scena:                0.9
+contrasto:            0.9
+albero:               0.9

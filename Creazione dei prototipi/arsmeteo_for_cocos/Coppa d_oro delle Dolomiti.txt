@@ -1,0 +1,6 @@
+dolomite:             0.9
+manifesto:            0.9
+gara:                 0.9
+automobile:           0.9
+corsa:                0.9
+auto_d_epoca:         0.9

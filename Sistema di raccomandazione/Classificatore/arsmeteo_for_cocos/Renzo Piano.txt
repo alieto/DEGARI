@@ -1,0 +1,9 @@
+chiarezza:            0.9
+trasparenza:          0.9
+bellezza:             0.9
+costruire:            0.9
+chiaroveggenza:       0.9
+armonia:              0.9
+genio:                0.9
+televisione:          0.9
+architettura:         0.9

@@ -1,0 +1,5 @@
+cerchio:              0.9
+dittico:              0.9
+combustione:          0.9
+foro:                 0.9
+cerchi_concentrici:   0.9

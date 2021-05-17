@@ -1,0 +1,4 @@
+rosso:                0.9
+caro:                 0.9
+addio:                0.9
+installazione:        0.9

@@ -1,0 +1,6 @@
+paris:                0.9
+struttura:            0.9
+sorpresa:             0.9
+portico:              0.9
+passante:             0.9
+indizio:              0.9

@@ -1,0 +1,5 @@
+gestualità:           0.9
+alchimia:             0.9
+opera:                0.9
+nero:                 0.9
+pixel:                0.9

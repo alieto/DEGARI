@@ -1,0 +1,4 @@
+divertimento:         0.9
+experimenta:          0.9
+estate:               0.9
+complicità:           0.9

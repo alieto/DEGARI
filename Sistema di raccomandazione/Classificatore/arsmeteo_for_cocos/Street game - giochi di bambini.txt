@@ -1,0 +1,6 @@
+strada:               0.9
+bambino:              0.9
+gioco:                0.9
+lomo:                 0.9
+vintage:              0.9
+cina:                 0.9

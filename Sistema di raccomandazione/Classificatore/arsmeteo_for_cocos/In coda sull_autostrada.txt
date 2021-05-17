@@ -1,0 +1,2 @@
+elefante:             0.9
+elegante:             0.9

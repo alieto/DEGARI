@@ -1,0 +1,6 @@
+luce:                 0.9
+ciano:                0.9
+magenta:              0.9
+giallo:               0.9
+scomposizione:        0.9
+composizione:         0.9

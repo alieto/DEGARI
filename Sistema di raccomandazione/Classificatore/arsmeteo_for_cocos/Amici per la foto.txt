@@ -1,0 +1,5 @@
+vetrina:              0.9
+rifotografare:        0.9
+parigi:               0.9
+pubblicità:           0.9
+les_halles:           0.9

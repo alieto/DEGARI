@@ -1,0 +1,2 @@
+simboli_del_potere:   0.9
+ai_tempi_della_cortina_di_ferro:0.9

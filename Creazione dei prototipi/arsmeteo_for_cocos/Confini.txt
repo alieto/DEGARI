@@ -1,0 +1,3 @@
+frontiera:            0.9
+barriera:             0.9
+ostacolo:             0.9

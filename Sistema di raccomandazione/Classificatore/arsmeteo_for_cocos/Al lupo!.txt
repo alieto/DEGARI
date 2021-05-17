@@ -1,0 +1,5 @@
+allarmismo:           0.9
+fobia:                0.9
+demagogia:            0.9
+sospetto:             0.9
+londra:               0.9

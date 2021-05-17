@@ -1,0 +1,5 @@
+movimeto:             0.9
+fogliare:             0.9
+poesia:               0.9
+precisione:           0.9
+scansione:            0.9

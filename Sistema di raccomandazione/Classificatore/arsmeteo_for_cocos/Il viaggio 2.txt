@@ -1,0 +1,7 @@
+fabbrica:             0.9
+metropoliurbana:      0.9
+uomo:                 0.9
+grigiore:             0.9
+solitudine:           0.9
+oppressione:          0.9
+plumbeo:              0.9

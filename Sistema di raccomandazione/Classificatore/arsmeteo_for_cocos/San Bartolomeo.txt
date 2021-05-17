@@ -1,0 +1,9 @@
+efferatezza:          0.9
+colore:               0.9
+martello:             0.9
+sangue:               0.9
+testimone:            0.9
+spettatore:           0.9
+esecuzione:           0.9
+simbolo:              0.9
+metafora:             0.9

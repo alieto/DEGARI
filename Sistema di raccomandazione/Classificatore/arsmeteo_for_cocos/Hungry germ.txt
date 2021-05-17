@@ -1,0 +1,8 @@
+famelico:             0.9
+affamare:             0.9
+germe:                0.9
+organismo:            0.9
+surreale:             0.9
+ogm:                  0.9
+pericoloso:           0.9
+cattivo:              0.9

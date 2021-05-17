@@ -1,0 +1,6 @@
+ombra:                0.9
+ciondolo:             0.6
+insetto:              0.6
+desolazione:          0.6
+povertà:              0.6
+ferito:               0.6

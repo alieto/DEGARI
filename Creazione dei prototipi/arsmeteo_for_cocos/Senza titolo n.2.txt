@@ -1,0 +1,5 @@
+animal_machines:      0.9
+animali_macchine:     0.9
+allevamento:          0.9
+oggetti_organici:     0.9
+allevamento_intensivo:0.9

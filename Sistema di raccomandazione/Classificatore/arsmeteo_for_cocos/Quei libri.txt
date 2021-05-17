@@ -1,0 +1,4 @@
+libro:                0.9
+edificio:             0.9
+pagoda:               0.9
+tempio:               0.9

@@ -1,0 +1,5 @@
+sagrato_chiesa:       0.9
+rivolo:               0.9
+pic-nic_per_i_piccoli:0.9
+sera_di_estate:       0.9
+incanto:              0.9

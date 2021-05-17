@@ -1,0 +1,5 @@
+tactile:              0.9
+cactus:               0.9
+ceramica:             0.9
+lecca_lecca:          0.9
+lucido:               0.9

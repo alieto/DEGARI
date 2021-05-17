@@ -1,0 +1,11 @@
+rosso:                0.9
+giallo:               0.9
+blu:                  0.9
+danza:                0.9
+dinamismo:            0.9
+dinamico:             0.9
+velovità:             0.9
+guizzo:               0.9
+virtuoso:             0.9
+saltellare:           0.9
+saturo:               0.9

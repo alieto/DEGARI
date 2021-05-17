@@ -1,0 +1,5 @@
+vino:                 0.9
+alcolismo:            0.9
+sociale:              0.9
+libagione:            0.9
+mitologia:            0.9

@@ -1,0 +1,5 @@
+mail:                 0.9
+art:                  0.9
+carta:                0.9
+pensante:             0.9
+acrilico:             0.9

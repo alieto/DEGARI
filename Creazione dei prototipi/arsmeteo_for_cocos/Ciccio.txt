@@ -1,0 +1,2 @@
+omino_ciccio:         0.9
+disegnino:            0.9

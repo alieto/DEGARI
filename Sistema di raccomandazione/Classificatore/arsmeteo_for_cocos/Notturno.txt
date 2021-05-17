@@ -1,0 +1,7 @@
+nuvola:               0.9
+striatura:            0.9
+riflesso:             0.9
+cavo:                 0.9
+filo:                 0.9
+intreccio:            0.9
+retrospettive_oniriche:0.9

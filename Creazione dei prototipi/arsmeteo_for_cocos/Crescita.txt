@@ -1,0 +1,14 @@
+bambino:              0.9
+adolescente:          0.9
+volto:                0.9
+crescere:             0.9
+ritratto:             0.9
+viso:                 0.9
+giovane:              0.9
+bimbo:                0.9
+grafica:              0.9
+accenno:              0.9
+fusione:              0.9
+evoluzione:           0.9
+verso:                0.9
+prospetto:            0.9

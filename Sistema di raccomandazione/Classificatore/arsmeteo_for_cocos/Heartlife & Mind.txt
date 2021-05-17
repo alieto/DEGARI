@@ -1,0 +1,6 @@
+cuore:                0.9
+mente:                0.9
+frattali:             0.9
+neurone:              0.9
+sviluppo:             0.9
+vita:                 0.9

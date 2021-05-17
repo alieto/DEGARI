@@ -1,0 +1,3 @@
+mondo:                0.9
+arsmeteo:             0.9
+omaggio:              0.9

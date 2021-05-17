@@ -1,0 +1,7 @@
+gatto:                0.9
+sul_tetto:            0.9
+notte:                0.9
+abbozzo:              0.9
+studio:               0.9
+idea:                 0.9
+luna:                 0.9

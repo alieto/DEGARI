@@ -1,0 +1,5 @@
+astratto:             0.9
+colore:               0.9
+segno:                0.9
+stilizzazione:        0.9
+quadrato:             0.9

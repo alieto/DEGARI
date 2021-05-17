@@ -1,0 +1,5 @@
+schiavo:              0.9
+amore:                0.9
+donna:                0.9
+labbro:               0.9
+stivale:              0.9

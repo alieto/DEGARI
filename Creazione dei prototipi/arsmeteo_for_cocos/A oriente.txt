@@ -1,0 +1,8 @@
+surreale:             0.9
+surfanta:             0.9
+tibet:                0.9
+lago:                 0.9
+montagna:             0.9
+sasso:                0.9
+uccelli_impietosi:    0.9
+naso_a_becco:         0.9

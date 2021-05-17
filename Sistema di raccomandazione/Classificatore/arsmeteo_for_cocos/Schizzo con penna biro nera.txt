@@ -1,0 +1,11 @@
+albero:               0.9
+contorsione:          0.9
+evoluzione:           0.9
+ramificazione:        0.9
+radice:               0.9
+ramo:                 0.9
+profilo:              0.9
+volto:                0.9
+nascondere:           0.9
+viso:                 0.9
+faccie:               0.9

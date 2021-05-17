@@ -1,0 +1,8 @@
+bambina:              0.9
+cane:                 0.9
+sorriso:              0.9
+occhio:               0.9
+buio:                 0.9
+luce:                 0.9
+de:                   0.9
+filippi:              0.9

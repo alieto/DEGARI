@@ -1,0 +1,9 @@
+radiohead:            0.9
+ultracorpi:           0.9
+metafilm:             0.9
+metadance:            0.9
+rifilmare:            0.9
+metavideo:            0.9
+abyme:                0.9
+mettere:              0.9
+abissale:             0.9

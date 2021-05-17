@@ -1,0 +1,13 @@
+-paesaggio+:          0.9
+-contemporà:          0.9
+neo+:                 0.9
+-natura+:             0.9
+-materia+:            0.9
+-espressionismo+:     0.9
+-informale+:          0.9
+-concrezioni_materiche+:0.9
+-violenza+:           0.9
+-primordiale+:        0.9
+-terra+:              0.9
+-desertificato+:      0.9
+-marea+:              0.9

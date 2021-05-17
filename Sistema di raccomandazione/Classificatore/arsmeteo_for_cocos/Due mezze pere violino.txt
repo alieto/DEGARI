@@ -1,0 +1,8 @@
+pera:                 0.9
+mezze_pere:           0.9
+violino:              0.9
+musica:               0.9
+frutta:               0.9
+metafora:             0.9
+forma:                0.9
+richiamo:             0.9

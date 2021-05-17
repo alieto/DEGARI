@@ -1,0 +1,3 @@
+cubismo:              0.9
+rivisitazione:        0.9
+de-posizione:         0.9

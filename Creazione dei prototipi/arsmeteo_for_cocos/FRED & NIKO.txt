@@ -1,0 +1,8 @@
+fred:                 0.9
+niko:                 0.9
+red-ink:              0.9
+kinder:               0.9
+medico:               0.9
+cosma:                0.9
+damiano:              0.9
+santo:                0.9

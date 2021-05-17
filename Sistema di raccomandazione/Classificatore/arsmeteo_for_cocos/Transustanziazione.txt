@@ -1,0 +1,5 @@
+rosso_e_bianco:       0.9
+red_and_white:        0.9
+piuma:                0.9
+spirito:              0.9
+mistico:              0.9

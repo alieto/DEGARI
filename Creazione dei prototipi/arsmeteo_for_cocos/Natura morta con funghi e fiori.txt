@@ -1,0 +1,4 @@
+natura:               0.9
+morta:                0.9
+fungo:                0.9
+fiore:                0.9

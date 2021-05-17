@@ -1,0 +1,5 @@
+topolino:             0.9
+paperone:             0.9
+notre:                0.9
+dama:                 0.9
+parigi:               0.9

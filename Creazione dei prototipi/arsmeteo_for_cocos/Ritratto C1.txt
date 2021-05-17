@@ -1,0 +1,4 @@
+ritratto:             0.9
+acquerello:           0.9
+figura:               0.9
+storia:               0.9

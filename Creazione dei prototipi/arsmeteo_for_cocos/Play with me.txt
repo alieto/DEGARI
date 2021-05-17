@@ -1,0 +1,6 @@
+gioco:                0.9
+bambino:              0.9
+pianco_e_nero:        0.9
+occhio:               0.9
+sguardo:              0.9
+innocenza:            0.9

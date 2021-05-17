@@ -1,0 +1,7 @@
+venezia:              0.9
+biennale:             0.9
+galleggiamento:       0.9
+barca:                0.9
+marmo:                0.9
+sorpresa:             0.9
+sfida:                0.9

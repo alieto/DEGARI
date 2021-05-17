@@ -1,0 +1,3 @@
+elaborazione:         0.9
+digitale:             0.9
+giugno:               0.9

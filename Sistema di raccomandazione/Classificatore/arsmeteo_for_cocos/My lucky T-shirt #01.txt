@@ -1,0 +1,2 @@
+plosc:                0.9
+electro_mechanica:    0.9

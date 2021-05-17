@@ -1,0 +1,6 @@
+-maternità:           0.9
+-grottesco+:          0.9
+-natività:            0.9
+-mostri+:             0.9
+-protezione+:         0.9
+-freak+:              0.9

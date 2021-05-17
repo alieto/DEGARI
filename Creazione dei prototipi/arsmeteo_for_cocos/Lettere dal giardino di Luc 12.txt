@@ -1,0 +1,6 @@
+lettera:              0.9
+dal_giardino:         0.9
+busta:                0.9
+foglia:               0.9
+dal_canada:           0.9
+sorpresa:             0.9

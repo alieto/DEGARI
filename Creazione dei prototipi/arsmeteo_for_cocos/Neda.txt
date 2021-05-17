@@ -1,0 +1,6 @@
+iraniano:             0.9
+neda:                 0.9
+uccisa:               0.9
+martire:              0.9
+allegoria:            0.9
+madonna:              0.9

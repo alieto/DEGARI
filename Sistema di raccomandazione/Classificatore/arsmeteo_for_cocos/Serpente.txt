@@ -1,0 +1,4 @@
+serpente:             0.9
+lingua_biforcuta:     0.9
+segno:                0.9
+graffio:              0.9

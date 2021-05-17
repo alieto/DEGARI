@@ -1,0 +1,3 @@
+blu:                  0.9
+anima:                0.9
+simbolismo_concettuale:0.9

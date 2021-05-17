@@ -1,0 +1,2 @@
+omaggio:              0.9
+inseguimento:         0.9

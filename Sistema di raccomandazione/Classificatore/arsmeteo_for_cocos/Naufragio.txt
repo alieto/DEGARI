@@ -1,0 +1,4 @@
+nave:                 0.9
+mare:                 0.9
+solitudine:           0.9
+naufragio:            0.9

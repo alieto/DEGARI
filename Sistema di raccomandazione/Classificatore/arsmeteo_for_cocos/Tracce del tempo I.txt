@@ -1,0 +1,4 @@
+tempo:                0.9
+tarlo:                0.9
+corrosione:           0.9
+legno:                0.9

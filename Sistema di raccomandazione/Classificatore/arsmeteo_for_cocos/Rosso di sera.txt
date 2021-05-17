@@ -1,0 +1,13 @@
+tramonto:             0.9
+sibillino:            0.9
+cielo:                0.9
+nuvola:               0.9
+monte:                0.9
+contrabbasso:         0.9
+musicista:            0.9
+rosso:                0.9
+luna:                 0.9
+sera:                 0.9
+linea:                0.9
+cornice:              0.9
+sincronicità:         0.9

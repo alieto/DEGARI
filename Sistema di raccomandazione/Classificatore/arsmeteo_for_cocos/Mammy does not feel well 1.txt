@@ -1,0 +1,4 @@
+mamma:                0.9
+malessere:            0.9
+disperazione:         0.9
+bambino:              0.9

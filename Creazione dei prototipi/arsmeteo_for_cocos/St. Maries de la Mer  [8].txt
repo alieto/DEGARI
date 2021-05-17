@@ -1,0 +1,7 @@
+suonatore:            0.9
+musica:               0.9
+in_nero:              0.9
+violino:              0.9
+assordante:           0.9
+band:                 0.9
+gruppo:               0.9

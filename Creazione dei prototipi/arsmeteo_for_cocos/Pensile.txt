@@ -1,0 +1,4 @@
+carnevale:            0.9
+maschera:             0.9
+riga:                 0.9
+arancio:              0.9

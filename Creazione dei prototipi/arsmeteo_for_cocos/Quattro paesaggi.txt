@@ -1,0 +1,8 @@
+tecnica:              0.9
+mista:                0.9
+scarto:               0.9
+stampa:               0.9
+intervento:           0.9
+pittura:              0.9
+digitale:             0.9
+misto:                0.9

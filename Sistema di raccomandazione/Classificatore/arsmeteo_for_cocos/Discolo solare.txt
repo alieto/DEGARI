@@ -1,0 +1,5 @@
+solo:                 0.9
+gabbia:               0.9
+falce_di_luna:        0.9
+notte_in_gabbia:      0.9
+sempre_giorno:        0.9

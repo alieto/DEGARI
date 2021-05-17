@@ -1,0 +1,7 @@
+cm:                   0.9
+acrilico:             0.6
+duplice:              0.6
+tela:                 0.6
+50x70:                0.6
+totale:               0.6
+70x100:               0.6

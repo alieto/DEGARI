@@ -1,0 +1,2 @@
+puzza:                0.9
+psichedelico:         0.9

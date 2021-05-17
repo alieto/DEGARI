@@ -1,0 +1,4 @@
+oscurità:             0.9
+spazi_di_luce:        0.9
+materiale:            0.9
+matrice:              0.9

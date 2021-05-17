@@ -1,0 +1,7 @@
+inversione:           0.9
+luna_nera:            0.9
+pozzo:                0.9
+dal_pozzo:            0.9
+dal_basso:            0.9
+mistero:              0.9
+profondo:             0.9

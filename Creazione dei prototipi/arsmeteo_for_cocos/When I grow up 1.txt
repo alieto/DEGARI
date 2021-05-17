@@ -1,0 +1,7 @@
+dado:                 0.9
+bambino:              0.9
+camicia:              0.9
+crescita:             0.9
+ruolo:                0.9
+destino:              0.9
+futuro:               0.9

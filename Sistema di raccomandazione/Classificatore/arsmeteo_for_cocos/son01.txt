@@ -1,0 +1,6 @@
+music:                0.9
+video:                0.9
+search:               0.9
+sounds:               0.9
+remake:               0.9
+remix:                0.9

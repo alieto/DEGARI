@@ -1,0 +1,4 @@
+sospiro:              0.9
+calore:               0.9
+fluido:               0.9
+sogno:                0.9

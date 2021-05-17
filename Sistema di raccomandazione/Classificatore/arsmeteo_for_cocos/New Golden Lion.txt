@@ -1,0 +1,8 @@
+surreale:             0.9
+surfanta:             0.9
+naso_a_becco:         0.9
+uccelli_impietosi:    0.9
+strada:               0.9
+leone:                0.9
+letto_in_caduta:      0.9
+city:                 0.9

@@ -1,0 +1,2 @@
+indelebile:           0.9
+carta:                0.9

@@ -1,0 +1,4 @@
+diecidecimi:          0.9
+spicchio:             0.9
+pianeta:              0.9
+lovelock:             0.9

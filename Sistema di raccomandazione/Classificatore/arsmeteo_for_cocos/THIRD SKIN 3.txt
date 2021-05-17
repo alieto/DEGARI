@@ -1,0 +1,15 @@
+-cicatrice+:          0.9
+-segno+:              0.9
+-memoria+:            0.9
+-tempo+:              0.9
+-essenza+:            0.9
+-membrana+:           0.9
+-bianco+:             0.9
+-carta+:              0.9
+-pelle+:              0.9
+-metamorfosi+:        0.9
+-cambiamento+:        0.9
+-impronta+:           0.9
+-delicata+:           0.9
+-cerchi+:             0.9
+-rilievi+:            0.9

@@ -1,0 +1,5 @@
+moda:                 0.9
+gusto:                0.9
+discrezione:          0.9
+fascino:              0.9
+impermanenza:         0.9

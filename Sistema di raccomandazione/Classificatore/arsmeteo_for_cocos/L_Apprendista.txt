@@ -1,0 +1,3 @@
+apprendista:          0.9
+maestro:              0.9
+pittore:              0.9

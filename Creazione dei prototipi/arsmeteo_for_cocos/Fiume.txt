@@ -1,0 +1,6 @@
+chaopraia:            0.9
+acqua:                0.9
+grattacielo:          0.9
+metropoli:            0.9
+folla:                0.9
+incisione:            0.9

@@ -1,0 +1,4 @@
+velo:                 0.9
+travestimento:        0.9
+pochoir:              0.9
+scrutatore:           0.9

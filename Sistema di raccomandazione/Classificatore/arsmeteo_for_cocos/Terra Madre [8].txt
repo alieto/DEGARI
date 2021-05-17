@@ -1,0 +1,8 @@
+terra_madre:          0.9
+donna:                0.9
+vero:                 0.9
+sguardo:              0.9
+occhio:               0.9
+fissità:              0.9
+generazione:          0.9
+turbante:             0.9

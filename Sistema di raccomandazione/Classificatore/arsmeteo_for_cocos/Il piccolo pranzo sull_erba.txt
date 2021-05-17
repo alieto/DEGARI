@@ -1,0 +1,5 @@
+picnic:               0.9
+pranzo:               0.9
+erba:                 0.9
+parco:                0.9
+festa:                0.9

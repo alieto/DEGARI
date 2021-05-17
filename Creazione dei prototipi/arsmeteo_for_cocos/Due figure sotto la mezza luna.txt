@@ -1,0 +1,5 @@
+donna:                0.9
+sfruttamento:         0.9
+mezza_luna:           0.9
+povertà:              0.9
+strada:               0.9

@@ -1,0 +1,9 @@
+farfalla:             0.9
+effetto:              0.9
+propagazione:         0.9
+caos:                 0.9
+causa:                0.9
+causa_effetto:        0.9
+incontrollabile:      0.9
+imprevedibile:        0.9
+butterfly_effect:     0.9

@@ -1,0 +1,6 @@
+comodità:             0.9
+luce:                 0.9
+intimità:             0.9
+calore:               0.9
+benessere:            0.9
+bliss:                0.9

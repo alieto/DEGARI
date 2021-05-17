@@ -1,0 +1,5 @@
+pellegrino:           0.9
+viaggiare:            0.9
+viandante:            0.9
+salento:              0.9
+galatina:             0.9

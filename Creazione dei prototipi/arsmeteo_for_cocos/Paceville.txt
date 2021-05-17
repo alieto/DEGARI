@@ -1,0 +1,6 @@
+mare:                 0.9
+malta:                0.9
+paceville:            0.9
+spiaggia:             0.9
+baia:                 0.9
+bimba:                0.9

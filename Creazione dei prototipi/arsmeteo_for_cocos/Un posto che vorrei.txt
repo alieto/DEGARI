@@ -1,0 +1,5 @@
+camera:               0.9
+riposo:               0.9
+accogliente:          0.9
+vetrina:              0.9
+esposizione:          0.9

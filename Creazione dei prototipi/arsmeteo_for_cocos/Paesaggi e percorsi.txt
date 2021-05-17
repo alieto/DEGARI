@@ -1,0 +1,5 @@
+paesaggio:            0.9
+impressione:          0.9
+percorso:             0.9
+landscape:            0.9
+dalla_finestra:       0.9

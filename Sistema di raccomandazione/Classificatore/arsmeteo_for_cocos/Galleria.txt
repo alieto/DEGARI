@@ -1,0 +1,6 @@
+eleganza:             0.9
+tradizione:           0.9
+esposizione:          0.9
+passaggio:            0.9
+transito:             0.9
+vetrina:              0.9

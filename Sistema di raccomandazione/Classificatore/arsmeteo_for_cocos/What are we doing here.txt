@@ -1,0 +1,7 @@
+selfish_question:     0.9
+toilette:             0.9
+problem_solving:      0.9
+posa:                 0.9
+esercizi_di_stile:    0.9
+clonazione:           0.9
+distrazione:          0.9

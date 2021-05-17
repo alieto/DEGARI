@@ -1,0 +1,11 @@
+darkroom:             0.9
+solitudine:           0.9
+in_quiete:            0.9
+ombra:                0.9
+penombra:             0.9
+pezzi_mancanti:       0.9
+solitariamente:       0.9
+violinetnico:         0.9
+electric:             0.9
+paced:                0.9
+ambient:              0.9

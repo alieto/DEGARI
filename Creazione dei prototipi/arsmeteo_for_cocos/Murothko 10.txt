@@ -1,0 +1,8 @@
+muro:                 0.9
+rothko:               0.9
+due:                  0.9
+mattone:              0.9
+bianco:               0.9
+arancione:            0.9
+bugnato:              0.9
+convessità:           0.9

@@ -1,0 +1,4 @@
+polizia:              0.9
+attacco:              0.9
+incursione:           0.9
+vandalo:              0.9

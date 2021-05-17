@@ -1,0 +1,3 @@
+stazione:             0.9
+centrale:             0.9
+milano:               0.9

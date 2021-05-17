@@ -1,0 +1,3 @@
+cane:                 0.9
+giardino:             0.9
+palla:                0.9

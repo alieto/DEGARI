@@ -1,0 +1,5 @@
+luce:                 0.9
+architettura:         0.9
+aprire:               0.9
+albero:               0.9
+casa:                 0.9

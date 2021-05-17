@@ -1,0 +1,5 @@
+video:                0.9
+otto-:                0.9
+grano:                0.9
+campo:                0.9
+pellicola:            0.9

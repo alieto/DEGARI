@@ -1,0 +1,10 @@
+alluvione:            0.9
+sommerso:             0.9
+new_orleans:          0.9
+jazz:                 0.9
+swing:                0.9
+bush:                 0.9
+fallimento:           0.9
+soccorso:             0.9
+tornado:              0.9
+netville:             0.9

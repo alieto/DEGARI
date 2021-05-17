@@ -1,0 +1,1 @@
+anomalia:             0.9

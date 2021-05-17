@@ -1,0 +1,8 @@
+pagliaccio:           0.9
+circo:                0.9
+artista:              0.9
+fatica:               0.9
+allegria:             0.9
+tristezza:            0.9
+sudore:               0.9
+concentrazione:       0.9

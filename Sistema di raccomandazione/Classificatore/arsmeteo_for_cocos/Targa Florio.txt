@@ -1,0 +1,10 @@
+corsa:                0.9
+automobile:           0.9
+targa_florio:         0.6
+gara:                 0.6
+ruggente:             0.6
+targa:                0.6
+florio:               0.6
+sicilia:              0.6
+pergusa:              0.6
+circuito:             0.6

@@ -1,0 +1,9 @@
+-astratto+:           0.9
+-stilizzazione+:      0.9
+-linee+:              0.9
+-colore+:             0.9
+-curve+:              0.9
+angolo:               0.9
+triangolo:            0.9
+disco:                0.9
+giallo:               0.9

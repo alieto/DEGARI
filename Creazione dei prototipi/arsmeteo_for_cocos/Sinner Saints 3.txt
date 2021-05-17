@@ -1,0 +1,7 @@
+guerra:               0.9
+carro_armato:         0.9
+arma:                 0.9
+munizione:            0.9
+attacco:              0.9
+efferatezza:          0.9
+spietato:             0.9

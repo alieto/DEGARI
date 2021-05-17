@@ -1,0 +1,9 @@
+farfalla:             0.9
+linea:                0.9
+rosso:                0.9
+magma:                0.9
+vulcanico:            0.9
+rovente:              0.9
+spartito:             0.9
+partitura:            0.9
+retta:                0.9

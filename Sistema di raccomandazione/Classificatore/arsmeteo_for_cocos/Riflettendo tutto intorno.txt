@@ -1,0 +1,6 @@
+scarafaggio:          0.9
+albicocca:            0.9
+pennello:             0.9
+paesaggio:            0.9
+mela:                 0.9
+riflesso:             0.9

@@ -1,0 +1,7 @@
+stampa:               0.9
+cm.22x30su:           0.9
+cartoncino:           0.9
+acquarellata:         0.9
+mano:                 0.9
+anno:                 0.9
+realizzazione:        0.9

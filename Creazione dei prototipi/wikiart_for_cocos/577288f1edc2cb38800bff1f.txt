@@ -1,0 +1,2 @@
+sadness:              0.9
+neutral:              0.9

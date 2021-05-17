@@ -1,0 +1,6 @@
+stella:               0.9
+mago:                 0.9
+sospendere:           0.9
+sogno:                0.9
+firmamento:           0.9
+fantasia:             0.9

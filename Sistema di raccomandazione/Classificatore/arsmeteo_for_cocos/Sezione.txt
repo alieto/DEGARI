@@ -1,0 +1,3 @@
+seme:                 0.9
+materia:              0.9
+inerte:               0.9

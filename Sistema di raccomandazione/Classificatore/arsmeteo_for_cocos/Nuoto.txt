@@ -1,0 +1,6 @@
+mare:                 0.9
+grigio:               0.9
+solitario:            0.9
+barca:                0.9
+nuotare:              0.9
+lontananza:           0.9

@@ -1,0 +1,8 @@
+autoritratto:         0.9
+collera:              0.9
+ira:                  0.9
+photoshop:            0.9
+texture:              0.9
+digital:              0.9
+art:                  0.9
+painting:             0.9

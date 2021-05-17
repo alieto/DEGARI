@@ -1,0 +1,9 @@
+bidone:               0.9
+colore:               0.9
+tubo:                 0.9
+acrilico:             0.9
+rametto:              0.9
+rosso:                0.9
+ruggine:              0.9
+fusto:                0.9
+lato:                 0.9

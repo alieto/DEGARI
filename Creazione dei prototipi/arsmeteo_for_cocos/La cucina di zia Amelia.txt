@@ -1,0 +1,5 @@
+zia_amelia:           0.9
+cucina:               0.9
+ricordo:              0.9
+infanzia:             0.9
+nostalgia:            0.9

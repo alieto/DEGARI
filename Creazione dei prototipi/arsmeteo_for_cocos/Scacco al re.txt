@@ -1,0 +1,5 @@
+scacco:               0.9
+cruciverba:           0.6
+cavallo:              0.6
+torre:                0.6
+crociata:             0.6

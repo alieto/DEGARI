@@ -1,0 +1,6 @@
+mano:                 0.9
+mistico:              0.9
+potere:               0.9
+forza:                0.9
+esoterico:            0.9
+nebule:               0.9

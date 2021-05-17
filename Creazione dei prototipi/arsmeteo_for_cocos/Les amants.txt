@@ -1,0 +1,4 @@
+selciato:             0.9
+amante:               0.9
+tenerezza:            0.9
+abbandono:            0.9

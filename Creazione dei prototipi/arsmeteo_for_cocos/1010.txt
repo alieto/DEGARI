@@ -1,0 +1,3 @@
+pianeta:              0.9
+lovelock:             0.9
+immagini_satellitari: 0.9

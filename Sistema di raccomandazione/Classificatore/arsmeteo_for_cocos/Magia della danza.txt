@@ -1,0 +1,7 @@
+danza:                0.9
+ballo:                0.9
+coppia:               0.9
+profilo:              0.9
+soffondere:           0.9
+tavolino:             0.9
+sala_da_ballo:        0.9

@@ -1,0 +1,3 @@
+dito:                 0.9
+nuvola:               0.9
+mare:                 0.9

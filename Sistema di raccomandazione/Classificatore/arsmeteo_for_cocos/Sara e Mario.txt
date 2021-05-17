@@ -1,0 +1,4 @@
+pensiero:             0.9
+sara:                 0.9
+mario:                0.9
+amore:                0.9

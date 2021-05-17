@@ -1,0 +1,4 @@
+violino:              0.9
+notturno:             0.9
+sedia:                0.9
+archetto:             0.9

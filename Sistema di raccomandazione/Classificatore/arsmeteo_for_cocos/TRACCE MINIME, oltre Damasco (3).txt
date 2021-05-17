@@ -1,0 +1,5 @@
+frammento:            0.9
+capitello:            0.9
+pietra:               0.9
+atelier_nomade:       0.9
+segno:                0.9

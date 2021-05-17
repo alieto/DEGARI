@@ -1,0 +1,5 @@
+pane:                 0.9
+vita:                 0.9
+bambino:              0.9
+crescita:             0.9
+gioia:                0.9

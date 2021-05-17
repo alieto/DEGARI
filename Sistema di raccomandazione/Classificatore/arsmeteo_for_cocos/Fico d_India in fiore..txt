@@ -1,0 +1,4 @@
+acrilico:             0.9
+cartoncino:           0.9
+cm.75x38:             0.9
+realizzazione:        0.9

@@ -1,0 +1,4 @@
+comodo:               0.9
+resistente:           0.9
+colorato:             0.9
+allegro:              0.9

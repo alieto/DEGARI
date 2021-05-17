@@ -1,0 +1,9 @@
+cactus:               0.9
+spinoso:              0.9
+gusto:                0.9
+lecca_lecca:          0.9
+torino:               0.9
+pepare:               0.9
+pinguino:             0.9
+tuca_nen:             0.9
+gusto_pungente:       0.9

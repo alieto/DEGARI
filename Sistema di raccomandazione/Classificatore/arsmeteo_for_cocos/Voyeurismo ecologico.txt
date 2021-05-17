@@ -1,0 +1,3 @@
+terrapieno:           0.9
+annuncio:             0.9
+fiandra:              0.9

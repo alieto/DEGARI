@@ -1,0 +1,6 @@
+chitarra:             0.9
+mole_antonelliana:    0.9
+torino:               0.9
+gestualità:           0.9
+matericità:           0.9
+trittico:             0.9

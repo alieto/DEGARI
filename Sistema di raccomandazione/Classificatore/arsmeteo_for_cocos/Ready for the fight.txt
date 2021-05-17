@@ -1,0 +1,3 @@
+glamour:              0.9
+american_way_of_life: 0.9
+armatura:             0.9

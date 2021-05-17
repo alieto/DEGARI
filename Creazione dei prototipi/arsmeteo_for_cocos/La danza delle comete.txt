@@ -1,0 +1,3 @@
+cometa:               0.9
+frattali:             0.9
+cosmico:              0.9

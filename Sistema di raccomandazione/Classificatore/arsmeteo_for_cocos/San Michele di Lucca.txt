@@ -1,0 +1,9 @@
+santo:                0.9
+tramonto:             0.9
+lucca:                0.9
+nuvola:               0.9
+arco:                 0.9
+ripetizione:          0.9
+uguaglianza:          0.9
+diversità:            0.9
+chiesa:               0.9

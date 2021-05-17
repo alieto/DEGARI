@@ -1,0 +1,4 @@
+hitchcock:            0.9
+profilo:              0.9
+ombra:                0.9
+televisore:           0.9

@@ -1,0 +1,3 @@
+arrogance:            0.9
+sadness:              0.9
+trust:                0.9

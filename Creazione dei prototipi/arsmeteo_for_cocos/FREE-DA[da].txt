@@ -1,0 +1,5 @@
+dipinto:              0.9
+collage:              0.9
+dadaismo:             0.9
+reading:              0.9
+evento:               0.9

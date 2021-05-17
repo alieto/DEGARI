@@ -1,0 +1,6 @@
+yemen:                0.9
+finestra:             0.9
+sguardo:              0.9
+tendina:              0.9
+scrutare_dal_buio:    0.9
+intarsio:             0.9

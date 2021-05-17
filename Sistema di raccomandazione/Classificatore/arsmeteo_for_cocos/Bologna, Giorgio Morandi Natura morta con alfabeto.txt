@@ -1,0 +1,7 @@
+giorgio_morandi:      0.9
+bottiglia:            0.9
+natura_morta:         0.9
+bicchiere:            0.9
+alfabeto_nascosto:    0.9
+lettere_criptate:     0.9
+lettera:              0.9

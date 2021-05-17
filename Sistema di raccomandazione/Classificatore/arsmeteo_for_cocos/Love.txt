@@ -1,0 +1,9 @@
+love:                 0.9
+amore:                0.9
+calza:                0.9
+scarpa:               0.9
+tacco:                0.9
+sangue:               0.9
+ferita:               0.9
+sangue_nero:          0.9
+ombra_di_sangue:      0.9

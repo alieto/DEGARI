@@ -1,0 +1,6 @@
+installazione:        0.9
+codice:               0.9
+visita_guidata:       0.9
+interattività:        0.9
+memografia:           0.9
+via_cabiria:          0.9

@@ -1,0 +1,4 @@
+rodchenko:            0.9
+meyerhold:            0.9
+shostakovich:         0.9
+mayakovsky:           0.9

@@ -1,0 +1,3 @@
+acrilico:             0.9
+cartoncino:           0.9
+anno:                 0.9

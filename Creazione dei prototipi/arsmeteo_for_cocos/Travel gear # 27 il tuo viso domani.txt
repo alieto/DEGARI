@@ -1,0 +1,7 @@
+lettura:              0.9
+travel_gear:          0.9
+scrittura:            0.9
+comunicazione:        0.9
+catena:               0.9
+avviso:               0.9
+istruzione:           0.9

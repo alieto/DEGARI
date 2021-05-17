@@ -1,0 +1,11 @@
+nato:                 0.9
+osservazione:         0.9
+coetaneo:             0.9
+regista:              0.9
+quadro:               0.9
+ironico:              0.9
+sconto:               0.9
+intero:               0.9
+generazione:          0.9
+figlio:               0.9
+mammone:              0.9

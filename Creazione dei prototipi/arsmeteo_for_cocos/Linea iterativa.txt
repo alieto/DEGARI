@@ -1,0 +1,5 @@
+mole:                 0.9
+strada:               0.9
+iterazione:           0.9
+prospettiva:          0.9
+torino:               0.9

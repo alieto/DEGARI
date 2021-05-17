@@ -1,0 +1,6 @@
+mare:                 0.9
+apertura:             0.9
+orizzonte:            0.9
+oceano:               0.9
+azzurro:              0.9
+vista:                0.9

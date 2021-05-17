@@ -1,0 +1,5 @@
+paradiso:             0.9
+mare:                 0.9
+vacanza:              0.9
+riposo:               0.9
+tranquillità:         0.9

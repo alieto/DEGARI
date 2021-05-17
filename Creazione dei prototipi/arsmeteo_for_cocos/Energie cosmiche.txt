@@ -1,0 +1,3 @@
+volto:                0.9
+sagoma:               0.9
+frammento:            0.9

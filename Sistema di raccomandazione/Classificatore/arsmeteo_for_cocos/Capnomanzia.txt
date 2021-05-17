@@ -1,0 +1,8 @@
+divinazione:          0.9
+magia:                0.9
+oracolo:              0.9
+fumo:                 0.9
+nicotina:             0.9
+estasi:               0.9
+nuvoletta:            0.9
+capnomanzia:          0.9

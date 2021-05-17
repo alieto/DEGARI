@@ -1,0 +1,5 @@
+blob:                 0.9
+bolla:                0.9
+sfera:                0.9
+frattali:             0.9
+blu:                  0.9

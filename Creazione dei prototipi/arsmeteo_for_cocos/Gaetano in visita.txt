@@ -1,0 +1,3 @@
+bossa_nova:           0.9
+soave:                0.9
+sovversivo:           0.9

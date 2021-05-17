@@ -1,0 +1,13 @@
+base:                 0.9
+militare:             0.9
+chilometro:           0.9
+dismettere:           0.9
+los:                  0.9
+angeles:              0.9
+quaranta:             0.9
+sotto:                0.9
+livello:              0.9
+mare:                 0.9
+vivo:                 0.9
+comunità:             0.9
+homeless:             0.9

@@ -1,0 +1,6 @@
+colore:               0.9
+volante:              0.9
+vivo:                 0.9
+pappagallo:           0.9
+piumaggio:            0.9
+nido:                 0.9

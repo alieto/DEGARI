@@ -1,0 +1,6 @@
+liquido:              0.9
+soluzione:            0.9
+bolla:                0.9
+espansione:           0.9
+linea_d_acqua:        0.9
+waterline:            0.9

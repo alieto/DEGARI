@@ -1,0 +1,7 @@
+fiore:                0.9
+alterato:             0.9
+marta:                0.9
+instabile:            0.9
+fiore_instabile:      0.9
+mandare:              0.9
+ciuffo:               0.9

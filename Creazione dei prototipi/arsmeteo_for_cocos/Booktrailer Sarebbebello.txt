@@ -1,0 +1,5 @@
+booktrailer:          0.9
+sarebbebello:         0.9
+speranza:             0.9
+smarrimento:          0.9
+tempo:                0.9

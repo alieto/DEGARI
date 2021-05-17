@@ -1,0 +1,7 @@
+monumento:            0.9
+netville:             0.9
+chat:                 0.9
+agorà:                0.9
+intervista:           0.9
+giselle:              0.9
+caval_d_bronz:        0.9

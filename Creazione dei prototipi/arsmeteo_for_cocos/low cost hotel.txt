@@ -1,0 +1,7 @@
+rappresentazione:     0.9
+indicazione:          0.9
+fantasia:             0.9
+homeless:             0.9
+senza_famiglia:       0.9
+muro:                 0.9
+messaggio:            0.9

@@ -1,0 +1,7 @@
+orizzonte:            0.9
+alieno:               0.9
+portale:              0.9
+gate:                 0.9
+conchiglia:           0.9
+scoglio:              0.9
+notte:                0.9

@@ -1,0 +1,5 @@
+macchina:             0.9
+fiammeggiante:        0.9
+lampadina:            0.9
+bass_consumo:         0.9
+alte_prestazioni:     0.9

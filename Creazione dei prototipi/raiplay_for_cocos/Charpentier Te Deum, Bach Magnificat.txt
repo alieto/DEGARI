@@ -1,0 +1,16 @@
+orchestra:            0.9
+sinfonico:            0.9
+nazionale:            0.9
+rai:                  0.9
+diretto:              0.9
+david:                0.9
+lloyd-jones:          0.9
+charpentier:          0.9
+eseguire:             0.9
+te:                   0.9
+deum:                 0.9
+grande:               0.9
+solo:                 0.9
+coro:                 0.9
+j.s.bach:             0.9
+magnificat:           0.9

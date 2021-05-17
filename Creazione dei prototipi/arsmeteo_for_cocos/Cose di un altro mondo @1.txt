@@ -1,0 +1,3 @@
+vibrazione:           0.9
+mondo:                0.9
+iride:                0.9

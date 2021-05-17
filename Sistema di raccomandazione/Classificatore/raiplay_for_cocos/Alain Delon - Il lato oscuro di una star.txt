@@ -1,0 +1,11 @@
+affascinante:         0.9
+ritratto:             0.9
+famoso:               0.9
+icona:                0.9
+cinema:               0.9
+costume:              0.9
+francese:             0.9
+anno:                 0.9
+ripercorrere:         0.9
+vita:                 0.9
+carriera:             0.9

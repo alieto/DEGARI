@@ -1,0 +1,5 @@
+maschera:             0.9
+ricorsive:            0.9
+alieno:               0.9
+frattali:             0.9
+ripetizione:          0.9

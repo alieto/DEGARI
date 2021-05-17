@@ -1,0 +1,6 @@
+cielo:                0.9
+nuvola:               0.9
+scala:                0.9
+scelta:               0.9
+desiderio:            0.9
+sogno:                0.9

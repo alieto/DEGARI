@@ -1,0 +1,4 @@
+gatto:                0.9
+pelo:                 0.9
+foto:                 0.9
+scatola:              0.9

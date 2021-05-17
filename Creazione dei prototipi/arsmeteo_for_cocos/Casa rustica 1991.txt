@@ -1,0 +1,6 @@
+opera:                0.9
+acrilico:             0.9
+tela:                 0.9
+cm.80x70:             0.9
+gennaio:              0.9
+realizzare:           0.9

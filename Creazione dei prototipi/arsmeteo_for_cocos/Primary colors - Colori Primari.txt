@@ -1,0 +1,4 @@
+colore:               0.9
+blu:                  0.9
+rosso:                0.9
+giallo:               0.9

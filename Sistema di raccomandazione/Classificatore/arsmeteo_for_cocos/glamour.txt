@@ -1,0 +1,5 @@
+settimanale:          0.9
+rifotografare:        0.9
+supplemento:          0.9
+pubblicità:           0.9
+lumix:                0.9

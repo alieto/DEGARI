@@ -1,0 +1,4 @@
+ritratto:             0.9
+apparizione:          0.9
+graffio:              0.9
+grafo:                0.9

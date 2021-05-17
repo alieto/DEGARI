@@ -1,0 +1,6 @@
+giovane:              0.9
+oro:                  0.9
+animale:              0.9
+ironic:               0.9
+incoscenza:           0.9
+liberty:              0.9

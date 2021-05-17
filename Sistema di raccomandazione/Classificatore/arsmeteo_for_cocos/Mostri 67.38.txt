@@ -1,0 +1,14 @@
+mostro:               0.9
+rospo:                0.9
+psichedelico:         0.9
+surfanta:             0.9
+inconscio:            0.9
+scaglia:              0.9
+squama:               0.9
+occhio:               0.9
+zanna:                0.9
+corno:                0.9
+corno_spezzato:       0.9
+crepa:                0.9
+ovipero:              0.9
+bipede:               0.9

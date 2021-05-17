@@ -1,0 +1,6 @@
+cerchio:              0.9
+rosso:                0.9
+croce:                0.9
+simbolo:              0.9
+inconscio:            0.9
+spirito:              0.9

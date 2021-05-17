@@ -1,0 +1,11 @@
+vino+:                0.9
+-relazione+:          0.9
+-differenze+:         0.9
+-incontro+:           0.9
+-botti+:              0.9
+-tinaia+:             0.9
+-multietnico+:        0.9
+-calici+:             0.9
+-bicchieri+:          0.9
+-con_versando+:       0.9
+-memories+:           0.9

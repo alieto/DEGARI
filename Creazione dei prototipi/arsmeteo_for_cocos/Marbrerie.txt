@@ -1,0 +1,11 @@
+solo:                 0.9
+albero:               0.9
+spoglio:              0.9
+inverno:              0.9
+luce:                 0.9
+ombra:                0.9
+scritto:              0.9
+evocazione:           0.9
+luogo:                0.9
+riposo:               0.9
+culto:                0.9

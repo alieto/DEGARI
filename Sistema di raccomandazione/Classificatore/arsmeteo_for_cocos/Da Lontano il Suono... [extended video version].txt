@@ -1,0 +1,12 @@
+simona:               0.9
+minniti:              0.9
+pallante:             0.9
+sergio:               0.9
+tempo:                0.9
+fuga:                 0.9
+spazio:               0.9
+oggetto:              0.9
+angoscia:             0.9
+ossessione:           0.9
+cellulare:            0.9
+suoneria:             0.9

@@ -1,0 +1,2 @@
+bruxelles:            0.9
+musee_des_beaux_arts: 0.9

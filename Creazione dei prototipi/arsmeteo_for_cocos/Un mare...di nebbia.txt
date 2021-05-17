@@ -1,0 +1,2 @@
+paesaggio:            0.9
+nebbia:               0.9

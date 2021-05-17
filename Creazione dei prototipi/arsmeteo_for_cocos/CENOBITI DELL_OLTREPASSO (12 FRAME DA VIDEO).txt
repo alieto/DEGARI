@@ -1,0 +1,8 @@
+cenobita:             0.9
+dodici:               0.9
+oltrepassare:         0.9
+frame:                0.9
+video:                0.9
+fuoco:                0.9
+fabrizio_fontana:     0.9
+guru:                 0.9

@@ -1,0 +1,6 @@
+donna:                0.9
+disperazione:         0.9
+disperato:            0.9
+viola:                0.9
+corpo:                0.9
+tristezza:            0.9

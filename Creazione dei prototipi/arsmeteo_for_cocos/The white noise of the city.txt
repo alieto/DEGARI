@@ -1,0 +1,12 @@
+pittura:              0.9
+acrilico:             0.9
+paola:                0.9
+signal_404:           0.9
+adornare:             0.9
+torino:               0.9
+musica:               0.9
+white:                0.9
+noise:                0.9
+città:                0.9
+industriale:          0.9
+colore:               0.9

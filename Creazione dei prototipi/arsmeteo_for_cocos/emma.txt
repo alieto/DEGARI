@@ -1,0 +1,4 @@
+black:                0.9
+smile:                0.9
+and:                  0.9
+white:                0.9

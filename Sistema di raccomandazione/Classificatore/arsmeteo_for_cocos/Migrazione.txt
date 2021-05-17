@@ -1,0 +1,4 @@
+clandestino:          0.9
+sciame:               0.9
+occhio:               0.9
+migrazione:           0.9

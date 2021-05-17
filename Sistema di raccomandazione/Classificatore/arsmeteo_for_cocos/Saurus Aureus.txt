@@ -1,0 +1,7 @@
+oro:                  0.9
+la_pietra_filosofale: 0.9
+conoscenza:           0.9
+dolcezza:             0.9
+prezioso:             0.9
+raro:                 0.9
+in_estinzione:        0.9

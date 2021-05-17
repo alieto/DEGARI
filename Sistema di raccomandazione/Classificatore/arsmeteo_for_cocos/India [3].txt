@@ -1,0 +1,6 @@
+india:                0.9
+bambino:              0.9
+gruppo:               0.9
+fratellanza:          0.9
+strada:               0.9
+amicizia:             0.9

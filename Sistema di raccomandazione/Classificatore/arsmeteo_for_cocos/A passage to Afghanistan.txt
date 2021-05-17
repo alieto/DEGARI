@@ -1,0 +1,12 @@
+porte_palatine:       0.9
+torino:               0.9
+mura_romane:          0.9
+afghanistan:          0.9
+passaggio:            0.9
+confine:              0.9
+tesori_ritrovati:     0.9
+mondi_paralleli:      0.9
+crocevia:             0.9
+oriente_occidente:    0.9
+infanzia:             0.9
+rifotografare:        0.9

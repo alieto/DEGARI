@@ -1,0 +1,10 @@
+20x20:                0.9
+cm:                   0.9
+mixed:                0.9
+on:                   0.9
+wood:                 0.9
+chen:                 0.9
+rights:               0.9
+reserved:             0.9
+http:                 0.9
+/:                    0.9

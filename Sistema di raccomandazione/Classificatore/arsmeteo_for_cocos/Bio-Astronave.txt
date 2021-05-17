@@ -1,0 +1,10 @@
+cosmo:                0.9
+spazio_cosmico:       0.9
+spazio_interstellare: 0.9
+anni_luce:            0.9
+viaggiare:            0.9
+asteroide:            0.9
+pianeta:              0.9
+corpo_celeste:        0.9
+profondità:           0.9
+temporale:            0.9

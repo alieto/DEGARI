@@ -1,0 +1,8 @@
+tentazione:           0.9
+donna:                0.9
+uomo:                 0.9
+diavolo_tentatore:    0.9
+peccato_originale:    0.9
+capello:              0.9
+eternamente_donna:    0.9
+seduzione:            0.9

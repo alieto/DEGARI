@@ -1,0 +1,6 @@
+maternità:            0.9
+amore:                0.9
+donna:                0.9
+freak:                0.9
+diversità:            0.9
+contrasto:            0.9

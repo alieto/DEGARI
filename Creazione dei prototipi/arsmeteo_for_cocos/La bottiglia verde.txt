@@ -1,0 +1,1 @@
+fiori_di_plastica:    0.9

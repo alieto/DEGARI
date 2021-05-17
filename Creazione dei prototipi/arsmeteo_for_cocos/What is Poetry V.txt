@@ -1,0 +1,17 @@
+/:                    0.9
+nbsp:                 0.7125
+poesia:               0.675
+ombra:                0.6375
+luce:                 0.6375
+immaginazione:        0.6375
+distorsione:          0.6375
+gettata:              0.6
+lampione:             0.6
+lawrence:             0.6
+ferlinghetti:         0.6
+irradiare:            0.6
+specchio:             0.6
+prosdocimo:           0.6
+what:                 0.6
+is:                   0.6
+poetry:               0.6

@@ -1,0 +1,5 @@
+vetrina:              0.9
+impalcatura:          0.9
+tubi_innocenti:       0.9
+scuarcio:             0.9
+tela:                 0.9

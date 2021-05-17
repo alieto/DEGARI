@@ -1,0 +1,5 @@
+divina:               0.9
+portrait:             0.9
+madonna:              0.9
+schena:               0.9
+pio:                  0.9

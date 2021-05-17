@@ -1,0 +1,3 @@
+boccaporto:           0.9
+struttura:            0.9
+cielo:                0.9

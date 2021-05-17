@@ -1,0 +1,10 @@
+aereo:                0.9
+elica:                0.9
+monoplano:            0.9
+atterraggio:          0.9
+la_morte:             0.9
+ristorante:           0.9
+surfanta:             0.9
+lounge_bar:           0.9
+strada:               0.9
+finestra:             0.9

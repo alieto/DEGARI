@@ -1,0 +1,5 @@
+les_meninas:          0.9
+donna:                0.9
+sguardo:              0.9
+uccello:              0.9
+trittico:             0.9

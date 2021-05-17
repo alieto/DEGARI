@@ -1,0 +1,6 @@
+tvb:                  0.9
+installazione:        0.9
+tv:                   0.9
+alimentazione:        0.9
+tubo:                 0.9
+cyber_punk:           0.9

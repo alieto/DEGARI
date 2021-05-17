@@ -1,0 +1,5 @@
+luna:                 0.9
+pesce:                0.9
+mare:                 0.9
+stella:               0.9
+falce_di_luna:        0.9

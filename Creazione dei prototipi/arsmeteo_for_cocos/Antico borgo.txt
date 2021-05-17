@@ -1,0 +1,4 @@
+tetto:                0.9
+tegola:               0.9
+borgata:              0.9
+santo_stefano_di_sessanio:0.9

@@ -1,0 +1,3 @@
+galleria:             0.9
+sorriso:              0.9
+enigmatico:           0.9

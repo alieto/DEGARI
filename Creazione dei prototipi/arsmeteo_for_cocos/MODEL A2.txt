@@ -1,0 +1,4 @@
+netville:             0.9
+modello:              0.9
+digitale:             0.9
+pippo:                0.9

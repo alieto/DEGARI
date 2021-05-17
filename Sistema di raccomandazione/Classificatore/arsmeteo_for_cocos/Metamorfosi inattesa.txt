@@ -1,0 +1,6 @@
+metaforfosi:          0.9
+persona:              0.9
+sagoma:               0.9
+figura:               0.9
+rottura:              0.9
+cambiamento:          0.9

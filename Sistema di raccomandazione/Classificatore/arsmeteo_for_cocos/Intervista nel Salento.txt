@@ -1,0 +1,4 @@
+intervista:           0.9
+salento:              0.9
+guru:                 0.9
+gianni_colombo:       0.9

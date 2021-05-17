@@ -1,0 +1,6 @@
+vetro:                0.9
+liscio:               0.9
+alieno:               0.9
+cupo:                 0.9
+lontano:              0.9
+freddo:               0.9

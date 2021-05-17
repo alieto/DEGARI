@@ -1,0 +1,7 @@
+igloo:                0.9
+foto_rubate:          0.9
+vetro:                0.9
+scultura:             0.9
+fabbrica_rivisitata:  0.9
+spazio:               0.9
+luce:                 0.9

@@ -1,0 +1,8 @@
+gatto:                0.9
+finestra:             0.9
+notturno:             0.9
+blu:                  0.9
+micio:                0.9
+felino:               0.9
+grigio:               0.9
+cielo:                0.9

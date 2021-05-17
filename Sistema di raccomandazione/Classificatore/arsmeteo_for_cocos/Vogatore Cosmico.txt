@@ -1,0 +1,13 @@
+barca:                0.9
+spazio:               0.9
+vuoto:                0.9
+universo:             0.9
+esplorare:            0.9
+meteorite:            0.9
+alieno:               0.9
+ufo:                  0.9
+albero:               0.9
+blu:                  0.9
+profondità:           0.9
+mistero:              0.9
+velocità:             0.9

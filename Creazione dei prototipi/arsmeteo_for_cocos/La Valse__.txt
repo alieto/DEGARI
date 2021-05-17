@@ -1,0 +1,3 @@
+danza:                0.9
+secchio:              0.9
+neon:                 0.9

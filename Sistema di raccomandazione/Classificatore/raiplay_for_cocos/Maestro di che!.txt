@@ -1,0 +1,11 @@
+omaggio:              0.9
+grande:               0.9
+regista:              0.9
+mario:                0.9
+intervistato:         0.9
+monicelli:            0.9
+johnny:               0.9
+palomba:              0.9
+vita:                 0.9
+rievocare:            0.9
+opera:                0.9

@@ -1,0 +1,6 @@
+angelo_azzurro:       0.9
+red:                  0.9
+sguardo:              0.9
+interazione:          0.9
+scrittura:            0.9
+salvatore_quasimodo:  0.9

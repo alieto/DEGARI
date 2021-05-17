@@ -1,0 +1,4 @@
+morte:                0.9
+paura:                0.9
+annuncio:             0.9
+porta:                0.9

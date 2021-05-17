@@ -1,0 +1,10 @@
+finestra:             0.9
+città:                0.9
+urbano:               0.9
+dalla_finestra:       0.9
+geometria:            0.9
+metallo:              0.9
+freddo:               0.9
+struttura:            0.9
+modernità:            0.9
+tecnologia:           0.9

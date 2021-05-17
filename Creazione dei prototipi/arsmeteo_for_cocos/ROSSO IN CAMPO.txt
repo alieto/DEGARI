@@ -1,0 +1,4 @@
+rosso:                0.9
+campo:                0.9
+papavero:             0.9
+qr_code:              0.9

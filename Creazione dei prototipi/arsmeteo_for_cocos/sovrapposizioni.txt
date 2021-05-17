@@ -1,0 +1,11 @@
+grattacielo:          0.9
+calder:               0.9
+scultura:             0.9
+gente:                0.9
+movimento:            0.9
+attività:             0.9
+spazio:               0.9
+città:                0.9
+arrondissement:       0.9
+défense:              0.9
+paris:                0.9

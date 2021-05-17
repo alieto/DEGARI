@@ -1,0 +1,5 @@
+storia:               0.9
+auto:                 0.9
+via:                  0.9
+ragazzo:              0.9
+gioco:                0.9

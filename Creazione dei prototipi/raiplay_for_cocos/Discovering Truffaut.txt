@@ -1,0 +1,14 @@
+françois:             0.9
+truffaut:             0.9
+grande:               0.9
+regista:              0.9
+cinema:               0.9
+novecento:            0.9
+documentario:         0.9
+monografico:          0.9
+fondamentale:         0.9
+cultura:              0.9
+comprendere:          0.9
+occidentale:          0.9
+contemporaneo:        0.9
+cinematografia:       0.9

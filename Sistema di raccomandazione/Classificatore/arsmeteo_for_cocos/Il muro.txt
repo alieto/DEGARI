@@ -1,0 +1,9 @@
+mimo:                 0.9
+jean_paul_sartre:     0.9
+scrittura:            0.9
+liberazione:          0.9
+le_mur:               0.9
+il_muro:              0.9
+ultima_notte:         0.9
+angoscia:             0.9
+morte:                0.9

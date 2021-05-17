@@ -1,0 +1,2 @@
+nessuno:              0.9
+centomila:            0.9

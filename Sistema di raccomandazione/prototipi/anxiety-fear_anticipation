@@ -1,0 +1,29 @@
+#Title composizione
+Title : fear-anticipation
+
+#Concetto Principale
+Head Concept Name : fear
+
+#Concetto Modificatore
+Modifier Concept Name : anticipation
+
+
+
+modifier, -surprise
+
+T(modifier), anticipation, 0.86
+T(modifier), excited, 0.86
+T(modifier), eagerness, 0.81
+T(modifier), expectant, 0.79
+T(modifier), thrilling, 0.78
+T(modifier), hope, 0.77
+
+T(head), torture, 0.98
+T(head), terrorist, 0.97
+T(head), horrific, 0.97
+T(head), kill, 0.96
+T(head), annihilate, 0.95
+T(head), terror, 0.95
+
+
+Result : '0', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '1', 0.001022078579038514

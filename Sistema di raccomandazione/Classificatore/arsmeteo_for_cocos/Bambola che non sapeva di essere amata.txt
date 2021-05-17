@@ -1,0 +1,9 @@
+bambola:              0.9
+surfanta:             0.9
+farfalla:             0.9
+stivaletto:           0.9
+vestitino:            0.9
+faccia_blu:           0.9
+capelli_lunghi:       0.9
+capelli_bianchi:      0.9
+pizzo:                0.9

@@ -1,0 +1,6 @@
+porta:                0.9
+universo:             0.9
+stella:               0.9
+accesso:              0.9
+mistero:              0.9
+sette:                0.9

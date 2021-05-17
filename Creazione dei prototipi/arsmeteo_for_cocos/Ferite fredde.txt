@@ -1,0 +1,5 @@
+montagna:             0.9
+neve:                 0.9
+crepaccio:            0.9
+solco:                0.9
+ferito:               0.9

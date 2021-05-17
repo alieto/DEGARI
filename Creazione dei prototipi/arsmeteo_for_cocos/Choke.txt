@@ -1,0 +1,4 @@
+chimico:              0.9
+atomica:              0.9
+america:              0.9
+bollicina:            0.9

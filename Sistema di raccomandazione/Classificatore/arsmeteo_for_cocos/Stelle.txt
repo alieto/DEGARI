@@ -1,0 +1,5 @@
+stella:               0.9
+blu:                  0.9
+cielo:                0.9
+ombra_di_:            0.9
+albero:               0.9

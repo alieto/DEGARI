@@ -1,0 +1,4 @@
+donna:                0.9
+mistero:              0.9
+domanda:              0.9
+sconosciuto:          0.9

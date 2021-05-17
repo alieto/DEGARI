@@ -1,0 +1,10 @@
+sorpresa:             0.9
+sfoggio:              0.9
+ricchezza:            0.9
+benessere:            0.9
+necessary:            0.9
+verde:                0.9
+pianta:               0.9
+vita:                 0.9
+cellulare:            0.9
+torino:               0.9

@@ -1,0 +1,5 @@
+new:                  0.9
+york:                 0.9
+grattacielo:          0.9
+ballo:                0.9
+fiore:                0.9

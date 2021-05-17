@@ -1,0 +1,6 @@
+emergenza:            0.9
+sensore:              0.9
+in_viaggio:           0.9
+macro:                0.9
+particolare:          0.9
+nave:                 0.9

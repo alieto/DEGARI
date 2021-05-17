@@ -1,0 +1,8 @@
+principe:             0.9
+bambu:                0.9
+guru_di_cameri:       0.9
+profilo:              0.9
+estate:               0.9
+tanto_tempo_fa:       0.9
+torino:               0.9
+artenero:             0.9

@@ -1,0 +1,4 @@
+piovra:               0.9
+ventosa:              0.9
+innamoramento:        0.9
+umorismo:             0.9

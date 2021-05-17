@@ -1,0 +1,6 @@
+prato:                0.9
+verde:                0.9
+presenza:             0.9
+graffito:             0.9
+metallico:            0.9
+erba:                 0.9

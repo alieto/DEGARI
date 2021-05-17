@@ -1,0 +1,11 @@
+diritto:              0.9
+romanico:             0.9
+lettura:              0.9
+grafite:              0.9
+bianco:               0.9
+nero:                 0.9
+tempo:                0.9
+lucere:               0.9
+lavoro:               0.9
+azione:               0.9
+movimento:            0.9

@@ -1,0 +1,3 @@
+bugia:                0.9
+alcool:               0.9
+caus:                 0.9

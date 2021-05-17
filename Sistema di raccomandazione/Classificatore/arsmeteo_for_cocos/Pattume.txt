@@ -1,0 +1,4 @@
+immondizia:           0.9
+sporcizia:            0.9
+rivolta:              0.9
+ecologia:             0.9

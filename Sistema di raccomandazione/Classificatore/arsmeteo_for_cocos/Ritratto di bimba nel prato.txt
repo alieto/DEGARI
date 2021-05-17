@@ -1,0 +1,8 @@
+ritratto:             0.9
+bimba:                0.9
+prato:                0.9
+palla_rossa:          0.9
+fiore:                0.9
+barchette_di_carta:   0.9
+muro:                 0.9
+cielo_azzurro:        0.9

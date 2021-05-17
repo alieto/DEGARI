@@ -1,0 +1,7 @@
+marameo:              0.9
+long_playing:         0.9
+lp:                   0.9
+33_giri:              0.9
+vinile:               0.9
+alfa_romeo:           0.9
+serigrafia:           0.9

@@ -1,0 +1,4 @@
+installazione:        0.9
+scenografia:          0.9
+materiale_recupero:   0.9
+film:                 0.9

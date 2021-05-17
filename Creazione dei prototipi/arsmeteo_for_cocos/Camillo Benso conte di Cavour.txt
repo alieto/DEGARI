@@ -1,0 +1,8 @@
+ritratto:             0.9
+digitale:             0.9
+photoshop:            0.9
+risorgimento:         0.9
+piemonte:             0.9
+italia:               0.9
+torino:               0.9
+anniversario:         0.9

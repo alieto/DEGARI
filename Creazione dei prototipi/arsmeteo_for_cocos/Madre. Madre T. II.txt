@@ -1,0 +1,5 @@
+madre_madre_t:        0.9
+nuvola:               0.9
+cielo:                0.9
+blu:                  0.9
+profondità:           0.9

@@ -1,0 +1,8 @@
+acqua:                0.9
+vegetazione:          0.9
+po:                   0.9
+lussureggiante:       0.9
+avventura:            0.9
+gioco:                0.9
+pirati_della_padania: 0.9
+permanent_vacation:   0.9

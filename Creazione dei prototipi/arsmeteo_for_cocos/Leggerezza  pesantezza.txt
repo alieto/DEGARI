@@ -1,0 +1,4 @@
+fatica:               0.9
+vita:                 0.9
+energia:              0.9
+peso:                 0.9

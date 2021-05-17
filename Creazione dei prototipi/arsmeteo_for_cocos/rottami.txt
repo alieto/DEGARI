@@ -1,0 +1,5 @@
+fine_corsa:           0.9
+ingranaggio:          0.9
+kingsbury:            0.9
+ricchezza:            0.9
+ricupero:             0.9

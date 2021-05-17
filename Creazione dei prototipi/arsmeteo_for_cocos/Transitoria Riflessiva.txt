@@ -1,0 +1,7 @@
+pop:                  0.9
+newpop:               0.9
+oggetto:              0.9
+soggetto:             0.9
+blu:                  0.9
+verde:                0.9
+giallo:               0.9

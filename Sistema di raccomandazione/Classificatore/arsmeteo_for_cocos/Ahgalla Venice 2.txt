@@ -1,0 +1,9 @@
+navigazione:          0.9
+venezia:              0.9
+biennale:             0.9
+canale:               0.9
+gondoliere:           0.9
+ironia:               0.9
+design:               0.9
+fuoribordo:           0.9
+marmo:                0.9

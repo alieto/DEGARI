@@ -1,0 +1,3 @@
+fiore:                0.9
+natura_matematica:    0.9
+soffondere:           0.9

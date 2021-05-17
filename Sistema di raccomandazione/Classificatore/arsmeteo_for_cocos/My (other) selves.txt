@@ -1,0 +1,3 @@
+autoritratto:         0.9
+variazione:           0.9
+segno:                0.9

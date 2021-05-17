@@ -1,0 +1,2 @@
+sadness:              0.9
+gratitude:            0.9

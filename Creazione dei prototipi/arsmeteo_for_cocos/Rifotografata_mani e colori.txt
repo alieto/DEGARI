@@ -1,0 +1,2 @@
+mano:                 0.9
+colorato:             0.9

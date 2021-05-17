@@ -1,0 +1,8 @@
+fulmine:              0.9
+batan:                0.9
+aereo:                0.9
+atterraggio:          0.9
+surfanta:             0.9
+surreale:             0.9
+kiwi:                 0.9
+uomo_mascherato:      0.9

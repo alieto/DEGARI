@@ -1,0 +1,6 @@
+lezione:              0.9
+geometria:            0.9
+coccinella:           0.9
+aula:                 0.9
+scuola:               0.9
+lavagna:              0.9

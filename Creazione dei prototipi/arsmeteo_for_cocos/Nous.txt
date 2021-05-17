@@ -1,0 +1,3 @@
+quadratura_del_cerchio:0.9
+geometria_non_euclidea:0.9
+misurabilità:         0.9

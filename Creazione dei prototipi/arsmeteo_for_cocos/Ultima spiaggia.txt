@@ -1,0 +1,9 @@
+spiaggia:             0.9
+mare:                 0.9
+portogallo:           0.9
+balneare:             0.9
+pittorico:            0.9
+quadro:               0.9
+vista:                0.9
+prospettiva:          0.9
+quadro_nel_quadro:    0.9

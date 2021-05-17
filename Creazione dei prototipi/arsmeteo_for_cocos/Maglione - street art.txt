@@ -1,0 +1,4 @@
+dettaglio:            0.9
+aprire:               0.9
+madonna:              0.9
+occhio:               0.9

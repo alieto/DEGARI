@@ -1,0 +1,3 @@
+gioco_degli_specchi:  0.9
+moltiplicazione:      0.9
+annullamento_dello_spazio:0.9

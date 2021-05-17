@@ -1,0 +1,5 @@
+occhio:               0.9
+segno:                0.9
+costruttivismo:       0.9
+traccia:              0.9
+percorso:             0.9

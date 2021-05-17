@@ -1,0 +1,7 @@
+sorriso:              0.9
+grandezza:            0.9
+impermanenza:         0.9
+genialità:            0.9
+epoca:                0.9
+segno:                0.9
+ricordo:              0.9

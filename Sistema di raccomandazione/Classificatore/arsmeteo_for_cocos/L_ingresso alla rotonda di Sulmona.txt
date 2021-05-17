@@ -1,0 +1,9 @@
+capitello:            0.9
+arte:                 0.9
+colonna:              0.9
+sulmona:              0.9
+pattern:              0.9
+marmo:                0.9
+portale:              0.9
+linea:                0.9
+curva:                0.9

@@ -1,0 +1,15 @@
+film:                 0.9
+cinema:               0.9
+francesco:            0.9
+nox:                  0.9
+nociti:               0.9
+noxarte:              0.9
+torino:               0.9
+arte:                 0.9
+italia:               0.9
+contemporaneo:        0.9
+corvo:                0.9
+notte:                0.9
+lee:                  0.9
+pittura:              0.9
+acrilico:             0.9

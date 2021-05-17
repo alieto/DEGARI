@@ -1,0 +1,4 @@
+uomo:                 0.9
+lavoro:               0.9
+impalcatura:          0.9
+coordinazione:        0.9

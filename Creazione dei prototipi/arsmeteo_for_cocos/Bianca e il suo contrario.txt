@@ -1,0 +1,11 @@
+bianca:               0.9
+nero:                 0.9
+opposto:              0.9
+trasformazione:       0.9
+doppio_divenire:      0.9
+male:                 0.9
+contrario:            0.9
+felicità:             0.9
+tristezza:            0.9
+petrolio:             0.9
+bouquet:              0.9

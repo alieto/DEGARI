@@ -1,0 +1,7 @@
+pop:                  0.9
+newpop:               0.9
+oggetto:              0.9
+soggetto:             0.9
+multiplo:             0.9
+serialità:            0.9
+rosa:                 0.9

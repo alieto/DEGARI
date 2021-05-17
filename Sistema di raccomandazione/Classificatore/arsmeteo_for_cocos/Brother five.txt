@@ -1,0 +1,5 @@
+brother:              0.9
+five:                 0.9
+pop:                  0.9
+art:                  0.9
+graffito:             0.9

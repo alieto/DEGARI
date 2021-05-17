@@ -1,0 +1,3 @@
+olio:                 0.9
+studio:               0.9
+parallela:            0.9

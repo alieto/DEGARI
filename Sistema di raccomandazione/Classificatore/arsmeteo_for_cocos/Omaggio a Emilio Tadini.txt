@@ -1,0 +1,5 @@
+festa:                0.9
+nascondere:           0.9
+tavolo:               0.9
+caffè:                0.9
+caffettiera:          0.9

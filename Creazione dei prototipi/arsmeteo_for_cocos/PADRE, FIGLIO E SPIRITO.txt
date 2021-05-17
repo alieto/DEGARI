@@ -1,0 +1,5 @@
+padre:                0.9
+figlio:               0.9
+spirito:              0.9
+alcool_etilico:       0.9
+spirito_santo:        0.9

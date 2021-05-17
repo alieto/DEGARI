@@ -1,0 +1,5 @@
+viaggio:              0.9
+baule:                0.9
+folletto:             0.9
+sposo:                0.9
+illustrazione:        0.9

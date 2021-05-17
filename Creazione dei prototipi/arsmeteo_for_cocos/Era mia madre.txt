@@ -1,0 +1,2 @@
+astratto:             0.9
+figurativo:           0.9

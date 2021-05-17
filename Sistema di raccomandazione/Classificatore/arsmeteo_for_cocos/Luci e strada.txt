@@ -1,0 +1,3 @@
+charleroi:            0.9
+notte:                0.9
+ritorno:              0.9

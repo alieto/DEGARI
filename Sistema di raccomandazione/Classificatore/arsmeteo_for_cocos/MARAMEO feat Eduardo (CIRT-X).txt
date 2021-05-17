@@ -1,0 +1,6 @@
+marameo:              0.9
+eduardo:              0.6
+serigrafia:           0.6
+alfa_romeo:           0.6
+mostro:               0.6
+cirt_x:               0.6

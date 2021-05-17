@@ -1,0 +1,7 @@
+odore:                0.9
+bambino_himba:        0.9
+colore:               0.9
+tenerezza:            0.9
+terra:                0.9
+semplicità:           0.9
+etnia:                0.9

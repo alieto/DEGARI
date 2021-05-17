@@ -1,0 +1,10 @@
+taggatura:            0.9
+costruzione:          0.9
+granulometrie:        0.9
+scala:                0.9
+corpo:                0.9
+scrittura:            0.9
+netville:             0.9
+prospettiva:          0.9
+elemento:             0.9
+muro:                 0.9

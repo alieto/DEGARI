@@ -1,0 +1,9 @@
+riposo:               0.9
+forma:                0.9
+ritratto:             0.9
+famoso:               0.9
+emblema:              0.9
+maglia:               0.9
+percezione:           0.9
+apparizione:          0.9
+fattezza:             0.9

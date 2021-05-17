@@ -1,0 +1,7 @@
+zucca:                0.9
+attesa:               0.9
+donna:                0.9
+nudo:                 0.9
+di_schiena:           0.9
+geometria:            0.9
+casa:                 0.9

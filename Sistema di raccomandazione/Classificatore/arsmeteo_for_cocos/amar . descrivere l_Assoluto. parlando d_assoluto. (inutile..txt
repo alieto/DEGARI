@@ -1,0 +1,4 @@
+amore:                0.9
+perdita:              0.9
+dio:                  0.9
+inutile:              0.9

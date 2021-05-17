@@ -1,0 +1,3 @@
+luogo:                0.9
+reclusione:           0.9
+separazione:          0.9

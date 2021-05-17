@@ -1,0 +1,6 @@
+arco:                 0.9
+balcone:              0.9
+caseggiato:           0.9
+immobile:             0.9
+statico:              0.9
+gocce_di_colore:      0.9

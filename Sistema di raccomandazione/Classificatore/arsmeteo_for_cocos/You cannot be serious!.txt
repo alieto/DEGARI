@@ -1,0 +1,11 @@
+john:                 0.9
+mcenroe:              0.9
+tennis:               0.9
+sport:                0.9
+campione:             0.9
+wimbledon:            0.9
+superbrat:            0.9
+mancino:              0.9
+caricatura:           0.9
+ritratto:             0.9
+photoshop:            0.9

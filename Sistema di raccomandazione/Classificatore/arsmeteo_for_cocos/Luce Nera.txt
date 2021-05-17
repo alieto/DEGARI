@@ -1,0 +1,8 @@
+luce:                 0.9
+nero:                 0.9
+blu:                  0.9
+ragnatela:            0.9
+architettura:         0.9
+visibile:             0.9
+invisibile:           0.9
+stupefacente:         0.9

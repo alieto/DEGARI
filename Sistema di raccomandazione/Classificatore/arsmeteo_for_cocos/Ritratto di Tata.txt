@@ -1,0 +1,11 @@
+micio:                0.9
+gatto:                0.9
+tata:                 0.9
+dolce:                0.9
+simpatica:            0.9
+buono:                0.9
+micina:               0.9
+delicato:             0.9
+curioso:              0.9
+soriano:              0.9
+non_pià¹:             0.9

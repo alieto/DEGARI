@@ -1,0 +1,4 @@
+pompei:               0.9
+affresco:             0.9
+frutta:               0.9
+natura_morta:         0.9

@@ -1,0 +1,5 @@
+colonna:              0.9
+frattali:             0.9
+barca:                0.9
+mare:                 0.9
+perturbazione:        0.9

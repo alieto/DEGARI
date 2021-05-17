@@ -1,0 +1,11 @@
+squadra:              0.9
+pennello:             0.9
+studio:               0.9
+tela:                 0.9
+flauto:               0.9
+suonatore_di_flauto:  0.9
+incantatore:          0.9
+loch_ness:            0.9
+mostro:               0.9
+falce_di_luna:        0.9
+barchetta_di_carta:   0.9

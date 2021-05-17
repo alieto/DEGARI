@@ -1,0 +1,7 @@
+coppia:               0.9
+sole:                 0.9
+catena:               0.9
+scatola:              0.9
+simmetria:            0.9
+sospendere:           0.9
+cielo:                0.9

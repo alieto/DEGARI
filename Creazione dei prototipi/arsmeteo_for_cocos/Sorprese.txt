@@ -1,0 +1,13 @@
+volto:                0.9
+sinusoide:            0.9
+squama:               0.9
+intersezione:         0.9
+maschera:             0.9
+sfumatura:            0.9
+sinusoidale:          0.9
+sfumato:              0.9
+blu:                  0.9
+azzurro:              0.9
+chaplin:              0.9
+cane:                 0.9
+teatro:               0.9

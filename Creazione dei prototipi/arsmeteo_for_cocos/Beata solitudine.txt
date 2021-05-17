@@ -1,0 +1,4 @@
+cottage:              0.9
+solitudine:           0.9
+isoletta:             0.9
+irlanda:              0.9

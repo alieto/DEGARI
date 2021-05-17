@@ -1,0 +1,9 @@
+volto:                0.9
+donna:                0.9
+carboncino:           0.9
+africo:               0.9
+francesco:            0.9
+arte:                 0.9
+italia:               0.9
+contemporaneo:        0.9
+torino:               0.9

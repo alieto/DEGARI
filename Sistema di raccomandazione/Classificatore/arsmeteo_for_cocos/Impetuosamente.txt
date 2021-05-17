@@ -1,0 +1,7 @@
+fuoco:                0.9
+ardore:               0.9
+acqua_fuoco:          0.9
+smarrimento:          0.9
+eccitazione:          0.9
+forza:                0.9
+oceano_mauritano:     0.9

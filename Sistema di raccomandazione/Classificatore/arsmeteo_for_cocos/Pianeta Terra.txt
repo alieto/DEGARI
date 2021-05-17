@@ -1,0 +1,2 @@
+caco:                 0.9
+sangue:               0.9

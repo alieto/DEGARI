@@ -1,0 +1,7 @@
+omaggio:              0.9
+musica:               0.9
+gruppo_musicale:      0.9
+centauro:             0.9
+diavolo:              0.9
+heavy_metal:          0.9
+su_cavalletto:        0.9

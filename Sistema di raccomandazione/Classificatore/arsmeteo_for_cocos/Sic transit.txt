@@ -1,0 +1,10 @@
+sic_transit:          0.9
+passaggio:            0.9
+gloria_mundi:         0.9
+transitorietà:        0.9
+evanescenza:          0.9
+cerchi_concentrici:   0.9
+frattali:             0.9
+luce:                 0.9
+principio:            0.9
+fine:                 0.9

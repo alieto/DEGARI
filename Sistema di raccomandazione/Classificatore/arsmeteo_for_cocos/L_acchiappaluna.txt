@@ -1,0 +1,9 @@
+pittura:              0.9
+tavola:               0.9
+toccare:              0.9
+grande:               0.9
+dimensione:           0.9
+sogno:                0.9
+umano:                0.9
+speranza:             0.9
+luna:                 0.9

@@ -1,0 +1,3 @@
+newpop:               0.9
+pop:                  0.9
+interno:              0.9

@@ -1,0 +1,3 @@
+materiale:            0.9
+informe:              0.9
+epidermide:           0.9

@@ -1,0 +1,5 @@
+oz:                   0.9
+acqua:                0.9
+occhiale:             0.9
+posto_improbabile:    0.9
+fiori_finti:          0.9

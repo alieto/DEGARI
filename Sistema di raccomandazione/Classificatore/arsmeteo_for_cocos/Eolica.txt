@@ -1,0 +1,3 @@
+fissità:              0.9
+attesa:               0.9
+sospensione:          0.9

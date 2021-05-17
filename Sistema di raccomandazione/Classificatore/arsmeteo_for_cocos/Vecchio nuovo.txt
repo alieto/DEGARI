@@ -1,0 +1,4 @@
+torino:               0.9
+palazzo_nuovo:        0.9
+portico:              0.9
+strada:               0.9

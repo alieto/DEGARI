@@ -1,0 +1,6 @@
+acrilico:             0.9
+tela:                 0.9
+cm:                   0.9
+40x50:                0.9
+anno:                 0.9
+esecuzione:           0.9

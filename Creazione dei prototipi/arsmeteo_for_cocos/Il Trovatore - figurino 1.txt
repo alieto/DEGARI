@@ -1,0 +1,4 @@
+leonora:              0.9
+opera:                0.9
+costume:              0.9
+figurino:             0.9

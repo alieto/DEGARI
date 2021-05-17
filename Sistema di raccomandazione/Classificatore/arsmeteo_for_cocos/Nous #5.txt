@@ -1,0 +1,3 @@
+incisione:            0.9
+reticolo:             0.9
+pietra_digitale:      0.9

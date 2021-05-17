@@ -1,0 +1,5 @@
+luca_morino:          0.9
+avventura:            0.9
+chitarra:             0.9
+gagliardo:            0.9
+bianco_e_nero:        0.9

@@ -1,0 +1,3 @@
+disegno:              0.9
+manipolazione:        0.9
+mondo:                0.9

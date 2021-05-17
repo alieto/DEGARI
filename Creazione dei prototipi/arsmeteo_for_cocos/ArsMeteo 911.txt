@@ -1,0 +1,9 @@
+arsmeteo:             0.9
+evento:               0.9
+arsmeteo_nove_undici: 0.9
+happening:            0.9
+celebrazione:         0.9
+presentazione:        0.9
+amico:                0.9
+opera:                0.9
+tag:                  0.9

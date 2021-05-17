@@ -1,0 +1,7 @@
+gabbiano:             0.9
+torino:               0.9
+po:                   0.9
+neve:                 0.9
+inverno:              0.9
+volo:                 0.9
+formazione:           0.9

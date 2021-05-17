@@ -1,0 +1,4 @@
+graffito:             0.9
+portone:              0.9
+minaccia:             0.9
+insulto:              0.9

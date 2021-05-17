@@ -1,0 +1,9 @@
+accademico:           0.9
+identikit:            0.9
+libertà:              0.9
+convivenza:           0.9
+sistema:              0.9
+pensiero:             0.9
+debole:               0.9
+semplice:             0.9
+netville:             0.9

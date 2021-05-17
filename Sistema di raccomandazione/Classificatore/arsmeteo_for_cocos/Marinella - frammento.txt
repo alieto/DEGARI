@@ -1,0 +1,4 @@
+porta:                0.9
+codino:               0.9
+stella:               0.9
+stupore:              0.9

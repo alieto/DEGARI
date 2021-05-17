@@ -1,0 +1,3 @@
+pancia:               0.9
+cervello:             0.9
+incontro:             0.9

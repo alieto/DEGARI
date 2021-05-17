@@ -1,0 +1,4 @@
+barchetta:            0.9
+_di:                  0.9
+_carta:               0.9
+lago_blu:             0.9

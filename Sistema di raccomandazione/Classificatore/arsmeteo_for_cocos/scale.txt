@@ -1,0 +1,4 @@
+folla:                0.9
+consumo:              0.9
+tempio:               0.9
+singapore:            0.9

@@ -1,0 +1,3 @@
+rudimentale:          0.9
+crudo:                0.9
+duro_e_puro:          0.9

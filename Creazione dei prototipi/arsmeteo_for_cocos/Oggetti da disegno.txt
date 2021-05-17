@@ -1,0 +1,4 @@
+matita:               0.9
+pastello:             0.9
+temperino:            0.9
+gomma:                0.9

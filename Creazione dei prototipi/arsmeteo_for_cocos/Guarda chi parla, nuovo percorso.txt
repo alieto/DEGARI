@@ -1,0 +1,17 @@
+hamilton:             0.9
+transitorio:          0.9
+massificare:          0.9
+facile:               0.9
+seriale:              0.9
+ingegnoso:            0.9
+sexy:                 0.9
+suggestivo:           0.9
+commerciale:          0.9
+comunicativa:         0.9
+distinto:             0.9
+concettoso:           0.9
+evocativo:            0.9
+preveggente:          0.9
+affascinante:         0.9
+immediato:            0.9
+riflessivo:           0.9

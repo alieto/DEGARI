@@ -1,0 +1,8 @@
+gioco:                0.9
+scuola:               0.9
+architettura:         0.9
+sociale:              0.9
+partecipazione:       0.9
+monumento:            0.9
+città:                0.9
+quartiere:            0.9

@@ -1,0 +1,3 @@
+sguardo:              0.9
+tristezza:            0.9
+puro:                 0.9

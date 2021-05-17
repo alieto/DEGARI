@@ -1,0 +1,3 @@
+variazione:           0.9
+allusione:            0.9
+serie:                0.9

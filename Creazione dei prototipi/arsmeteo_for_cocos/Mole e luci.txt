@@ -1,0 +1,5 @@
+torino:               0.9
+mole:                 0.9
+luce:                 0.9
+piazza_carlina:       0.9
+colore:               0.9

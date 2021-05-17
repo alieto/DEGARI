@@ -1,0 +1,6 @@
+laguiole:             0.9
+magia:                0.9
+vetrina:              0.9
+lusso:                0.9
+mangiare:             0.9
+tagliare:             0.9

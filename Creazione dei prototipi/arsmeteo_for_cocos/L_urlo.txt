@@ -1,0 +1,5 @@
+tecnica:              0.9
+mista:                0.9
+carta:                0.9
+anno:                 0.9
+realizzazione:        0.9

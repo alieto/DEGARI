@@ -1,0 +1,3 @@
+orto:                 0.9
+rovescio:             0.9
+giardino_botanico:    0.9

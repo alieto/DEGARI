@@ -1,0 +1,4 @@
+viaggio_breve:        0.9
+attrezzi_del_mestiere:0.9
+travel_gear:          0.9
+lettura:              0.9

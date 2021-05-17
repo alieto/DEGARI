@@ -1,0 +1,3 @@
+bohumil:              0.9
+rifotografare:        0.9
+disegno:              0.9

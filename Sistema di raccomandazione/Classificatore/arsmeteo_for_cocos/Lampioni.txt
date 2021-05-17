@@ -1,0 +1,5 @@
+luce:                 0.9
+luna:                 0.9
+segno:                0.9
+distintivo:           0.9
+tradizione:           0.9

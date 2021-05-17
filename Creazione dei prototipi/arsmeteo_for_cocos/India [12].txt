@@ -1,0 +1,7 @@
+india:                0.9
+ombrello:             0.9
+mercato:              0.9
+sapore:               0.9
+verdura:              0.9
+odore:                0.9
+colore:               0.9

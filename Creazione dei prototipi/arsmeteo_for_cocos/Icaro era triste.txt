@@ -1,0 +1,8 @@
+baratro:              0.9
+gola:                 0.9
+salto:                0.9
+vuoto:                0.9
+prova:                0.9
+surfanta:             0.9
+salto_nel_vuoto:      0.9
+salto_della_fede:     0.9

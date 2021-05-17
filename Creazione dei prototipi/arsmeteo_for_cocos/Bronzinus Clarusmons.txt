@@ -1,0 +1,9 @@
+chiaromonte:          0.9
+roccaforte:           0.9
+templare:             0.9
+sale_della_sapienza:  0.9
+conoscenza:           0.9
+potere:               0.9
+dominazione:          0.9
+cavaliere:            0.9
+medioevo:             0.9

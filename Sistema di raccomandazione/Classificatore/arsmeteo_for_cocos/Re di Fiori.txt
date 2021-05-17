@@ -1,0 +1,5 @@
+re:                   0.9
+fiore:                0.9
+vittorio_emanuele_secondo:0.9
+monumento:            0.9
+torino:               0.9

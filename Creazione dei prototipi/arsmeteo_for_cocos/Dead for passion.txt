@@ -1,0 +1,5 @@
+passion:              0.9
+airtex:               0.9
+mixed_media:          0.9
+acrilico:             0.9
+intervento:           0.9

@@ -1,0 +1,14 @@
+architettura:         0.9
+spazio_aperto:        0.9
+pianoforte:           0.9
+sfera:                0.9
+mattone:              0.9
+muro:                 0.9
+pavimento:            0.9
+pietra:               0.9
+arcata:               0.9
+sesto_acuto:          0.9
+sesto_senso:          0.9
+musica:               0.9
+suono:                0.9
+mostra:               0.9

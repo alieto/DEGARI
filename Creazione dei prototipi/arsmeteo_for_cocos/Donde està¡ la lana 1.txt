@@ -1,0 +1,5 @@
+denaro:               0.9
+pentola:              0.9
+arcobaleno:           0.9
+vaticano:             0.9
+chiesa:               0.9

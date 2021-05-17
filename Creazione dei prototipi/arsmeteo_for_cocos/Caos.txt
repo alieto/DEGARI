@@ -1,0 +1,4 @@
+caos:                 0.9
+uomo:                 0.9
+disordine:            0.9
+entropia:             0.9

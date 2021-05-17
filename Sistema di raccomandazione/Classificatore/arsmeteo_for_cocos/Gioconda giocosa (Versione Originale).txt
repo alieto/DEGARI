@@ -1,0 +1,2 @@
+farfalla:             0.9
+giocondo:             0.9

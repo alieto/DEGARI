@@ -1,0 +1,9 @@
+graffito:             0.9
+torino:               0.9
+domenica:             0.9
+passeggio:            0.9
+estate:               0.9
+paris:                0.9
+rabbia:               0.9
+paura:                0.9
+sgomento:             0.9

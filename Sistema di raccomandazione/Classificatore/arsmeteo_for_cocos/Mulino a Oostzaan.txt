@@ -1,0 +1,3 @@
+variazione:           0.9
+olanda:               0.9
+sintesi_grafica:      0.9

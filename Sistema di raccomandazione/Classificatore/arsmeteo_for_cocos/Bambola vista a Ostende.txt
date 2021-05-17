@@ -1,0 +1,6 @@
+bambola:              0.9
+surfanta:             0.9
+cappello:             0.9
+toppa:                0.9
+tacconi:              0.9
+pezza:                0.9

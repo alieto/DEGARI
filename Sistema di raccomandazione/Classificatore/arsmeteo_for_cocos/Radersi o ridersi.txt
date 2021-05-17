@@ -1,0 +1,4 @@
+barba:                0.9
+lametta:              0.9
+pubblicità:           0.9
+invito:               0.9

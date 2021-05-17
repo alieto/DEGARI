@@ -1,0 +1,6 @@
+folla:                0.9
+assembramento:        0.9
+festa:                0.9
+rimescolamento:       0.9
+colore:               0.9
+umore:                0.9

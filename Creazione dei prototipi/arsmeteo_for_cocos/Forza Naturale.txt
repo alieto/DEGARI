@@ -1,0 +1,8 @@
+albero:               0.9
+città:                0.9
+forza:                0.9
+natura:               0.9
+speranza:             0.9
+foglia:               0.9
+inquinamento:         0.9
+luce:                 0.9

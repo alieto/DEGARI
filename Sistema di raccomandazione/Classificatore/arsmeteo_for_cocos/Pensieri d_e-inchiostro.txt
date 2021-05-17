@@ -1,0 +1,6 @@
+e-ink:                0.9
+ereader:              0.9
+ebook:                0.9
+matita:               0.9
+pensiero:             0.9
+perdere:              0.9

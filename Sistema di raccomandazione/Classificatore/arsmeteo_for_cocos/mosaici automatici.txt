@@ -1,0 +1,6 @@
+mosaico:              0.9
+automatico:           0.9
+ripetizione:          0.9
+sequenza:             0.9
+interpretazione:      0.9
+progetto_e_caso:      0.9

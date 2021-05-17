@@ -1,0 +1,5 @@
+rumore:               0.9
+concentrare:          0.9
+difficoltà:           0.9
+moderazione:          0.9
+istanza:              0.9

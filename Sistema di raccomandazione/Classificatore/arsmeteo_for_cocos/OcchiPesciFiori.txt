@@ -1,0 +1,8 @@
+occhio:               0.9
+pesce:                0.9
+fiore:                0.9
+fantasia:             0.9
+frattali:             0.9
+dispersione:          0.9
+colore:               0.9
+caos:                 0.9

@@ -1,0 +1,7 @@
+cultura:              0.9
+arte:                 0.9
+scienza:              0.9
+follia:               0.9
+ritratto:             0.9
+amico:                0.9
+artista:              0.9

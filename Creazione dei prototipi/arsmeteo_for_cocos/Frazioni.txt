@@ -1,0 +1,3 @@
+colore_blu:           0.9
+pulsazione:           0.9
+frattura:             0.9

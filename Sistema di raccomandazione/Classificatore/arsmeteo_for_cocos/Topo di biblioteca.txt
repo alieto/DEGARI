@@ -1,0 +1,7 @@
+topo:                 0.9
+libro:                0.9
+formaggio:            0.9
+biblioteca:           0.9
+caus:                 0.9
+umorismo:             0.9
+libro_formaggio:      0.9

@@ -1,0 +1,7 @@
+tuta:                 0.9
+recinzione:           0.9
+prigione:             0.9
+filo_spinato:         0.9
+limitazione:          0.9
+privazione:           0.9
+punizione:            0.9

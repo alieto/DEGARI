@@ -1,0 +1,2 @@
+acqua:                0.9
+quadratino:           0.9

@@ -1,0 +1,14 @@
+-torso+:              0.9
+-volto+:              0.9
+-volo+:               0.9
+-ferite+:             0.9
+-sangue+:             0.9
+occhio:               0.9
+-paura+:              0.9
+-mammelle+:           0.9
+-labbra+:             0.9
+-rossetto+:           0.9
+-trucco+:             0.9
+-donna+:              0.9
+-chagall+:            0.9
+-cielo+:              0.9

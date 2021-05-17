@@ -1,0 +1,12 @@
+anticipazione:        0.9
+pollicino:            0.9
+torriani:             0.9
+embrio_meteo:         0.9
+via_cabiria:          0.9
+dreamography:         0.9
+memografia:           0.9
+digitale:             0.9
+visione:              0.9
+ante_litteram:        0.9
+serra:                0.9
+principe:             0.9

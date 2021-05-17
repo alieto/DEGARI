@@ -1,0 +1,4 @@
+houston:              0.9
+museum:               0.9
+fine:                 0.9
+arts:                 0.9

@@ -1,0 +1,4 @@
+uso:                  0.9
+army:                 0.9
+baratto:              0.9
+carro_armato:         0.9

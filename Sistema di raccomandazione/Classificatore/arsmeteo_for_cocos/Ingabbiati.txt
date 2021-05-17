@@ -1,0 +1,3 @@
+grafia:               0.9
+disegno:              0.9
+quadrato:             0.9

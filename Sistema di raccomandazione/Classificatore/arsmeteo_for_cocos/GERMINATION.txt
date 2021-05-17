@@ -1,0 +1,6 @@
+ricorsivo:            0.9
+campo:                0.9
+natura:               0.9
+solo:                 0.9
+germinazione:         0.9
+coltivazione:         0.9

@@ -1,0 +1,11 @@
+-fragilità:           0.9
+-vetro+:              0.9
+-trasparente+:        0.9
+-attenzione+:         0.9
+-formalina+:          0.9
+-acqua+:              0.9
+-conservazione+:      0.9
+-sottovetro+:         0.9
+natività:             0.9
+dado:                 0.9
+sacra_famiglia:       0.9

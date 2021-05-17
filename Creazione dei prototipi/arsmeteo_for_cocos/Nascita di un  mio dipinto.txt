@@ -1,0 +1,5 @@
+creatività:           0.9
+cambiamento:          0.9
+riflessione:          0.9
+lavoro:               0.9
+insoddisfazione:      0.9

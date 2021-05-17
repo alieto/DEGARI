@@ -1,0 +1,7 @@
+pulizia:              0.9
+gioco:                0.9
+fantasia:             0.9
+tornadi_tascabili:    0.9
+trottola:             0.9
+scopa:                0.9
+spazzare_via:         0.9

@@ -1,0 +1,5 @@
+innamoramento:        0.9
+sensazione:           0.9
+farfalla:             0.9
+visione:              0.9
+speranza:             0.9

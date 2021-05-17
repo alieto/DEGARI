@@ -1,0 +1,9 @@
+beaubourg:            0.9
+piano:                0.9
+traliccio:            0.9
+visione:              0.9
+sogno:                0.9
+paris:                0.9
+popolarità:           0.9
+soldo:                0.9
+mistificazione:       0.9

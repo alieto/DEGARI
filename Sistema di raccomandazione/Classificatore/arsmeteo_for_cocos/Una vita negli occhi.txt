@@ -1,0 +1,4 @@
+madre:                0.9
+fierezza:             0.9
+sguardo:              0.9
+combattivo:           0.9

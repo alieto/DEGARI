@@ -1,0 +1,5 @@
+donna:                0.9
+blu:                  0.9
+segno_zodiacale:      0.9
+indaco:               0.9
+linea:                0.9

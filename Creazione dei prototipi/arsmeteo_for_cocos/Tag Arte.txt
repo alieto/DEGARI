@@ -1,0 +1,10 @@
+deleuze:              0.9
+abécédaire:           0.9
+arsmeteo_lab:         0.9
+tous_les_tag:         0.9
+tritatag:             0.9
+lettera_a:            0.9
+capolettera:          0.9
+scrittura:            0.9
+graphisme:            0.9
+tagherrotipo:         0.9

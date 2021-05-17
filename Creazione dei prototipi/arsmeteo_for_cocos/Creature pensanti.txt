@@ -1,0 +1,4 @@
+espressione:          0.9
+sovrappensiero:       0.9
+svagare:              0.9
+pensieroso:           0.9

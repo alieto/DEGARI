@@ -1,0 +1,11 @@
+leggerezza:           0.9
+chiarezza:            0.6
+televisione:          0.6
+intervista:           0.6
+fabio_fazio:          0.6
+architettura:         0.6
+chiaroveggenza:       0.6
+volare:               0.6
+semplicità:           0.6
+libertà:              0.6
+sogno:                0.6

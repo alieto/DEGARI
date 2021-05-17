@@ -1,0 +1,12 @@
+alcun:                0.9
+grande:               0.9
+cineasta:             0.9
+libro:                0.9
+parlare:              0.9
+cinema:               0.9
+secondo:              0.9
+hitchcock:            0.9
+francois:             0.9
+truffaut:             0.9
+lavoro:               0.9
+influenzare:          0.9

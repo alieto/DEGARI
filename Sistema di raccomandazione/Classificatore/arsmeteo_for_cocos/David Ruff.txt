@@ -1,0 +1,7 @@
+painter:              0.9
+american:             0.9
+artist:               0.9
+sorriso:              0.9
+disincanto:           0.9
+torino:               0.9
+greenwich_village:    0.9

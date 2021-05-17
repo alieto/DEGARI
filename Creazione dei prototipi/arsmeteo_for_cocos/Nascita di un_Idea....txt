@@ -1,0 +1,7 @@
+segno:                0.9
+colore:               0.9
+occhio:               0.9
+profondità:           0.9
+contrasto:            0.9
+irrazionale:          0.9
+negazione:            0.9

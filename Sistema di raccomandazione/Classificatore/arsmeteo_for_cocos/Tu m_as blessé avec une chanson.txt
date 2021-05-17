@@ -1,0 +1,3 @@
+donna:                0.9
+scritto:              0.9
+occhio:               0.9

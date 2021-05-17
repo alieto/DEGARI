@@ -1,0 +1,12 @@
+attesa:               0.9
+apprensione:          0.9
+netville:             0.9
+card:                 0.9
+credito:              0.9
+aeroporto:            0.9
+mondo:                0.9
+volare:               0.9
+sospensione:          0.9
+occhio:               0.9
+cubare:               0.9
+green:                0.9

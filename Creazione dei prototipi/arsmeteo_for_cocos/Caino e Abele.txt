@@ -1,0 +1,7 @@
+caino:                0.9
+interno_barocco:      0.9
+abele:                0.9
+charlot_vs_topolino:  0.9
+rivisitazione:        0.9
+rilettura:            0.9
+duello:               0.9

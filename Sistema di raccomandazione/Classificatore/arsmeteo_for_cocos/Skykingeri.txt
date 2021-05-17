@@ -1,0 +1,12 @@
+viviana:              0.9
+cielo:                0.9
+skyline:              0.9
+ala:                  0.9
+farfalla:             0.9
+fuoco:                0.9
+vento:                0.9
+azzurro:              0.9
+cioccolato:           0.9
+filigrana:            0.9
+volare:               0.9
+bacca:                0.9

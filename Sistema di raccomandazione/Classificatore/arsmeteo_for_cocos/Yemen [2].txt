@@ -1,0 +1,5 @@
+yemen:                0.9
+sigaretta:            0.9
+rivista:              0.9
+osservazione:         0.9
+sosta:                0.9

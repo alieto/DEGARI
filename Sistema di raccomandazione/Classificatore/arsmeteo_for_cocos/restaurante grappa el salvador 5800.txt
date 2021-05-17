@@ -1,0 +1,8 @@
+esquina:              0.9
+bue:                  0.9
+attesa:               0.9
+eleganza:             0.9
+vino:                 0.9
+filete_de_lomo:       0.9
+integrazione:         0.9
+cultura:              0.9

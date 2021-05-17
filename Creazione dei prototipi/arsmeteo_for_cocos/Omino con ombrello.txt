@@ -1,0 +1,5 @@
+omino:                0.9
+ombrello:             0.9
+dissociazione:        0.9
+giostra:              0.9
+creatività:           0.9

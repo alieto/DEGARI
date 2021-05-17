@@ -1,0 +1,7 @@
+globalizzazione:      0.9
+dittatura:            0.9
+settembre:            0.9
+palestina:            0.9
+migrazione:           0.9
+racconto:             0.9
+ironia:               0.9

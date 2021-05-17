@@ -1,0 +1,4 @@
+luna:                 0.9
+notte:                0.9
+valle:                0.9
+luce:                 0.9

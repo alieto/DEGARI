@@ -1,0 +1,11 @@
+unicredit:            0.9
+privato:              0.9
+banking:              0.9
+collection:           0.9
+mista:                0.9
+opera:                0.9
+poetica:              0.9
+dedicare:             0.9
+jorge:                0.9
+luis:                 0.9
+borges:               0.9

@@ -1,0 +1,6 @@
+sera:                 0.9
+ritorno:              0.9
+caldo:                0.9
+fatica:               0.9
+lavoro:               0.9
+torero:               0.9

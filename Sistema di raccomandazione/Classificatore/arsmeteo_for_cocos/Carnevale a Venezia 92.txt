@@ -1,0 +1,5 @@
+tecnica:              0.9
+mista:                0.9
+tela:                 0.9
+cm.125x60:            0.9
+anno:                 0.9

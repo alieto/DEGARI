@@ -1,0 +1,3 @@
+lezioni_di_volo:      0.9
+esempio:              0.9
+foto_nella_foto:      0.9

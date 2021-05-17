@@ -1,0 +1,4 @@
+canzone:              0.9
+dialetto:             0.9
+monferrato:           0.9
+sasà:                 0.9

@@ -1,0 +1,3 @@
+bambino:              0.9
+lexotan:              0.9
+censura:              0.9

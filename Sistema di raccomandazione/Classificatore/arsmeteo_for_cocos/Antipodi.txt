@@ -1,0 +1,10 @@
+bicchiere:            0.9
+vino:                 0.9
+ospitalità:           0.9
+pensieri_e_scintillio:0.9
+calice:               0.9
+casa:                 0.9
+policromia:           0.9
+vetro:                0.9
+soprammobile:         0.9
+murare:               0.9

@@ -1,0 +1,10 @@
+bianco_e_nero:        0.9
+fotografia:           0.9
+elaborazione:         0.9
+falso:                0.9
+realtà:               0.9
+toro:                 0.9
+sangue:               0.9
+morte:                0.9
+spagna:               0.9
+tristezza:            0.9

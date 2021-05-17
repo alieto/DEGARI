@@ -1,0 +1,4 @@
+astratto:             0.9
+colori_accesi:        0.9
+caldo:                0.9
+energia:              0.9

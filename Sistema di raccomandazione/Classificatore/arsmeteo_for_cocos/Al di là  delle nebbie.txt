@@ -1,0 +1,11 @@
+tibet:                0.9
+montagna:             0.9
+naso_a_becco:         0.9
+uccelli_impietosi:    0.9
+tibetano:             0.9
+alta_montagna:        0.9
+surfanta:             0.9
+cima:                 0.9
+sasso:                0.9
+nebbia:               0.9
+al_di_là:             0.9

@@ -1,0 +1,8 @@
+amore:                0.9
+pipistrello:          0.9
+ombrello:             0.9
+luna:                 0.9
+affinità:             0.9
+falce_di_luna:        0.9
+anime_gemelle:        0.9
+notte:                0.9

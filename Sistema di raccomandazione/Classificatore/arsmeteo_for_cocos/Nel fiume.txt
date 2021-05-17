@@ -1,0 +1,5 @@
+successione:          0.9
+acqua:                0.9
+fiume:                0.9
+statico:              0.9
+pattern:              0.9

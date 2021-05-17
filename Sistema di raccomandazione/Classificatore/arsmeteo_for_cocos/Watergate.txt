@@ -1,0 +1,6 @@
+porta:                0.9
+varco:                0.9
+acqua:                0.9
+cielo:                0.9
+spazio:               0.9
+simbolo:              0.9

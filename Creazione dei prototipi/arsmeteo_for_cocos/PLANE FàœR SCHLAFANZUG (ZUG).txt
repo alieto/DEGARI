@@ -1,0 +1,7 @@
+schlafanzug:          0.9
+pigiama:              0.9
+fontana:              0.9
+progetto_per_pigiama: 0.9
+zug:                  0.9
+treno:                0.9
+locomotiva:           0.9

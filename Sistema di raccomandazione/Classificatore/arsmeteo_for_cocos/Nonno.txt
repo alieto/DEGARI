@@ -1,0 +1,5 @@
+nonno:                0.9
+ritratto:             0.9
+ricordo:              0.9
+acquerello:           0.9
+photoshop:            0.9

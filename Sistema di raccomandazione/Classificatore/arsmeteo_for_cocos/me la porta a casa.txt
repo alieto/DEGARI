@@ -1,0 +1,5 @@
+ammiccamento:         0.9
+seduzione:            0.9
+intuizione:           0.9
+sera:                 0.9
+estate:               0.9

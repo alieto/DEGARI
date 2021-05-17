@@ -1,0 +1,10 @@
+fluido:               0.9
+corpo:                0.9
+bolla:                0.9
+movimento:            0.9
+luce:                 0.9
+suono:                0.9
+goccia:               0.9
+danza:                0.9
+scia:                 0.9
+pulsazione:           0.9

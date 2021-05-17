@@ -1,0 +1,12 @@
+surreale:             0.9
+surfanta:             0.9
+demonio:              0.9
+diavolo:              0.9
+apparizione:          0.9
+innominabile:         0.9
+orrendo:              0.9
+maestoso:             0.9
+indescrivibile:       0.9
+immutabile:           0.9
+potente:              0.9
+spada_di_fuoco:       0.9

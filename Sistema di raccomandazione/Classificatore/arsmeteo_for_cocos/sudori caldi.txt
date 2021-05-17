@@ -1,0 +1,7 @@
+estate:               0.9
+corpo:                0.9
+ostentazione:         0.9
+desiderio:            0.9
+umore:                0.9
+festa:                0.9
+torino:               0.9

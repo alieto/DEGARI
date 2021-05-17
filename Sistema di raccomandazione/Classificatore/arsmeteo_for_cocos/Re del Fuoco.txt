@@ -1,0 +1,4 @@
+re:                   0.9
+fuoco:                0.9
+pupo:                 0.9
+fiamma:               0.9

@@ -1,0 +1,6 @@
+lotta:                0.9
+mexico:               0.9
+sroria:               0.9
+contrattacco:         0.9
+battaglia:            0.9
+libertà:              0.9

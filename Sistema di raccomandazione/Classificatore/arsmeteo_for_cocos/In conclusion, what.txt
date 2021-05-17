@@ -1,0 +1,5 @@
+mano:                 0.9
+angelo:               0.6
+ala:                  0.6
+in_conclusione:       0.6
+bambino:              0.6

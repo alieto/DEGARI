@@ -1,0 +1,11 @@
+contentino:           0.9
+biscottino:           0.9
+prigioniero:          0.9
+cane_del_deserto:     0.9
+deserto_del_cane_del_deserto:0.9
+gabbia:               0.9
+sbarra:               0.9
+unghiette:            0.9
+zampina:              0.9
+espressione:          0.9
+animale:              0.9

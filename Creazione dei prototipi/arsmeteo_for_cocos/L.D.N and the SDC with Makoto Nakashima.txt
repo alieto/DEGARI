@@ -1,0 +1,3 @@
+makoto_nakashima:     0.9
+-sabine_delafon+:     0.9
+-incinta+:            0.9

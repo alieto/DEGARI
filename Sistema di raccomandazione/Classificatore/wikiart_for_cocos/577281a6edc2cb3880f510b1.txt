@@ -1,0 +1,2 @@
+arrogance:            0.9
+happiness:            0.9

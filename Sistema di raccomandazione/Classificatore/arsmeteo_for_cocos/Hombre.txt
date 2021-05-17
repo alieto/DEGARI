@@ -1,0 +1,9 @@
+hombre:               0.9
+ombra:                0.9
+uomo:                 0.9
+shadows:              0.9
+contrasto:            0.9
+profilo:              0.9
+statua:               0.9
+staticità:            0.9
+movimento:            0.9

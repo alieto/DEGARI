@@ -1,0 +1,4 @@
+mare:                 0.9
+metamorfosi:          0.9
+libertà:              0.9
+acqua:                0.9

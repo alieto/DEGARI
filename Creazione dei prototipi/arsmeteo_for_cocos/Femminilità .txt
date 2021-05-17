@@ -1,0 +1,5 @@
+femminilità:          0.9
+corpo_femminile:      0.9
+curva:                0.9
+morbidezza:           0.9
+seduzione:            0.9

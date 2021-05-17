@@ -1,0 +1,8 @@
+matrimonio:           0.9
+sposo:                0.9
+sposa|sposo:          0.9
+amore:                0.9
+felicità:             0.9
+promessa:             0.9
+futuro:               0.9
+pensiero:             0.9

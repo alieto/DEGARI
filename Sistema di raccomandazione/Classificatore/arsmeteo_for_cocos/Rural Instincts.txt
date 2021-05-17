@@ -1,0 +1,6 @@
+motto:                0.9
+tetta:                0.9
+guru:                 0.9
+emanazione:           0.9
+instincts:            0.9
+rural:                0.9

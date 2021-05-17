@@ -1,0 +1,6 @@
+biancaneve:           0.9
+sette_nani:           0.9
+ascensione:           0.9
+mela:                 0.9
+gloria:               0.9
+favola_mistica:       0.9

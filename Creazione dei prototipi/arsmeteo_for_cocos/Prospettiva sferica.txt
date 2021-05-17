@@ -1,0 +1,3 @@
+occhio_di_pesce:      0.9
+meta_fisica:          0.9
+grigio:               0.9

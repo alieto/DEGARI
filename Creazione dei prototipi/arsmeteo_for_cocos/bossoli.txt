@@ -1,0 +1,7 @@
+cimitero:             0.9
+morte:                0.9
+spreco:               0.9
+cazzo:                0.9
+wijk:                 0.9
+bij:                  0.9
+duurstede:            0.9

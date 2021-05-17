@@ -1,0 +1,6 @@
+collage:              0.9
+acrilico:             0.9
+dignità:              0.9
+fantasma:             0.9
+fiore:                0.9
+petalo:               0.9

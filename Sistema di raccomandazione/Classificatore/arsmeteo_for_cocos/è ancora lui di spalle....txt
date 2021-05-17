@@ -1,0 +1,7 @@
+verosimiglianza:      0.9
+credibilità:          0.9
+malvagità:            0.9
+vuoto:                0.9
+assente:              0.9
+asociale:             0.9
+animale:              0.9

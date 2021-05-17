@@ -1,0 +1,2 @@
+farfalla:             0.9
+accumulazione:        0.9

@@ -1,0 +1,11 @@
+notturno:             0.9
+tetto:                0.9
+casa:                 0.9
+cartoon:              0.9
+efferatezza:          0.9
+candore:              0.9
+inversione:           0.9
+mira:                 0.9
+prospettiva:          0.9
+città:                0.9
+netville:             0.9

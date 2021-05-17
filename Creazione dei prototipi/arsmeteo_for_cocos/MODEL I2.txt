@@ -1,0 +1,7 @@
+insabbiamento:        0.9
+identikit:            0.9
+connivenza:           0.9
+nascondere:           0.9
+tacere:               0.9
+netville:             0.9
+semplificare:         0.9

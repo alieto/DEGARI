@@ -1,0 +1,27 @@
+Title: evil-chair
+
+Head Concept Name: Villain
+
+Modifier Concept Name: Chair
+
+
+head, fightsForPersonal
+head, animate
+head, hasNegativeMoralValue
+
+modifier, hasSupportingSit
+modifier, hasSit
+
+T(head), demoniac, 0.9
+T(head), opponentHero, 0.75
+T(head), Protagonist, 0.75
+T(head), impulsive, 0.8
+
+T(modifier), -animate, 0.95
+T(modifier), hasBack, 0.95
+T(modifier), wooden, 0.65
+T(modifier), comfortable, 0.8
+T(modifier), inflammable, 0.7
+
+
+Result : '1', '0', '1', '1', '0', '1', '1', '1', '1', 0.2334150000000002

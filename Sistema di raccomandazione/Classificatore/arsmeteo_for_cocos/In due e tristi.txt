@@ -1,0 +1,4 @@
+contesa:              0.9
+raffronto:            0.9
+confronto:            0.9
+difesa:               0.9

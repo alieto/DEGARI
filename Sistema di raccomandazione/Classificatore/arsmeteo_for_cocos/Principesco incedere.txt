@@ -1,0 +1,5 @@
+principe:             0.9
+borsalino:            0.9
+guizzo:               0.9
+sguardo:              0.9
+netville:             0.9

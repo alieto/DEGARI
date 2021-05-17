@@ -1,0 +1,10 @@
+colore:               0.9
+scheggia:             0.6
+frammenti_di_carnevale:0.6
+specchio:             0.6
+riflesso:             0.6
+luogo:                0.6
+non_luogo:            0.6
+livorno_ferraris:     0.6
+piemonte:             0.6
+carnevale:            0.6

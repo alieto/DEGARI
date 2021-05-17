@@ -1,0 +1,11 @@
+creazione:            0.9
+energia:              0.6
+nebulosa:             0.6
+perturbazione:        0.6
+genesi:               0.6
+gas:                  0.6
+forza:                0.6
+forze_primordiali:    0.6
+generazione:          0.6
+dal_caos:             0.6
+turbolenza:           0.6

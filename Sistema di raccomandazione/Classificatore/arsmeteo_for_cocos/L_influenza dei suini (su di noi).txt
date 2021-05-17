@@ -1,0 +1,6 @@
+soldo:                0.9
+porco:                0.9
+medicina:             0.9
+virus:                0.9
+vaccino:              0.9
+malattia:             0.9

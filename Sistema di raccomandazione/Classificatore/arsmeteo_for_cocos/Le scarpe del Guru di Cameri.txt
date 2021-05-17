@@ -1,0 +1,5 @@
+stile:                0.9
+slancio:              0.9
+anticipazione:        0.9
+portanza:             0.9
+lumix:                0.9

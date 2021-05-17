@@ -1,0 +1,2 @@
+amsterdam:            0.9
+ceramica_suprematista:0.9

@@ -1,0 +1,2 @@
+digitale:             0.9
+mani_polare:          0.9

@@ -1,0 +1,8 @@
+degrado:              0.9
+natura:               0.9
+neve:                 0.9
+pattume:              0.9
+campagna:             0.9
+due:                  0.9
+passo:                0.9
+casa:                 0.9

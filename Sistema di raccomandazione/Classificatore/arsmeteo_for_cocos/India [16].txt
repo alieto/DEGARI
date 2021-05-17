@@ -1,0 +1,6 @@
+india:                0.9
+camion:               0.9
+ombra:                0.9
+sagoma:               0.9
+chiaroscuro:          0.9
+trasporto:            0.9

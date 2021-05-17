@@ -1,0 +1,7 @@
+-mare+:               0.9
+-bagnante+:           0.9
+-relax+:              0.9
+-appunti+:            0.9
+-spiaggia+:           0.9
+-bagno_di_sole+:      0.9
+-esposizione+:        0.9

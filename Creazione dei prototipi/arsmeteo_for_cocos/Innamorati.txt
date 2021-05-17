@@ -1,0 +1,14 @@
+innamorato:           0.9
+coppia:               0.9
+romanticismo_meccanico:0.6
+lampione:             0.6
+meccanico:            0.6
+assemblaggio:         0.6
+recupero:             0.6
+riciclato:            0.6
+rivivere:             0.6
+metallo:              0.6
+chiave:               0.6
+mano_nella_mano:      0.6
+catena:               0.6
+chiave_del_cuore:     0.6

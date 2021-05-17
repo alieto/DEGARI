@@ -1,0 +1,6 @@
+acrilico:             0.9
+sabbia:               0.9
+tela:                 0.9
+canvas:               0.9
+informale:            0.9
+colore:               0.9

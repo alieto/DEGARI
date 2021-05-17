@@ -1,0 +1,7 @@
+ombra:                0.9
+strada:               0.6
+via:                  0.6
+cammino:              0.6
+coppia:               0.6
+profilo:              0.6
+un_uomo_e_una_donna:  0.6

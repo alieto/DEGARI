@@ -1,0 +1,7 @@
+deepwater:            0.9
+horizon:              0.9
+piattaforma:          0.9
+petrolifero:          0.9
+disastro:             0.9
+ambientale:           0.9
+ecosistema:           0.9

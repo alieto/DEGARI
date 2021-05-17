@@ -1,0 +1,6 @@
+ambient:              0.9
+electric:             0.9
+violare:              0.9
+cinematic:            0.9
+vanhalia:             0.9
+obviousnesses:        0.9

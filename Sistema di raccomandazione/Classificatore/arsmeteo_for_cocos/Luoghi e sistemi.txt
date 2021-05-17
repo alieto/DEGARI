@@ -1,0 +1,2 @@
+luogo:                0.9
+meandro:              0.9

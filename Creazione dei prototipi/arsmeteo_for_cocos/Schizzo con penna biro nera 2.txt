@@ -1,0 +1,13 @@
+pipa:                 0.9
+sovrapposizione:      0.9
+radica:               0.9
+profilo:              0.9
+volto:                0.9
+viso:                 0.9
+composizione:         0.9
+ovoidale:             0.9
+albero:               0.9
+ramo:                 0.9
+ramificazione:        0.9
+radicamento:          0.9
+ricerca:              0.9

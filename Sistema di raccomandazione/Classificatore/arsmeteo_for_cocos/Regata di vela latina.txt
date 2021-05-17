@@ -1,0 +1,6 @@
+arsmeteos_cup:        0.9
+gioia_dello_sport:    0.9
+presenza_assenza:     0.9
+senza_volto:          0.9
+vai_con_lo_spinnaker: 0.9
+ombra:                0.9

@@ -1,0 +1,9 @@
+ponte:                0.9
+cielo:                0.9
+nuvola:               0.9
+strada:               0.9
+abitazione:           0.9
+fiore:                0.9
+foglia:               0.9
+blu:                  0.9
+desiderio:            0.9

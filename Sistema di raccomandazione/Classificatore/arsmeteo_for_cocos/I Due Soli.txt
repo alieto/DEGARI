@@ -1,0 +1,8 @@
+riflesso:             0.9000000000000001
+nudo:                 0.6
+mare:                 0.6
+solo:                 0.6
+sedere:               0.6
+triangolo:            0.6
+fantasia:             0.6
+arco:                 0.6

@@ -1,0 +1,5 @@
+pianeta:              0.9
+orbita:               0.6
+digitale:             0.6
+sfera:                0.6
+satellite:            0.6

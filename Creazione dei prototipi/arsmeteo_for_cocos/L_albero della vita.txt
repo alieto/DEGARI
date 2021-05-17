@@ -1,0 +1,4 @@
+albero:               0.9
+vita:                 0.9
+umanità:              0.9
+madre_terra:          0.9

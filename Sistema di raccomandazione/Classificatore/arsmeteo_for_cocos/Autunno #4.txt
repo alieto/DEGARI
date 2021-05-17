@@ -1,0 +1,3 @@
+foglia:               0.9
+autunno:              0.9
+viraggio:             0.9

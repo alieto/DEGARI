@@ -1,0 +1,7 @@
+presagio:             0.9
+surfanta:             0.9
+premonizione:         0.9
+incombente:           0.9
+sopraffare:           0.9
+terra_screpolata:     0.9
+arido:                0.9

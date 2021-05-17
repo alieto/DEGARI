@@ -1,0 +1,7 @@
+contrasto:            0.9
+assurdo:              0.9
+palazzo:              0.9
+coltivazione:         0.9
+mettere:              0.9
+torino:               0.9
+piazza_borsa:         0.9

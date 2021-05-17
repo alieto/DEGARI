@@ -1,0 +1,3 @@
+natura:               0.9
+morta:                0.9
+pappagallo:           0.9

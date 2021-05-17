@@ -1,0 +1,11 @@
+terra:                0.9
+terzo_mondo:          0.9
+solo:                 0.9
+desolazione:          0.9
+abbandono:            0.9
+fango:                0.9
+coperta:              0.9
+fame:                 0.9
+latta|latte:          0.9
+capanna:              0.9
+netville:             0.9

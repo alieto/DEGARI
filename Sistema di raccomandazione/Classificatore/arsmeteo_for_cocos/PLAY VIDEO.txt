@@ -1,0 +1,7 @@
+fez:                  0.9
+play:                 0.9
+video:                0.9
+dipendenza:           0.9
+indipendenza:         0.9
+ironia:               0.9
+distacco:             0.9

@@ -1,0 +1,9 @@
+flusso:               0.9
+fluido:               0.9
+pulsione:             0.9
+pulsante:             0.9
+forza:                0.9
+linfa:                0.9
+fluente:              0.9
+scorrere:             0.9
+forze_fluide:         0.9

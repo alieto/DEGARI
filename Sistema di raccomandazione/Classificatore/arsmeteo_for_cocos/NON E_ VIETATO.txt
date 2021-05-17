@@ -1,0 +1,12 @@
+amsterdam:            0.9
+copyright:            0.9
+liberale:             0.9
+solare:               0.9
+visibile:             0.9
+accessibile:          0.9
+pubblico:             0.9
+disponibile:          0.9
+non_vietato:          0.9
+guardare:             0.9
+museo:                0.9
+netville:             0.9

@@ -1,0 +1,5 @@
+posa:                 0.9
+moda:                 0.9
+donna:                0.9
+sensualità:           0.9
+braccio:              0.9

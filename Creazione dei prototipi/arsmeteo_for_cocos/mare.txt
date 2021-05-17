@@ -1,0 +1,5 @@
+forza:                0.9
+masso:                0.9
+maroso:               0.9
+acqua:                0.9
+ragazza:              0.9

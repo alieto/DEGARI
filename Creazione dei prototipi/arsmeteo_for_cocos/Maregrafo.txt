@@ -1,0 +1,6 @@
+solitudine:           0.9
+mare:                 0.9
+infinito:             0.9
+osservazione:         0.9
+rilevazione:          0.9
+sentinella:           0.9

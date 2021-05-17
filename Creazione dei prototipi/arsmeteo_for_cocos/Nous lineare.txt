@@ -1,0 +1,3 @@
+nous:                 0.9
+linea_retta:          0.9
+nero_bianco:          0.9

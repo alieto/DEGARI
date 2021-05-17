@@ -1,0 +1,4 @@
+viet:                 0.9
+nam:                  0.9
+vietnam:              0.9
+guerra:               0.9

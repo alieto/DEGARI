@@ -1,0 +1,6 @@
+strada:               0.9
+sopraelevare:         0.9
+ponte:                0.9
+fiore:                0.9
+coppia:               0.9
+sogno:                0.9

@@ -1,0 +1,5 @@
+educazione:           0.9
+teste_d_uovo:         0.9
+mamma:                0.9
+sfamare:              0.9
+caus:                 0.9

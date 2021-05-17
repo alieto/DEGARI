@@ -1,0 +1,7 @@
+-caricatura+:         0.9
+-metaforico+:         0.9
+-personaggi+:         0.9
+-trasfigurazione+:    0.9
+-murales+:            0.9
+-bestiario+:          0.9
+natività:             0.9

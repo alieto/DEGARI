@@ -1,0 +1,7 @@
+piattaforma:          0.9
+arsmeteo:             0.9
+attuale:              0.9
+grouping:             0.9
+tagging:              0.9
+inserimento:          0.9
+opera:                0.9

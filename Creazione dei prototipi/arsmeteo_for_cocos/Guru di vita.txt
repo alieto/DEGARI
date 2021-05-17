@@ -1,0 +1,6 @@
+riflessione:          0.9
+vita:                 0.9
+giro:                 0.9
+rotazione:            0.9
+profilo:              0.9
+espressione:          0.9

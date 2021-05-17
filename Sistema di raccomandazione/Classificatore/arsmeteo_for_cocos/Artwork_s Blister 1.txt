@@ -1,0 +1,8 @@
+tramonto:             0.9000000000000001
+blister:              0.6
+collezione:           0.6
+opera:                0.6
+correlazione:         0.6
+tag:                  0.6
+dada:                 0.6
+souvenir:             0.6

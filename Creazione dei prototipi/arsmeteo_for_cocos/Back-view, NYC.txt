@@ -1,0 +1,5 @@
+abbondanza:           0.9
+rilassatezza:         0.9
+extralarge:           0.9
+caloria:              0.9
+zucchero:             0.9

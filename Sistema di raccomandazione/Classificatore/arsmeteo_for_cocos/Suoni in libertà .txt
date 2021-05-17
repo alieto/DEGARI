@@ -1,0 +1,3 @@
+sorriso:              0.9
+gioia:                0.9
+trasporto:            0.9

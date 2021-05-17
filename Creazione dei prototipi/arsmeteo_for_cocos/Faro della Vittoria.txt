@@ -1,0 +1,13 @@
+colla|colle:          0.9
+maddalena:            0.9
+collina:              0.9
+torino:               0.9
+statua:               0.9
+sommergere:           0.9
+angelo:               0.9
+vittoria:             0.9
+mare:                 0.9
+blu:                  0.9
+luce:                 0.9
+nuvola:               0.9
+pesce:                0.9

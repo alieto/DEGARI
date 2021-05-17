@@ -1,0 +1,9 @@
+tavola:               0.9
+fotografico:          0.9
+base:                 0.9
+coloristico:          0.9
+avventore:            0.9
+avventuriero:         0.9
+sfotografia:          0.9
+set_table:            0.9
+scodellare:           0.9

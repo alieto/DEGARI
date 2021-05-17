@@ -1,0 +1,4 @@
+tetto:                0.9
+dall_alto:            0.9
+verde:                0.9
+bologna:              0.9

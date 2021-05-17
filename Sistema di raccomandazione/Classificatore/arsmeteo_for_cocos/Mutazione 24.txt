@@ -1,0 +1,4 @@
+fauna:                0.9
+flora:                0.9
+magmatico:            0.9
+metafora:             0.9

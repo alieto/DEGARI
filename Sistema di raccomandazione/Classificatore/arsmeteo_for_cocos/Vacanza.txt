@@ -1,0 +1,9 @@
+amor_materno:         0.9
+prima_del_boom:       0.9
+amor_filiale:         0.9
+ancona_venezia:       0.9
+crociera:             0.9
+dopolavoro_ferroviario:0.9
+canale:               0.9
+tomaia_bicolore:      0.9
+marinara:             0.9

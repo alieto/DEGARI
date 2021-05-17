@@ -1,0 +1,4 @@
+gatto:                0.9
+riposo:               0.9
+sospendere:           0.9
+muro:                 0.9

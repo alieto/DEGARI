@@ -1,0 +1,5 @@
+catena_:              0.9
+alimentare:           0.9
+becco_legato:         0.9
+caus:                 0.9
+ironia:               0.9

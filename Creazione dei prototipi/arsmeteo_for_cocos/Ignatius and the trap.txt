@@ -1,0 +1,6 @@
+coniglio:             0.9
+tagliola:             0.9
+trappola:             0.9
+pericolo:             0.9
+ingenuità:            0.9
+innocenza:            0.9

@@ -1,0 +1,5 @@
+passo:                0.9
+aria:                 0.9
+cieco:                0.9
+paura:                0.9
+chiusura:             0.9

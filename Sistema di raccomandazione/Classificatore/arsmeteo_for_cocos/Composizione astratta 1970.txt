@@ -1,0 +1,3 @@
+china:                0.9
+foglio:               0.9
+polietilene:          0.9

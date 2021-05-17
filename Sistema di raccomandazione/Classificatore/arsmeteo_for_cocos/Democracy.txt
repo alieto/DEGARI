@@ -1,0 +1,3 @@
+democrazia:           0.9
+merce:                0.9
+realtà:               0.9

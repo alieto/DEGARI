@@ -1,0 +1,4 @@
+sfera:                0.9
+tazza:                0.9
+città:                0.9
+tavolino:             0.9

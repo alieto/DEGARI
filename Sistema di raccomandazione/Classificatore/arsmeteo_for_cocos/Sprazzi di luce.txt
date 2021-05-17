@@ -1,0 +1,9 @@
+tragedia:             0.9
+conforto:             0.9
+punizione:            0.9
+città:                0.9
+rondà²:               0.9
+forca:                0.9
+mattino:              0.9
+traffico:             0.9
+cellulare:            0.9

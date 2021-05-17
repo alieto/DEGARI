@@ -1,0 +1,3 @@
+pittore:              0.9
+claudio:              0.9
+paesaggio:            0.9

@@ -1,0 +1,4 @@
+anticipation:         0.9
+happiness:            0.9
+optimism:             0.9
+surprise:             0.9

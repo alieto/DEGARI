@@ -1,0 +1,4 @@
+microrganismo:        0.9
+creature_marine:      0.9
+polipo:               0.9
+octopus:              0.9

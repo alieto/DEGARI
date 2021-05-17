@@ -1,0 +1,4 @@
+interno:              0.9
+spirituale:           0.9
+ascendente:           0.9
+chiesa:               0.9

@@ -1,0 +1,3 @@
+croce:                0.9
+luna:                 0.9
+trascendentalismo:    0.9

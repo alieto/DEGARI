@@ -1,0 +1,8 @@
+kandahar:             0.9
+muhammad:             0.9
+canvas:               0.9
+movie:                0.9
+digitale:             0.9
+vero:                 0.9
+pittura:              0.9
+netville:             0.9

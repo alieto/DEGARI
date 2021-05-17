@@ -1,0 +1,4 @@
+geometria:            0.9
+tassello:             0.9
+blu:                  0.9
+sfumatura:            0.9

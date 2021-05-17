@@ -1,0 +1,4 @@
+solo:                 0.9
+primavera:            0.6
+incerta:              0.6
+mare:                 0.6

@@ -1,0 +1,4 @@
+verifica:             0.9
+ordine:               0.9
+tempio:               0.9
+perpendicolare:       0.9

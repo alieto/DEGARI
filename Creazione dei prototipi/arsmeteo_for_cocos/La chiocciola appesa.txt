@@ -1,0 +1,2 @@
+casa:                 0.9
+appeso:               0.9

@@ -1,0 +1,7 @@
+dolce:                0.9
+aggressivo:           0.9
+audace:               0.9
+forza:                0.9
+materno:              0.9
+animale:              0.9
+alieno:               0.9

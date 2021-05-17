@@ -1,0 +1,6 @@
+mondo:                0.9
+pianeta:              0.9
+crosta:               0.9
+spazio:               0.9
+buio:                 0.9
+globo:                0.9

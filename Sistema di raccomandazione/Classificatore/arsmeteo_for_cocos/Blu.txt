@@ -1,0 +1,6 @@
+blu:                  0.9
+scrittura:            0.9
+libertà:              0.9
+fosforescenza:        0.9
+colore_blu:           0.9
+arzigogolature_geometriche:0.9

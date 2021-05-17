@@ -1,0 +1,4 @@
+variazione:           0.9
+materiale:            0.9
+ricorsività:          0.9
+verticalita:          0.9

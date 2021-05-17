@@ -1,0 +1,5 @@
+bazar:                0.9
+colore:               0.9
+cortigiana:           0.9
+testa:                0.9
+saggezza:             0.9

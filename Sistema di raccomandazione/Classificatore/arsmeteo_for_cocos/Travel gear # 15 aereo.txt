@@ -1,0 +1,6 @@
+volo:                 0.9
+lettura:              0.9
+attesa:               0.9
+vuoto:                0.9
+tempo:                0.9
+velocità:             0.9

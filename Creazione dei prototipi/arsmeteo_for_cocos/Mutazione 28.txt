@@ -1,0 +1,4 @@
+11_settembre:         0.9
+incandescenza:        0.9
+fusione:              0.9
+crollo:               0.9

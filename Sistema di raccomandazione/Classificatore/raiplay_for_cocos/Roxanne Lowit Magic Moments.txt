@@ -1,0 +1,14 @@
+vita:                 0.9
+professionale:        0.9
+grande:               0.9
+fotografa:            0.9
+contemporaneo:        0.9
+roxanne:              0.9
+lowit:                0.9
+racconto:             0.9
+epoca:                0.9
+parte:                0.9
+anno:                 0.9
+studio:               0.9
+fino:                 0.9
+arrivare:             0.9

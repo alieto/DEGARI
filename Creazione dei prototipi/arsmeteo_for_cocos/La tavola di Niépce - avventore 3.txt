@@ -1,0 +1,6 @@
+tavola:               0.9
+niépce:               0.9
+protofotografia:      0.9
+sfotografia:          0.9
+cappello:             0.9
+sciarpa:              0.9

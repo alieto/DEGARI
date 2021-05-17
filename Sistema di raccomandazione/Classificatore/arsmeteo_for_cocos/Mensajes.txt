@@ -1,0 +1,7 @@
+sms:                  0.9
+telefonino:           0.9
+legno:                0.9
+penna:                0.9
+rosa:                 0.9
+parola:               0.9
+stecchino:            0.9

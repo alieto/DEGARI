@@ -1,0 +1,3 @@
+adamo:                0.9
+rosso:                0.9
+eva:                  0.9

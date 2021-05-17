@@ -1,0 +1,11 @@
+montagna:             0.9
+roccia:               0.9
+cielo:                0.9
+albero:               0.9
+ogm:                  0.9
+freddo:               0.9
+glaciale:             0.9
+rosso:                0.9
+azzurro:              0.9
+blu:                  0.9
+sfumato:              0.9

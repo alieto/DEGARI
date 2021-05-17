@@ -1,0 +1,13 @@
+viso:                 0.9
+volto:                0.9
+prospetto:            0.9
+oligocefalo:          0.9
+schizzo:              0.9
+disegno:              0.9
+matita:               0.9
+carta:                0.9
+penetrante:           0.9
+osservatore:          0.9
+ponderazione:         0.9
+ipnotico:             0.9
+concentrazione:       0.9

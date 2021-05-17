@@ -1,0 +1,8 @@
+olympus:              0.9
+sorriso:              0.9
+capello:              0.9
+viviana:              0.9
+manuela:              0.9
+via_mercanti:         0.9
+shocking:             0.9
+movida:               0.9

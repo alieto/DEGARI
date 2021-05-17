@@ -1,0 +1,6 @@
+esibizione:           0.9
+circense:             0.9
+abilità:              0.9
+equilibrio:           0.9
+incrocio:             0.9
+semaforo_rosso:       0.9

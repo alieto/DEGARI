@@ -1,0 +1,5 @@
+acquarello:           0.9
+china:                0.9
+acrilico:             0.9
+carta:                0.9
+30x40:                0.9

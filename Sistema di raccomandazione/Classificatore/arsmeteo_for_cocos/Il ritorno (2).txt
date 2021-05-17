@@ -1,0 +1,7 @@
+-giacca_in_spalla+:   0.9
+-ritorno+:            0.9
+-cammino+:            0.9
+-uomo+:               0.9
+-materico+:           0.9
+-tessuto+:            0.9
+-tridimensionale+:    0.9

@@ -1,0 +1,6 @@
+insieme:              0.9
+suono:                0.9
+grumi_sonori:         0.9
+unisono:              0.9
+mutazione:            0.9
+intensità:            0.9

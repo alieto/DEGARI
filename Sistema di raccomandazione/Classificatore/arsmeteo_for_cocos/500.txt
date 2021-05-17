@@ -1,0 +1,7 @@
+esproprio_proletario: 0.9
+replica:              0.9
+idea:                 0.9
+fiat_cinquecento:     0.9
+figura:               0.9
+campiture:            0.9
+cromatismo:           0.9

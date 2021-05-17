@@ -1,0 +1,1 @@
+animazione:           0.9

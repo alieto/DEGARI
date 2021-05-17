@@ -1,0 +1,7 @@
+scala:                0.9
+chiocciola:           0.9
+metallo:              0.9
+colore:               0.9
+simmetria:            0.9
+freddo:               0.9
+algido:               0.9

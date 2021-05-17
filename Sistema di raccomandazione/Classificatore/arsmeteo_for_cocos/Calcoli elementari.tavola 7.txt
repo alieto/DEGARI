@@ -1,0 +1,5 @@
+fumetto:              0.9
+calcolo:              0.9
+equazione:            0.9
+matematica:           0.9
+amore:                0.9

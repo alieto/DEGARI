@@ -1,0 +1,4 @@
+processione:          0.9
+ostia:                0.9
+notturno:             0.9
+luna:                 0.9

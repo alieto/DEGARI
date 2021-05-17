@@ -1,0 +1,10 @@
+studio65:             0.9
+sessantotto:          0.9
+architetto:           0.9
+designers:            0.9
+anni_settanta:        0.9
+gufram:               0.9
+anomalia:             0.9
+oggetto:              0.9
+happy_betty:          0.9
+bacheca:              0.9

@@ -1,0 +1,7 @@
+velocità:             0.9
+mescolamenti:         0.9
+individualismo:       0.9
+comunicazione:        0.9
+metro:                0.9
+metropoli:            0.9
+paris:                0.9

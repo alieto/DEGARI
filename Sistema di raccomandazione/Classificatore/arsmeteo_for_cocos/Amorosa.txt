@@ -1,0 +1,3 @@
+amore:                0.9
+cuore:                0.9
+particolare:          0.9

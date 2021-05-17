@@ -1,0 +1,11 @@
+sottile:              0.9
+percezione:           0.9
+raro:                 0.9
+sogno:                0.9
+efficacia:            0.9
+linguaggio:           0.9
+vivido:               0.9
+istinto:              0.9
+altro:                0.9
+vestire:              0.9
+impossibile:          0.9

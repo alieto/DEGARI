@@ -1,0 +1,13 @@
+fantastico:           0.9
+mondo:                0.9
+interiore:            0.9
+autore:               0.9
+fantascienza:         0.9
+sceneggiatura:        0.9
+ispirare:             0.9
+alcun:                0.9
+bello:                0.9
+film:                 0.9
+futuro:               0.9
+vedere:               0.9
+vivere:               0.6

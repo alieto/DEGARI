@@ -1,0 +1,5 @@
+cellulare:            0.9
+telefonono:           0.9
+messaggio:            0.9
+comunicazione:        0.9
+coppia:               0.9

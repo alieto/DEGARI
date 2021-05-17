@@ -1,0 +1,6 @@
+avvistamento:         0.9
+invasione:            0.9
+guerra_dei_mondi:     0.9
+interferenza:         0.9
+interazione:          0.9
+ufo:                  0.9

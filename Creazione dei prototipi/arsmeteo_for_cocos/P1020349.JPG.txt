@@ -1,0 +1,4 @@
+torino:               0.9
+vicino:               0.9
+sogno:                0.9
+realtà:               0.9

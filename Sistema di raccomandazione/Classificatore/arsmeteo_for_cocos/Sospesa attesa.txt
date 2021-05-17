@@ -1,0 +1,4 @@
+cielo:                0.9
+nuvola:               0.9
+fisso:                0.9
+sospendere:           0.9

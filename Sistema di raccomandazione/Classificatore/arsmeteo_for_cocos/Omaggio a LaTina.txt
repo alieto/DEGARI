@@ -1,0 +1,2 @@
+colore:               0.9
+tina:                 0.9

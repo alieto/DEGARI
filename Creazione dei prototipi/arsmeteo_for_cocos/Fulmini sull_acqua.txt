@@ -1,0 +1,7 @@
+cerchi_concentrici:   0.9
+acqua:                0.9
+digitale:             0.9
+fulmine:              0.9
+tulipano:             0.9
+conchiglia:           0.9
+composizione:         0.9

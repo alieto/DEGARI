@@ -1,0 +1,8 @@
+vita:                 0.9
+generazione:          0.9
+fiatura:              0.9
+filo:                 0.9
+tempo:                0.9
+famiglia:             0.9
+calore:               0.9
+umanità:              0.9

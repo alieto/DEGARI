@@ -1,0 +1,5 @@
+barna:                0.9
+vetrina:              0.9
+virginiasfruttamento: 0.9
+immagine:             0.9
+vetrinebellezza:      0.9

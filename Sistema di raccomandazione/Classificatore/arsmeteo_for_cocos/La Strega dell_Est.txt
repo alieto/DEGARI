@@ -1,0 +1,5 @@
+strega:               0.9
+artiglio:             0.9
+ghigno:               0.9
+sguardo:              0.9
+inquietante:          0.9

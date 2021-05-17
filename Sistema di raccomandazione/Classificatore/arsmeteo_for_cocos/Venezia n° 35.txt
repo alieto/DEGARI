@@ -1,0 +1,3 @@
+acquarello:           0.9
+cotone:               0.9
+cm.37:                0.9

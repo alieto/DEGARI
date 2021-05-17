@@ -1,0 +1,8 @@
+collaborativo:        0.9
+interactive:          0.9
+cyberarts:            0.9
+festival:             0.9
+transcultural:        0.9
+exchange:             0.9
+mary_sherman:         0.9
+rudi_punzo:           0.9

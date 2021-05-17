@@ -1,0 +1,8 @@
+narciso:              0.9
+metafora:             0.9
+adagiare:             0.9
+riflesso:             0.9
+specchiare:           0.9
+stella_alpina:        0.9
+burattino:            0.9
+edelweiss:            0.9

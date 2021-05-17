@@ -1,0 +1,7 @@
+gatto:                0.9
+finestra:             0.9
+persiana:             0.9
+cielo:                0.9
+magritte:             0.9
+magrittiano:          0.9
+sospendere:           0.9

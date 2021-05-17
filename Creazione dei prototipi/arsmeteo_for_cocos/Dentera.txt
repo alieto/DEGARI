@@ -1,0 +1,9 @@
+gita:                 0.9
+superga:              0.9
+inverno:              0.9
+cupola:               0.9
+luce:                 0.9
+city_lights:          0.9
+ascesa:               0.9
+cielo:                0.9
+sera:                 0.9

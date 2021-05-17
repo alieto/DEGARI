@@ -1,0 +1,4 @@
+vino:                 0.9
+suono:                0.9
+musica:               0.9
+tromba:               0.9

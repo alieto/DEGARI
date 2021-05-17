@@ -1,0 +1,5 @@
+cielo:                0.9
+inquietante:          0.9
+frattali:             0.9
+discesa:              0.9
+salita:               0.9

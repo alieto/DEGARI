@@ -1,0 +1,2 @@
+sud_corea:            0.9
+strangolare:          0.9

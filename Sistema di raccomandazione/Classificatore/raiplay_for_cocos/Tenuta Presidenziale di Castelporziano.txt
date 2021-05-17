@@ -1,0 +1,15 @@
+racconto:             0.9
+tenuta:               0.9
+presidenziale:        0.9
+castelporziano:       0.9
+grande:               0.9
+varietà:              0.9
+ecosistema:           0.9
+costiero:             0.9
+tipico:               0.9
+ambiente:             0.9
+mediterraneo:         0.9
+presente:             0.9
+gioiello:             0.9
+culturale:            0.9
+italiano:             0.9

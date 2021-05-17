@@ -1,0 +1,5 @@
+notte:                0.9
+urlo:                 0.9
+suono:                0.9
+parola:               0.9
+biancoenero:          0.9

@@ -1,0 +1,4 @@
+thumper:              0.9
+tippete:              0.9
+decapitato:           0.9
+quadro:               0.9

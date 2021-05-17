@@ -1,0 +1,13 @@
+chiocciola:           0.9
+legno:                0.9
+mosaico:              0.9
+sezione_aurea:        0.9
+numero_nove:          0.9
+numero_sei:           0.9
+composizione:         0.9
+igneo:                0.9
+geometrico:           0.9
+ossile:               0.9
+nautilus:             0.9
+avvolgimento:         0.9
+spirale:              0.9

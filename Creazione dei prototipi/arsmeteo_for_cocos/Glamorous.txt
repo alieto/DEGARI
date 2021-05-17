@@ -1,0 +1,4 @@
+bionda:               0.9
+leopardo:             0.9
+fascino:              0.9
+losangeles:           0.9

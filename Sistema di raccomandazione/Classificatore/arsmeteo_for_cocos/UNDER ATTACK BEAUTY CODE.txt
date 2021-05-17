@@ -1,0 +1,11 @@
+raffaello:            0.9
+pittura:              0.9
+policromia:           0.9
+sguardo:              0.9
+sorveglianza:         0.9
+conservatore:         0.9
+strategia:            0.9
+presidente:           0.9
+ragion_di_stato:      0.9
+bellezza:             0.9
+netville:             0.9

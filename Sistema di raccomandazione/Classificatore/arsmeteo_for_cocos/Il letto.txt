@@ -1,0 +1,5 @@
+letto:                0.9
+letto_matrimoniale:   0.9
+famiglia:             0.9
+equilibrio:           0.9
+stanza_da_letto:      0.9

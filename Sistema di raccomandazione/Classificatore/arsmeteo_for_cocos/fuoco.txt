@@ -1,0 +1,6 @@
+chi_paga:             0.9
+piazza:               0.9
+festa:                0.9
+consumo:              0.9
+gas:                  0.9
+serra:                0.9

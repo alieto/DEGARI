@@ -1,0 +1,11 @@
+labbro:               0.9
+arabesco:             0.9
+rossetto:             0.9
+mano:                 0.9
+pudore:               0.9
+integralismo:         0.9
+talebani:             0.9
+contrasto:            0.9
+velo:                 0.9
+bellezza:             0.9
+netville:             0.9

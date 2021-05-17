@@ -1,0 +1,4 @@
+bianco_e_nero:        0.9
+bullone:              0.9
+macro:                0.9
+messa_a_fuoco:        0.9

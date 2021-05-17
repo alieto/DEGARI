@@ -1,0 +1,4 @@
+scanzonato:           0.9
+moda:                 0.9
+riposo:               0.9
+eleganza:             0.9

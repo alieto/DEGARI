@@ -1,0 +1,5 @@
+principe:             0.9
+solo:                 0.9
+stella:               0.9
+porta:                0.9
+stupore:              0.9

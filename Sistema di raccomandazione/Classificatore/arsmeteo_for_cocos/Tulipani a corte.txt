@@ -1,0 +1,5 @@
+donna:                0.9
+ritratto:             0.9
+tulipano:             0.9
+parure_di_tulipani:   0.9
+assorto:              0.9

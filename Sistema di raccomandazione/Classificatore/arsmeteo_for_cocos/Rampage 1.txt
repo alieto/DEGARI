@@ -1,0 +1,12 @@
+battaglia:            0.9
+guerra:               0.9
+metropoli:            0.9
+scontro:              0.9
+elefante:             0.9
+donna:                0.9
+topo:                 0.9
+divinità:             0.9
+elicottero:           0.9
+aereo:                0.9
+raggio:               0.9
+traliccio:            0.9

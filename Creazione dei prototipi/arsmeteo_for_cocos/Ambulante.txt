@@ -1,0 +1,7 @@
+colore:               0.9
+ambulante:            0.6
+ninnolo:              0.6
+bancarella:           0.6
+no_no:                0.6
+borsa:                0.6
+mercato:              0.6

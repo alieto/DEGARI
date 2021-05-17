@@ -1,0 +1,3 @@
+ghiaccio:             0.9
+fuoco:                0.9
+solidificazione:      0.9

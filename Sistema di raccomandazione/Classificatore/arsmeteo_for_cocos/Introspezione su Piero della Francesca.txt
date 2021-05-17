@@ -1,0 +1,2 @@
+introspezione:        0.9
+piero_della_francesca:0.9

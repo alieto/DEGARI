@@ -1,0 +1,7 @@
+solitudine:           0.9
+cotto:                0.9
+coppa:                0.9
+canto_laterizio:      0.9
+diocesano:            0.9
+industriale:          0.9
+silenzio:             0.9

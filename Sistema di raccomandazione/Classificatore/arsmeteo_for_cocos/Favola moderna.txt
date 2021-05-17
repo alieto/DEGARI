@@ -1,0 +1,5 @@
+biancaneve:           0.9
+stadio:               0.9
+favola:               0.9
+cina:                 0.9
+mille_nani:           0.9

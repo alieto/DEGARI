@@ -1,0 +1,5 @@
+pittura:              0.9
+tavola:               0.9
+toccare:              0.9
+estate:               0.9
+fiore:                0.9

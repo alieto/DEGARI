@@ -1,0 +1,4 @@
+distorsione:          0.9
+relatività:           0.9
+grafo_logia:          0.9
+desktop:              0.9

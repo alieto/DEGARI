@@ -1,0 +1,5 @@
+beck\:                0.9
+mercedes:             0.9
+carro_funebre:        0.9
+morte:                0.9
+fine:                 0.9

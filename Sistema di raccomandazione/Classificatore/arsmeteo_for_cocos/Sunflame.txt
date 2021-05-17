@@ -1,0 +1,6 @@
+calore:               0.9
+sviluppo:             0.9
+astratto:             0.9
+sole:                 0.9
+fiamma:               0.9
+luce:                 0.9

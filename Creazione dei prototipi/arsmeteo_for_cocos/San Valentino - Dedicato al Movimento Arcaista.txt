@@ -1,0 +1,7 @@
+vita:                 0.9
+amore:                0.9
+arte:                 0.9
+colore:               0.9
+speranza:             0.9
+arcaismo:             0.9
+tempo:                0.9

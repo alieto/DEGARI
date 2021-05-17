@@ -1,0 +1,8 @@
+tratto:               0.9
+racconto:             0.9
+breve:                0.9
+titolo:               0.9
+ferro:                0.9
+libro:                0.9
+inserire:             0.9
+fango:                0.9

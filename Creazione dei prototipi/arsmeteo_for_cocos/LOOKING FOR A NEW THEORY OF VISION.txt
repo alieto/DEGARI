@@ -1,0 +1,10 @@
+pittura:              0.9
+terzo_mondo:          0.9
+braccialetto:         0.9
+fame:                 0.9
+netville:             0.9
+sguardo:              0.9
+bocca:                0.9
+seno:                 0.9
+braccio:              0.9
+raffaello:            0.9

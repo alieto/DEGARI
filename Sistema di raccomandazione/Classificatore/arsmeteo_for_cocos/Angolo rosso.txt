@@ -1,0 +1,7 @@
+angolo:               0.9
+palazzo:              0.9
+via:                  0.9
+gente:                0.9
+rosso:                0.9
+torino:               0.9
+mattone:              0.9

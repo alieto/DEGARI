@@ -1,0 +1,3 @@
+piuma:                0.9
+vibrazione:           0.9
+blu:                  0.9

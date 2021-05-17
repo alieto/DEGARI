@@ -1,0 +1,5 @@
+saisons:              0.9
+brumeuses:            0.9
+cane:                 0.9
+sedia:                0.9
+pallina:              0.9

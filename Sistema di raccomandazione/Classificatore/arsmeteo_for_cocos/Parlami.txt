@@ -1,0 +1,4 @@
+asino:                0.9
+animale:              0.9
+comunicare:           0.9
+umano:                0.9

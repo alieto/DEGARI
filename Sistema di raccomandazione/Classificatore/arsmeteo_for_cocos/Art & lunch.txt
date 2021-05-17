@@ -1,0 +1,8 @@
+geometria:            0.9000000000000001
+la_tazza:             0.6
+forchetta:            0.6
+art_and_lunch:        0.6
+cafè:                 0.6
+disco:                0.6
+cerchio:              0.6
+linea:                0.6

@@ -1,0 +1,2 @@
+immaginazione:        0.9
+dipinto:              0.9

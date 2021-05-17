@@ -1,0 +1,4 @@
+porto:                0.9
+corniche:             0.9
+passeggiata:          0.9
+luminosità:           0.9

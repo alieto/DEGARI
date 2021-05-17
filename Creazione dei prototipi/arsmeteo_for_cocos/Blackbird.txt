@@ -1,0 +1,5 @@
+uccello:              0.9
+linea:                0.9
+presagio:             0.9
+inquietudine:         0.9
+divisione:            0.9

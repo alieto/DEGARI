@@ -1,0 +1,5 @@
+auto:                 0.9
+parcheggio:           0.9
+bici:                 0.9
+solo:                 0.9
+luce:                 0.9

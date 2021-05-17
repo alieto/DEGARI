@@ -1,0 +1,3 @@
+a_un_amico:           0.9
+verseria:             0.9
+contrappunto:         0.9

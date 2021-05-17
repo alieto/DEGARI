@@ -1,0 +1,5 @@
+scarafaggio:          0.9
+blu:                  0.9
+surfanta:             0.9
+surreale:             0.9
+il_signore_degli_scarafaggi:0.9

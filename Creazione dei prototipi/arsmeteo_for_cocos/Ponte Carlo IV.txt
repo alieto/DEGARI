@@ -1,0 +1,4 @@
+praga:                0.9
+ponte:                0.9
+evanescenza:          0.9
+oro:                  0.9

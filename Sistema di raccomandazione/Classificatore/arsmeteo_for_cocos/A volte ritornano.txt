@@ -1,0 +1,3 @@
+volta:                0.9
+brigante:             0.9
+ritornare:            0.9

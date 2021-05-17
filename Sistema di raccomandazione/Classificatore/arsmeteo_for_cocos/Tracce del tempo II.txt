@@ -1,0 +1,3 @@
+finestra_imprigionata:0.9
+edera:                0.9
+casa_abbandonata:     0.9

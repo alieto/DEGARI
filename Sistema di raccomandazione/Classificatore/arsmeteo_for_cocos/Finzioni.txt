@@ -1,0 +1,4 @@
+tavolino:             0.9
+fiori_finti:          0.9
+bar:                  0.9
+cellulare:            0.9

@@ -1,0 +1,3 @@
+ecografia:            0.9
+eco:                  0.9
+papa:                 0.9

@@ -1,0 +1,5 @@
+stella:               0.9
+scorpione:            0.9
+cielo:                0.9
+notturno:             0.9
+notte:                0.9

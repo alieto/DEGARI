@@ -1,0 +1,4 @@
+riflesso:             0.9
+grafo_logia:          0.9
+acqua_digitale:       0.9
+desktop:              0.9

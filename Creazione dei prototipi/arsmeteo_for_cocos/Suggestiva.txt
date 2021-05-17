@@ -1,0 +1,5 @@
+hamilton:             0.9
+pop:                  0.9
+newpop:               0.9
+soggetto:             0.9
+oggetto:              0.9

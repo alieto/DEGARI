@@ -1,0 +1,9 @@
+bambola:              0.9
+uncino:               0.9
+portuale:             0.9
+turpe:                0.9
+surfanta:             0.9
+surreale:             0.9
+surrealismo:          0.9
+fantasia:             0.9
+periodo_delle_bambole:0.9

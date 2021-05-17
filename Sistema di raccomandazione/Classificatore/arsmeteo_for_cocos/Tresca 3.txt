@@ -1,0 +1,4 @@
+intreccio:            0.9
+digitale:             0.9
+materico:             0.9
+foto:                 0.9

@@ -1,0 +1,3 @@
+oggetto:              0.9
+equipaggiamento:      0.9
+indicazione:          0.9

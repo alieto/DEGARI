@@ -1,0 +1,5 @@
+tavola:               0.9
+repetita_juvant:      0.9
+set_table:            0.9
+rifotografare:        0.9
+giardino:             0.9

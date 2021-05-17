@@ -1,0 +1,7 @@
+transenna:            0.9
+divieto:              0.9
+intimazione:          0.9
+divisione:            0.9
+paura:                0.9
+vicolo:               0.9
+strada:               0.9

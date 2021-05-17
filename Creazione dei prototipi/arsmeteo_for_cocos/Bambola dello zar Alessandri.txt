@@ -1,0 +1,8 @@
+bambola:              0.9
+zar:                  0.9
+alessandri:           0.9
+surfanta:             0.9
+surreale:             0.9
+colbacco:             0.9
+spada:                0.9
+medaglia:             0.9

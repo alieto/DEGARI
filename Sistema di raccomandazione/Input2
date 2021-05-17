@@ -1,0 +1,14 @@
+Titolo: example 2
+
+Head Concept Name: evil
+
+Modifier Concept Name: chair
+
+
+T(modifier),has_back,0.5
+head, -wood
+T(modifier),wood,0.5
+T(head),Demoniac,0.9
+T(head),Protagonist,0.75
+T(head),Impulsive,0.8
+T(modifier),-Impulsive,0.5

@@ -1,0 +1,8 @@
+trashart:             0.9
+scultura:             0.9
+recupero:             0.9
+riciclare:            0.9
+plastica:             0.9
+bottiglia:            0.9
+ecocompatibilità:     0.9
+oggetto:              0.9

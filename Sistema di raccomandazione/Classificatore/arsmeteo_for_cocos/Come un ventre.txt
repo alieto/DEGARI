@@ -1,0 +1,5 @@
+inizio:               0.9
+viaggio:              0.9
+valigia:              0.9
+velo:                 0.9
+valigia_vuota:        0.9

@@ -1,0 +1,4 @@
+in_croce:             0.9
+croce:                0.9
+ink:                  0.9
+baratto:              0.9

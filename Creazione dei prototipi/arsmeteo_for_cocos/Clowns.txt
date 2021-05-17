@@ -1,0 +1,11 @@
+charlie_chaplin:      0.9
+clawn:                0.9
+pagliaccio:           0.9
+comico:               0.9
+bastone:              0.9
+asse|asso:            0.9
+radice:               0.9
+ramo:                 0.9
+nube:                 0.9
+goccia:               0.9
+pioggia:              0.9

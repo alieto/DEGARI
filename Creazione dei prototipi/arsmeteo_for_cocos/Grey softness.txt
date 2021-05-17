@@ -1,0 +1,12 @@
+homage:               0.9
+to:                   0.9
+chinese:              0.9
+art:                  0.9
+of:                   0.9
+writing:              0.9
+100x100:              0.9
+cm:                   0.9
+mixed:                0.9
+media:                0.9
+on:                   0.9
+canvas:               0.9

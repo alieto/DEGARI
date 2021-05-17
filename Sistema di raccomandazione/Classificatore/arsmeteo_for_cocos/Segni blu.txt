@@ -1,0 +1,4 @@
+traccia:              0.9
+segno:                0.9
+tavolozza:            0.9
+colore_blu:           0.9

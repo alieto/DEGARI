@@ -1,0 +1,5 @@
+vetrina:              0.9
+marylin:              0.9
+sfruttamento_immagine:0.9
+lemon:                0.9
+mito:                 0.9

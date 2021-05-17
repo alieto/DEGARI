@@ -1,0 +1,8 @@
+maschera:             0.9
+lotta_libera:         0.9
+leopardo:             0.9
+forza:                0.9
+travestimento:        0.9
+coraggio:             0.9
+vento:                0.9
+azteca:               0.9

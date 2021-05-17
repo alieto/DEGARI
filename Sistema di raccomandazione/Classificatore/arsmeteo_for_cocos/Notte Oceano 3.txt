@@ -1,0 +1,2 @@
+neruda:               0.9
+artista:              0.9

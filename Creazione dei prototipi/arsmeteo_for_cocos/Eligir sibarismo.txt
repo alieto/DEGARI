@@ -1,0 +1,4 @@
+scelta:               0.9
+attenzione:           0.9
+cura:                 0.9
+eleganza:             0.9

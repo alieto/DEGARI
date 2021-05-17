@@ -1,0 +1,14 @@
+metropoli:            0.9
+gente:                0.9
+attraversamento:      0.9
+insegna:              0.9
+trasporto:            0.9
+pubblicità:           0.9
+ordine_la_dove_convienre:0.9
+hk:                   0.9
+prima_di_riunificazione:0.9
+caldo:                0.9
+umido:                0.9
+inquinamento:         0.9
+sovrappolamento:      0.9
+grattacielo:          0.9

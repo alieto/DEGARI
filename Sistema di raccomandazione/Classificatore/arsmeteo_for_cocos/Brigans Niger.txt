@@ -1,0 +1,10 @@
+brigante_nero:        0.9
+delinquente:          0.9
+agguato:              0.9
+nascondere:           0.9
+rivoluzione:          0.9
+ascolto:              0.9
+causa:                0.9
+sopruso:              0.9
+causa_giusta:         0.9
+giustizialismo:       0.9

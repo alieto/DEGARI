@@ -1,0 +1,6 @@
+texture:              0.9
+trama:                0.9
+geometrico:           0.9
+tombino:              0.9
+sotto_ai_piedi:       0.9
+colori_nascosti:      0.9

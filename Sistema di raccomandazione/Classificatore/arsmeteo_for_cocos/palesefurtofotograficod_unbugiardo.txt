@@ -1,0 +1,4 @@
+bugiardo:             0.9
+specchio:             0.9
+fotografia:           0.9
+furto:                0.9

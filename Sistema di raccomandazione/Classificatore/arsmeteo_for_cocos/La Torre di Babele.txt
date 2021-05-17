@@ -1,0 +1,10 @@
+cultura:              0.9
+torino:               0.6
+salone-libro:         0.6
+riflesso:             0.6
+editoria:             0.6
+editoria_virtuale:    0.6
+libro:                0.6
+tg:                   0.6
+lingotto:             0.6
+lingotto_fiere:       0.6

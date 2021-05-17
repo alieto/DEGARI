@@ -1,0 +1,3 @@
+attimo:               0.9
+fotogramma:           0.9
+scrittura:            0.9

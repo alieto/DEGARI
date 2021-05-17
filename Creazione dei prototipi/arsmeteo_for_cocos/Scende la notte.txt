@@ -1,0 +1,6 @@
+geometria:            0.9
+notte:                0.9
+luna:                 0.9
+geometrizzazioni:     0.9
+linea:                0.9
+luna_piena:           0.9

@@ -1,0 +1,6 @@
+castello:             0.9
+isocastello:          0.9
+simmetria:            0.9
+sole_azzurro:         0.9
+fantasia:             0.9
+progetto:             0.9

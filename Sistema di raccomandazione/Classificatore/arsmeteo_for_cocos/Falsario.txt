@@ -1,0 +1,2 @@
+soldo:                0.9
+falso:                0.9

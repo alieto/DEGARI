@@ -1,0 +1,9 @@
+speranza:             0.9
+self_portrait:        0.9
+rapata_a_zero:        0.9
+fierezza:             0.9
+identità:             0.9
+popolo:               0.9
+territorio:           0.9
+terra:                0.9
+causa:                0.9

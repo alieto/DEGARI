@@ -1,0 +1,6 @@
+bologna:              0.9
+altezza:              0.9
+torre:                0.9
+vertigine:            0.9
+vista:                0.9
+prospettiva:          0.9

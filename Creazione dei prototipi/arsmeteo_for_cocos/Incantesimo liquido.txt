@@ -1,0 +1,5 @@
+incantesimo:          0.9
+acqua:                0.9
+incantatore:          0.9
+tappeto_volante:      0.9
+serpente_liquido:     0.9

@@ -1,0 +1,1 @@
+caposquadra:          0.9

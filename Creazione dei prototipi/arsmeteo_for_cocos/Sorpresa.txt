@@ -1,0 +1,8 @@
+matita:               0.9
+chiocciola:           0.9
+sorpresa:             0.6
+lumachina:            0.6
+compenetrazione:      0.6
+combinazione:         0.6
+matitona:             0.6
+fuoriuscita:          0.6

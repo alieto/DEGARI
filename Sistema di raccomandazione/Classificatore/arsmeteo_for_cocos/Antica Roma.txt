@@ -1,0 +1,6 @@
+antico:               0.9
+roma:                 0.9
+aggregazione:         0.9
+vestigia:             0.9
+arco:                 0.9
+costruzione:          0.9

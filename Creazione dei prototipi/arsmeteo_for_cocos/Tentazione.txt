@@ -1,0 +1,10 @@
+tentazione:           0.9
+donna:                0.6
+metafora:             0.6
+peccato_originale:    0.6
+diavolo_tentatore:    0.6
+capello:              0.6
+serpente:             0.6
+caffè:                0.6
+ovale:                0.6
+mano:                 0.6

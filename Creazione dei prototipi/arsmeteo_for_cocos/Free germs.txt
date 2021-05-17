@@ -1,0 +1,4 @@
+germs:                0.9
+germe:                0.9
+libero:               0.9
+metafora:             0.9

@@ -1,0 +1,10 @@
+spalla:               0.9
+menzogna:             0.9
+lasciare:             0.9
+tradimento:           0.9
+ineluttabile:         0.9
+ritorno:              0.9
+amore:                0.9
+vestire:              0.9
+impeccabile:          0.9
+cuore:                0.9

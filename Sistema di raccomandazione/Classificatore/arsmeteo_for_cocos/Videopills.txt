@@ -1,0 +1,10 @@
+grottesco:            0.9
+personaggio:          0.9
+surreale:             0.9
+bambino:              0.9
+babbao_natale:        0.9
+clown:                0.9
+hamburger:            0.9
+candelina:            0.9
+video_morte:          0.9
+irretire:             0.9

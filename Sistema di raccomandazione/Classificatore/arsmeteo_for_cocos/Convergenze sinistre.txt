@@ -1,0 +1,7 @@
+acqua:                0.9
+canottaggio:          0.9
+simmetria:            0.9
+presenza:             0.9
+figura:               0.9
+inquietante:          0.9
+sinistro:             0.9

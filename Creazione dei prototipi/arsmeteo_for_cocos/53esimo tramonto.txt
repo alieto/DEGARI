@@ -1,0 +1,7 @@
+montagna:             0.9
+tibet:                0.9
+cammino:              0.9
+processione:          0.9
+vecchio:              0.9
+carrozzina:           0.9
+destino:              0.9

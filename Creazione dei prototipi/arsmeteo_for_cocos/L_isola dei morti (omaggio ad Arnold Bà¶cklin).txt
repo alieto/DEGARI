@@ -1,0 +1,7 @@
+silenzio:             0.9
+isola:                0.9
+barca:                0.9
+traghettatore:        0.9
+spirito:              0.9
+fine:                 0.9
+isola_sei_morti:      0.9

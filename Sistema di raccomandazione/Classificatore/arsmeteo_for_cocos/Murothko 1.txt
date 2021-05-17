@@ -1,0 +1,6 @@
+muro:                 0.9
+rothko:               0.9
+stratigrafia:         0.9
+striscia:             0.9
+bandiera:             0.9
+bianco_nero_giallo:   0.9

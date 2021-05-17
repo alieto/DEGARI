@@ -1,0 +1,3 @@
+ruota:                0.9
+meccanismo:           0.9
+ingranaggio:          0.9

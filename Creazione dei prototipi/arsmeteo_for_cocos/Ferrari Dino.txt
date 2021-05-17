@@ -1,0 +1,11 @@
+ferrari:              0.9
+dino:                 0.9
+automobile:           0.9
+design:               0.9
+mito:                 0.9
+amato_figlio:         0.9
+storico:              0.9
+in_memoria:           0.9
+stile:                0.9
+dedicare:             0.9
+lusso:                0.9

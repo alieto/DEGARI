@@ -1,0 +1,3 @@
+lettera:              0.9
+città:                0.9
+invisibile:           0.9

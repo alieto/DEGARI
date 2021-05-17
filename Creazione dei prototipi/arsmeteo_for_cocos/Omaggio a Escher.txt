@@ -1,0 +1,3 @@
+escher:               0.9
+puntilismo:           0.9
+frazionario:          0.9

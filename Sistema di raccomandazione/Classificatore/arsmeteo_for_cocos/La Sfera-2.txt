@@ -1,0 +1,9 @@
+pianoforte:           0.9
+progetto:             0.9
+esposizione:          0.9
+musica:               0.9
+architettura:         0.9
+scenografia:          0.9
+3d:                   0.9
+spazio:               0.9
+open_space:           0.9

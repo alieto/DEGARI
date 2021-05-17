@@ -1,0 +1,2 @@
+gatto:                0.9
+lisca:                0.9

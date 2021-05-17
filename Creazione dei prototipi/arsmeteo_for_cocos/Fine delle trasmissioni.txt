@@ -1,0 +1,4 @@
+televisione:          0.9
+politica:             0.9
+berlusconi:           0.9
+potere:               0.9

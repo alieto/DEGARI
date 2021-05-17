@@ -1,0 +1,3 @@
+mare:                 0.9
+riva:                 0.9
+sabbia:               0.9

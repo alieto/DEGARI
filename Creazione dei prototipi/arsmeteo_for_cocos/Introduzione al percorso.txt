@@ -1,0 +1,10 @@
+hamilton:             0.9
+pop:                  0.9
+transitorio:          0.9
+massificare:          0.9
+facile:               0.9
+seriale:              0.9
+ingegnoso:            0.9
+sexy:                 0.9
+suggestivo:           0.9
+commerciale:          0.9

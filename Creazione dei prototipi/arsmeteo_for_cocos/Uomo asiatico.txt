@@ -1,0 +1,6 @@
+uomo:                 0.9
+asiatico:             0.9
+concentrazione:       0.9
+pensiero:             0.9
+occhi_chiusi:         0.9
+dolore:               0.9

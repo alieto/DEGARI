@@ -1,0 +1,6 @@
+materia:              0.9
+forma:                0.9
+incombente:           0.9
+sangue:               0.9
+luce:                 0.9
+solitudine:           0.9

@@ -1,0 +1,3 @@
+quaderno:             0.9
+bianco:               0.9
+non_parole:           0.9

@@ -1,0 +1,5 @@
+donna:                0.9
+solo:                 0.9
+notte:                0.9
+linea:                0.9
+sincronicità:         0.9

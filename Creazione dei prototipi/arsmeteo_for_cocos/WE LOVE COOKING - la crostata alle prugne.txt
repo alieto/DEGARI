@@ -1,0 +1,4 @@
+dolce:                0.9
+crostata:             0.9
+illustrazione:        0.9
+occhietto:            0.9

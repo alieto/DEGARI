@@ -1,0 +1,6 @@
+libellula:            0.9
+energia:              0.9
+forza:                0.9
+spirito:              0.9
+campo_di_forze:       0.9
+volare:               0.9

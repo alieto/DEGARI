@@ -1,0 +1,5 @@
+donna:                0.9
+uomo:                 0.9
+sfruttamento:         0.9
+miseria:              0.9
+fame:                 0.9

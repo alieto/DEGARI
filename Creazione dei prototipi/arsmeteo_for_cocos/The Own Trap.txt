@@ -1,0 +1,2 @@
+punto:                0.9
+linea:                0.9

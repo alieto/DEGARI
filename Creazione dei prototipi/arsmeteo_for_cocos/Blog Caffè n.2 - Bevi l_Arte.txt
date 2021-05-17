@@ -1,0 +1,9 @@
+arte:                 0.9
+broth:                0.9
+brodo:                0.9
+molto:                0.9
+bere:                 0.9
+blog_caffè:           0.9
+arsmeteo:             0.9
+arscrivere:           0.9
+piero-cauduro:        0.9

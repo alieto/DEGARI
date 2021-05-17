@@ -1,0 +1,5 @@
+scoiattolo:           0.9
+mamma:                0.9
+londinese:            0.9
+comunicazione:        0.9
+animale:              0.9

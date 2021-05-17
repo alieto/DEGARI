@@ -1,0 +1,4 @@
+uomo:                 0.9
+immaturità:           0.9
+perfezione:           0.9
+illusione:            0.9

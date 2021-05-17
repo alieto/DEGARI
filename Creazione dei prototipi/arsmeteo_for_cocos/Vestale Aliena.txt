@@ -1,0 +1,5 @@
+siderale:             0.9
+bilancia:             0.9
+enigma:               0.9
+amabile:              0.9
+volto:                0.9

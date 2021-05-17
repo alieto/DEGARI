@@ -1,0 +1,4 @@
+binario:              0.9
+stazione:             0.9
+fine_corsa:           0.9
+guru:                 0.9

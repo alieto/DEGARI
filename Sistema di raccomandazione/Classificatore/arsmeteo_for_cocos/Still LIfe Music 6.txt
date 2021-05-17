@@ -1,0 +1,6 @@
+music:                0.9
+news:                 0.9
+timeless:             0.9
+emotions:             0.9
+short:                0.9
+time:                 0.9

@@ -1,0 +1,6 @@
+stanley_kubrik:       0.9
+film:                 0.9
+vietnam:              0.9
+soldato:              0.9
+fotografo:            0.9
+guerra:               0.9

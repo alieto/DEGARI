@@ -1,0 +1,11 @@
+espansione:           0.9
+floreale:             0.9
+petalo:               0.9
+origine:              0.9
+fulcro:               0.9
+allargamento:         0.9
+generare:             0.9
+fiore:                0.9
+espansività:          0.9
+perfezione:           0.9
+bulbo:                0.9

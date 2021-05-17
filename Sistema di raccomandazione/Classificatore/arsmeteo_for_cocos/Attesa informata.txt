@@ -1,0 +1,7 @@
+sicilia:              0.9
+selinunte:            0.9
+anni_sessanta:        0.9
+binario:              0.9
+solitario:            0.9
+assolato:             0.9
+maggio:               0.9

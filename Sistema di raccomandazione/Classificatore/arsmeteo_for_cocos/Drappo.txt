@@ -1,0 +1,6 @@
+piega:                0.9
+svolazzare:           0.9
+resina:               0.9
+ingiallire:           0.9
+avorio:               0.9
+casuale:              0.9

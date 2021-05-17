@@ -1,0 +1,4 @@
+fortuna:              0.9
+stadio:               0.9
+cina:                 0.9
+olimpiadi_2008:       0.9

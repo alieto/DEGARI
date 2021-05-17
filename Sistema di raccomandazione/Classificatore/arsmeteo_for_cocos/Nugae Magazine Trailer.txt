@@ -1,0 +1,8 @@
+spot:                 0.9
+book_trailer:         0.9
+magazine:             0.9
+rivista:              0.9
+periodico:            0.9
+pubblicità:           0.9
+lettore:              0.9
+videoclip:            0.9

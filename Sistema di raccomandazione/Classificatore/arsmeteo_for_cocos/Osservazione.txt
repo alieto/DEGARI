@@ -1,0 +1,5 @@
+magma:                0.9
+plastica:             0.9
+contenitore:          0.9
+polimero:             0.9
+invasione:            0.9

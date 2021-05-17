@@ -1,0 +1,12 @@
+warning:              0.9
+no_problem:           0.9
+sant_agnese:          0.9
+borromini:            0.9
+bernini:              0.9
+leggenda:             0.9
+inimicizia:           0.9
+social_tagging:       0.9
+pericolo:             0.9
+modello_arsmeteo:     0.9
+indelebile:           0.9
+liber_tag:            0.9

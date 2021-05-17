@@ -1,0 +1,4 @@
+passione:             0.9
+soldato:              0.9
+calvario:             0.9
+cane:                 0.9

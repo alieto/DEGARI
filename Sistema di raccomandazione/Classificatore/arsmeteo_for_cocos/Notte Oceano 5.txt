@@ -1,0 +1,2 @@
+neruda:               0.9
+libro_d_artista:      0.9

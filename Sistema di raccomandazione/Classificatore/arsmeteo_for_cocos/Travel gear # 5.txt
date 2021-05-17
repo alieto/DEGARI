@@ -1,0 +1,7 @@
+vino:                 0.9
+tradizione:           0.9
+aquilone:             0.9
+hotel:                0.9
+dixième:              0.9
+calzascarpe:          0.9
+saxone:               0.9

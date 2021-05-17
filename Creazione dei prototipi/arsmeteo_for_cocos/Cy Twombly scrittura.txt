@@ -1,0 +1,5 @@
+dettaglio:            0.9
+menil_collection:     0.9
+foto_rubata:          0.9
+protoscrittura:       0.9
+segno:                0.9

@@ -1,0 +1,2 @@
+cielo:                0.9
+nuvoloso:             0.9

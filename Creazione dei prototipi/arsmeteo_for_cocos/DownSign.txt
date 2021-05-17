@@ -1,0 +1,5 @@
+segno:                0.9
+ricorsione:           0.9
+pozzo:                0.9
+discesa:              0.9
+craft:                0.9

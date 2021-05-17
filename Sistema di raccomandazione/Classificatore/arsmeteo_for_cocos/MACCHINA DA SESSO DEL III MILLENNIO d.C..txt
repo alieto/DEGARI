@@ -1,0 +1,4 @@
+macchina_da_sesso:    0.9
+iii_millennio_d_c_:   0.9
+sesso:                0.9
+ardmeteo:             0.9

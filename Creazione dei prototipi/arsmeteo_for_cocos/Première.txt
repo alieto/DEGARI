@@ -1,0 +1,4 @@
+première:             0.9
+primo:                0.9
+incontro:             0.9
+evento:               0.9

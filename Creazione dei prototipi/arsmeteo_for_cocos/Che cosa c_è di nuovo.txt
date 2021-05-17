@@ -1,0 +1,5 @@
+disegno:              0.9
+pennarello:           0.9
+carta:                0.9
+bloc_notes:           0.9
+appunto:              0.9

@@ -1,0 +1,4 @@
+fresh_art:            0.9
+sandro_marasco:       0.9
+copertina:            0.9
+paesaggio:            0.9

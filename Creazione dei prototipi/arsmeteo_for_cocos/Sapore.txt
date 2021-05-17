@@ -1,0 +1,4 @@
+passione:             0.9
+sesso:                0.9
+piccante:             0.9
+rosso:                0.9

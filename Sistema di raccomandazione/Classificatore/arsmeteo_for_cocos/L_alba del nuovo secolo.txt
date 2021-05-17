@@ -1,0 +1,5 @@
+olio:                 0.9
+tela:                 0.9
+cm:                   0.9
+ottobre:              0.9
+eseguire:             0.9

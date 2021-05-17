@@ -1,0 +1,7 @@
+cammino:              0.9
+invenzione:           0.9
+camminare_è_scrivere: 0.9
+segno:                0.9
+passo:                0.9
+sax:                  0.9
+boetti:               0.9

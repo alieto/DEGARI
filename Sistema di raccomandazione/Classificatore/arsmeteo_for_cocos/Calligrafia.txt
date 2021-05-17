@@ -1,0 +1,8 @@
+attenzione:           0.9
+concentrazione:       0.9
+codice:               0.9
+decontestualizzazione:0.9
+segno:                0.9
+momentum:             0.9
+cosmogonia:           0.9
+seoul:                0.9

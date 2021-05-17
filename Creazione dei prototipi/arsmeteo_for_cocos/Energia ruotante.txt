@@ -1,0 +1,4 @@
+energia:              0.9
+uomini_blu:           0.9
+ruotare:              0.9
+acrobazia:            0.9

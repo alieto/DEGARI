@@ -1,0 +1,5 @@
+mare:                 0.9
+acqua:                0.9
+sciabordio:           0.9
+fatica:               0.9
+usura:                0.9

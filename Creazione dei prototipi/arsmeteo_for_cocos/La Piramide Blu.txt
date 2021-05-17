@@ -1,0 +1,5 @@
+solitudine:           0.9
+evanescenza:          0.9
+nebbia:               0.9
+freddo:               0.9
+luce:                 0.9

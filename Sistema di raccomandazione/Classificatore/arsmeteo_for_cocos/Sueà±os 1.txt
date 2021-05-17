@@ -1,0 +1,6 @@
+sogno:                0.9
+cuscino:              0.9
+sveglia:              0.9
+onirico:              0.9
+parola:               0.9
+300_sogni:            0.9

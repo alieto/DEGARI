@@ -1,0 +1,6 @@
+tempo:                0.9
+passato:              0.9
+mare:                 0.9
+brezza:               0.9
+viaggio:              0.9
+ignoto:               0.9

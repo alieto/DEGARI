@@ -1,0 +1,5 @@
+palenque:             0.9
+cosmo:                0.9
+fatto:                0.9
+natural:              0.9
+high:                 0.9

@@ -1,0 +1,10 @@
+avventore:            0.9
+spettatore:           0.9
+-tavola_spettacolo+:  0.9
+-doppia_personalità:  0.9
+-convivio+:           0.9
+-arte_collettiva+:    0.9
+-ripresa_digitale+:   0.9
+osservatore:          0.9
+-contaminazione+:     0.9
+-tavola+:             0.9

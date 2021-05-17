@@ -1,0 +1,3 @@
+acrilico:             0.9
+oro:                  0.9
+compensato:           0.9

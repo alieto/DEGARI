@@ -1,0 +1,5 @@
+psichedelia:          0.9
+viaggio:              0.9
+trip:                 0.9
+lisergico:            0.9
+lsd:                  0.9

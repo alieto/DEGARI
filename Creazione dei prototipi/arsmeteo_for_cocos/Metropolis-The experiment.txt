@@ -1,0 +1,12 @@
+amore:                0.9
+bacio:                0.9
+incontro:             0.9
+sovraccarico:         0.9
+eccesso:              0.9
+pathos:               0.9
+sonora:               0.9
+colonna:              0.9
+applicato:            0.9
+musica:               0.9
+nero:                 0.9
+bianco:               0.9

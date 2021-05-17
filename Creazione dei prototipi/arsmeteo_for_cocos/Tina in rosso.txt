@@ -1,0 +1,4 @@
+figura:               0.9
+attesa:               0.9
+colore:               0.9
+gestualità:           0.9

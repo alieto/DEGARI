@@ -1,0 +1,8 @@
+ricerca:              0.9
+questione_irrisolta:  0.9
+godgle:               0.9
+ricerca_spirituale:   0.9
+searchin_for:         0.9
+muro:                 0.9
+alfa_omega:           0.9
+finestra:             0.9

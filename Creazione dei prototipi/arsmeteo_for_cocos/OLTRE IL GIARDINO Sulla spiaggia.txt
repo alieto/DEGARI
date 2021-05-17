@@ -1,0 +1,7 @@
+spiaggia:             0.9
+mare:                 0.9
+cero:                 0.9
+cerchio:              0.9
+silenzio:             0.9
+al_tramonto:          0.9
+crepuscolo:           0.9

@@ -1,0 +1,4 @@
+linea:                0.9
+segno_zodiacale:      0.9
+giallo:               0.9
+aria:                 0.9

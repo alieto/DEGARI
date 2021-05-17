@@ -1,0 +1,4 @@
+colore:               0.9
+grazia:               0.9
+eleganza:             0.9
+lavoro:               0.9

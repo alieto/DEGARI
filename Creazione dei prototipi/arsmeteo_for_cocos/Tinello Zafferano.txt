@@ -1,0 +1,7 @@
+zafferano:            0.9
+alieno:               0.9
+tinello:              0.9
+ultracorpi:           0.9
+felino:               0.9
+accoppiamento:        0.9
+correlazione:         0.9

@@ -1,0 +1,7 @@
+arsmeteo:             0.9
+please:               0.9
+question_time:        0.9
+artwork:              0.9
+this:                 0.9
+tag:                  0.9
+serendipity:          0.9

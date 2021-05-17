@@ -1,0 +1,6 @@
+principesco:          0.9
+scarpa:               0.9
+netville:             0.9
+principe:             0.9
+sovrano:              0.9
+torino:               0.9

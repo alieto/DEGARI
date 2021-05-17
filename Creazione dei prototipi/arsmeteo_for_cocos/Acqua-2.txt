@@ -1,0 +1,9 @@
+acqua:                0.9
+riflesso:             0.9
+ondeggiamento:        0.9
+mare:                 0.9
+liquido:              0.9
+fluidità:             0.9
+movimento:            0.9
+materico:             0.9
+agitare:              0.9

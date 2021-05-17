@@ -1,0 +1,6 @@
+tetris:               0.9
+totale:               0.9
+diabolok:             0.9
+fujiko:               0.9
+goldrake:             0.9
+pink_floyd:           0.9

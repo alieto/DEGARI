@@ -1,0 +1,4 @@
+volta:                0.9
+cassettone:           0.9
+vuoto:                0.9
+assenza:              0.9

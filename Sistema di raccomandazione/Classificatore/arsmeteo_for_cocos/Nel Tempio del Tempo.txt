@@ -1,0 +1,12 @@
+autoritratto:         0.9
+multiplo:             0.9
+myself:               0.9
+me_stesso:            0.9
+spazio:               0.9
+tempo:                0.9
+tempio:               0.9
+continuità:           0.9
+progressione:         0.9
+sinuosità:            0.9
+sinusoide:            0.9
+suono:                0.9

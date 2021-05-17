@@ -1,0 +1,8 @@
+decapottabile:        0.9
+cappotto:             0.9
+fratello:             0.9
+mamma:                0.9
+cascina_san_giorgio:  0.9
+principe:             0.9
+anni_cinquanta:       0.9
+settimo_torinese:     0.9

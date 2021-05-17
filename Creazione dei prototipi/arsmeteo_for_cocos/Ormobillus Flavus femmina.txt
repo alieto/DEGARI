@@ -1,0 +1,10 @@
+sauri|sauro:          0.9
+bestiario:            0.9
+fantastico:           0.9
+radice:               0.9
+terra:                0.9
+sogno:                0.9
+elemento:             0.9
+magia:                0.9
+memoria:              0.9
+storia:               0.9

@@ -1,0 +1,7 @@
+scultura:             0.9
+polvere:              0.9
+abbandono:            0.9
+fede:                 0.9
+lacunoso:             0.9
+gesto:                0.9
+segno:                0.9

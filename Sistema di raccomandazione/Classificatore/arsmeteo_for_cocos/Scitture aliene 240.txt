@@ -1,0 +1,2 @@
+grafia:               0.9
+scritture_aliene:     0.9

@@ -1,0 +1,8 @@
+acqua:                0.9
+mare:                 0.9
+ondata:               0.9
+matericità:           0.9
+coeposità:            0.9
+liquido:              0.9
+fluido:               0.9
+ondeggiante:          0.9

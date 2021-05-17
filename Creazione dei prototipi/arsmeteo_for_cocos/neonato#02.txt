@@ -1,0 +1,5 @@
+poesia_meccanica:     0.9
+zampette:             0.9
+bip_bip:              0.9
+repetita_etc:         0.9
+toybot:               0.9

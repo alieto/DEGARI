@@ -1,0 +1,3 @@
+anticipation:         0.9
+humility:             0.9
+trust:                0.9

@@ -1,0 +1,5 @@
+salamandra:           0.9
+eye:                  0.9
+black:                0.9
+netville:             0.9
+reload:               0.9

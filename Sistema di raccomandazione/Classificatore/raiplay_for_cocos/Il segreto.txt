@@ -1,0 +1,17 @@
+quartiere:            0.9
+napoli:               0.9
+raccolta:             0.9
+albero:               0.9
+falò:                 0.9
+giorno:               0.9
+antonio:              0.9
+tradizione:           0.9
+strada:               0.9
+accadere:             0.9
+città:                0.9
+punto:                0.9
+vista:                0.9
+possibile:            0.9
+prossimo:             0.9
+banda:                0.9
+ragazzo:              0.9

@@ -1,0 +1,12 @@
+occhiale:             0.9
+frangisole:           0.9
+tempo:                0.9
+orizzonte:            0.9
+cubare:               0.9
+netville:             0.9
+filo:                 0.9
+pinza:                0.9
+biancheria:           0.9
+sorriso:              0.9
+montecristi:          0.9
+solo:                 0.9

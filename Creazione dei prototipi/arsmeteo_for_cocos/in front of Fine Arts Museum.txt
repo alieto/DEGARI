@@ -1,0 +1,5 @@
+bronzo:               0.9
+cielo:                0.9
+albero:               0.9
+forza:                0.9
+houston:              0.9

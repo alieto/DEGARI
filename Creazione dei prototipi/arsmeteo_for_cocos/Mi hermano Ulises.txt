@@ -1,0 +1,6 @@
+fratello:             0.9
+montagna:             0.9
+pensatore:            0.9
+natura:               0.9
+uomo:                 0.9
+ochi:                 0.9

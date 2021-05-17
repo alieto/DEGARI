@@ -1,0 +1,6 @@
+cioccolato:           0.9
+attrezzo:             0.9
+dolce:                0.9
+pasticceria:          0.9
+casale:               0.9
+monferrato:           0.9

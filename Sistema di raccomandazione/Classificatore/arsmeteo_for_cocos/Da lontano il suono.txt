@@ -1,0 +1,6 @@
+phoné:                0.9
+tela|tele:            0.9
+cellulare:            0.9
+canone:               0.9
+fuga:                 0.9
+dialogo:              0.9

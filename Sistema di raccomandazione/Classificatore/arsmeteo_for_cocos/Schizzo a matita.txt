@@ -1,0 +1,9 @@
+profilo:              0.9
+mefistofelico:        0.9
+sarcastico:           0.9
+fiore:                0.9
+capello:              0.9
+avvitamento:          0.9
+volto:                0.9
+viso:                 0.9
+sfera:                0.9

@@ -1,0 +1,8 @@
+tecnica:              0.9
+mista:                0.9
+olio:                 0.9
+sabbia:               0.9
+acrilico:             0.9
+tela:                 0.9
+juta:                 0.9
+cm:                   0.9

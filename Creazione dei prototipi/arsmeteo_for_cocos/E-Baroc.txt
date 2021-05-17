@@ -1,0 +1,11 @@
+voluta:               0.9
+ghirigoro:            0.9
+foglia:               0.9
+spirale:              0.9
+barocco:              0.9
+neon:                 0.9
+fluorescenza:         0.9
+colorato:             0.9
+policromatico:        0.9
+decorativo:           0.9
+nel_buio:             0.9

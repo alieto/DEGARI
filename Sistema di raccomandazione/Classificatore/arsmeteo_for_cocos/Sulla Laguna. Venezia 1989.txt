@@ -1,0 +1,3 @@
+acquerello:           0.9
+cotone:               0.9
+cm.75x57:             0.9

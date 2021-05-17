@@ -1,0 +1,6 @@
+energia:              0.9
+portamento:           0.9
+insouciance:          0.9
+autostima:            0.9
+eleganza:             0.9
+consapevolezza:       0.9

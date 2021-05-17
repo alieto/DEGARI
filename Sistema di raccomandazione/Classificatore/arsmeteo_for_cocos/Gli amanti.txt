@@ -1,0 +1,3 @@
+amante:               0.9
+gioiello:             0.9
+artista:              0.9

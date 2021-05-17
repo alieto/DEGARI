@@ -1,0 +1,8 @@
+giallo:               0.9
+plesso_solare:        0.9
+volo:                 0.9
+ala:                  0.9
+girasole:             0.9
+fiore_girevole:       0.9
+calabrone:            0.9
+sole_vegetale:        0.9

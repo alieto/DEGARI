@@ -1,0 +1,4 @@
+torre:                0.9
+albero:               0.9
+pittorico:            0.9
+colore:               0.9

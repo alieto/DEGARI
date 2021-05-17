@@ -1,0 +1,9 @@
+ala:                  0.9
+farfalla:             0.9
+atlantide:            0.9
+sorvolare:            0.9
+blu:                  0.9
+linea:                0.9
+partitura:            0.9
+spartito:             0.9
+sezione:              0.9

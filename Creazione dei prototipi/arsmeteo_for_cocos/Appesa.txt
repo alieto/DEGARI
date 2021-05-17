@@ -1,0 +1,10 @@
+equilibrio:           0.9
+matita:               0.9
+chiocciola:           0.9
+composizione:         0.9
+matitona:             0.9
+barchetta_di_carta:   0.9
+fune:                 0.9
+onde_angolari:        0.9
+appendere:            0.9
+zig_zag:              0.9

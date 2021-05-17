@@ -1,0 +1,12 @@
+surprise: 0.930
+flabbergast: 0.906
+explode: 0.906
+ambush: 0.883
+eruption: 0.883
+frighten: 0.875
+startle: 0.875
+shockingly: 0.875
+thrilling: 0.859
+miracle: 0.859
+outburst: 0.859
+alarm: 0.852

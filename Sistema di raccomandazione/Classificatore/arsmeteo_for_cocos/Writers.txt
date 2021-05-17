@@ -1,0 +1,4 @@
+treno:                0.9
+codice:               0.9
+sfrecciare:           0.9
+vandalismo:           0.9

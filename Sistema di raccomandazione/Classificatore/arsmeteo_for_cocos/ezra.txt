@@ -1,0 +1,4 @@
+braccio:              0.9
+rifotografare:        0.9
+centro_cultural_borges:0.9
+foto_rubata:          0.9

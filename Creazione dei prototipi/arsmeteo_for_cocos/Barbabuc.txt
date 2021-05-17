@@ -1,0 +1,5 @@
+erba:                 0.9
+cibo:                 0.9
+affresco:             0.9
+malta:                0.9
+intonaco:             0.9

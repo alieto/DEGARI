@@ -1,0 +1,11 @@
+netville:             0.9
+liberazione:          0.9
+complotto:            0.9
+rivoluzionario:       0.9
+governo:              0.9
+tornado:              0.9
+embargo:              0.9
+nazionale:            0.9
+presidente:           0.9
+discorso:             0.9
+calma:                0.9

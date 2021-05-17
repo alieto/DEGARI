@@ -1,0 +1,6 @@
+attitudine:           0.9
+infinito:             0.9
+mare:                 0.9
+infinitudine:         0.9
+cielo:                0.9
+orizzonte:            0.9

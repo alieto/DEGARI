@@ -1,0 +1,8 @@
+guerra:               0.9
+time:                 0.9
+intenzione:           0.9
+minaccia:             0.9
+fallimento:           0.9
+strategia:            0.9
+politica:             0.9
+petrolio:             0.9

@@ -1,0 +1,6 @@
+beat_generation:      0.9
+ventinove_settembre:  0.9
+nostalgia:            0.9
+sogno:                0.9
+stupore:              0.9
+controcultura:        0.9

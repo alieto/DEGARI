@@ -1,0 +1,15 @@
+mattonella:           0.9
+taggature:            0.9
+costruzione:          0.9
+sfumatura:            0.9
+gradazione:           0.9
+scala:                0.9
+corpo:                0.9
+scrittura:            0.9
+netville:             0.9
+prospettiva:          0.9
+elemento:             0.9
+muro:                 0.9
+embricatura:          0.9
+cattura_di_tag:       0.9
+tagbuster:            0.9

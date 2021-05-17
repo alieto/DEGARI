@@ -1,0 +1,11 @@
+rifugio:              0.9
+poeta:                0.9
+assenza:              0.9
+scrittoio:            0.9
+sedia:                0.9
+violino:              0.9
+fiume:                0.9
+acque_calme:          0.9
+barchette_di_carta:   0.9
+galleggiamento:       0.9
+tempo_fermo:          0.9

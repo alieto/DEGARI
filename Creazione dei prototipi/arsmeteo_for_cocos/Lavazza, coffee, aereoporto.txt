@@ -1,0 +1,6 @@
+pubblicità:           0.9
+spazio:               0.9
+rifotografare:        0.9
+pubblico:             0.9
+passaggio:            0.9
+malpensa:             0.9

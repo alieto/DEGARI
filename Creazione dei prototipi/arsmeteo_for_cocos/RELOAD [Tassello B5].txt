@@ -1,0 +1,8 @@
+fuoco:                0.9
+lingua:               0.9
+farfalla:             0.9
+reload:               0.9
+sogno:                0.9
+faunesco:             0.9
+arsmeteo:             0.9
+netville:             0.9

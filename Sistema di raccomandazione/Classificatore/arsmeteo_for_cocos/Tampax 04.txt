@@ -1,0 +1,3 @@
+tampax:               0.9
+l_infraordinario:     0.9
+provocazione:         0.9

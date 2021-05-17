@@ -1,0 +1,29 @@
+#Title composizione
+Title : disgust-anticipation
+
+#Concetto Principale
+Head Concept Name : disgust
+
+#Concetto Modificatore
+Modifier Concept Name : anticipation
+
+head, -honor
+
+modifier, -surprise
+
+T(modifier), anticipation, 0.86
+T(modifier), excited, 0.86
+T(modifier), eagerness, 0.81
+T(modifier), expectant, 0.79
+T(modifier), thrilling, 0.78
+T(modifier), hope, 0.77
+
+T(head), cannibalism, 0.95
+T(head), mutilation, 0.93
+T(head), molestation, 0.91
+T(head), incest, 0.91
+T(head), gonorrhea, 0.91
+T(head), rape, 0.91
+
+
+Result : '0', '1', '0', '0', '0', '0', '1', '1', '0', '1', '1', '1', 0.001456542427563466

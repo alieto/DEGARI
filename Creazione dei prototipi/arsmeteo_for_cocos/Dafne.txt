@@ -1,0 +1,7 @@
+donna_alata:          0.9
+dafne:                0.6
+linea:                0.6
+filo:                 0.6
+volo:                 0.6
+ali_di_insetto:       0.6
+volare:               0.6

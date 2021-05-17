@@ -1,0 +1,9 @@
+spirazioni:           0.9
+tempo_che_passa:      0.9
+risaia:               0.9
+ciliegio:             0.9
+vita:                 0.9
+speranza:             0.9
+lavoro:               0.9
+tempo:                0.9
+casa:                 0.9

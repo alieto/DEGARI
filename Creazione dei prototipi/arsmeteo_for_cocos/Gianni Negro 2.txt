@@ -1,0 +1,7 @@
+jazz:                 0.9
+jam_session:          0.9
+piano:                0.9
+swing:                0.9
+precisione:           0.9
+ritmo:                0.9
+gianni_negro:         0.9

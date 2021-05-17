@@ -1,0 +1,6 @@
+entropia:             0.9
+il_tutto:             0.9
+sfera:                0.9
+cerchio:              0.9
+energia:              0.9
+l_uno:                0.9

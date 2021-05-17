@@ -1,0 +1,6 @@
+danza:                0.9
+energia:              0.9
+coppia:               0.9
+figura:               0.9
+plasticità:           0.9
+danzatore:            0.9

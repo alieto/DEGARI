@@ -1,0 +1,4 @@
+giardino:             0.9
+essauira:             0.9
+lettura:              0.9
+evanescenza:          0.9

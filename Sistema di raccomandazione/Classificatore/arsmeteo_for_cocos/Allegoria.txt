@@ -1,0 +1,3 @@
+rilievo:              0.9
+antichità:            0.9
+allegoria:            0.9

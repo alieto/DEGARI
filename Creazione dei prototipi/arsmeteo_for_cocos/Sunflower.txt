@@ -1,0 +1,5 @@
+fiore:                0.9
+frattali:             0.9
+solo:                 0.9
+ripetizione:          0.9
+intreccio:            0.9

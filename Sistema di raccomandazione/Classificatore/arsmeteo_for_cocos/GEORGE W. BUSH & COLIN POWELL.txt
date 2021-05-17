@@ -1,0 +1,14 @@
+netville:             0.9
+clan:                 0.9
+cristoforo:           0.9
+colombo:              0.9
+colomba:              0.9
+lapsus:               0.9
+fallimento:           0.9
+vergogna:             0.9
+embargo:              0.9
+gas:                  0.9
+oliva:                0.9
+oil:                  0.9
+bush_with_powell:     0.9
+mona_liza_smile:      0.9

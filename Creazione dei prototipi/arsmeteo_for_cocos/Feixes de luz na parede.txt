@@ -1,0 +1,5 @@
+raggio:               0.9
+luce:                 0.9
+colore:               0.9
+mistico:              0.9
+silenzio:             0.9

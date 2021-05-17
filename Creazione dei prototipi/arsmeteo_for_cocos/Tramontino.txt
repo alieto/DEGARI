@@ -1,0 +1,3 @@
+naif:                 0.9
+sole:                 0.9
+panorama:             0.9

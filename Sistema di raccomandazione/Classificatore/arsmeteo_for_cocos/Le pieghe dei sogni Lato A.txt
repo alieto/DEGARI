@@ -1,0 +1,5 @@
+scultura:             0.9
+incubo:               0.9
+dormire:              0.9
+federa:               0.9
+rosso:                0.9

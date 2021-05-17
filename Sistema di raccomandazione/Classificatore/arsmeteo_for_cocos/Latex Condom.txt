@@ -1,0 +1,7 @@
+vetrina:              0.9
+scatolina:            0.9
+viaggio:              0.9
+sesso_:               0.9
+sicuro:               0.9
+composizione:         0.9
+evocazione:           0.9

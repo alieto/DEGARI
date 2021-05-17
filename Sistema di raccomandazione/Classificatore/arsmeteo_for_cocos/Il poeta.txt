@@ -1,0 +1,7 @@
+astante:              0.9
+pubblico:             0.9
+ascolto:              0.9
+verso:                0.9
+poesia:               0.9
+persona:              0.9
+poeta:                0.9

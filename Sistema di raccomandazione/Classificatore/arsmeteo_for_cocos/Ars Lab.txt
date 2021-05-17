@@ -1,0 +1,5 @@
+juillot:              0.9
+mole:                 0.9
+svolazzo:             0.9
+festa:                0.9
+torino:               0.9

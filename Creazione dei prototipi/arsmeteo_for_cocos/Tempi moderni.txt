@@ -1,0 +1,7 @@
+velocità:             0.9
+trasporto:            0.9
+viaggio:              0.9
+aeroporto:            0.9
+rifotografare:        0.9
+monaco:               0.9
+pannello:             0.9

@@ -1,0 +1,7 @@
+labbro:               0.9
+labbrone:             0.9
+rosso:                0.9
+fragola:              0.9
+giardino:             0.9
+sensuale:             0.9
+once_in_a_life_time:  0.9

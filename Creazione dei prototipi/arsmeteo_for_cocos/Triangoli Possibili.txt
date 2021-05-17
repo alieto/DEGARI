@@ -1,0 +1,10 @@
+viso:                 0.9
+volto:                0.9
+ritratto:             0.9
+latteo:               0.9
+bianco:               0.9
+triangolo:            0.9
+contornare:           0.9
+policromatico:        0.9
+tidimensionale:       0.9
+marmoreo:             0.9

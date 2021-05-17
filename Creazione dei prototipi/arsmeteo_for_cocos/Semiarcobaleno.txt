@@ -1,0 +1,6 @@
+arcobaleno:           0.9
+baleno:               0.9
+balenio:              0.9
+arco:                 0.9
+violino:              0.9
+viola:                0.9

@@ -1,0 +1,4 @@
+confronto:            0.9
+simbolico:            0.9
+immaginario:          0.9
+astratto:             0.9

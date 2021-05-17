@@ -1,0 +1,6 @@
+yemen:                0.9
+ombra:                0.9
+sguardo:              0.9
+occhio:               0.9
+bambina:              0.9
+particolare:          0.9

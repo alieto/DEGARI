@@ -1,0 +1,4 @@
+bigiotteria:          0.9
+mandare:              0.9
+in_rilievo:           0.9
+illusioni_ottiche:    0.9

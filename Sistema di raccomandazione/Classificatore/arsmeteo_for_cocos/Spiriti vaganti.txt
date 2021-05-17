@@ -1,0 +1,4 @@
+spirito:              0.9
+fluttuazione:         0.9
+cielo:                0.9
+entità:               0.9

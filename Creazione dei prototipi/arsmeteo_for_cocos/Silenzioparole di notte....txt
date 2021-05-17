@@ -1,0 +1,4 @@
+notte:                0.9
+luna:                 0.9
+silenzio:             0.9
+parola:               0.9

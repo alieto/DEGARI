@@ -1,0 +1,4 @@
+caravaggio:           0.9
+omaggio:              0.9
+ragazzo:              0.9
+frutta:               0.9

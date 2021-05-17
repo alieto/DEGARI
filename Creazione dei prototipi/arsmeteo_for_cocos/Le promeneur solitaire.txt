@@ -1,0 +1,6 @@
+passeggiata:          0.9
+uomo:                 0.9
+cane:                 0.9
+campagna:             0.9
+solitario:            0.9
+a_spasso:             0.9

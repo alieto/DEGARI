@@ -1,0 +1,2 @@
+putrefazione:         0.9
+sacrificio:           0.9

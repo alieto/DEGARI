@@ -1,0 +1,4 @@
+pennello:             0.9
+filo:                 0.9
+appeso:               0.9
+sospeso:              0.9

@@ -1,0 +1,6 @@
+trasporto:            0.9
+rumore:               0.9
+inquinamento:         0.9
+bangkok:              0.9
+torino:               0.9
+insegna:              0.9

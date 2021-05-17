@@ -1,0 +1,2 @@
+rivalsa_del_tempo:    0.9
+meccanismi_inceppati: 0.9

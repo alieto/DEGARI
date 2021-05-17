@@ -1,0 +1,13 @@
+blu:                  0.9
+azzurro:              0.9
+lapislazzulo:         0.9
+celesta|celeste:      0.9
+prussia:              0.9
+albero:               0.9
+radice:               0.9
+contorsione:          0.9
+voluta:               0.9
+avvolgente:           0.9
+striscia:             0.9
+graduale:             0.9
+gradiente:            0.9

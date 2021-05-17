@@ -1,0 +1,4 @@
+linea:                0.9
+ala_di_farfalla:      0.9
+sincronicità:         0.9
+pianeta:              0.9

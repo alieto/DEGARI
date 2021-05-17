@@ -1,0 +1,4 @@
+fluido:               0.9
+frattale:             0.9
+strato:               0.9
+rilievo:              0.9

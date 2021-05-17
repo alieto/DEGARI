@@ -1,0 +1,4 @@
+barchetta_di_carta:   0.9
+mare:                 0.9
+luna:                 0.9
+riflesso:             0.9

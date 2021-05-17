@@ -1,0 +1,4 @@
+luce:                 0.9
+bocca:                0.9
+occhio:               0.9
+tavolino:             0.9

@@ -1,0 +1,9 @@
+caldarrosta:          0.9
+tagliolo:             0.9
+monferrato:           0.9
+brace:                0.9
+fuoco:                0.9
+movimento:            0.9
+sequenza:             0.9
+castagna:             0.9
+autunno:              0.9

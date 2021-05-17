@@ -1,0 +1,3 @@
+traccia:              0.9
+guasto:               0.9
+energia:              0.9

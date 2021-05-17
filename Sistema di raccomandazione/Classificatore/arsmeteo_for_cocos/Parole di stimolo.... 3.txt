@@ -1,0 +1,7 @@
+nbsp:                 0.9
+/:                    0.6229299363057325
+armonioso:            0.6
+tono:                 0.6
+equilibrio:           0.6
+ricerca:              0.6
+benessere:            0.6

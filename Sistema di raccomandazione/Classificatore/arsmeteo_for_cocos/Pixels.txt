@@ -1,0 +1,5 @@
+pixels:               0.9
+cromatismo:           0.9
+smalto:               0.9
+quadratino:           0.9
+variazione:           0.9

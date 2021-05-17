@@ -1,0 +1,2 @@
+verso:                0.9
+in_alto:              0.9

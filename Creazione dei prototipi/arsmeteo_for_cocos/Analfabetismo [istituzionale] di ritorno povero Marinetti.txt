@@ -1,0 +1,3 @@
+senza_parole:         0.9
+senza_apostrofo:      0.9
+senza_speranza:       0.9

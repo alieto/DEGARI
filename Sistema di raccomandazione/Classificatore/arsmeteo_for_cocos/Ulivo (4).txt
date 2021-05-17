@@ -1,0 +1,6 @@
+ulivo:                0.9
+salento:              0.6
+albero:               0.6
+tronco:               0.6
+natura:               0.6
+legno:                0.6

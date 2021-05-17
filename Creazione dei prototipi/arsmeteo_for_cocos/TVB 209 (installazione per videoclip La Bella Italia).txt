@@ -1,0 +1,8 @@
+fontanaf2009:         0.9
+tvb_209:              0.9
+installazione:        0.9
+videoclip:            0.9
+marrakesh:            0.9
+la_bella_italia:      0.9
+guè_pequeno:          0.9
+aban:                 0.9

@@ -1,0 +1,3 @@
+scrittura:            0.9
+viso:                 0.9
+donna:                0.9

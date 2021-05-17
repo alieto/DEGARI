@@ -1,0 +1,5 @@
+uscita:               0.9
+fuga:                 0.9
+salvezza:             0.9
+subsito:              0.9
+sogno:                0.9

@@ -1,0 +1,5 @@
+iraq:                 0.9
+grotta:               0.9
+guerra:               0.9
+grottesco:            0.9
+vita_quotidiana:      0.9

@@ -1,0 +1,4 @@
+arsmeteo:             0.9
+celebrazione:         0.9
+anima:                0.9
+deus_ex_machina:      0.9

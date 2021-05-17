@@ -1,0 +1,8 @@
+tango:                0.9
+danza:                0.9
+gocce_di_colore:      0.9
+coppia:               0.9
+passo:                0.9
+passo_di_danza:       0.9
+passo_di_tango:       0.9
+passione:             0.9

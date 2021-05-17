@@ -1,0 +1,8 @@
+red-ink:              0.9
+inchiostro:           0.9
+rosso:                0.9
+kinder:               0.9
+anagramma:            0.9
+sorpresa:             0.9
+cassetto:             0.9
+plexiglass:           0.9

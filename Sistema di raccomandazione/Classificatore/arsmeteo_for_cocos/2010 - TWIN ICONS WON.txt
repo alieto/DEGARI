@@ -1,0 +1,8 @@
+stevie_won:           0.9
+icons:                0.9
+twin:                 0.9
+armonica:             0.9
+bocca:                0.9
+sguardo:              0.9
+associazione:         0.9
+gemellaggio:          0.9

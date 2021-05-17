@@ -1,0 +1,6 @@
+luna:                 0.9
+park:                 0.9
+colore:               0.9
+lomo:                 0.9
+divertimento:         0.9
+giostra:              0.9

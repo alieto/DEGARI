@@ -1,0 +1,3 @@
+ricordo:              0.9
+rimpianto:            0.9
+anima:                0.9

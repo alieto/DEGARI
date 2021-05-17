@@ -1,0 +1,29 @@
+#Title composizione
+Title : anger-disgust
+
+#Concetto Principale
+Head Concept Name : anger
+
+#Concetto Modificatore
+Modifier Concept Name : disgust
+
+
+
+modifier, -onore
+
+T(modifier), cannibalismo, 0.95
+T(modifier), mutilazione, 0.93
+T(modifier), molestia, 0.91
+T(modifier), incesto, 0.91
+T(modifier), gonorrea, 0.91
+T(modifier), stupro, 0.91
+
+T(head), oltraggiato, 0.96
+T(head), brutalità, 0.96
+T(head), odio, 0.95
+T(head), terrorizzare, 0.94
+T(head), violentemente, 0.94
+T(head), infuriato, 0.94
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '0', '1', '1', 2.0251850465710056e-05

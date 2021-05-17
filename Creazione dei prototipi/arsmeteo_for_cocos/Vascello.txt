@@ -1,0 +1,8 @@
+mare:                 0.9
+vento:                0.9
+scafo:                0.9
+vela:                 0.9
+albero:               0.9
+sartia:               0.9
+chiglia:              0.9
+deriva:               0.9

@@ -1,0 +1,9 @@
+surfanta:             0.9
+aereo:                0.9
+atterraggio:          0.9
+surreale:             0.9
+windmill_street:      0.9
+strada:               0.9
+negozio:              0.9
+pub:                  0.9
+monoplano:            0.9

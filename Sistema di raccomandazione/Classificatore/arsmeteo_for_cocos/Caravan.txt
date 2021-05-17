@@ -1,0 +1,4 @@
+arrangiamento:        0.9
+duke:                 0.9
+ellington:            0.9
+orchestra:            0.9

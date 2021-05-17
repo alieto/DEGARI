@@ -1,0 +1,9 @@
+campanile:            0.9
+castelletto:          0.9
+monferrato:           0.9
+tramonto:             0.9
+colore:               0.9
+ombra:                0.9
+cielo:                0.9
+angolo:               0.9
+chiesa:               0.9

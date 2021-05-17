@@ -1,0 +1,3 @@
+augurio:              0.9
+buona_pasqua:         0.9
+cerchi_concentrici:   0.9

@@ -1,0 +1,7 @@
+macchina_da_sesso:    0.9
+xx_xy:                0.9
+macchina:             0.9
+sesso:                0.9
+cravatta:             0.9
+timer:                0.9
+programma:            0.9

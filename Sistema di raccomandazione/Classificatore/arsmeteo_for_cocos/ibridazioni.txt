@@ -1,0 +1,6 @@
+folla:                0.9
+meticciaggi:          0.6
+arricchimento:        0.6
+scambio:              0.6
+incomprensione:       0.6
+sali_scendi:          0.6

@@ -1,0 +1,10 @@
+nuvola:               0.9
+tiangoli:             0.9
+volto:                0.9
+viso:                 0.9
+profilo:              0.9
+aria:                 0.9
+sospensione:          0.9
+occhio:               0.9
+prospetto:            0.9
+apparizione:          0.9

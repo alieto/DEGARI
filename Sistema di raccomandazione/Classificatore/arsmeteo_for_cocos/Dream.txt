@@ -1,0 +1,15 @@
+sogno:                0.9
+raffinato:            0.6
+elegante:             0.6
+cavallo:              0.6
+libertà:              0.6
+spazio:               0.6
+acqua:                0.6
+baraonda:             0.6
+allegria:             0.6
+vela:                 0.6
+spartito:             0.6
+linea:                0.6
+barca:                0.6
+partitura:            0.6
+montagna:             0.6

@@ -1,0 +1,11 @@
+africo:               0.9
+fertilità:            0.9
+citazione:            0.9
+frammento:            0.9
+grafismi:             0.9
+acume:                0.9
+rivisitazione:        0.9
+netville:             0.9
+etnico:               0.9
+occhio:               0.9
+afrodite:             0.9

@@ -1,0 +1,7 @@
+sintesi:              0.9
+electonic:            0.9
+minimalism:           0.9
+minimale:             0.9
+ossessivo:            0.9
+ostinato:             0.9
+abstract:             0.9

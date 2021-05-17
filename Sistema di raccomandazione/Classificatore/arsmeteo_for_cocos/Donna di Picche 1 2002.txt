@@ -1,0 +1,3 @@
+donna:                0.9
+picca:                0.9
+elisa-laraia:         0.9

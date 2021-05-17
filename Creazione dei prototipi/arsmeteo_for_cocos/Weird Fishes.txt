@@ -1,0 +1,10 @@
+pesce:                0.9
+uomo:                 0.9
+monade:               0.9
+leibniz:              0.9
+radiohead:            0.9
+narradiohead:         0.9
+naufragio:            0.9
+altomare:             0.9
+pesce_bizzarro:       0.9
+marzio:               0.9

@@ -1,0 +1,6 @@
+personalità:          0.9
+schizofrenia:         0.6
+_multipla:            0.6
+albero:               0.6
+pittura:              0.6
+albero_sulla_mano:    0.6

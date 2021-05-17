@@ -1,0 +1,10 @@
+align:                0.9
+center\:              0.9
+/:                    0.9
+mmmmmmmmm:            0.65
+h3:                   0.65
+my:                   0.65
+under:                0.6
+h5:                   0.6
+hat:                  0.6
+feet:                 0.6

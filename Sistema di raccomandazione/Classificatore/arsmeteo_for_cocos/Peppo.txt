@@ -1,0 +1,6 @@
+cane:                 0.9
+pepposo:              0.9
+mammifero:            0.9
+sasso:                0.9
+ispezionare:          0.9
+ceppo:                0.9

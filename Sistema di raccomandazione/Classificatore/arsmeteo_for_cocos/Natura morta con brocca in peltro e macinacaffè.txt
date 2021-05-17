@@ -1,0 +1,4 @@
+brocca:               0.9
+macinacaffè:          0.9
+coltello:             0.9
+frutta:               0.9

@@ -1,0 +1,4 @@
+china:                0.9
+matita:               0.9
+carta:                0.9
+cartoncino:           0.9

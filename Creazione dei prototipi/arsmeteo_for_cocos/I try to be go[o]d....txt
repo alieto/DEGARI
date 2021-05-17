@@ -1,0 +1,4 @@
+graffito:             0.9
+cesso:                0.9
+esaltazione:          0.9
+superbia:             0.9

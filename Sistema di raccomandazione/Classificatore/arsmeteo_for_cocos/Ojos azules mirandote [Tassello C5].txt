@@ -1,0 +1,4 @@
+occhio:               0.9
+velo:                 0.9
+sorpresa:             0.9
+inatteso:             0.9

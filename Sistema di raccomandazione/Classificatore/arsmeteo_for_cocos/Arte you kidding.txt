@@ -1,0 +1,6 @@
+smalto:               0.9
+vernice:              0.9
+scarto:               0.9
+riciclare:            0.9
+stampa:               0.9
+pvc:                  0.9

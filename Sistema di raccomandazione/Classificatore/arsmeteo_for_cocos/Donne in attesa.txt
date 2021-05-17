@@ -1,0 +1,4 @@
+sfoglia:              0.9
+malta:                0.9
+serenita:             0.9
+blu:                  0.9

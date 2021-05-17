@@ -1,0 +1,8 @@
+città:                0.9000000000000001
+nel_blu:              0.6
+sommergere:           0.6
+sottomarino:          0.6
+in_fondo_al_mare:     0.6
+_sommersa:            0.6
+sole_rosa:            0.6
+conchiglia:           0.6

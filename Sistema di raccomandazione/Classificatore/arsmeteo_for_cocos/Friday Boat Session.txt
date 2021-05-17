@@ -1,0 +1,5 @@
+murazzi:              0.9
+imbarco:              0.9
+party:                0.9
+flyer:                0.9
+boat:                 0.9

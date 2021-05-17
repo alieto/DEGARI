@@ -1,0 +1,3 @@
+iperbole:             0.9
+curva:                0.9
+incognita:            0.9

@@ -1,0 +1,12 @@
+paziente:             0.9
+padre:                0.9
+bpco:                 0.9
+croce:                0.9
+passione:             0.9
+ambiente:             0.9
+malattia:             0.9
+cristo:               0.9
+moderno:              0.9
+calvario:             0.9
+resurrezione:         0.9
+speranza:             0.9

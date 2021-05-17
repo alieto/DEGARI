@@ -1,0 +1,11 @@
+arte:                 0.9
+tecnologia:           0.9
+ars_technica:         0.9
+ville_technologique:  0.9
+quel_art:             0.9
+netville:             0.9
+passaggio:            0.9
+arslab:               0.9
+net_art:              0.9
+chiosco:              0.9
+theatrum_communicationis:0.9

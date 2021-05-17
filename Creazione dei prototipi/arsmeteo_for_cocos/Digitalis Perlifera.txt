@@ -1,0 +1,10 @@
+perla:                0.9
+puntatore:            0.9
+previsione:           0.9
+ante_litteram:        0.9
+acquarium:            0.9
+digitale:             0.9
+fluttuazione:         0.9
+tempo:                0.9
+antesignano:          0.9
+principe:             0.9

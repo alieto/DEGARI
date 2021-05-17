@@ -1,0 +1,12 @@
+italia:               0.9
+poverta\:             0.6
+india:                0.6
+volto:                0.6
+disegno:              0.6
+francesco:            0.6
+arte:                 0.6
+contemporaneo:        0.6
+torino:               0.6
+grafica:              0.6
+carboncino:           0.6
+matita:               0.6

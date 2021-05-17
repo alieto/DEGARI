@@ -1,0 +1,7 @@
+linea:                0.9
+spartito:             0.9
+partitura:            0.9
+blu:                  0.9
+uccello:              0.9
+uccello_nero:         0.9
+prima_dell_alba:      0.9

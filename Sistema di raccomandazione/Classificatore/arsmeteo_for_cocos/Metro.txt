@@ -1,0 +1,17 @@
+metropolitana:        0.9000000000000001
+paris:                0.6
+attesa:               0.6
+noia:                 0.6
+aria_stantia:         0.6
+follia:               0.6
+assenza_di_folla:     0.6
+comunicazione:        0.6
+transito:             0.6
+metro:                0.6
+sotterranea:          0.6
+frattale:             0.6
+intricata:            0.6
+new:                  0.6
+york:                 0.6
+fotografia:           0.6
+bianco:               0.6

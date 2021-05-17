@@ -1,0 +1,5 @@
+ideogramma:           0.9
+giapponese:           0.9
+viaggiatore:          0.9
+salotto:              0.9
+aereoporto:           0.9

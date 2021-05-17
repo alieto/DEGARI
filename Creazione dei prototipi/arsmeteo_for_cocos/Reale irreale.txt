@@ -1,0 +1,5 @@
+virtuale:             0.9
+medievale:            0.9
+king:                 0.9
+reale:                0.9
+irreale:              0.9

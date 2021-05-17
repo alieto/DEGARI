@@ -1,0 +1,1 @@
+solitaria:            0.9

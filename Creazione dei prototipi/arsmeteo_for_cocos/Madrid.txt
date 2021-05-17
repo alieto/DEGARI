@@ -1,0 +1,5 @@
+bambino:              0.9
+indaco:               0.9
+madrid:               0.9
+neruda:               0.9
+zakamoto:             0.9

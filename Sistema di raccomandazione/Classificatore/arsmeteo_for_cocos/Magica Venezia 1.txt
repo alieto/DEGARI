@@ -1,0 +1,3 @@
+aquerello:            0.9
+cartoncino:           0.9
+22x30:                0.9

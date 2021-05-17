@@ -1,0 +1,2 @@
+santino:              0.9
+santo_patrono:        0.9

@@ -1,0 +1,4 @@
+insetto:              0.9
+robot:                0.9
+passione:             0.9
+genesi:               0.9

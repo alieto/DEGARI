@@ -1,0 +1,6 @@
+tempo:                0.9
+stazione:             0.9
+successione:          0.9
+statico:              0.9
+fermo:                0.9
+attesa:               0.9

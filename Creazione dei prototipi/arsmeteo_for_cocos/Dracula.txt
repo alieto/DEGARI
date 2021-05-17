@@ -1,0 +1,11 @@
+dracula:              0.9
+acrilico:             0.9
+dipinto:              0.9
+mostro:               0.9
+francesco:            0.9
+noxarte:              0.9
+nociti:               0.9
+nox:                  0.9
+arte:                 0.9
+contemporaneo:        0.9
+torino:               0.9

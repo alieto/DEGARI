@@ -1,0 +1,3 @@
+vetro:                0.9
+illusione_ottica:     0.9
+materiale:            0.9

@@ -1,0 +1,9 @@
+trombone:             0.9
+ottone:               0.9
+musica:               0.9
+banda:                0.9
+riflesso:             0.9
+solo:                 0.9
+luce:                 0.9
+distorsione:          0.9
+festa:                0.9

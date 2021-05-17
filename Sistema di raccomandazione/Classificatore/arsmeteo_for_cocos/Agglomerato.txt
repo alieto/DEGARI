@@ -1,0 +1,4 @@
+reticolo:             0.9
+facciata:             0.9
+new_york:             0.9
+formiche_gialle:      0.9

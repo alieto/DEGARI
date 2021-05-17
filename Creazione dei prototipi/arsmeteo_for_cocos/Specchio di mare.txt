@@ -1,0 +1,4 @@
+riflesso:             0.9
+luce:                 0.9
+colore:               0.9
+spazio:               0.9

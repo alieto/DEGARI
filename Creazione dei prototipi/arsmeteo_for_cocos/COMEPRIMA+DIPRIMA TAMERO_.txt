@@ -1,0 +1,8 @@
+come_prima:           0.9
+piu_di_prima:         0.9
+carro_armato:         0.9
+viagra:               0.9
+amero\:               0.9
+forza:                0.9
+potenza:              0.9
+power:                0.9

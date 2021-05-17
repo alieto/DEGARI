@@ -1,0 +1,4 @@
+chian:                0.9
+tratto:               0.9
+marker:               0.9
+piastrella:           0.9

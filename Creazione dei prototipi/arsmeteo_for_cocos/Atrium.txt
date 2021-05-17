@@ -1,0 +1,5 @@
+atrium:               0.9
+interno:              0.9
+torino:               0.9
+giugiaro:             0.9
+gianduiotto:          0.9

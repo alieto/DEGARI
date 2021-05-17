@@ -1,0 +1,2 @@
+pesce:                0.9
+segno_zodiacale:      0.9

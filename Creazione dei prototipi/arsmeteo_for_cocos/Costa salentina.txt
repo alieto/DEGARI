@@ -1,0 +1,4 @@
+fiore:                0.9
+torre_sant_emiliano:  0.9
+costa:                0.9
+salento:              0.9

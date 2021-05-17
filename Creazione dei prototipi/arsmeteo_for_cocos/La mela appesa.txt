@@ -1,0 +1,5 @@
+mela:                 0.9
+linea:                0.9
+appendere:            0.9
+sospensione:          0.9
+mela_rossa:           0.9

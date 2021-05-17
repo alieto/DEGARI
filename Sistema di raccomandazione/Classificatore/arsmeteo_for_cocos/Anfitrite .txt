@@ -1,0 +1,3 @@
+dea:                  0.9
+mare:                 0.9
+mitologia:            0.9

@@ -1,0 +1,4 @@
+nocino:               0.9
+noce:                 0.9
+rovo:                 0.9
+spina:                0.9

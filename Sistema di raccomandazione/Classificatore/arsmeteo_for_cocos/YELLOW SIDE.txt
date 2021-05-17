@@ -1,0 +1,6 @@
+jiokube:              0.9
+composizione:         0.9
+cubo:                 0.9
+jioko_finale:         0.9
+yellow:               0.9
+giallo:               0.9

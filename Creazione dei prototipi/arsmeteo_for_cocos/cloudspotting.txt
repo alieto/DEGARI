@@ -1,0 +1,6 @@
+azzurro:              0.9
+vicino_al_cielo:      0.9
+verde:                0.9
+vento:                0.9
+ombra:                0.9
+pace:                 0.9

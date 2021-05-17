@@ -1,0 +1,8 @@
+angelo:               0.9
+prigione:             0.6
+volontà:              0.6
+scultura:             0.6
+oro:                  0.6
+ritratto:             0.6
+uomo:                 0.6
+cinese:               0.6

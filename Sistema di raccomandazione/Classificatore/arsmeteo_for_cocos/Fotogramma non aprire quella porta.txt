@@ -1,0 +1,6 @@
+non_aprire:           0.9
+mano:                 0.9
+maniglia:             0.9
+porta:                0.9
+aprire:               0.9
+suspense:             0.9

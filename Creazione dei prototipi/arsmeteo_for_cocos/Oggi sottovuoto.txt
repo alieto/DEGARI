@@ -1,0 +1,3 @@
+bavaglio:             0.9
+legge:                0.9
+apnea:                0.9

@@ -1,0 +1,9 @@
+donna:                0.9
+nonècolpamia:         0.6
+colpa:                0.6
+natura:               0.6
+occhio:               0.6
+sesso:                0.6
+amore:                0.6
+chimico:              0.6
+surreale:             0.6

@@ -1,0 +1,11 @@
+omino:                0.9
+mago:                 0.9
+sospendere:           0.9
+a_braccia_aperte:     0.9
+pagina_di_diario:     0.9
+avevo_quindici_anni:  0.9
+volto:                0.9
+faccia:               0.9
+pensieri_che_incombono:0.9
+espressione:          0.9
+pensiero:             0.9

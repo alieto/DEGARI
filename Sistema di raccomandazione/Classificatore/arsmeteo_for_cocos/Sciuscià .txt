@@ -1,0 +1,4 @@
+fotografia:           0.9
+bianco-nero:          0.9
+scarpa:               0.9
+varia-umanità:        0.9

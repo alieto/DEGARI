@@ -1,0 +1,16 @@
+scenario:             0.9
+leonardeschi:         0.9
+quadro:               0.9
+trasformare:          0.9
+cinematografico:      0.9
+arte:                 0.9
+raccontare:           0.9
+amico:                0.9
+rivale:               0.9
+leggenda:             0.9
+mondo:                0.9
+leonardo:             0.9
+anno:                 0.9
+vincere:              0.9
+trascorso:            0.9
+milano:               0.9

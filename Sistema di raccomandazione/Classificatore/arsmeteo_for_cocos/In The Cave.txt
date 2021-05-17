@@ -1,0 +1,5 @@
+eco:                  0.9
+cavernoso:            0.6
+electronic:           0.6
+profondità:           0.6
+oscuro:               0.6

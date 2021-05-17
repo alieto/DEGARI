@@ -1,0 +1,6 @@
+inquinamento:         0.9
+volto:                0.9
+respiro:              0.9
+sguardo:              0.9
+natura:               0.9
+polvere:              0.9

@@ -1,0 +1,4 @@
+linguaccia:           0.9
+dentino:              0.9
+ciuffo:               0.9
+cane_maleducato:      0.9

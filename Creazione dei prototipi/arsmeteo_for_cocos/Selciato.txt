@@ -1,0 +1,2 @@
+porfido:              0.9
+sequenza:             0.9

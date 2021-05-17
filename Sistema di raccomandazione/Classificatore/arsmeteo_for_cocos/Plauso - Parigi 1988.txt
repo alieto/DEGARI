@@ -1,0 +1,10 @@
+plauso:               0.9
+parigi:               0.9
+penombra:             0.9
+televisione:          0.9
+pipa:                 0.9
+appunto:              0.9
+notte:                0.9
+attesa:               0.9
+ricerca:              0.9
+studio:               0.9

@@ -1,0 +1,9 @@
+madre:                0.9
+incontrare:           0.9
+metà:                 0.9
+cammino:              0.9
+vita:                 0.9
+desiderio:            0.9
+volontà:              0.9
+fato:                 0.9
+ignoranza:            0.9

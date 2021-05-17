@@ -1,0 +1,8 @@
+pittura:              0.9
+tavola:               0.9
+arte:                 0.9
+blu:                  0.9
+toccare:              0.9
+cavallo:              0.9
+mare:                 0.9
+trittico:             0.9

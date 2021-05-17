@@ -1,0 +1,3 @@
+omino:                0.9
+guerriero:            0.9
+corazza:              0.9

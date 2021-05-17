@@ -1,0 +1,4 @@
+spuma:                0.9
+mare:                 0.9
+tempesta:             0.9
+temporale:            0.9

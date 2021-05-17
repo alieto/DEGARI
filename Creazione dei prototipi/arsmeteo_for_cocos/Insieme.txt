@@ -1,0 +1,6 @@
+disegno:              0.9
+acquerello:           0.9
+figurativo:           0.9
+carta:                0.9
+cerchio:              0.9
+gruppo:               0.9

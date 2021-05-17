@@ -1,0 +1,4 @@
+totem:                0.9
+presenza:             0.9
+alieno:               0.9
+energia:              0.9

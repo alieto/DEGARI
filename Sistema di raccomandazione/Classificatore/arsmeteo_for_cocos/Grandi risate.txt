@@ -1,0 +1,4 @@
+risata:               0.9
+manichino:            0.9
+avignone:             0.9
+punk:                 0.9

@@ -1,0 +1,3 @@
+colore_indefinito:    0.9
+in_perfezione:        0.9
+ellisse:              0.9

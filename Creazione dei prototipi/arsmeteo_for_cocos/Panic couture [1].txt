@@ -1,0 +1,4 @@
+couture:              0.9
+moda:                 0.9
+fuori_contesto:       0.9
+vestito_da_sposa:     0.9

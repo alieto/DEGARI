@@ -1,0 +1,3 @@
+fiammifero:           0.9
+pennarello:           0.9
+studio:               0.9

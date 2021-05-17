@@ -1,0 +1,2 @@
+sfero:                0.9
+inconscio:            0.9

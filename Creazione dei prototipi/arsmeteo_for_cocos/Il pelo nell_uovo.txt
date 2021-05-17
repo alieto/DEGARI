@@ -1,0 +1,6 @@
+pelo:                 0.9
+uovo:                 0.9
+pulcino:              0.9
+becco:                0.9
+guscio:               0.9
+eredità:              0.9

@@ -1,0 +1,7 @@
+yoga:                 0.9
+cavallo:              0.9
+corpo:                0.9
+fotografia:           0.9
+sviluppo:             0.9
+risultante:           0.9
+interazione:          0.9

@@ -1,0 +1,9 @@
+knowledge:            0.9
+social:               0.9
+tagging:              0.9
+clouds:               0.9
+arsmeteo:             0.9
+geist:                0.9
+folksonomies:         0.9
+semantics:            0.9
+tower:                0.9

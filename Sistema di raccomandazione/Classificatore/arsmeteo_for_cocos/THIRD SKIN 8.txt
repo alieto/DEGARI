@@ -1,0 +1,15 @@
+segno:                0.9
+memoria:              0.9
+essenza:              0.9
+bianco:               0.9
+carta:                0.9
+impronta:             0.9
+delicato:             0.9
+rilievo:              0.9
+orma:                 0.9
+spazialismo:          0.9
+bianco_su_bianco:     0.9
+spazialità:           0.9
+candore:              0.9
+braille:              0.9
+punto:                0.9

@@ -1,0 +1,12 @@
+violino:              0.9
+scala:                0.9
+pietra:               0.9
+roccia:               0.9
+ostile:               0.9
+nuvoloso:             0.9
+nube:                 0.9
+evoluzione:           0.9
+formazione:           0.9
+esalazione:           0.9
+suono:                0.9
+musica:               0.9

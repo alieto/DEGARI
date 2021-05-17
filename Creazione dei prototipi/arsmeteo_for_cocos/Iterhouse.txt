@@ -1,0 +1,8 @@
+casa:                 0.9
+palazzo:              0.9
+aggregato:            0.9
+massificazione:       0.9
+architettura_improbabile:0.9
+iterazione:           0.9
+ripetizione:          0.9
+accumulazione:        0.9

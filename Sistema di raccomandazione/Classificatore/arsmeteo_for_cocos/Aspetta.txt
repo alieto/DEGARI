@@ -1,0 +1,15 @@
+br:                   0.9
+volo:                 0.7
+div:                  0.6
+36px:                 0.6
+margin:               0.6
+font-size:            0.6
+14px:                 0.6
+line-height:          0.6
+28px\:                0.6
+aspettare:            0.6
+lasciare:             0.6
+bagaglio:             0.6
+mettere:              0.6
+portare:              0.6
+/:                    0.6

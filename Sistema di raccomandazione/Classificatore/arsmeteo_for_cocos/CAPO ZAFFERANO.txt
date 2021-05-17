@@ -1,0 +1,4 @@
+sant_onofrio:         0.9
+gatto_dormiente:      0.9
+semplificare:         0.9
+supino_in_acqua:      0.9

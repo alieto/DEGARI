@@ -1,0 +1,6 @@
+vaso:                 0.9
+anfora:               0.9
+sedia:                0.9
+cromatismo:           0.9
+campiture:            0.9
+terra:                0.9

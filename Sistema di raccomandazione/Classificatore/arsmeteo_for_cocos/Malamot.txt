@@ -1,0 +1,4 @@
+emersione:            0.9
+macchia:              0.9
+tempo:                0.9
+erosione:             0.9

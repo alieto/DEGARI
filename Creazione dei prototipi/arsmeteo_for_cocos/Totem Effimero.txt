@@ -1,0 +1,4 @@
+totem:                0.9
+effimero:             0.9
+estemporaneo:         0.9
+propiziatorio:        0.9

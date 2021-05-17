@@ -1,0 +1,3 @@
+viso:                 0.9
+espressione:          0.9
+volontà:              0.9

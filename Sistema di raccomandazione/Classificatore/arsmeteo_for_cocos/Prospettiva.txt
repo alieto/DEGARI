@@ -1,0 +1,3 @@
+centrale:             0.9
+visione:              0.9
+vuoto:                0.9

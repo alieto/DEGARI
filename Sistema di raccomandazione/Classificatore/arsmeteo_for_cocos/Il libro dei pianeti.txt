@@ -1,0 +1,4 @@
+libro:                0.9
+pianeta:              0.9
+blu:                  0.9
+croce:                0.9

@@ -1,0 +1,2 @@
+ecografia:            0.9
+amelie:               0.9

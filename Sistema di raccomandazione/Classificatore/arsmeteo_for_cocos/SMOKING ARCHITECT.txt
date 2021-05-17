@@ -1,0 +1,12 @@
+struttura:            0.9
+whisky:               0.9
+ghiaccio:             0.9
+costruzione:          0.9
+carpenteria:          0.9
+sinistra:             0.9
+gran:                 0.9
+premio:               0.9
+serendipity:          0.9
+fumo:                 0.9
+occhiale:             0.9
+netville:             0.9

@@ -1,0 +1,7 @@
+re:                   0.9
+riposo:               0.9
+guerriero:            0.9
+attenzione:           0.9
+lingua:               0.9
+dorare:               0.9
+africo:               0.9

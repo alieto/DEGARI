@@ -1,0 +1,4 @@
+avidità:              0.9
+intemperanza:         0.9
+sogno:                0.9
+favola:               0.9

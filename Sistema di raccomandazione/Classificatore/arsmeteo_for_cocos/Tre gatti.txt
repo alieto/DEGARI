@@ -1,0 +1,5 @@
+dipinto:              0.9
+gatto:                0.9
+volto:                0.9
+cerchio:              0.9
+estimatore:           0.9

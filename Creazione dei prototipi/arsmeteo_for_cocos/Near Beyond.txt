@@ -1,0 +1,7 @@
+limite:               0.9
+infinito:             0.9
+zoom:                 0.9
+spazio:               0.9
+tecnologia:           0.9
+alieno:               0.9
+fantascienza:         0.9

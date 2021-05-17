@@ -1,0 +1,4 @@
+torino:               0.9
+graffito:             0.9
+tenero:               0.9
+timido:               0.9

@@ -1,0 +1,9 @@
+tamerice:             0.9
+aspro:                0.9
+salmastro:            0.9
+pastello:             0.9
+mare:                 0.9
+schiuma:              0.9
+fiore:                0.9
+vacanza:              0.9
+pittoresco:           0.9

@@ -1,0 +1,13 @@
+topo:                 0.9
+via_revel:            0.9
+caserma:              0.9
+aereo:                0.9
+atterraggio:          0.9
+fumo:                 0.9
+mummia:               0.9
+tombino:              0.9
+surfanta:             0.9
+i_topi_abbandonano:   0.9
+ettore_de_sonnaz:     0.9
+surfante:             0.9
+garrire:              0.9

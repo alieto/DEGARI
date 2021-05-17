@@ -1,0 +1,12 @@
+totem:                0.9
+du_balle:             0.9
+anomalia:             0.9
+sessantotto:          0.9
+argonauta:            0.9
+contenitore:          0.9
+multifunzionale:      0.9
+design:               0.9
+manubrio:             0.9
+ruota:                0.9
+piramide:             0.9
+paolo_perotti:        0.9

@@ -1,0 +1,5 @@
+mano:                 0.9
+ruga:                 0.9
+tempo:                0.9
+vita:                 0.9
+conforto:             0.9

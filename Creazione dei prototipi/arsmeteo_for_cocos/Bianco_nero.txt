@@ -1,0 +1,6 @@
+luce:                 0.9
+ombra:                0.9
+bianco:               0.9
+nero:                 0.9
+positivo:             0.9
+negativo:             0.9

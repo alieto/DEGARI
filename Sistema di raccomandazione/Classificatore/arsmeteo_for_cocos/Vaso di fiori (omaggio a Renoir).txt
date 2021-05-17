@@ -1,0 +1,3 @@
+fiore:                0.9
+vaso:                 0.9
+renoir:               0.9

@@ -1,0 +1,5 @@
+materia:              0.9
+sinergia:             0.9
+smalto:               0.9
+raku:                 0.9
+vetrificare:          0.9

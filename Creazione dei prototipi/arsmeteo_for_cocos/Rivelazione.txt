@@ -1,0 +1,3 @@
+donna:                0.9
+amore:                0.9
+nudo:                 0.9

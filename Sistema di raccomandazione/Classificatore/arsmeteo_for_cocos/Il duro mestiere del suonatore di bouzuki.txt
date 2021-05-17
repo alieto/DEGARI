@@ -1,0 +1,3 @@
+melodia:              0.9
+struggenza:           0.9
+concentrazione:       0.9

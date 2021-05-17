@@ -1,0 +1,4 @@
+malacca:              0.9
+tradizione:           0.9
+devozione:            0.9
+abbandono:            0.9

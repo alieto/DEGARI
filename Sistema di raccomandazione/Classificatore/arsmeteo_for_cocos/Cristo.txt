@@ -1,0 +1,4 @@
+cristo:               0.9
+spina:                0.9
+capello:              0.9
+occhio:               0.9

@@ -1,0 +1,6 @@
+montagna:             0.9
+roccia:               0.9
+via:                  0.9
+arrampicare:          0.9
+tracciato:            0.9
+corda:                0.9

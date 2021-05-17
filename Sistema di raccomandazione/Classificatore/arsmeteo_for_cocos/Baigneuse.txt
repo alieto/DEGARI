@@ -1,0 +1,3 @@
+mare:                 0.9
+bagnante:             0.9
+sonno:                0.9

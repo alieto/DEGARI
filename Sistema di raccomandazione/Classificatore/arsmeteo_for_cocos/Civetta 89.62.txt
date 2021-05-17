@@ -1,0 +1,11 @@
+civetta:              0.9
+cappotto:             0.9
+monopetto:            0.9
+surfanta:             0.9
+appollaiare:          0.9
+fantasia:             0.9
+sul_ramo:             0.9
+surreale:             0.9
+artiglio:             0.9
+albero:               0.9
+rapace:               0.9

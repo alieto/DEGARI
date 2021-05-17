@@ -1,0 +1,7 @@
+orizzonte:            0.9
+solitudine:           0.9
+volo:                 0.9
+sospensione:          0.9
+ombra:                0.9
+etereo:               0.9
+irreale:              0.9

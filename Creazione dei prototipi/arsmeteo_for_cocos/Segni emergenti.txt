@@ -1,0 +1,3 @@
+segno:                0.9
+tinta_su_tinta:       0.9
+colore_grigio:        0.9

@@ -1,0 +1,8 @@
+un_sorriso:           0.9
+paesaggio:            0.9
+urbano:               0.9
+lettera:              0.9
+graffio:              0.9
+casa:                 0.9
+sorriso:              0.9
+mezzo_volto:          0.9

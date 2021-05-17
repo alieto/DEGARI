@@ -1,0 +1,6 @@
+dissipatio_hg:        0.9
+nessuno:              0.9
+vuoto:                0.9
+silenzio:             0.9
+vicolo:               0.9
+s_spopolazione:       0.9

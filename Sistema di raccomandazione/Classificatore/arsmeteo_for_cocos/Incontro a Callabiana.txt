@@ -1,0 +1,5 @@
+incontro:             0.9
+callabiana:           0.9
+surfanta:             0.9
+apparizione:          0.9
+madonna_nera:         0.9

@@ -1,0 +1,6 @@
+easy:                 0.9
+bit:                  0.9
+food:                 0.9
+easybit:              0.9
+preparazione:         0.9
+cibo:                 0.9

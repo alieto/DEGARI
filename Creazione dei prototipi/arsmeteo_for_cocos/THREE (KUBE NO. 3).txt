@@ -1,0 +1,5 @@
+three:                0.9
+tre:                  0.9
+triangolo:            0.9
+madonna:              0.9
+spirito_santo:        0.9

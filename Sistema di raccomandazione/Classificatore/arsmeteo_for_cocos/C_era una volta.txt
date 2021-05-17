@@ -1,0 +1,5 @@
+spensieratezza:       0.9
+libertà:              0.9
+purezza:              0.9
+serenità:             0.9
+fiaba:                0.9

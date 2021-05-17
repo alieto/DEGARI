@@ -1,0 +1,10 @@
+germe:                0.9
+drago:                0.9
+organismo:            0.9
+surreale:             0.9
+pericoloso:           0.9
+cattivo:              0.9
+mostro:               0.9
+lunga_coda:           0.9
+inconscio:            0.9
+germ:                 0.9

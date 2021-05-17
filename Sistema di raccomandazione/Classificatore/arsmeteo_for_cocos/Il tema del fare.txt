@@ -1,0 +1,4 @@
+comunicazione:        0.9
+architettura:         0.9
+impronta:             0.9
+spiritualità:         0.9

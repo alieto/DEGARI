@@ -1,0 +1,13 @@
+profezia:             0.9
+inizio:               0.9
+sguardo:              0.9
+mondo:                0.9
+curiosità:            0.9
+incanto:              0.9
+freschezza:           0.9
+innocenza:            0.9
+smarrimento:          0.9
+verità:               0.9
+capitolo:             0.9
+capitale:             0.9
+netville:             0.9

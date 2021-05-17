@@ -1,0 +1,6 @@
+interno:              0.9
+cupola:               0.9
+paradiso:             0.9
+affresco:             0.9
+elicoidale:           0.9
+lettera_q:            0.9

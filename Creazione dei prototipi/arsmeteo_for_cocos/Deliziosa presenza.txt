@@ -1,0 +1,3 @@
+tenerezza:            0.9
+fiducia:              0.9
+serenità:             0.9

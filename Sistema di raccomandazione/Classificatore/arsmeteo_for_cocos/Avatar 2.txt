@@ -1,0 +1,2 @@
+doppio:               0.9
+syzygon:              0.9

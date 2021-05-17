@@ -1,0 +1,2 @@
+materialità:          0.9
+slancio:              0.9

@@ -1,0 +1,4 @@
+oasi:                 0.9
+acqua:                0.9
+riflesso:             0.9
+ombra:                0.9

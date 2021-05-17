@@ -1,0 +1,4 @@
+confronto:            0.9
+osservazione:         0.9
+fruizione:            0.9
+incontro:             0.9

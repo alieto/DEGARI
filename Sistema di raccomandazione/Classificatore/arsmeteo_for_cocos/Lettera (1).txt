@@ -1,0 +1,6 @@
+foglio:               0.9
+letera:               0.9
+scrittura:            0.9
+comunicazione:        0.9
+concitazione:         0.9
+ripensamento:         0.9

@@ -1,0 +1,4 @@
+errore:               0.9
+originario:           0.9
+insediamento:         0.9
+imposizione:          0.9

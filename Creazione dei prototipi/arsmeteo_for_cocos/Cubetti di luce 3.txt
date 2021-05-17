@@ -1,0 +1,5 @@
+cubetti_di_luce:      0.9
+rosso_blu:            0.9
+viviana:              0.9
+cielo_a_cubetti:      0.9
+sovrastare:           0.9

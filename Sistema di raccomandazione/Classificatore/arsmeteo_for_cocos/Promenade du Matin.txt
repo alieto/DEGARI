@@ -1,0 +1,12 @@
+donna:                0.9
+uomo:                 0.9
+intersezione:         0.9
+sfumato:              0.9
+cromatico:            0.9
+ovoidale:             0.9
+cambiamento:          0.9
+trasformazione:       0.9
+metamorfosi:          0.9
+parco:                0.9
+mattino:              0.9
+passeggiata:          0.9

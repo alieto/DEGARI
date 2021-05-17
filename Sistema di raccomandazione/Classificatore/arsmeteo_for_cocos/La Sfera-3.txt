@@ -1,0 +1,15 @@
+cielo:                0.9
+nube:                 0.9
+nuvola:               0.9
+grigio:               0.9
+pianoforte:           0.9
+prospettiva:          0.9
+mattone:              0.9
+arco:                 0.9
+interno:              0.9
+aprire:               0.9
+esterno:              0.9
+interno_esterno:      0.9
+suono:                0.9
+musica:               0.9
+esposizione:          0.9

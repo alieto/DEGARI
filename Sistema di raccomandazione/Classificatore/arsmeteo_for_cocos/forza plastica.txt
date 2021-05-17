@@ -1,0 +1,9 @@
+kounelis:             0.9
+foto_rubate:          0.9
+sacco:                0.9
+caffè:                0.9
+ferro:                0.9
+rivolo:               0.9
+acciaio:              0.9
+bullone:              0.9
+iuta:                 0.9

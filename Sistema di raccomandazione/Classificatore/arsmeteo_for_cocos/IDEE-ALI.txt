@@ -1,0 +1,3 @@
+animale:              0.9
+comporre:             0.9
+fantasia:             0.9

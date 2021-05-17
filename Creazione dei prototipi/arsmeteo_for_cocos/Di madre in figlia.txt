@@ -1,0 +1,3 @@
+madre:                0.9
+figlia:               0.9
+cielo:                0.9

@@ -1,0 +1,4 @@
+colonna:              0.9
+acqua:                0.9
+trenino:              0.9
+gioco:                0.9

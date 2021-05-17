@@ -1,0 +1,4 @@
+danza:                0.9
+figura:               0.9
+soffondere:           0.9
+macchie_di_colore:    0.9

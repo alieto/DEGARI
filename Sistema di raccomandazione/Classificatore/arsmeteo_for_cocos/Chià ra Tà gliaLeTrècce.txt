@@ -1,0 +1,11 @@
+liberazione:          0.9
+chiara:               0.9
+peso:                 0.9
+cambiamento:          0.9
+turbamento:           0.9
+colpo_di_testa:       0.9
+taglio:               0.9
+definitivo:           0.9
+bianco:               0.9
+fotografia:           0.9
+bianco_e_nero:        0.9

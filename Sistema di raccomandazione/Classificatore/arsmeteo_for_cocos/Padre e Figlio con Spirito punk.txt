@@ -1,0 +1,4 @@
+trinità:              0.9
+cinque_sensi:         0.9
+caus:                 0.9
+falce_di_luna:        0.9

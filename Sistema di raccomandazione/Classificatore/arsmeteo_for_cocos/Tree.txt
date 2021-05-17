@@ -1,0 +1,2 @@
+poesia:               0.9
+kerouak:              0.9

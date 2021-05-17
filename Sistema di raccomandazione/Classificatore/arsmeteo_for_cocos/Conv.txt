@@ -1,0 +1,5 @@
+intreccio:            0.9
+tela:                 0.9
+composizione:         0.9
+foto:                 0.9
+mixed_media:          0.9

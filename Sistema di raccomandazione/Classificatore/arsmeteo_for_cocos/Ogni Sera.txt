@@ -1,0 +1,5 @@
+ambient:              0.9
+classical:            0.6
+film:                 0.6
+notturno:             0.6
+crepuscolo:           0.6

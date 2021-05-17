@@ -1,0 +1,3 @@
+natale:               0.9
+sidereus_nuncius:     0.9
+vibrazione:           0.9

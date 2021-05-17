@@ -1,0 +1,15 @@
+wireframe:            0.9
+linea:                0.9
+geometria:            0.9
+digitale:             0.9
+vettoriale:           0.9
+sound_line:           0.9
+volto:                0.9
+espressione:          0.9
+estasi:               0.9
+stupore:              0.9
+meraviglia:           0.9
+oooohh:               0.9
+occhio:               0.9
+occhione:             0.9
+boccuccia:            0.9

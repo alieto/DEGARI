@@ -1,0 +1,10 @@
+formaggio:            0.9
+forma:                0.9
+casei:                0.9
+resecandi:            0.9
+marco_parenti:        0.9
+coltello:             0.9
+grembiule:            0.9
+faudal:               0.9
+cibo:                 0.9
+food:                 0.9

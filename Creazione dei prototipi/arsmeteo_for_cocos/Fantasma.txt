@@ -1,0 +1,8 @@
+carta:                0.9
+collage:              0.9
+acrilico:             0.9
+natura:               0.9
+albero:               0.9
+speranza:             0.9
+futuro:               0.9
+morte:                0.9

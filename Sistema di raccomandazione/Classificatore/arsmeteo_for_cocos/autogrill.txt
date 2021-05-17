@@ -1,0 +1,4 @@
+autogrill:            0.9
+specchio:             0.9
+bagno:                0.9
+lavaandino:           0.9

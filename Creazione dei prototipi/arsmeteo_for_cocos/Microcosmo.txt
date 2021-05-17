@@ -1,0 +1,4 @@
+coccinella:           0.9
+fiammifero:           0.9
+foglio:               0.9
+nero:                 0.9

@@ -1,0 +1,9 @@
+donna:                0.9
+surreale:             0.9
+eva_nera:             0.9
+serpente_tentatore:   0.9
+tentazione:           0.9
+seduzione:            0.9
+eros:                 0.9
+occhi_gialli:         0.9
+surfanta:             0.9

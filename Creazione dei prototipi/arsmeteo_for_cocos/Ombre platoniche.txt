@@ -1,0 +1,8 @@
+ombra:                0.9
+bicchiere:            0.9
+riflesso:             0.9
+riflessione:          0.9
+caverna_platonica:    0.9
+riflessioni_platoniche:0.9
+realtà:               0.9
+essenza:              0.9

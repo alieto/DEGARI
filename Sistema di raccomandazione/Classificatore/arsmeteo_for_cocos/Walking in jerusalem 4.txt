@@ -1,0 +1,4 @@
+bambino:              0.9
+incecchiare:          0.9
+donna:                0.9
+gerusalemme:          0.9

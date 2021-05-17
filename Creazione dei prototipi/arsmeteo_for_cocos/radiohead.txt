@@ -1,0 +1,4 @@
+arte:                 0.9
+tempo:                0.9
+musica:               0.9
+libero:               0.9

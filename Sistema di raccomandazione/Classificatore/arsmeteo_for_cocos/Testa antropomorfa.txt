@@ -1,0 +1,5 @@
+pietra:               0.9
+arcaico:              0.9
+viso:                 0.9
+uomo:                 0.9
+archetipo:            0.9

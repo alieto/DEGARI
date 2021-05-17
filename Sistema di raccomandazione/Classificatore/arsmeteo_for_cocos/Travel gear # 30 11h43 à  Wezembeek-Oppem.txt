@@ -1,0 +1,6 @@
+minimo:               0.9
+travel_gear:          0.9
+disordine:            0.9
+ordine:               0.9
+appunto:              0.9
+comunicazione:        0.9

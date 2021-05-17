@@ -1,0 +1,6 @@
+animale:              0.9
+animal_machins:       0.9
+allevamento_intensivo:0.9
+animale_macchina:     0.9
+consumo:              0.9
+violenza:             0.9

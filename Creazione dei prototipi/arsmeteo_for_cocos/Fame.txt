@@ -1,0 +1,3 @@
+fame:                 0.9
+statua:               0.9
+pietà:                0.9

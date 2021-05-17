@@ -1,0 +1,6 @@
+solo:                 0.9
+fiamma:               0.9
+caldo:                0.9
+simbolo:              0.9
+giallo:               0.9
+rosso:                0.9

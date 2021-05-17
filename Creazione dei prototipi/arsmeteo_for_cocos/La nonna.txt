@@ -1,0 +1,7 @@
+nonna:                0.9
+geometria:            0.9
+stilizzazione:        0.9
+villaggio:            0.9
+casa:                 0.9
+costruzione:          0.9
+geometrizzazione:     0.9

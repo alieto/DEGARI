@@ -1,0 +1,2 @@
+galeone:              0.9
+mare:                 0.9

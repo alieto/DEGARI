@@ -1,0 +1,4 @@
+campanile:            0.9
+chiesa:               0.9
+tassello:             0.9
+scorcio:              0.9

@@ -1,0 +1,8 @@
+nbsp:                 0.9
+/:                    0.9
+cummings:             0.6
+niente:               0.6
+ossessione:           0.6
+fare:                 0.6
+inutile:              0.6
+opera:                0.6

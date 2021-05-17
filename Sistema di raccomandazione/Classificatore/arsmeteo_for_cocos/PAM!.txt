@@ -1,0 +1,5 @@
+suicida:              0.9
+rosso:                0.9
+pistola:              0.9
+mano:                 0.9
+bimba:                0.9

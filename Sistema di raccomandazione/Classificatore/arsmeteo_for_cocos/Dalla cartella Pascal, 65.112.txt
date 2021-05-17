@@ -1,0 +1,6 @@
+surreale:             0.9
+surfanta:             0.9
+ruote_a_piedi:        0.9
+fantasia:             0.9
+incedere_rotante:     0.9
+metafora:             0.9

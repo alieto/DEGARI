@@ -1,0 +1,12 @@
+prospettiva:          0.9
+superficie:           0.9
+profondità:           0.9
+armato:               0.9
+carro:                0.9
+uomo:                 0.9
+natura:               0.9
+sopracciglio:         0.9
+vista:                0.9
+arcata:               0.9
+netville:             0.9
+occhio:               0.9

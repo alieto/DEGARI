@@ -1,0 +1,3 @@
+calca:                0.9
+parola:               0.9
+sovrapposizione:      0.9

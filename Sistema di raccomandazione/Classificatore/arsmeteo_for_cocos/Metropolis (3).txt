@@ -1,0 +1,8 @@
+cassetta_della_posta: 0.9
+grigio:               0.9
+poste_italiane:       0.9
+rosso:                0.9
+affissione:           0.9
+sabato_muccabar:      0.9
+cassetta_di_servizio: 0.9
+cassetta_postale:     0.9

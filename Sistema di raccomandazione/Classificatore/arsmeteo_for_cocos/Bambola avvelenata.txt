@@ -1,0 +1,6 @@
+bambola:              0.9
+triste:               0.9
+farfalla:             0.9
+avvelenare:           0.9
+verde:                0.9
+surfanta:             0.9

@@ -1,0 +1,6 @@
+terra_madre:          0.9
+attesa:               0.9
+orologio:             0.9
+che_ora_è:            0.9
+aspetto:              0.9
+corrucciare:          0.9

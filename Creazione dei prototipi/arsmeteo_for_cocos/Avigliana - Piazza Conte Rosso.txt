@@ -1,0 +1,2 @@
+avigliana:            0.9
+piazza_conte_rosso:   0.9

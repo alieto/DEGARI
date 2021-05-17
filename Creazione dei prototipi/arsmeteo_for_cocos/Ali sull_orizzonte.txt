@@ -1,0 +1,2 @@
+ala:                  0.9
+orizzonte:            0.9

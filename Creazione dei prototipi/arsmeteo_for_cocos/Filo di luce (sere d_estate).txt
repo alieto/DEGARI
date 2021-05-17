@@ -1,0 +1,4 @@
+luce:                 0.9
+ballatoio:            0.9
+interno:              0.9
+cortile:              0.9

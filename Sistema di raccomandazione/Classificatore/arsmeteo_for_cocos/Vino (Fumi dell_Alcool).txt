@@ -1,0 +1,8 @@
+bottiglia:            0.9
+vino:                 0.9
+uva:                  0.9
+vitigno:              0.9
+bicchiere_di_vino:    0.9
+fumo:                 0.9
+vapore:               0.9
+esalazione:           0.9

@@ -1,0 +1,6 @@
+donna:                0.9
+contrasto:            0.9
+moda:                 0.9
+posa:                 0.9
+chiaro_scuro:         0.9
+tubo:                 0.9

@@ -1,0 +1,13 @@
+netville:             0.9
+mare:                 0.9
+cupola:               0.9
+sant_onofrio:         0.9
+cefalà¹:              0.9
+vulcano:              0.9
+lipari:               0.9
+panarea:              0.9
+stromboli:            0.9
+salina:               0.9
+filicudi:             0.9
+aurora:               0.9
+alicudi:              0.9

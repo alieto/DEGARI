@@ -1,0 +1,7 @@
+red_ink:              0.9
+vernice:              0.9
+inaugurazione:        0.9
+mostra:               0.9
+show:                 0.9
+pallina:              0.9
+lotteria:             0.9

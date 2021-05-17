@@ -1,0 +1,9 @@
+abbas:                0.9
+nafisi:               0.9
+rifotografare:        0.9
+repressione:          0.9
+religione:            0.9
+stupidità:            0.9
+violenza:             0.9
+sopraffazione:        0.9
+sessuofobia:          0.9

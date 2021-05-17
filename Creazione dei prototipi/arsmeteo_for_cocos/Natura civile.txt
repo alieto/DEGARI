@@ -1,0 +1,7 @@
+città:                0.9
+striscia:             0.9
+attraversamento:      0.9
+piccione:             0.9
+desolazione:          0.9
+natura:               0.9
+educazione:           0.9

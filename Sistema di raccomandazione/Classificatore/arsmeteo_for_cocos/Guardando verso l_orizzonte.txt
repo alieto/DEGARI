@@ -1,0 +1,6 @@
+campiture:            0.9
+cromatismo:           0.9
+barca:                0.9
+gurdando:             0.9
+spiaggia:             0.9
+verso_l_orizzonte:    0.9

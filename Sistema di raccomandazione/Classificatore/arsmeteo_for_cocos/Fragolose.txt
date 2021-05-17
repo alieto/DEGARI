@@ -1,0 +1,10 @@
+dialogo:              0.9
+ritinteggiare:        0.9
+rosa:                 0.9
+salvatore_zito:       0.9
+fragola:              0.9
+gusto:                0.9
+dipingere:            0.9
+scintillio:           0.9
+lucentezza:           0.9
+ciliegia:             0.9

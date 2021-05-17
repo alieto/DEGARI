@@ -1,0 +1,4 @@
+farfalla:             0.9
+linee_sincroniche:    0.9
+universo:             0.9
+galassia:             0.9

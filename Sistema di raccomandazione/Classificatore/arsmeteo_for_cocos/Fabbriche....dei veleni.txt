@@ -1,0 +1,4 @@
+olio:                 0.9
+tela:                 0.9
+40x50:                0.9
+realizzazione:        0.9

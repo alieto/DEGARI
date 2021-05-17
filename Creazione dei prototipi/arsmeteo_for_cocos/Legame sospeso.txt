@@ -1,0 +1,7 @@
+muro:                 0.9
+baita:                0.9
+piolo:                0.9
+contorsione:          0.9
+legno:                0.9
+pietra:               0.9
+lettera_f:            0.9

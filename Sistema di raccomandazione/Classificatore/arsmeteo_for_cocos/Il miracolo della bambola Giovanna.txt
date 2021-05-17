@@ -1,0 +1,7 @@
+bambola:              0.9
+miracolo:             0.9
+giovanna:             0.9
+angelo:               0.9
+luna:                 0.9
+ascensione:           0.9
+surreale:             0.9

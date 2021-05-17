@@ -1,0 +1,4 @@
+seta:                 0.9
+belle_gambe:          0.9
+seduzione:            0.9
+bianco_e_nero:        0.9

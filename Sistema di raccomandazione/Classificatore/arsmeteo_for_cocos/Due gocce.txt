@@ -1,0 +1,2 @@
+goccia:               0.9
+astratto:             0.9

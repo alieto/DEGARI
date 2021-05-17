@@ -1,0 +1,7 @@
+forma:                0.9
+spazio:               0.9
+mente:                0.9
+isobara:              0.9
+spazi_mentali:        0.9
+area:                 0.9
+delimitazione:        0.9

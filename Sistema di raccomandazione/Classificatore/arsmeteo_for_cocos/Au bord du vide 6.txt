@@ -1,0 +1,3 @@
+flahs:                0.9
+spiaggia:             0.9
+notte:                0.9

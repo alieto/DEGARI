@@ -1,0 +1,6 @@
+origine:              0.9
+eredità:              0.9
+volto:                0.9
+gocce_di_colore:      0.9
+civiltà:              0.9
+cultura:              0.9

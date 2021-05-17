@@ -1,0 +1,8 @@
+metafisica|metafisico:0.9
+piazza:               0.9
+invaders:             0.9
+fontana:              0.9
+jioko:                0.9
+circus:               0.9
+vincenzo_ampolo:      0.9
+fabrizio_fontana:     0.9

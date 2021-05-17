@@ -1,0 +1,3 @@
+mappa:                0.9
+piazza:               0.9
+agorà:                0.9

@@ -1,0 +1,5 @@
+città:                0.9
+liquido:              0.9
+fluido:               0.9
+genova:               0.9
+fontana:              0.9

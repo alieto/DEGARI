@@ -1,0 +1,3 @@
+linee_rette:          0.9
+incontri_al_vertice:  0.9
+scostamento:          0.9

@@ -1,0 +1,11 @@
+fiume:                0.9
+acqua:                0.9
+agri_sinni_bradano_basento:0.9
+sorgente:             0.9
+acque_dotti:          0.9
+acque_ignoranti:      0.9
+dissesto:             0.9
+inquinamento:         0.9
+terra:                0.9
+memoria:              0.9
+radice:               0.9

@@ -1,0 +1,11 @@
+cuore:                0.9
+forma:                0.6
+corpo:                0.6
+astrazione:           0.6
+curva:                0.6
+geometria:            0.6
+campiture:            0.6
+intersezione:         0.6
+rappresentazione:     0.6
+organo:               0.6
+creatività:           0.6

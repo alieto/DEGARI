@@ -1,0 +1,8 @@
+acquerello:           0.9
+cotone:               0.9
+mano:                 0.9
+martellare:           0.9
+cm.75.50:             0.9
+anno:                 0.9
+eseguire:             0.9
+.:                    0.9

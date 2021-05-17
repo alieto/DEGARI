@@ -1,0 +1,8 @@
+palazzo_reale:        0.9
+operaio:              0.9
+domani_funerali:      0.9
+compagno:             0.9
+delitto:              0.9
+responsabilità:       0.9
+capitalista:          0.9
+criminale:            0.9

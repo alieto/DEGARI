@@ -1,0 +1,13 @@
+/:                    0.9
+nbsp:                 0.75
+riga:                 0.66
+andare:               0.63
+e\:                   0.63
+ciò:                  0.6
+fra:                  0.6
+lawrence:             0.6
+ferlinghetti:         0.6
+prosdocimo:           0.6
+what:                 0.6
+is:                   0.6
+poetry:               0.6

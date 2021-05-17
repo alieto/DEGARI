@@ -1,0 +1,4 @@
+architettura:         0.9
+leggerezza:           0.9
+tessuto:              0.9
+porta:                0.9

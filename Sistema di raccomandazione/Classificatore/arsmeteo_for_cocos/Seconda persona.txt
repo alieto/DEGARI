@@ -1,0 +1,9 @@
+geometria:            0.9
+seconda_persona:      0.9
+rilievo:              0.9
+quadrato:             0.9
+percorso:             0.9
+materico_cromatico:   0.9
+diramazione:          0.9
+sviluppo:             0.9
+figure_geometriche:   0.9

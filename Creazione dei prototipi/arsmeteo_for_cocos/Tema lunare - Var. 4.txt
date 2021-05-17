@@ -1,0 +1,3 @@
+variazione:           0.9
+lunaticità:           0.9
+colpo_di_sole:        0.9

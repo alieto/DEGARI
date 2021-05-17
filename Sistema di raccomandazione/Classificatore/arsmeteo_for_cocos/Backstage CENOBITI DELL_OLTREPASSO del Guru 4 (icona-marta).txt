@@ -1,0 +1,6 @@
+backstage:            0.9
+cenobiti_dell_oltrepasso:0.9
+guru:                 0.9
+icona:                0.9
+marta:                0.9
+interrogativo:        0.9

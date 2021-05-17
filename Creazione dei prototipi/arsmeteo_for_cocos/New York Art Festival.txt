@@ -1,0 +1,11 @@
+new:                  0.9
+york:                 0.9
+art:                  0.9
+festival:             0.9
+acrilico:             0.9
+carta:                0.9
+bozza:                0.9
+bozzetto:             0.9
+manifesto:            0.9
+acrylic:              0.9
+paper:                0.9

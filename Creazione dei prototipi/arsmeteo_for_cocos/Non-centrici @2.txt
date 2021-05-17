@@ -1,0 +1,4 @@
+plasticità:           0.9
+geometria:            0.9
+figura_sfondo:        0.9
+variazione:           0.9

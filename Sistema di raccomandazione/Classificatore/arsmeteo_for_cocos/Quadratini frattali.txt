@@ -1,0 +1,9 @@
+quadratino:           0.9
+quadratinismo:        0.9
+frattali:             0.9
+possibilità:          0.9
+casella:              0.9
+icona:                0.9
+cella:                0.9
+forma:                0.9
+astrazioni_matematiche:0.9

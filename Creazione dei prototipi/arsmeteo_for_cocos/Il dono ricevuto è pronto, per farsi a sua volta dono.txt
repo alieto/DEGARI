@@ -1,0 +1,10 @@
+tempo:                0.9
+senso:                0.9
+tuttotondo:           0.9
+bassorilievo:         0.9
+lettura:              0.9
+percezione:           0.9
+volume:               0.9
+romanico:             0.9
+religione:            0.9
+narrazione:           0.9

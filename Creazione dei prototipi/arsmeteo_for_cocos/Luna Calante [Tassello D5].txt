@@ -1,0 +1,7 @@
+luna:                 0.9
+calante:              0.9
+arto:                 0.9
+leva:                 0.9
+surreale:             0.9
+inquietante:          0.9
+limpidezza:           0.9

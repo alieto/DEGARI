@@ -1,0 +1,6 @@
+bambola:              0.9
+arancio:              0.9
+surfanta:             0.9
+surreale:             0.9
+capelli_rossi:        0.9
+stivale:              0.9

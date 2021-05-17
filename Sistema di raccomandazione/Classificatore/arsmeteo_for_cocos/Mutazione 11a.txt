@@ -1,0 +1,3 @@
+embrionale:           0.9
+primordiale:          0.9
+organico:             0.9

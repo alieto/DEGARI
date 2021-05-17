@@ -1,0 +1,13 @@
+orchestra:            0.9
+sinfonico:            0.9
+nazionale:            0.9
+rai:                  0.9
+diretto:              0.9
+juraj:                0.9
+valcuha:              0.9
+haydn:                0.9
+eseguire:             0.9
+sinfonia:             0.9
+bem:                  0.9
+mag:                  0.9
+reine:                0.9

@@ -1,0 +1,6 @@
+lettura:              0.9
+svago:                0.9
+riposo:               0.9
+rito:                 0.9
+contesto:             0.9
+villaggio:            0.9

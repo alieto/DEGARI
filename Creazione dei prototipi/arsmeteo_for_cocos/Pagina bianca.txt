@@ -1,0 +1,6 @@
+br:                   0.9
+pagina:               0.6
+bianca:               0.6
+pausa:                0.6
+creativo:             0.6
+nbsp:                 0.6

@@ -1,0 +1,12 @@
+acrilico:             0.9
+tela:                 0.9
+salento:              0.9
+sabbia:               0.9
+mare:                 0.9
+vinavil:              0.9
+collare:              0.9
+blu:                  0.9
+blue:                 0.9
+sand:                 0.9
+acrylic:              0.9
+canvas:               0.9

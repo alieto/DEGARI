@@ -1,0 +1,3 @@
+fosforescenza:        0.9
+orbita:               0.9
+ellisse|ellissi:      0.9

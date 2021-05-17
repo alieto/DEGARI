@@ -1,0 +1,6 @@
+albero:               0.9
+solo:                 0.9
+rosso:                0.9
+luce:                 0.9
+magritte:             0.9
+filtrare:             0.9

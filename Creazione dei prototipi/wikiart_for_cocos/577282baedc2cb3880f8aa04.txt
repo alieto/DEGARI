@@ -1,0 +1,2 @@
+pessimism:            0.9
+fear:                 0.9

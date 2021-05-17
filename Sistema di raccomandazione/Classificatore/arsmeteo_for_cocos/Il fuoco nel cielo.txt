@@ -1,0 +1,4 @@
+tramonto:             0.9
+nuvola:               0.9
+cielo:                0.9
+monte:                0.9

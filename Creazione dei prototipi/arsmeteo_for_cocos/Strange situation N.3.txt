@@ -1,0 +1,5 @@
+allevamento:          0.9
+maiale:               0.9
+gnomo:                0.9
+foraggiare:           0.9
+folletto:             0.9

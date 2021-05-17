@@ -1,0 +1,8 @@
+campana:              0.9
+spazio:               0.9
+aere:                 0.9
+tromba:               0.9
+campanello:           0.9
+din_don:              0.9
+quintessenza:         0.9
+vibrazione:           0.9

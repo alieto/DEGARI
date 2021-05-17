@@ -1,0 +1,10 @@
+musico:               0.9
+suonatore:            0.9
+flauto_traverso:      0.9
+incantatore:          0.9
+gamba_di_legno:       0.9
+borraccia:            0.9
+montagna:             0.9
+sasso:                0.9
+surfanta:             0.9
+surreale:             0.9

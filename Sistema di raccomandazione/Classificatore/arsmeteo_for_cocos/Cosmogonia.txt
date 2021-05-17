@@ -1,0 +1,6 @@
+farfalla:             0.9
+universo:             0.9
+linea:                0.9
+sincronicità:         0.9
+energia:              0.9
+colore:               0.9

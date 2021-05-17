@@ -1,0 +1,5 @@
+netville:             0.9
+primo:                0.9
+clavis:               0.9
+foundation:           0.9
+ciudad:               0.9

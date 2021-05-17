@@ -1,0 +1,4 @@
+uomo:                 0.9
+invecchiare:          0.9
+donna:                0.9
+gerusalemme:          0.9

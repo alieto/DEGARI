@@ -1,0 +1,8 @@
+blog:                 0.9
+blog_caffè:           0.9
+piero:                0.9
+cauduro:              0.9
+pensiero:             0.9
+internet:             0.9
+blogosfera:           0.9
+parola:               0.9

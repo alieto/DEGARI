@@ -1,0 +1,4 @@
+mare:                 0.9
+palo:                 0.9
+diano_marina:         0.9
+molo:                 0.9

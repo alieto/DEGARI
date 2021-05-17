@@ -1,0 +1,5 @@
+bologna:              0.9
+piccione:             0.9
+porta:                0.9
+piccolo:              0.9
+presenza:             0.9

@@ -1,0 +1,6 @@
+trittico:             0.9
+morta:                0.9
+natura:               0.9
+frutta:               0.9
+life:                 0.9
+still:                0.9

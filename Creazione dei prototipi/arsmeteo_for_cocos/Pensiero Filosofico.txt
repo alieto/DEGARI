@@ -1,0 +1,10 @@
+torino:               0.9
+pensiero:             0.9
+replaced-dns:         0.9
+streetart:            0.9
+gtt:                  0.9
+tram:                 0.9
+attesa:               0.9
+muro:                 0.9
+loading:              0.9
+spirito:              0.9

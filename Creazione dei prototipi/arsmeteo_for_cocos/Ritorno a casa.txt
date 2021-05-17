@@ -1,0 +1,4 @@
+canale:               0.9
+bicicletta:           0.9
+ritorno:              0.9
+riflesso:             0.9

@@ -1,0 +1,3 @@
+industriale:          0.9
+fabbrica:             0.9
+riutilizzo:           0.9

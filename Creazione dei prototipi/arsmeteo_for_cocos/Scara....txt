@@ -1,0 +1,4 @@
+omino:                0.9
+caos:                 0.9
+grafia:               0.9
+automatismo:          0.9

@@ -1,0 +1,4 @@
+glamour:              0.9
+anfora:               0.9
+rotondità:            0.9
+polaroid:             0.9

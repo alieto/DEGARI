@@ -1,0 +1,5 @@
+metropoli:            0.9
+metametropoli:        0.9
+graffito:             0.9
+streetart:            0.9
+palazzo:              0.9

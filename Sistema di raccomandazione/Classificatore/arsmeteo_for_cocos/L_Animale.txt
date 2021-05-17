@@ -1,0 +1,2 @@
+animale:              0.9
+incubo:               0.9

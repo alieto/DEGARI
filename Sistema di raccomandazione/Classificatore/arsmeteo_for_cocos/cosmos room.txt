@@ -1,0 +1,4 @@
+ezio_zanin:           0.9
+opera:                0.9
+spalla:               0.9
+cranio:               0.9

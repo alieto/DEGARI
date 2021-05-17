@@ -1,0 +1,12 @@
+blasone:              0.9
+titolo:               0.9
+onorificenza:         0.9
+dissolvenza:          0.9
+incrocio:             0.9
+biblioteca:           0.9
+tavolo:               0.9
+linearità:            0.9
+duca:                 0.9
+intreccio:            0.9
+pranosofia:           0.9
+caffetteria:          0.9

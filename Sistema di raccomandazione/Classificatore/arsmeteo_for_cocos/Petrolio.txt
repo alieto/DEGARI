@@ -1,0 +1,6 @@
+petrolio:             0.9
+mondo:                0.6
+mappa:                0.6
+pesce:                0.6
+mare:                 0.6
+acqua:                0.6

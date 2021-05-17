@@ -1,0 +1,7 @@
+origins:              0.9
+world:                0.9
+black:                0.9
+red:                  0.9
+green:                0.9
+yellow:               0.9
+quadrotto:            0.9

@@ -1,0 +1,5 @@
+bambino:              0.9
+notte:                0.9
+giorno:               0.9
+prato_verde:          0.9
+barchetta_di_carta:   0.9

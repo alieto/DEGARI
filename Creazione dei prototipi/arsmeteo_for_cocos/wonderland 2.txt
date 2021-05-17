@@ -1,0 +1,4 @@
+galleria:             0.9
+houston:              0.9
+tempio_consumo:       0.9
+follia:               0.9

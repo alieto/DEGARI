@@ -1,0 +1,5 @@
+intreccio:            0.9
+visiera:              0.9
+panchetta:            0.9
+velluto:              0.9
+ombra:                0.9

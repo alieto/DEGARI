@@ -1,0 +1,6 @@
+serra:                0.9
+coltura:              0.9
+microcoltura:         0.9
+zen:                  0.9
+intensivo:            0.9
+giardino:             0.9

@@ -1,0 +1,4 @@
+gesto:                0.9
+segno:                0.9
+parola:               0.9
+eu-tòpos:             0.9

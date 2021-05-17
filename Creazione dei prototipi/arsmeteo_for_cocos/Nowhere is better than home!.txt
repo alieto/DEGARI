@@ -1,0 +1,7 @@
+mago_di_oz:           0.9
+prato_fiorito:        0.9
+scarpetta:            0.9
+uomo_di_latta:        0.9
+leone:                0.9
+spaventapasseri:      0.9
+croce:                0.9

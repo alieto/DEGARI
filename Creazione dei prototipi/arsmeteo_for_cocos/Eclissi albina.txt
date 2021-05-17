@@ -1,0 +1,10 @@
+atterraggio:          0.9
+aereo:                0.9
+monoplano:            0.9
+albino:               0.9
+luna:                 0.9
+eclisse|eclissi:      0.9
+leumann:              0.9
+eclissi_di_luna:      0.9
+surfanta:             0.9
+gorilla:              0.9

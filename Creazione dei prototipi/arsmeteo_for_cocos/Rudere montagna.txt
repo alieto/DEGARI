@@ -1,0 +1,3 @@
+montagna:             0.9
+fusione:              0.9
+rudere:               0.9

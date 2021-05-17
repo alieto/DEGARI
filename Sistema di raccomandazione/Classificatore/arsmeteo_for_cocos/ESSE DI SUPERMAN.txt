@@ -1,0 +1,3 @@
+esse:                 0.9
+superman:             0.9
+logo:                 0.9

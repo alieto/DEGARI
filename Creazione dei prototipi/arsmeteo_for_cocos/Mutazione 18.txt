@@ -1,0 +1,3 @@
+fuoco:                0.9
+esplosione:           0.9
+tellurico:            0.9

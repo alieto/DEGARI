@@ -1,0 +1,7 @@
+traffico:             0.9
+palermo:              0.9
+grandi_navi_veloci:   0.9
+incrocio:             0.9
+mare:                 0.9
+fuga:                 0.9
+problema:             0.9

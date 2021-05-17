@@ -1,0 +1,4 @@
+ballo:                0.9
+sposo:                0.9
+felicità:             0.9
+musica:               0.9

@@ -1,0 +1,7 @@
+dittatura_erditaria:  0.9
+festeggiamento:       0.9
+accondiscendenza:     0.9
+rassegnazione:        0.9
+potere:               0.9
+forza:                0.9
+scaltrezza:           0.9

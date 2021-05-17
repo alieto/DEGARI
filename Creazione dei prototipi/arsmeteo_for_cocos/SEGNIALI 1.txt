@@ -1,0 +1,4 @@
+segno:                0.9
+segnale:              0.9
+scrittura:            0.9
+semantica_immaginaria:0.9

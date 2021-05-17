@@ -1,0 +1,1 @@
+repetita_juvant:      0.9

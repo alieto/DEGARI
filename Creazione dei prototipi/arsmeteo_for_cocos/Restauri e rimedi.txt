@@ -1,0 +1,7 @@
+cefalà¹:              0.9
+duomo:                0.9
+trasparenza:          0.9
+segreto:              0.9
+vincolo:              0.9
+ammissione:           0.9
+patterns:             0.9

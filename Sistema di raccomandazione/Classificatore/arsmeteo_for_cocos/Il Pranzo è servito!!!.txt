@@ -1,0 +1,5 @@
+pranzo:               0.9
+fungoatomico:         0.9
+domenica:             0.9
+donna:                0.9
+boom:                 0.9

@@ -1,0 +1,4 @@
+maria:                0.9
+cuore:                0.9
+cuore_rosso:          0.9
+quore_grande:         0.9

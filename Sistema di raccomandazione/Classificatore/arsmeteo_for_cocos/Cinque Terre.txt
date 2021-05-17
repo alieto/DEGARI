@@ -1,0 +1,7 @@
+casa:                 0.9
+cinque_terre:         0.9
+staccionata:          0.9
+sovrapposizione:      0.9
+strato:               0.9
+verde_acqua:          0.9
+piano:                0.9

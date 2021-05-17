@@ -1,0 +1,3 @@
+memoria:              0.9
+movimento:            0.9
+esperienza:           0.9

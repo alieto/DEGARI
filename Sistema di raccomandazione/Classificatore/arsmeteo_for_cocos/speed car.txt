@@ -1,0 +1,7 @@
+rivolo:               0.9
+foto_rubate:          0.9
+cromo:                0.9
+di_quale_arte_parliamo:0.9
+rutilante:            0.9
+potenza:              0.9
+aggressività:         0.9

@@ -1,0 +1,5 @@
+mole:                 0.9
+seethrough:           0.9
+sagoma:               0.9
+brazzani:             0.9
+torino:               0.9

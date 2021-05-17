@@ -1,0 +1,5 @@
+alchimia:             0.9
+solfomercurio:        0.9
+sala|sale:            0.9
+big:                  0.9
+babol:                0.9

@@ -1,0 +1,7 @@
+auto:                 0.9
+farfalla:             0.9
+metamorfosi:          0.9
+trasformazione:       0.9
+farfalla_meccanica:   0.9
+linea:                0.9
+sincronicità:         0.9

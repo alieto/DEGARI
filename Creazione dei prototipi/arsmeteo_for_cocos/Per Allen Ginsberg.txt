@@ -1,0 +1,8 @@
+allen_ginsberg:       0.9
+dedica:               0.9
+america:              0.9
+stagione_dorata:      0.9
+notti_psichedeliche:  0.9
+figli_ribelli:        0.9
+contro_le_corruzioni: 0.9
+sogno:                0.9

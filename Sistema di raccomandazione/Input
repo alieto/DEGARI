@@ -1,0 +1,29 @@
+#Commento
+
+# File di input per Cocos
+
+
+#Title composizione
+Title: Pet-Fish
+
+#Concetto Principale
+Head Concept Name: Fish
+
+#Concetto Modificatore
+Modifier Concept Name: Pet
+
+#Sintassi : 
+#   T() operatore tipicalita da applicare a head o modifier (ex. T(head))
+#   Per definire attributo negativo utilizzare il simbolo - prima del nome #        (ex. -attribute)
+#   In generale le colonne sono due per le proprietà dure e tre per 
+#        quelle morbide (quella in più serve per la percentuale)           
+
+
+
+T(modifier), attr1,0.4
+head, -attr1
+T(modifier),attr2,0.5
+T(head),attr4,0.6
+modifier,attr3
+T(head), -attr3, 0.7
+T(modifier), -attr4, 0.5

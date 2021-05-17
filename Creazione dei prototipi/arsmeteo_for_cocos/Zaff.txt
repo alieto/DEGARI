@@ -1,0 +1,12 @@
+animale:              0.9
+zafferano:            0.9
+pigro:                0.9
+ustica:               0.9
+felino:               0.9
+cannibale:            0.9
+noncurante:           0.9
+continuare:           0.9
+gatto_dormiente:      0.9
+cielo:                0.9
+mare:                 0.9
+estate:               0.9

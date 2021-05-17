@@ -1,0 +1,2 @@
+grigio_su_grigio:     0.9
+frastaglio:           0.9

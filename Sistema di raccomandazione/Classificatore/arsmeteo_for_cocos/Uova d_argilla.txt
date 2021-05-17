@@ -1,0 +1,4 @@
+uovo:                 0.9
+ancestrale:           0.9
+presenza:             0.9
+passato:              0.9

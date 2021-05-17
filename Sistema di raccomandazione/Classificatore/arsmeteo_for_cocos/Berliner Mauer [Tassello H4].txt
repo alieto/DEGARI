@@ -1,0 +1,4 @@
+muro:                 0.9
+berlina:              0.9
+testimonianza:        0.9
+muro_di_berlino:      0.9

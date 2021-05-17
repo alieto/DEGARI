@@ -1,0 +1,8 @@
+geometria:            0.9
+figure_geometriche:   0.9
+rilievo:              0.9
+quadrato:             0.9
+materico_cromatico:   0.9
+sviluppo:             0.9
+struttura:            0.9
+castello:             0.9

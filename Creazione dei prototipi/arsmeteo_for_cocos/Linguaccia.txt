@@ -1,0 +1,3 @@
+cane:                 0.9
+fuori_la_lingua:      0.9
+dik:                  0.9

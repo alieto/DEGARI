@@ -1,0 +1,7 @@
+pila:                 0.9
+foto:                 0.9
+copertina:            0.9
+dorso:                0.9
+parola:               0.9
+passione:             0.9
+scrittura:            0.9

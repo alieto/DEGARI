@@ -1,0 +1,8 @@
+telefono:             0.9
+lettura:              0.9
+sorvegliare:          0.9
+riflessione:          0.9
+piacere:              0.9
+pastiglia:            0.9
+controllo:            0.9
+luce:                 0.9

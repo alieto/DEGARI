@@ -1,0 +1,7 @@
+primavera:            0.9
+alberi_in_fiore:      0.9
+erba:                 0.9
+vento:                0.9
+fresco:               0.9
+giorno:               0.9
+luminoso:             0.9

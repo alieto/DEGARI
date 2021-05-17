@@ -1,0 +1,12 @@
+sorriso:              0.9
+fata:                 0.9
+fato:                 0.9
+towers:               0.9
+acume:                0.9
+ottusità:             0.9
+grido:                0.9
+trash:                0.9
+gravità:              0.9
+caduta:               0.9
+incrocio:             0.9
+sguardo:              0.9

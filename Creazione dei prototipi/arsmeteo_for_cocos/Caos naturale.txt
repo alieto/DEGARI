@@ -1,0 +1,6 @@
+uomo:                 0.9
+riflessione:          0.9
+preghiera:            0.9
+esplosione:           0.9
+natura:               0.9
+caos:                 0.9

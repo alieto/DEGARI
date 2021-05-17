@@ -1,0 +1,4 @@
+angolo:               0.9
+ringhiera:            0.9
+balcone:              0.9
+escher:               0.9

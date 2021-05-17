@@ -1,0 +1,4 @@
+pelato:               0.9
+bambola:              0.9
+figlia:               0.9
+marta:                0.9

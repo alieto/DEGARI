@@ -1,0 +1,8 @@
+università:           0.9
+torino:               0.9
+folksonomies:         0.9
+meeting:              0.9
+industry:             0.9
+computer_science:     0.9
+raining:              0.9
+tags:                 0.9

@@ -1,0 +1,10 @@
+surgelato:            0.9
+raggelare:            0.9
+anfora:               0.9
+solidificare:         0.9
+resto:                0.9
+reperto:              0.9
+mucchio:              0.9
+incuria:              0.9
+pompei:               0.9
+sotto:                0.9

@@ -1,0 +1,2 @@
+fantasy:              0.9
+verde:                0.9

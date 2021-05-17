@@ -1,0 +1,7 @@
+strappi+:             0.9
+-decollage+:          0.9
+-frammenti+:          0.9
+-frammentazione+:     0.9
+-lettere+:            0.9
+-celarsi+:            0.9
+occhio:               0.9

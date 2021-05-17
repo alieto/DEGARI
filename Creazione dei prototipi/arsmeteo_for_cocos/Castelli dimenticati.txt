@@ -1,0 +1,9 @@
+storia:               0.9
+castello:             0.9
+medioevo:             0.9
+federico_ii:          0.9
+archeologia:          0.9
+rovinismo:            0.9
+signora|signore:      0.9
+svevi:                0.9
+longobardo:           0.9

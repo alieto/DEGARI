@@ -1,0 +1,12 @@
+meticciato:           0.9
+sincretismo:          0.9
+tom_tom:              0.9
+tabla:                0.9
+darabuqqa:            0.9
+pakhajaw:             0.9
+vibrafono:            0.9
+flauto:               0.9
+chitarra:             0.9
+musica_indiana:       0.9
+musica_contemporanea: 0.9
+castagnoli:           0.9

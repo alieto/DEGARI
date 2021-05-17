@@ -1,0 +1,8 @@
+cappotto:             0.9
+freddo:               0.9
+città:                0.9
+metropoli:            0.9
+solitudive:           0.9
+grattacielo:          0.9
+urbano:               0.9
+skyline:              0.9

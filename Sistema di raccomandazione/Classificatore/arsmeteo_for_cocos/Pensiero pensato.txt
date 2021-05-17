@@ -1,0 +1,2 @@
+pensiero:             0.9
+mente:                0.9

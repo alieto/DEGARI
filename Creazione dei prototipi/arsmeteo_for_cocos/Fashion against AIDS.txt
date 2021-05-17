@@ -1,0 +1,3 @@
+premiazione:          0.9
+sfilata:              0.9
+giurato:              0.9

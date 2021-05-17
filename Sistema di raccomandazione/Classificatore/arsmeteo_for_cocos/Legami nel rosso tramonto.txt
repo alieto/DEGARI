@@ -1,0 +1,1 @@
+rosso_tramonto:       0.9

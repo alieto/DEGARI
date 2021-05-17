@@ -1,0 +1,6 @@
+fitoterapia:          0.9
+fitomedicina:         0.9
+pianta:               0.9
+naturale:             0.9
+farmacologia:         0.9
+medicina_alternativa: 0.9

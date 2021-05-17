@@ -1,0 +1,4 @@
+merce:                0.9
+persona:              0.9
+nazionalità:          0.9
+morte:                0.9

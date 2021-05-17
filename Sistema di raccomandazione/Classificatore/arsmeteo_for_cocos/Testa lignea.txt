@@ -1,0 +1,5 @@
+lineamento:           0.9
+intaglio:             0.9
+espressivo:           0.9
+levigare:             0.9
+pensoso:              0.9

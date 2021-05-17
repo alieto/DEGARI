@@ -1,0 +1,7 @@
+lupo:                 0.9
+solfeggio:            0.9
+lezione:              0.9
+lavagna:              0.9
+ululato:              0.9
+lune_per_note:        0.9
+spartito:             0.9

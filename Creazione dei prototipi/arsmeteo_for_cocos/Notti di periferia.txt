@@ -1,0 +1,2 @@
+notte:                0.9
+perfieria:            0.9

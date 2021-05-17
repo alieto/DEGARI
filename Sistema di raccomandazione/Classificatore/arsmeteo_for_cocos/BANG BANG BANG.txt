@@ -1,0 +1,5 @@
+bang:                 0.9
+pistola:              0.9
+michey_mouse:         0.9
+minnie:               0.9
+biancaneve:           0.9

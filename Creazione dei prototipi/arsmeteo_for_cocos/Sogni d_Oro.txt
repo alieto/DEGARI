@@ -1,0 +1,10 @@
+oro:                  0.9
+denaro:               0.9
+soldo:                0.9
+bronzo:               0.9
+zecchino:             0.9
+ducato:               0.9
+ricco:                0.9
+pallido:              0.9
+rame:                 0.9
+metallo:              0.9

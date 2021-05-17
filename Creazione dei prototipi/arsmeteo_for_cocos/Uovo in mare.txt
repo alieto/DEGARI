@@ -1,0 +1,6 @@
+uovo:                 0.9
+mare:                 0.9
+aiuto:                0.9
+caus:                 0.9
+richiesta:            0.9
+fuga:                 0.9

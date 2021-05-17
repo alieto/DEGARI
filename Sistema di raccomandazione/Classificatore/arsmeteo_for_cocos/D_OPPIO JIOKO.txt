@@ -1,0 +1,6 @@
+oppio:                0.9
+doppio:               0.9
+jioko:                0.9
+bimbo:                0.9
+eduardo:              0.9
+raggio_verde:         0.9

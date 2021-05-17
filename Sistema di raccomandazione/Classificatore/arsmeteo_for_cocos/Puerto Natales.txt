@@ -1,0 +1,6 @@
+patagonia:            0.9
+ghiaccio:             0.9
+vento:                0.9
+ande:                 0.9
+silenzio:             0.9
+montagna:             0.9

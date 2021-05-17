@@ -1,0 +1,2 @@
+chagall:              0.9
+anamorfismi:          0.9

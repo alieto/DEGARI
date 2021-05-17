@@ -1,0 +1,6 @@
+bicicletta:           0.9
+velocità:             0.9
+città:                0.9
+pista:                0.9
+freccia:              0.9
+girare:               0.9

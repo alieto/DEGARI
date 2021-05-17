@@ -1,0 +1,8 @@
+negazione:            0.9
+opposizione:          0.9
+ostensione:           0.9
+sguardo_fisso:        0.9
+ispido:               0.9
+languido:             0.9
+carnale:              0.9
+impossibile:          0.9

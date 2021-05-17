@@ -1,0 +1,5 @@
+vetrina:              0.9
+abito:                0.9
+eleganza:             0.9
+lusso:                0.9
+parigi:               0.9

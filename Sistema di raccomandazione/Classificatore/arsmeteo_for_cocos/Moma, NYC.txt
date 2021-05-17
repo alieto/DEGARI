@@ -1,0 +1,6 @@
+museo:                0.9
+lettura:              0.9
+rilassamento:         0.9
+cultura:              0.9
+ricchezza:            0.9
+civiltà:              0.9

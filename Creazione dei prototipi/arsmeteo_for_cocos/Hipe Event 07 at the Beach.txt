@@ -1,0 +1,3 @@
+evento:               0.9
+comunicazione:        0.9
+flyer:                0.9

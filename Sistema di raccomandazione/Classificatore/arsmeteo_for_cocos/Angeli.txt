@@ -1,0 +1,5 @@
+angelo:               0.9
+grafica:              0.6
+cartella:             0.6
+pennello:             0.6
+natura_morta:         0.6

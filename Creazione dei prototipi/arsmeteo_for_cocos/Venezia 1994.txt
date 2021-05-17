@@ -1,0 +1,3 @@
+carboncino:           0.9
+cartone:              0.9
+cm:                   0.9

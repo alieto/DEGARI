@@ -1,0 +1,9 @@
+urbano:               0.9
+spazio:               0.9
+open:                 0.9
+aprire:               0.9
+air:                  0.9
+relation:             0.9
+intimity:             0.9
+sex:                  0.9
+gender:               0.9

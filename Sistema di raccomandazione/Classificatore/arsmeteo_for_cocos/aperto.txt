@@ -1,0 +1,8 @@
+negozio:              0.9
+affare:               0.9
+cinema:               0.9
+noleggio:             0.9
+cassetta:             0.9
+dvd:                  0.9
+trash:                0.9
+consumo:              0.9

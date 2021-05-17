@@ -1,0 +1,3 @@
+chitarra:             0.9
+calcografia:          0.9
+sedia:                0.9

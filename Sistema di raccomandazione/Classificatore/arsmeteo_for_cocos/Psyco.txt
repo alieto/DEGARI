@@ -1,0 +1,6 @@
+riflesso:             0.9
+metropoli:            0.9
+immagine:             0.9
+leggerezza:           0.9
+sospensione:          0.9
+nuvola:               0.9

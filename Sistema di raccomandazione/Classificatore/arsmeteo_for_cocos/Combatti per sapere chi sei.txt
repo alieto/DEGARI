@@ -1,0 +1,7 @@
+lupo:                 0.9
+solitario:            0.9
+sapere:               0.9
+combattere:           0.9
+fight_club:           0.9
+conoscere:            0.9
+neve:                 0.9

@@ -1,0 +1,12 @@
+avana:                0.9
+inferriata:           0.9
+caraibi:              0.9
+finestra:             0.9
+balcone:              0.9
+panni_stesi:          0.9
+tempo:                0.9
+libertà:              0.9
+embargo:              0.9
+sospensione:          0.9
+attesa:               0.9
+netville:             0.9

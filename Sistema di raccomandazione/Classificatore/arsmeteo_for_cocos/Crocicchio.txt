@@ -1,0 +1,3 @@
+incrocio:             0.9
+incontro:             0.9
+crocicchio:           0.9

@@ -1,0 +1,4 @@
+strada:               0.9
+segno:                0.9
+striscia:             0.9
+linea:                0.9

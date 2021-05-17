@@ -1,0 +1,5 @@
+mondo:                0.9
+terra:                0.9
+immondo:              0.9
+spazzatura:           0.9
+mondo_immondo:        0.9

@@ -1,0 +1,3 @@
+solo:                 0.9
+racconto:             0.9
+cardo:                0.9

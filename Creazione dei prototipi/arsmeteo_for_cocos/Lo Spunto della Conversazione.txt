@@ -1,0 +1,11 @@
+birra:                0.9
+bottiglia:            0.9
+opera:                0.9
+arte:                 0.9
+spunto:               0.9
+conversazione:        0.9
+riconoscimento:       0.9
+intenzione:           0.9
+creazione:            0.9
+scopo:                0.9
+gesto:                0.9

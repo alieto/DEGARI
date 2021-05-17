@@ -1,0 +1,9 @@
+fiandra:              0.9
+profondo:             0.9
+cultura:              0.9
+serietà:              0.9
+sibarismo:            0.9
+diamante:             0.9
+scarto:               0.9
+navigazione:          0.9
+schelda:              0.9

@@ -1,0 +1,4 @@
+solitario:            0.9
+spiaggia:             0.9
+tronco:               0.9
+pupazzo:              0.9

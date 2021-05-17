@@ -1,0 +1,5 @@
+rosa_rosae_rosae:     0.9
+rosso:                0.9
+spirale:              0.9
+terra:                0.9
+centro:               0.9

@@ -1,0 +1,9 @@
+girasole:             0.9
+fiore:                0.9
+solo:                 0.9
+barocco:              0.9
+terra:                0.9
+arco:                 0.9
+foglia:               0.9
+pietra:               0.9
+storia:               0.9

@@ -1,0 +1,4 @@
+comodo:               0.9
+agevole:              0.9
+maneggevole:          0.9
+confortevole:         0.9

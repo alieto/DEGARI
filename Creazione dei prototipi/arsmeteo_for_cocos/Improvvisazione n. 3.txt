@@ -1,0 +1,3 @@
+sovrapposizione:      0.9
+random:               0.9
+plastificazione:      0.9

@@ -1,0 +1,9 @@
+albero:               0.9
+vegetale:             0.9
+parificazione:        0.9
+doppio:               0.9
+rivisitazione:        0.9
+geometrizzazione:     0.9
+muro:                 0.9
+pietra:               0.9
+ramificazione:        0.9

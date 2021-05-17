@@ -1,0 +1,3 @@
+sfaccettatura:        0.9
+luce:                 0.9
+pietra:               0.9

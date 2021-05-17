@@ -1,0 +1,5 @@
+rettile:              0.9
+ferro:                0.9
+maniglia:             0.9
+lucertola:            0.9
+portone:              0.9

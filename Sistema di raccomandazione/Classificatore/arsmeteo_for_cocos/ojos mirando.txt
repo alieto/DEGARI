@@ -1,0 +1,5 @@
+estraneamento:        0.9
+malinconia:           0.9
+promessa:             0.9
+aspettativa:          0.9
+attesa:               0.9

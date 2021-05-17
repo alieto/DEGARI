@@ -1,0 +1,5 @@
+esodo:                0.9
+mamma:                0.9
+bambino:              0.9
+persona:              0.9
+fuga:                 0.9

@@ -1,0 +1,3 @@
+gru:                  0.9
+rottami_metallici:    0.9
+recupero:             0.9

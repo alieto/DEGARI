@@ -1,0 +1,5 @@
+bianco_nero:          0.9
+nudo:                 0.9
+poltrona:             0.9
+capovolgere:          0.9
+autore_a_me_sconosciuto:0.9

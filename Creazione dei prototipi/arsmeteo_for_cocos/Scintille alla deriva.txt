@@ -1,0 +1,5 @@
+fiume:                0.9
+deriva:               0.9
+riflesso:             0.9
+scintilla:            0.9
+luce:                 0.9

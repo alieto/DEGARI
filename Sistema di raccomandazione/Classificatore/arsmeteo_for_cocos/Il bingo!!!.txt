@@ -1,0 +1,7 @@
+bingo:                0.9
+ragazzino:            0.9
+sorpresa:             0.9
+scatto:               0.9
+fuga:                 0.9
+birichino:            0.9
+festa:                0.9

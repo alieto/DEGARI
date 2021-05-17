@@ -1,0 +1,9 @@
+gioia:                0.9
+spensieratezza:       0.9
+tempo_lungo_davanti:  0.9
+acqua:                0.9
+mare:                 0.9
+luce:                 0.9
+aria:                 0.9
+iodio:                0.9
+forza:                0.9

@@ -1,0 +1,10 @@
+mondo:                0.9
+sole:                 0.9
+stella:               0.9
+raggio:               0.9
+radiazione:           0.9
+cerchi_concentrici:   0.9
+punto_linea_superficie:0.9
+spazio:               0.9
+prospettive_cromatiche:0.9
+spazio_digitale:      0.9

@@ -1,0 +1,7 @@
+sorpresa:             0.9
+serendipity:          0.9
+serendipità:          0.9
+mare:                 0.9
+in_volo:              0.9
+spiaggia:             0.9
+giallo_oro:           0.9

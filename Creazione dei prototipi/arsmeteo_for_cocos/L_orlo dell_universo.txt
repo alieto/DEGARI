@@ -1,0 +1,7 @@
+universo:             0.9
+orlo:                 0.9
+ago:                  0.9
+filo:                 0.9
+tessitura:            0.9
+luna_bottone:         0.9
+caus:                 0.9

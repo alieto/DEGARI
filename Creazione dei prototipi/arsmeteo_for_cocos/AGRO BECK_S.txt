@@ -1,0 +1,5 @@
+beck\:                0.9
+agricoltura:          0.9
+trattore:             0.9
+lavoro:               0.9
+vita:                 0.9

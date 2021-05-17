@@ -1,0 +1,7 @@
+pozzo:                0.9
+iniziazione:          0.9
+spirale:              0.9
+discesa:              0.9
+prova:                0.9
+esoterico:            0.9
+eccentrico:           0.9

@@ -1,0 +1,16 @@
+documentario:         0.9
+ottica:               0.9
+concepire:            0.9
+vita:                 0.9
+dimostrare:           0.9
+grande:               0.9
+drammaturgo:          0.9
+napoletano:           0.9
+passo:                0.9
+procedere:            0.9
+secolo:               0.9
+vissuto:              0.9
+impronta:             0.9
+lasciare:             0.9
+tanto:                0.9
+profondo:             0.9

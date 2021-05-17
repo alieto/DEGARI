@@ -1,0 +1,11 @@
+baco:                 0.9
+millennio:            0.9
+ink:                  0.9
+jet:                  0.9
+print:                0.9
+on:                   0.9
+canvas:               0.9
+stampa:               0.9
+getto:                0.9
+inchiostro:           0.9
+tela:                 0.9

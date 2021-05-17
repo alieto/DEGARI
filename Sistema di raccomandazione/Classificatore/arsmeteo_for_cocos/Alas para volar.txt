@@ -1,0 +1,11 @@
+ala:                  0.9
+volare:               0.9
+ape:                  0.9
+legno:                0.9
+pietra:               0.9
+aria:                 0.9
+vento:                0.9
+blu:                  0.9
+cielo:                0.9
+libertà:              0.9
+tranquillità:         0.9

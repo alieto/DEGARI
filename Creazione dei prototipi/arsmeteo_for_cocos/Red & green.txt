@@ -1,0 +1,12 @@
+verde:                0.9
+rosso:                0.9
+sand:                 0.9
+sabbia:               0.9
+acrylic:              0.9
+acrilico:             0.9
+digital:              0.9
+digitale:             0.9
+leger:                0.9
+green:                0.9
+red:                  0.9
+ink:                  0.9

@@ -1,0 +1,11 @@
+techno:               0.9
+concitazione:         0.9
+indiagitale:          0.9
+professionismo:       0.9
+musica_digitale:      0.9
+amici_d_infanzia:     0.9
+india:                0.9
+musica_elettronica:   0.9
+sitar:                0.9
+vicbrothers:          0.9
+foia:                 0.9

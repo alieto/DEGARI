@@ -1,0 +1,16 @@
+osservatore:          0.9
+osservatore_osservato:0.9
+alieno:               0.9
+osservatore_alieno:   0.9
+-avventore+:          0.9
+-spettatore+:         0.9
+-tavola_spettacolo+:  0.9
+convivio+:            0.9
+-arte_collettiva+:    0.9
+-ripresa_digitale+:   0.9
+-contaminazione+:     0.9
+-tavola+:             0.9
+-guarda_chi_guarda+:  0.9
+-chi_guarda_chi+:     0.9
+-ri_guardarsi+:       0.9
+-la_tavola_di:        0.9

@@ -1,0 +1,2 @@
+granchio:             0.9
+acqua:                0.9

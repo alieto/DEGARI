@@ -1,0 +1,4 @@
+montagna:             0.9
+roccia:               0.9
+prospettiva:          0.9
+via:                  0.9

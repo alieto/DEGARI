@@ -1,0 +1,7 @@
+mistico:              0.9
+rosene:               0.9
+luce:                 0.9
+cerchio:              0.9
+finestra:             0.9
+muro:                 0.9
+mattone:              0.9

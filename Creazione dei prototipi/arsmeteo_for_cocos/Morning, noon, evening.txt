@@ -1,0 +1,9 @@
+mattino:              0.9
+pomeriggio:           0.9
+sera:                 0.9
+morning:              0.9
+noon:                 0.9
+evening:              0.9
+telecamera:           0.9
+controllo:            0.9
+immagine:             0.9

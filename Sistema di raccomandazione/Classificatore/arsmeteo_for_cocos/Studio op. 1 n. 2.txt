@@ -1,0 +1,3 @@
+bulino:               0.9
+incisione:            0.9
+chocolat:             0.9

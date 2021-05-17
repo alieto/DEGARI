@@ -1,0 +1,3 @@
+motocicletta:         0.9
+tecnologia:           0.9
+futuro_anteriore:     0.9

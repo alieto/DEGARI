@@ -1,0 +1,4 @@
+obiettivo:            0.9
+velo:                 0.9
+concentrazione:       0.9
+effimero:             0.9

@@ -1,0 +1,7 @@
+ghiandaia:            0.9
+territorio:           0.9
+guardia:              0.9
+vedetta:              0.9
+albero:               0.9
+terra:                0.9
+rifugio:              0.9

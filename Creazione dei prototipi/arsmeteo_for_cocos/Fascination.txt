@@ -1,0 +1,3 @@
+dettaglio:            0.9
+sam:                  0.9
+foto_rubate:          0.9

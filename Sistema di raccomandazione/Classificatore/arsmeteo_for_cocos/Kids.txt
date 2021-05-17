@@ -1,0 +1,8 @@
+bambino:              0.9
+strada:               0.9
+emozione:             0.9
+sorriso:              0.9
+curiosità:            0.9
+cina:                 0.9
+yunnan:               0.9
+kunming:              0.9

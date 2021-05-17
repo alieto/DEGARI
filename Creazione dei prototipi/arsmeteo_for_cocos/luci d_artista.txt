@@ -1,0 +1,6 @@
+torino:               0.9
+piazza_mollino:       0.9
+sera:                 0.9
+tappeto_aereo:        0.9
+magia:                0.9
+rutilanti:            0.9

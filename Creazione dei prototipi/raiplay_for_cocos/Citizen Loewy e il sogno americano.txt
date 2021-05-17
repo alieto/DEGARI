@@ -1,0 +1,14 @@
+designer:             0.9
+francese:             0.9
+raymond:              0.9
+loewy:                0.9
+magnate:              0.9
+celebrità:            0.9
+sogno:                0.9
+vivere:               0.9
+americano:            0.9
+splendore:            0.9
+fine:                 0.9
+giungere:             0.9
+giorno:               0.9
+dimenticare:          0.6

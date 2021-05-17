@@ -1,0 +1,6 @@
+toro:                 0.9
+profilo:              0.9
+mania:                0.9
+spagna:               0.9
+guadalajara:          0.9
+argona:               0.9

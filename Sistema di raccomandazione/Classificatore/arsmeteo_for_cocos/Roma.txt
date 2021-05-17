@@ -1,0 +1,3 @@
+segno:                0.9
+rilievo:              0.9
+suggestione:          0.9

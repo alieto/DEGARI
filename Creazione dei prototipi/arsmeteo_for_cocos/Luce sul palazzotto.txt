@@ -1,0 +1,5 @@
+portico:              0.9
+palazzotto:           0.9
+figura:               0.9
+ombra:                0.9
+gocce_di_colore:      0.9

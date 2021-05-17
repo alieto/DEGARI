@@ -1,0 +1,8 @@
+cima:                 0.9
+cime_rosse:           0.9
+arbatax:              0.9
+scogliera:            0.9
+riva:                 0.9
+mare:                 0.9
+cromatismo:           0.9
+campiture:            0.9

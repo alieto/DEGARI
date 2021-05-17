@@ -1,0 +1,3 @@
+nudo:                 0.9
+tre:                  0.9
+tre_è_una_folla:      0.9

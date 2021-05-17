@@ -1,0 +1,5 @@
+bang:                 0.9
+pistola:              0.9
+tetris:               0.9
+sedici:               0.9
+pena|pene:            0.9

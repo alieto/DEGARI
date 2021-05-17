@@ -1,0 +1,3 @@
+febbre:               0.9
+mar|mare:             0.9
+morto:                0.9

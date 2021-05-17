@@ -1,0 +1,5 @@
+light:                0.9
+life:                 0.9
+shadow:               0.9
+strada:               0.9
+fiume:                0.9

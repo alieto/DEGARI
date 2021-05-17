@@ -1,0 +1,5 @@
+arpa:                 0.9
+chitarra:             0.9
+cane:                 0.9
+uccello:              0.9
+pallina:              0.9

@@ -1,0 +1,8 @@
+scomposizione:        0.9
+destrutturazione:     0.9
+fiore:                0.9
+struttura_nascosta:   0.9
+floreale:             0.9
+frattali:             0.9
+forma:                0.9
+apparenza:            0.9

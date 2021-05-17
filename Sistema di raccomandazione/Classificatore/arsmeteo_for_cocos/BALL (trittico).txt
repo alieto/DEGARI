@@ -1,0 +1,3 @@
+ball:                 0.9
+trittico:             0.9
+erba_sintetica:       0.9

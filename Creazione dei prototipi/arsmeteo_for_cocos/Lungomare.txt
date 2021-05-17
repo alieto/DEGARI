@@ -1,0 +1,3 @@
+lungomare:            0.9
+lampione:             0.9
+lastricato:           0.9

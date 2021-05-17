@@ -1,0 +1,7 @@
+moda:                 0.9
+posa:                 0.9
+camera:               0.9
+gamba:                0.9
+calze_blu:            0.9
+pop:                  0.9
+kitch:                0.9

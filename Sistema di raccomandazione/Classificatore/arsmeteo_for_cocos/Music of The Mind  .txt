@@ -1,0 +1,6 @@
+scultura:             0.9
+extraterrestre:       0.9
+surrealismo:          0.9
+verde:                0.9
+mistero:              0.9
+cesarevignato:        0.9

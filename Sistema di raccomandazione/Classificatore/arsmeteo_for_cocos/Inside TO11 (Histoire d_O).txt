@@ -1,0 +1,11 @@
+in_to:                0.9
+dentro_la_o:          0.9
+to_zero_undici:       0.9
+guru:                 0.9
+gianni_colombo:       0.9
+inserimento:          0.9
+idea_fissa:           0.9
+invasione:            0.9
+provocazione:         0.9
+riposo:               0.9
+relax:                0.9

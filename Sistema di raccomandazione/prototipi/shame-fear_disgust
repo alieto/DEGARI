@@ -1,0 +1,29 @@
+#Title composizione
+Title : fear-disgust
+
+#Concetto Principale
+Head Concept Name : fear
+
+#Concetto Modificatore
+Modifier Concept Name : disgust
+
+
+
+modifier, -honor
+
+T(modifier), cannibalism, 0.95
+T(modifier), mutilation, 0.93
+T(modifier), molestation, 0.91
+T(modifier), incest, 0.91
+T(modifier), gonorrhea, 0.91
+T(modifier), rape, 0.91
+
+T(head), torture, 0.98
+T(head), terrorist, 0.97
+T(head), horrific, 0.97
+T(head), kill, 0.96
+T(head), annihilate, 0.95
+T(head), terror, 0.95
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '0', '1', 1.834535287806478e-05

@@ -1,0 +1,6 @@
+alieno:               0.9
+geometrico:           0.9
+cubano:               0.9
+canarreos:            0.9
+caribe:               0.9
+mare:                 0.9

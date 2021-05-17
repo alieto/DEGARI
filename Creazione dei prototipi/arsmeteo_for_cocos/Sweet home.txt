@@ -1,0 +1,9 @@
+ritorno:              0.9
+lavoro:               0.9
+casa:                 0.9
+palazzo:              0.9
+metropoli:            0.9
+finestra:             0.9
+urbano:               0.9
+grigio:               0.9
+valigetta:            0.9

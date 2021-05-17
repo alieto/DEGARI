@@ -1,0 +1,5 @@
+paris:                0.9
+vetrina:              0.9
+arrondissement:       0.9
+ricordo:              0.9
+emozione:             0.9

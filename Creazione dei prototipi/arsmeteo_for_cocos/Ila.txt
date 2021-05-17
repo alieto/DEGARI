@@ -1,0 +1,2 @@
+bianco_nero:          0.9
+marocco:              0.9

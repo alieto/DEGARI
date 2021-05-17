@@ -1,0 +1,5 @@
+linea:                0.9
+moto:                 0.9
+fluido:               0.9
+incerto:              0.9
+percorso:             0.9

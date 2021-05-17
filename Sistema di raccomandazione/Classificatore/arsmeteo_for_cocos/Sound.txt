@@ -1,0 +1,4 @@
+suono:                0.9
+sound:                0.9
+vibrazione:           0.9
+ascoltare:            0.9

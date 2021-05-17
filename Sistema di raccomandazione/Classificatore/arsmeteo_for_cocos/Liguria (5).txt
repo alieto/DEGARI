@@ -1,0 +1,4 @@
+liguria:              0.9
+barca:                0.9
+imbarcazione:         0.9
+in_secca:             0.9

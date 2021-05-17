@@ -1,0 +1,4 @@
+cartina:              0.9
+mappa:                0.9
+topografia:           0.9
+segno:                0.9

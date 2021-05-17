@@ -1,0 +1,3 @@
+candore:              0.9
+trance:               0.9
+avvitamento:          0.9

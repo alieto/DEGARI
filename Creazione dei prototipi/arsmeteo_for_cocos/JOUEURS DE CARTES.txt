@@ -1,0 +1,12 @@
+protocubismo:         0.9
+fiammeggiare:         0.9
+riflessione:          0.9
+clima:                0.9
+cupola:               0.9
+copricapo:            0.9
+pipa:                 0.9
+mazzo:                0.9
+deserto:              0.9
+villaggio:            0.9
+fuoco:                0.9
+netville:             0.9

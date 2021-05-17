@@ -1,0 +1,6 @@
+scienza:              0.9
+albert_einstein:      0.9
+bomba_atomica:        0.9
+fungo_atomico:        0.9
+nucleare:             0.9
+paura:                0.9

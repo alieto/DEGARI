@@ -1,0 +1,13 @@
+storia:               0.9
+samundar:             0.9
+giovane:              0.9
+singh:                0.9
+fanatico:             0.9
+indù:                 0.9
+volta:                0.9
+accoltellare:         0.9
+suor:                 0.9
+rani:                 0.9
+maria:                0.9
+missionario:          0.9
+francescana:          0.9

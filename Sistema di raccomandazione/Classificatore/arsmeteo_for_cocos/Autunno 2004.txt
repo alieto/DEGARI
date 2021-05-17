@@ -1,0 +1,2 @@
+colore:               0.9
+autunno:              0.9

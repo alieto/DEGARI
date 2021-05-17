@@ -1,0 +1,9 @@
+lettera_i:            0.9
+monumento:            0.9
+inessenziale:         0.9
+vani_tag:             0.9
+inessenziali_tag:     0.9
+volatili_tag:         0.9
+ribaltabili_tag:      0.9
+abili_tag:            0.9
+didascalici_tag:      0.9

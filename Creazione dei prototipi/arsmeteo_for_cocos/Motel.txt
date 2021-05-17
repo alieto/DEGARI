@@ -1,0 +1,4 @@
+motel:                0.9
+fotografia:           0.9
+america:              0.9
+bianco:               0.9

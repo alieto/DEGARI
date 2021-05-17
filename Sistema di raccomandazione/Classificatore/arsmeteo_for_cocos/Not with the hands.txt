@@ -1,0 +1,8 @@
+posata:               0.9
+coltello:             0.9
+forchetta:            0.9
+non_con_le_mani:      0.9
+paperette:            0.9
+anello:               0.9
+consumo:              0.9
+consumare:            0.9

@@ -1,0 +1,4 @@
+fresh_art:            0.9
+massimiliano_manieri: 0.9
+elvis:                0.9
+copertina:            0.9

@@ -1,0 +1,11 @@
+corrispondenza:       0.9
+attrazione:           0.9
+splendido:            0.9
+gusto:                0.9
+goloso:               0.9
+oro:                  0.9
+giallo:               0.9
+cornice:              0.9
+luccicante:           0.9
+ciliegia:             0.9
+rosso:                0.9

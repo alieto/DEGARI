@@ -1,0 +1,4 @@
+metro:                0.9
+solitudine:           0.9
+metro_pechino:        0.9
+cina:                 0.9

@@ -1,0 +1,7 @@
+interiore:            0.9
+tavola:               0.9
+cinese:               0.9
+sensibilità:          0.9
+natura:               0.9
+fame:                 0.9
+animale:              0.9

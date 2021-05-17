@@ -1,0 +1,4 @@
+lettura:              0.9
+libro:                0.9
+collana:              0.9
+assorto:              0.9

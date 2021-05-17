@@ -1,0 +1,9 @@
+ombra:                0.9
+profilo:              0.6
+coppia:               0.6
+proiezione:           0.6
+luce:                 0.6
+pomodoro:             0.6
+composizione:         0.6
+rosso_blu:            0.6
+cinque:               0.6

@@ -1,0 +1,5 @@
+gatto:                0.9
+felino:               0.9
+ruggito:              0.9
+lingua:               0.9
+pelo:                 0.9

@@ -1,0 +1,4 @@
+donna:                0.9
+danza:                0.9
+suono:                0.9
+strada:               0.9

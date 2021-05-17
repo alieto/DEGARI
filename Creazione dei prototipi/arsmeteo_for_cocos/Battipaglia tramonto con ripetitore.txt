@@ -1,0 +1,10 @@
+tramonto:             0.9
+colore:               0.9
+romanticismo:         0.9
+ripetitore:           0.9
+tour_eiffel_dei_poveri:0.9
+skyline:              0.9
+tecnologia:           0.9
+elettromagnetismo:    0.9
+ecologia:             0.9
+estetica:             0.9

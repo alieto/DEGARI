@@ -1,0 +1,3 @@
+diagonale:            0.9
+plastiche_digitali:   0.9
+materiale:            0.9

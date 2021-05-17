@@ -1,0 +1,5 @@
+acqua:                0.9
+sirena:               0.9
+ofelia:               0.9
+pesciolino:           0.9
+canzone:              0.9

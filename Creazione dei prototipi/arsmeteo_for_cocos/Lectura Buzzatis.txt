@@ -1,0 +1,3 @@
+buzzati:              0.9
+dino:                 0.9
+borghese:             0.9

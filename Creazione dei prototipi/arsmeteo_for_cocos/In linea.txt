@@ -1,0 +1,5 @@
+farfalla:             0.9
+schieramento:         0.9
+colore:               0.9
+linea:                0.9
+sincronicità:         0.9

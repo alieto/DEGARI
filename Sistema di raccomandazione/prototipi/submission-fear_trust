@@ -1,0 +1,31 @@
+#Title composizione
+Title : fear-trust
+
+#Concetto Principale
+Head Concept Name : fear
+
+#Concetto Modificatore
+Modifier Concept Name : trust
+
+
+
+modifier, -cannibalism
+modifier, -molestation
+modifier, -rape
+
+T(modifier), truthfulness, 0.91
+T(modifier), trustworthy, 0.87
+T(modifier), honest, 0.84
+T(modifier), honor, 0.84
+T(modifier), truth, 0.84
+T(modifier), trusting, 0.84
+
+T(head), torture, 0.98
+T(head), terrorist, 0.97
+T(head), horrific, 0.97
+T(head), kill, 0.96
+T(head), annihilate, 0.95
+T(head), terror, 0.95
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '0', '1', 0.0003259860849367454

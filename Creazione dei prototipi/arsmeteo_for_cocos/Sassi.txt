@@ -1,0 +1,5 @@
+long:                 0.9
+instalazione:         0.9
+land_art:             0.9
+moransengo:           0.9
+castello:             0.9

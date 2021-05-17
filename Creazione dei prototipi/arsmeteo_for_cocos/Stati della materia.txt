@@ -1,0 +1,3 @@
+materia:              0.9
+analitico:            0.9
+apeiron:              0.9

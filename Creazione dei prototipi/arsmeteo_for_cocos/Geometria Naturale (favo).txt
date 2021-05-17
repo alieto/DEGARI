@@ -1,0 +1,6 @@
+affresco:             0.9
+muro:                 0.9
+blu:                  0.9
+geometria:            0.9
+spirale:              0.9
+logaritmico:          0.9

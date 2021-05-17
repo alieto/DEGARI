@@ -1,0 +1,10 @@
+autunno:              0.9
+carta:                0.9
+le_foglie_morte:      0.6
+autumn_leaves:        0.6
+acrilico:             0.6
+goccia:               0.6
+acqua:                0.6
+calore:               0.6
+foglia:               0.6
+rosso:                0.6

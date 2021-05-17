@@ -1,0 +1,5 @@
+maestoso:             0.9
+imponente:            0.9
+felliniano:           0.9
+bianco:               0.9
+nero:                 0.9

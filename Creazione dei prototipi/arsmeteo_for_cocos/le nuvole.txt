@@ -1,0 +1,7 @@
+viaggio:              0.9
+cielo:                0.9
+contrasto:            0.9
+arrivo:               0.9
+tempo:                0.9
+nuvola:               0.9
+azzurro:              0.9

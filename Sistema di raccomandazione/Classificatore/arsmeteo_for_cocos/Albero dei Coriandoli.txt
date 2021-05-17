@@ -1,0 +1,9 @@
+coriandolo:           0.9
+ramificazione:        0.9
+tronco:               0.9
+albero:               0.9
+ramo:                 0.9
+colore:               0.9
+multicolore:          0.9
+traslucido:           0.9
+cromatico:            0.9

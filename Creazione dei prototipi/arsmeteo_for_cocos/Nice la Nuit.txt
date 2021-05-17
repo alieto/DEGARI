@@ -1,0 +1,6 @@
+corpi_luminosi:       0.9
+res_cogitans:         0.9
+pensatore:            0.9
+en_attendant_godot:   0.9
+statue_sopra_nizza:   0.9
+corpo:                0.9

@@ -1,0 +1,15 @@
+eremita:              0.9
+tarocco:              0.9
+luce:                 0.9
+lanterna:             0.9
+drago:                0.9
+stana_la_verità:      0.9
+umiltà:               0.9
+costanza:             0.9
+cieco:                0.9
+terzo_occhio:         0.9
+occhi_chiusi:         0.9
+saggezza:             0.9
+esperienza:           0.9
+lampada:              0.9
+senza_tempo:          0.9

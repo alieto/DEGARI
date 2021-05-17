@@ -1,0 +1,6 @@
+armonia:              0.9
+sincretismo:          0.9
+confusione:           0.9
+equivoco:             0.9
+incomprensione:       0.9
+tolleranza:           0.9

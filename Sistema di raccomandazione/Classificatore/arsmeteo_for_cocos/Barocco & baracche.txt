@@ -1,0 +1,7 @@
+barocco:              0.9
+baracca:              0.9
+contrasto:            0.9
+storia:               0.9
+architettura:         0.9
+assonanza:            0.9
+gocce_di_colore:      0.9

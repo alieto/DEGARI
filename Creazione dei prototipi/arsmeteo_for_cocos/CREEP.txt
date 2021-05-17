@@ -1,0 +1,7 @@
+radiohead:            0.9
+creep:                0.9
+diverso:              0.9
+differente:           0.9
+checifaccioqui:       0.9
+edoacotto:            0.9
+narradiohead:         0.9

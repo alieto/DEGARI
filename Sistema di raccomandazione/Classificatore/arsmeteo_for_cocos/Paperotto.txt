@@ -1,0 +1,8 @@
+papero:               0.9
+paperotto:            0.9
+quack:                0.9
+metallo:              0.9
+riciclato:            0.9
+recupero:             0.9
+rivivere:             0.9
+assemblaggio:         0.9

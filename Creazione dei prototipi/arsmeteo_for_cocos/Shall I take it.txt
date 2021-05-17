@@ -1,0 +1,5 @@
+bambino:              0.9
+mano:                 0.9
+pianto:               0.9
+domanda:              0.9
+richiesta:            0.9

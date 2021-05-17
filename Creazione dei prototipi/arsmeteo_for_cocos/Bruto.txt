@@ -1,0 +1,2 @@
+collo:                0.9
+energumeno:           0.9

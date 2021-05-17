@@ -1,0 +1,8 @@
+pianto:               0.9
+ruscello:             0.9
+giorno:               0.9
+avvenire:             0.9
+incanto:              0.9
+spettatore:           0.9
+attonito:             0.9
+male:                 0.9

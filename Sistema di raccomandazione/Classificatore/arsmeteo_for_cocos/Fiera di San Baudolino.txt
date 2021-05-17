@@ -1,0 +1,8 @@
+banchetto:            0.9
+gorgonzola:           0.9
+cibo:                 0.9
+fiera:                0.9
+alessandria:          0.9
+baudolino:            0.9
+formaggio:            0.9
+acquolina:            0.9

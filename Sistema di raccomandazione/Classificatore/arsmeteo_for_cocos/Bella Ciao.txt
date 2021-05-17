@@ -1,0 +1,8 @@
+coro:                 0.9
+mujeres:              0.9
+entredà³s:            0.9
+malhuén:              0.9
+bella_ciao:           0.9
+partigiano:           0.9
+è_arrivato_l_invasor: 0.9
+portami_via:          0.9

@@ -1,0 +1,8 @@
+miele:                0.9
+strutto:              0.9
+burro:                0.9
+zucchero:             0.9
+tanto:                0.9
+souk:                 0.9
+strada:               0.9
+gente:                0.9

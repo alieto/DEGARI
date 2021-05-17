@@ -1,0 +1,4 @@
+donna:                0.9
+sangue:               0.9
+pesta|peste:          0.9
+corno:                0.9

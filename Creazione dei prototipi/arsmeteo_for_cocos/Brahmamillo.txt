@@ -1,0 +1,6 @@
+bohumil:              0.9
+millo:                0.9
+lettura:              0.9
+saggezza:             0.9
+innocenza:            0.9
+serenità:             0.9

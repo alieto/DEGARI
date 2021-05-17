@@ -1,0 +1,6 @@
+volto:                0.9
+donna:                0.9
+sorriso:              0.9
+acquerello:           0.9
+ritratto:             0.9
+carta:                0.9

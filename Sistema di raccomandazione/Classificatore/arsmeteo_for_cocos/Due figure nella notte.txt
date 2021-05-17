@@ -1,0 +1,4 @@
+figura:               0.9
+sagoma:               0.9
+donna:                0.9
+modella:              0.9

@@ -1,0 +1,8 @@
+cavallo:              0.9
+bianco:               0.9
+onirico:              0.9
+scrutare:             0.9
+sogno:                0.9
+cavallo_bianco:       0.9
+innocenza:            0.9
+fantasia:             0.9

@@ -1,0 +1,8 @@
+paesaggio:            0.9
+frattali:             0.9
+terra_promessa:       0.9
+eden:                 0.9
+utopia:               0.9
+solo:                 0.9
+lontano:              0.9
+orizzonte:            0.9

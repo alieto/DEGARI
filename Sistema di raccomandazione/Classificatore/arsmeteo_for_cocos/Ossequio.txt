@@ -1,0 +1,2 @@
+mito:                 0.9
+ossequio_verso:       0.9

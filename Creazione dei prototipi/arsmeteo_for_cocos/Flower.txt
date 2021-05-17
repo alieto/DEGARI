@@ -1,0 +1,13 @@
+fiore:                0.9
+flower:               0.9
+acrilico:             0.9
+legno:                0.9
+acrylic:              0.9
+on:                   0.9
+wood:                 0.9
+informale:            0.9
+resina:               0.9
+materico:             0.9
+petalo:               0.9
+mandare:              0.9
+ricorsività:          0.9

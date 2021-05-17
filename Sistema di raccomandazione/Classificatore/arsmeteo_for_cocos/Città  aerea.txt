@@ -1,0 +1,8 @@
+città:                0.9
+sulle_nuvole:         0.6
+sittà:                0.6
+_senza_padrone:       0.6
+_in_cielo:            0.6
+costruzione:          0.6
+composizione:         0.6
+_aerea:               0.6

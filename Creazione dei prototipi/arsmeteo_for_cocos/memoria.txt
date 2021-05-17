@@ -1,0 +1,11 @@
+corta:                0.9
+arbeit_macht_frei:    0.9
+ma_chi_ci_crede:      0.9
+istanbul:             0.9
+giornale:             0.9
+coscienza_sporca:     0.9
+campi_di_lavoro:      0.9
+sofferenza:           0.9
+banalità:             0.9
+_del_male:            0.9
+einsatzgruppe:        0.9

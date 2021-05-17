@@ -1,0 +1,10 @@
+campana:              0.9
+diocesano:            0.9
+industriale:          0.9
+paesaggio:            0.9
+architettura:         0.9
+mario_botta:          0.9
+mistero:              0.9
+volto:                0.9
+sindone:              0.9
+corona:               0.9

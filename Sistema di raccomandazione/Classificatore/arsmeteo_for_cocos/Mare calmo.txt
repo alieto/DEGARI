@@ -1,0 +1,4 @@
+mare:                 0.9
+blu:                  0.9
+viola:                0.9
+calmo:                0.9

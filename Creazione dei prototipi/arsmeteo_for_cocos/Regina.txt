@@ -1,0 +1,7 @@
+regina:               0.9
+nizza_monferrato:     0.9
+fumo:                 0.9
+tabacco:              0.9
+nicotina:             0.9
+allegria:             0.9
+donna:                0.9

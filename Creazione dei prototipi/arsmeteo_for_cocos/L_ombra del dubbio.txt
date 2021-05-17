@@ -1,0 +1,7 @@
+ombra:                0.9
+dubbio:               0.9
+borsa:                0.9
+muro:                 0.9
+profilo:              0.9
+partenza:             0.9
+ombra_del_dubbio:     0.9

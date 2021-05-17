@@ -1,0 +1,6 @@
+lussureggiante:       0.9
+parco:                0.9
+buenos_aires:         0.9
+umidità:              0.9
+grandiosità:          0.9
+riparo:               0.9

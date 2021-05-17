@@ -1,0 +1,4 @@
+luce:                 0.9
+circolare:            0.9
+muro:                 0.9
+mattone:              0.9

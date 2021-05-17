@@ -1,0 +1,5 @@
+rosso:                0.9
+dik:                  0.9
+cane:                 0.9
+frammento:            0.9
+frammentazione:       0.9

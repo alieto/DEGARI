@@ -1,0 +1,4 @@
+notte:                0.9
+luce:                 0.9
+insetto:              0.9
+psichedelico:         0.9

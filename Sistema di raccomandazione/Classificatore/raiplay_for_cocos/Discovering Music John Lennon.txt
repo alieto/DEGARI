@@ -1,0 +1,16 @@
+lennon:               0.9
+nuovo:                0.9
+gettare:              0.9
+luce:                 0.9
+pensiero:             0.9
+audace:               0.9
+rivoluzionario:       0.9
+john:                 0.9
+impatto:              0.9
+cultura:              0.9
+pop:                  0.9
+evento:               0.9
+corrente:             0.9
+sentire:              0.9
+discovering:          0.6
+documentario:         0.6

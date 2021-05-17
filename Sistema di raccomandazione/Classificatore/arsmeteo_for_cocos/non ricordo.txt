@@ -1,0 +1,7 @@
+opera:                0.9
+rifotografare:        0.9
+vetrina:              0.9
+galleria:             0.9
+arabo:                0.9
+viso:                 0.9
+intenso:              0.9

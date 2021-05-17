@@ -1,0 +1,7 @@
+sedia:                0.9
+luogo_mentale:        0.9
+violino:              0.9
+archetto:             0.9
+barchetta_di_calma:   0.9
+silenzio:             0.9
+non_luogo:            0.9

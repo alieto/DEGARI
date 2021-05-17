@@ -1,0 +1,15 @@
+sferoide:             0.9
+ovoide:               0.9
+bolla:                0.9
+suono:                0.9
+nota:                 0.9
+notazione:            0.9
+numero:               0.9
+numerazione:          0.9
+blu:                  0.9
+verde:                0.9
+albero:               0.9
+volto:                0.9
+rosso:                0.9
+incorporare:          0.9
+vivo:                 0.9

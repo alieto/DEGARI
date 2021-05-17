@@ -1,0 +1,6 @@
+ricordo:              0.9
+collage:              0.6
+carta:                0.6
+acrilico:             0.6
+blu:                  0.6
+evanescenza:          0.6

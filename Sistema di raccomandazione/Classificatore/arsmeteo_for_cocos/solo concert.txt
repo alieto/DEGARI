@@ -1,0 +1,5 @@
+dreyblatt:            0.9
+trefogli:             0.9
+contrabbasso:         0.9
+musica:               0.9
+e:                    0.9

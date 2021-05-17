@@ -1,0 +1,11 @@
+bianco_e_nero:        0.9
+seta|sete:            0.9
+acqua:                0.9
+ronzio:               0.9
+zzzzzzz:              0.9
+tensione:             0.9
+lavoro:               0.9
+paura:                0.9
+fotografia:           0.9
+attività:             0.9
+vespa:                0.9

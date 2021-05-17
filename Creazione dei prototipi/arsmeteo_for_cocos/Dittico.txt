@@ -1,0 +1,7 @@
+dittico:              0.9
+-verde+:              0.9
+-cerchi+:             0.9
+-cerchi_concentrici+: 0.9
+-istanze+:            0.9
+-moduli+:             0.9
+-paralleli+:          0.9

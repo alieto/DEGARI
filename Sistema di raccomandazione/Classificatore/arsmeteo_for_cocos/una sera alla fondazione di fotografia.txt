@@ -1,0 +1,5 @@
+foto:                 0.9
+rifotografare:        0.9
+gente:                0.9
+luce:                 0.9
+interesse:            0.9

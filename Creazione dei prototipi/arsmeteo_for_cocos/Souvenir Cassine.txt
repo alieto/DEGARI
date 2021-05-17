@@ -1,0 +1,7 @@
+ricordo:              0.9
+souvenir:             0.9
+cassine:              0.9
+fune:                 0.9
+chiocciola:           0.9
+matitona:             0.9
+contenitore:          0.9

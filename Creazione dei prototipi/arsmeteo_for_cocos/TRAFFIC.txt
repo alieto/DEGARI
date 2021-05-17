@@ -1,0 +1,4 @@
+traffico:             0.9
+automobile:           0.9
+accumulazione:        0.9
+massa:                0.9

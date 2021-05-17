@@ -1,0 +1,6 @@
+occhiale:             0.9
+prete:                0.9
+lamiera:              0.9
+street:               0.9
+art:                  0.9
+graffito:             0.9

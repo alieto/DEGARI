@@ -1,0 +1,6 @@
+bandiera:             0.9
+vessillo:             0.9
+appartenenza:         0.9
+riconoscere:          0.9
+stupidità:            0.9
+sangue:               0.9

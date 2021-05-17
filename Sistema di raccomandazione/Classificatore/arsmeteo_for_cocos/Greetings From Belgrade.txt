@@ -1,0 +1,4 @@
+cartolina:            0.9
+love:                 0.9
+belgrado:             0.9
+disabile:             0.9

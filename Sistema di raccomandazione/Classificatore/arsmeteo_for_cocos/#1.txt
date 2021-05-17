@@ -1,0 +1,4 @@
+pesce:                0.9
+sud:                  0.9
+corea:                0.9
+collina:              0.9

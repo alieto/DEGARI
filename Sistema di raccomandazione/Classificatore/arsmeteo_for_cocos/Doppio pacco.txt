@@ -1,0 +1,3 @@
+pacco:                0.9
+vendetta:             0.9
+doppio_pacco:         0.9

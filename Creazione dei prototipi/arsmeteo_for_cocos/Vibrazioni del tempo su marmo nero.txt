@@ -1,0 +1,5 @@
+orologio_cipolla:     0.9
+linea:                0.9
+sincronicità:         0.9
+marmo_nero:           0.9
+spartiti_bruciati:    0.9

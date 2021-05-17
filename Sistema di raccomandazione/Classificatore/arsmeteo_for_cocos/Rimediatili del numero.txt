@@ -1,0 +1,4 @@
+surfanta:             0.9
+surreale:             0.9
+coppia:               0.9
+paio:                 0.9

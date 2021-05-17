@@ -1,0 +1,2 @@
+scarica:              0.9
+energia:              0.9

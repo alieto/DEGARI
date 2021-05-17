@@ -1,0 +1,6 @@
+tempo:                0.9
+amare:                0.9
+relazione:            0.9
+equilibrio:           0.9
+molesto:              0.9
+scultura:             0.9

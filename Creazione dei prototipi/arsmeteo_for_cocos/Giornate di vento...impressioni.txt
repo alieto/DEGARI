@@ -1,0 +1,3 @@
+vento:                0.9
+fotogramma:           0.9
+estate:               0.9

@@ -1,0 +1,1 @@
+saturazione:          0.9

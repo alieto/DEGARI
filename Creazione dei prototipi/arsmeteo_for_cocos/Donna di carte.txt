@@ -1,0 +1,2 @@
+carta:                0.9
+viso_di_donna:        0.9

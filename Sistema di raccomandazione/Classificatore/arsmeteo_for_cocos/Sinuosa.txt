@@ -1,0 +1,6 @@
+malacca:              0.9
+ideogramma:           0.9
+portico:              0.9
+caldo:                0.9
+attesa:               0.9
+pubblicità:           0.9

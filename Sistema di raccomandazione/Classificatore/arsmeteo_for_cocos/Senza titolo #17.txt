@@ -1,0 +1,5 @@
+colori+:              0.9
+-nastro+:             0.9
+-moebius+:            0.9
+-percorso_tridimensionale+:0.9
+-forma_astratta+:     0.9

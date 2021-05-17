@@ -1,0 +1,3 @@
+sfera:                0.9
+ragno:                0.9
+vanitas:              0.9

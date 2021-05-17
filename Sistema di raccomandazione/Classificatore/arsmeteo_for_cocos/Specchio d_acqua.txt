@@ -1,0 +1,4 @@
+goccia:               0.9
+specchio:             0.9
+polluzione:           0.9
+riflesso:             0.9

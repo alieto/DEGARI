@@ -1,0 +1,6 @@
+liquido:              0.9
+onirico:              0.9
+impossibile:          0.9
+irreale:              0.9
+unico:                0.9
+non_luogo:            0.9

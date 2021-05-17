@@ -1,0 +1,3 @@
+rotondità:            0.9
+femminilità:          0.9
+eccessivo:            0.9

@@ -1,0 +1,2 @@
+zombi:                0.9
+tomba:                0.9

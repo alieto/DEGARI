@@ -1,0 +1,8 @@
+torino:               0.9
+madama:               0.9
+palazzo:              0.9
+solo:                 0.9
+svago:                0.9
+azzurro:              0.9
+piazza:               0.9
+castello:             0.9

@@ -1,0 +1,6 @@
+notte:                0.9
+pioggia:              0.9
+buzos:                0.9
+goccia:               0.9
+luce:                 0.9
+palma:                0.9

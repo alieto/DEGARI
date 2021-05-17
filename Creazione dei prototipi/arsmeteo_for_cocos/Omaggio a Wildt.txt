@@ -1,0 +1,3 @@
+wildt:                0.9
+post_classicismo:     0.9
+maschera:             0.9

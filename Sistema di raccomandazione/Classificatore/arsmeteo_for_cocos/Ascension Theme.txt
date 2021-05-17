@@ -1,0 +1,10 @@
+analog:               0.9
+electronic:           0.9
+pad:                  0.9
+lush:                 0.9
+ambient:              0.9
+film:                 0.9
+soundtrack:           0.9
+filmico:              0.9
+astratto:             0.9
+elettronico:          0.9

@@ -1,0 +1,3 @@
+telefonino:           0.9
+amore:                0.9
+cuore:                0.9

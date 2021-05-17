@@ -1,0 +1,9 @@
+cielo:                0.9
+gabbiano:             0.9
+pietra:               0.9
+roccia:               0.9
+acqua:                0.9
+falso_movimento:      0.9
+onde_mosse:           0.9
+spuma:                0.9
+grigio:               0.9

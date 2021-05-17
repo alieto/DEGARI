@@ -1,0 +1,6 @@
+scultura:             0.9
+stoffa:               0.9
+oggetto:              0.9
+federa:               0.9
+dormire:              0.9
+sogno:                0.9

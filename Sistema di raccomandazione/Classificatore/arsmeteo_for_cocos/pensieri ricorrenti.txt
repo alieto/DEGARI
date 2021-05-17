@@ -1,0 +1,6 @@
+occhio:               0.9
+nero:                 0.9
+pensiero:             0.9
+sogno:                0.9
+luce:                 0.9
+selfportrait:         0.9

@@ -1,0 +1,4 @@
+insegna:              0.9
+bar:                  0.9
+sedia:                0.9
+barista:              0.9

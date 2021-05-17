@@ -1,0 +1,12 @@
+outraged: 0.964
+brutality: 0.959
+hatred: 0.953
+terrorize: 0.939
+violently: 0.938
+infuriated: 0.938
+enraged: 0.927
+murderer: 0.922
+execution: 0.917
+angered: 0.916
+savagery: 0.915
+slaughtering: 0.914

@@ -1,0 +1,8 @@
+estasi:               0.9
+sacralità:            0.9
+psicopatologia:       0.9
+esperienze_estatiche: 0.9
+visione:              0.9
+diavolo:              0.9
+demonio:              0.9
+nero:                 0.9

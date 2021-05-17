@@ -1,0 +1,5 @@
+mito:                 0.9
+nostalgia:            0.9
+revolucion:           0.9
+matrimonio:           0.9
+sovrapposizione:      0.9

@@ -1,0 +1,3 @@
+angelo:               0.9
+strega:               0.9
+prostituta:           0.9

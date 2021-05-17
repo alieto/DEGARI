@@ -1,0 +1,3 @@
+informale:            0.9
+pollock:              0.9
+omaggio:              0.9

@@ -1,0 +1,3 @@
+cielo:                0.9
+nuvola:               0.9
+fuoco:                0.9

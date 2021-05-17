@@ -1,0 +1,4 @@
+pesca:                0.9
+colazione:            0.9
+brioche:              0.9
+caffè:                0.9

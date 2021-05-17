@@ -1,0 +1,4 @@
+ghiaccio:             0.9
+grafo_logia:          0.9
+desktop:              0.9
+materiale:            0.9

@@ -1,0 +1,9 @@
+caffé:                0.9
+chiado:               0.9
+pessoa:               0.9
+specchio:             0.9
+patinare:             0.9
+atmosfera:            0.9
+forse_non_pià¹:       0.9
+storia:               0.9
+saudade:              0.9

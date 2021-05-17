@@ -1,0 +1,32 @@
+#Title composizione
+Title : sadness-trust
+
+#Concetto Principale
+Head Concept Name : sadness
+
+#Concetto Modificatore
+Modifier Concept Name : trust
+
+head, -felicità
+head, -giubilante
+
+modifier, -cannibalismo
+modifier, -molestia
+modifier, -stupro
+
+T(modifier), veracità, 0.91
+T(modifier), fidato, 0.87
+T(modifier), onesto, 0.84
+T(modifier), onore, 0.84
+T(modifier), verità, 0.84
+T(modifier), fiducia, 0.84
+
+T(head), straziante, 0.97
+T(head), lutto, 0.97
+T(head), tragico, 0.96
+T(head), olocausto, 0.95
+T(head), suicida, 0.94
+T(head), miseria, 0.94
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 0.00037521663653943764

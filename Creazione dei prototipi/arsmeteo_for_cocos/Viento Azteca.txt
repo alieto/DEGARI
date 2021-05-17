@@ -1,0 +1,8 @@
+lotta:                0.9
+libero:               0.9
+vento:                0.9
+azteca:               0.9
+forza:                0.9
+uomo:                 0.9
+maschera:             0.9
+valoroso:             0.9

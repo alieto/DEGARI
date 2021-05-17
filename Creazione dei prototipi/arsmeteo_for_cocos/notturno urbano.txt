@@ -1,0 +1,8 @@
+rincorsa:             0.9
+luce:                 0.9
+città:                0.9
+cortile:              0.9
+tenda:                0.9
+intimità:             0.9
+chiusura:             0.9
+gelosia:              0.9

@@ -1,0 +1,12 @@
+bagnante:             0.9
+al_mare:              0.9
+sonno:                0.9
+nudo:                 0.9
+relax:                0.9
+modella:              0.9
+spiaggia:             0.9
+bagno_di_sole:        0.9
+esposizione:          0.9
+assopire:             0.9
+ripetizione:          0.9
+variazione:           0.9

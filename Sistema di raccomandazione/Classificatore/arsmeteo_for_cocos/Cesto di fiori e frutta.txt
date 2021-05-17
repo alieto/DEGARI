@@ -1,0 +1,6 @@
+cesto:                0.9
+fiore:                0.9
+frutta:               0.9
+velo:                 0.9
+trasparente:          0.9
+oplontis:             0.9

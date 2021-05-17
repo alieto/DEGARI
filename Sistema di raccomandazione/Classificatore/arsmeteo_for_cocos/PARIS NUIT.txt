@@ -1,0 +1,9 @@
+paris:                0.9
+fuoco:                0.9
+vigile:               0.9
+nulla:                0.9
+paura:                0.9
+fuga:                 0.9
+rabbia:               0.9
+netville:             0.9
+prevenire:            0.9

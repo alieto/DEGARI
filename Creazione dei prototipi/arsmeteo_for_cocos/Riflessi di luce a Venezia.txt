@@ -1,0 +1,5 @@
+luce:                 0.9
+venezia:              0.9
+riflesso:             0.9
+gondola:              0.9
+canale:               0.9

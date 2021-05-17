@@ -1,0 +1,7 @@
+feluca:               0.9
+vela:                 0.9
+fiume:                0.9
+acqua:                0.9
+sabbia:               0.9
+deserto:              0.9
+imbarcazione:         0.9

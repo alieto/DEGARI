@@ -1,0 +1,7 @@
+ragnar_kjarstansson:  0.9
+tempi_andati:         0.9
+islanda:              0.9
+triennale:            0.9
+rifitografare:        0.9
+torino:               0.9
+domenica:             0.9

@@ -1,0 +1,2 @@
+new_york:             0.9
+frog:                 0.9

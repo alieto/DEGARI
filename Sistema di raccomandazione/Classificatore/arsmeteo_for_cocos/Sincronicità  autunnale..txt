@@ -1,0 +1,4 @@
+sincronicità:         0.9
+autunno:              0.9
+frutta:               0.9
+linea:                0.9

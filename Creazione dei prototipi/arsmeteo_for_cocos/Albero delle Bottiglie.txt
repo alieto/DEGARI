@@ -1,0 +1,13 @@
+bottiglia:            0.9
+albero:               0.9
+violino:              0.9
+strada:               0.9
+orizzonte:            0.9
+interminabile:        0.9
+nuvoloso:             0.9
+cielo:                0.9
+verde:                0.9
+nube:                 0.9
+crepa:                0.9
+senza_fine:           0.9
+increspare:           0.9

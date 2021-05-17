@@ -1,0 +1,10 @@
+sorpresa:             0.9
+pieno:                0.9
+amsterdam:            0.9
+luglio:               0.9
+giorno:               0.9
+qualsiasi:            0.9
+gracht:               0.9
+acqua:                0.9
+angelo:               0.9
+barca:                0.9

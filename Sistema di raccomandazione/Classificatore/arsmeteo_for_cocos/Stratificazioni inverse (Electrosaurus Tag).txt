@@ -1,0 +1,15 @@
+strato:               0.9
+stratificazione:      0.9
+tag:                  0.9
+tag_strato:           0.9
+ere_geologiche:       0.9
+electrosaurus_rex:    0.9
+elettrico:            0.9
+drago_elettronico:    0.9
+virus_preistorico:    0.9
+giurassico_siderale:  0.9
+alien:                0.9
+creatura_misteriosa:  0.9
+futuro_passato:       0.9
+prima_del_nulla:      0.9
+bestiale:             0.9

@@ -1,0 +1,5 @@
+india:                0.9
+tradizione:           0.9
+danza:                0.9
+costume:              0.9
+donna:                0.9

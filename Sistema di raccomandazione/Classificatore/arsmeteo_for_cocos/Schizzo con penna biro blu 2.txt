@@ -1,0 +1,9 @@
+sedere:               0.9
+ramificazione:        0.9
+albero:               0.9
+donna:                0.9
+donna_albero:         0.9
+tronco:               0.9
+blu:                  0.9
+elevazione:           0.9
+ramo:                 0.9

@@ -1,0 +1,6 @@
+tazza:                0.9
+teiera:               0.9
+porcellana:           0.9
+giapponeseria:        0.9
+chicchera:            0.9
+bastoncino:           0.9

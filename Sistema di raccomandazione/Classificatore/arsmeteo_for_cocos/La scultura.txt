@@ -1,0 +1,3 @@
+ruota:                0.9
+uccello:              0.9
+artista:              0.9

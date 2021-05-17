@@ -1,0 +1,4 @@
+uomo:                 0.9
+israele:              0.9
+donna:                0.9
+strada:               0.9

@@ -1,0 +1,7 @@
+cielo:                0.9
+fuoco:                0.9
+brace:                0.9
+tramonto:             0.9
+rosso:                0.9
+arancione:            0.9
+nuvola:               0.9

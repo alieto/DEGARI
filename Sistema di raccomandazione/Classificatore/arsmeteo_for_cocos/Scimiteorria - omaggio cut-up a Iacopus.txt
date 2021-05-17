@@ -1,0 +1,12 @@
+serie:                0.9
+paint:                0.9
+iacopus:              0.9
+metadisegno:          0.9
+ufo_robot:            0.9
+disegnare:            0.9
+soldati_giocattolo:   0.9
+small_soldiers:       0.9
+wahrolismi:           0.9
+postmodernismi:       0.9
+scherzo:              0.9
+divertissement:       0.9

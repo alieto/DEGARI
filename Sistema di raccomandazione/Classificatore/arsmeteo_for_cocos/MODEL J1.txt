@@ -1,0 +1,8 @@
+pensiero:             0.9
+debole:               0.9
+onestà:               0.9
+compassione:          0.9
+pubblicazione:        0.9
+semplice:             0.9
+riflettere:           0.9
+netville:             0.9

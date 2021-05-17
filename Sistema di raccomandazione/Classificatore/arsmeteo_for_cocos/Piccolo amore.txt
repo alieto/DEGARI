@@ -1,0 +1,17 @@
+/:                    0.9
+msonormal\:           0.8333333333333333
+class:                0.8333333333333333
+--:                   0.7
+nbsp:                 0.7
+blockquote:           0.6333333333333333
+amore_dorme:          0.6
+startfragment:        0.6
+letto:                0.6
+fiume:                0.6
+piccolo:              0.6
+dormire:              0.6
+amore:                0.6
+acqua:                0.6
+mordere:              0.6
+morire:               0.6
+endfragment:          0.6

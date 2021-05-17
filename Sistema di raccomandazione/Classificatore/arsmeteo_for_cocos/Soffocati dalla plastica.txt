@@ -1,0 +1,4 @@
+terrazza:             0.9
+canale:               0.9
+casa:                 0.9
+acqua:                0.9

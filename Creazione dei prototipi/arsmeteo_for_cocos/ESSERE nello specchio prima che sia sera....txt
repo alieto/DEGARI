@@ -1,0 +1,4 @@
+arancio:              0.9
+riflesso:             0.9
+casa:                 0.9
+blu:                  0.9

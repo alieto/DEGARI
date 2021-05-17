@@ -1,0 +1,5 @@
+asteroide:            0.9
+sospendere:           0.9
+biomorfo:             0.9
+surreale:             0.9
+surfanta:             0.9

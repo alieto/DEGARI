@@ -1,0 +1,4 @@
+boreale:              0.9
+evoluzione:           0.9
+espansione:           0.9
+crescita:             0.9

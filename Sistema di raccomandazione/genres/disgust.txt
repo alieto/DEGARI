@@ -1,0 +1,12 @@
+cannibalism: 0.953
+mutilation: 0.930
+molestation: 0.914
+incest: 0.914
+gonorrhea: 0.906
+rape: 0.906
+rot: 0.891
+corpse: 0.883
+massacre: 0.883
+excrement: 0.883
+slaughter: 0.875
+barf: 0.875

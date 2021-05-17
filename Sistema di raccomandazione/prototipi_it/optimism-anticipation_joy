@@ -1,0 +1,29 @@
+#Title composizione
+Title : anticipation-joy
+
+#Concetto Principale
+Head Concept Name : anticipation
+
+#Concetto Modificatore
+Modifier Concept Name : joy
+
+head, -sorpresa
+
+modifier, -olocausto
+
+T(modifier), felicità, 0.98
+T(modifier), beatitudine, 0.97
+T(modifier), festeggiare, 0.97
+T(modifier), giubilante, 0.97
+T(modifier), estatico, 0.95
+T(modifier), euforia, 0.94
+
+T(head), anticipazione, 0.86
+T(head), eccitato, 0.86
+T(head), impazienza, 0.81
+T(head), attesa, 0.79
+T(head), eccitante, 0.78
+T(head), speranza, 0.77
+
+
+Result : '1', '1', '1', '1', '1', '0', '0', '1', '0', '0', '0', '0', 0.0012392702770841985

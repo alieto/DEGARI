@@ -1,0 +1,5 @@
+pessimism:            0.9
+fear:                 0.9
+regret:               0.9
+sadness:              0.9
+shame:                0.9

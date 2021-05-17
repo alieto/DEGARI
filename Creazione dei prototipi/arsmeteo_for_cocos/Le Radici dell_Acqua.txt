@@ -1,0 +1,7 @@
+aqua:                 0.9
+donna:                0.9
+purezza:              0.9
+sorgente:             0.9
+depurazione:          0.9
+contaminazione:       0.9
+terra:                0.9

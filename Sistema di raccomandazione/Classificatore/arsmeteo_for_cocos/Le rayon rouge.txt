@@ -1,0 +1,5 @@
+dramatic:             0.9
+istria:               0.9
+capo:                 0.9
+trst:                 0.9
+non_solo_puglia:      0.9

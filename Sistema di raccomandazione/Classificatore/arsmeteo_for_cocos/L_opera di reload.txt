@@ -1,0 +1,16 @@
+gesto:                0.9
+segno:                0.9
+arte:                 0.9
+-meteopatika+:        0.9
+-reload+:             0.9
+-collettiva+:         0.9
+-made_in_arsmeteo+:   0.9
+-tasselli+:           0.9
+-eterogeneo+:         0.9
+-opera_collettiva+:   0.9
+celle+:               0.9
+-gioco+:              0.9
+-sviluppo+:           0.9
+-mosaico+:            0.9
+-opera_aperta+:       0.9
+-stratificazione+:    0.9

@@ -1,0 +1,3 @@
+sidereo:              0.9
+anfora:               0.9
+luna:                 0.9

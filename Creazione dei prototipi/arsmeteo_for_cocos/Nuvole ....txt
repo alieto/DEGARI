@@ -1,0 +1,5 @@
+nuvola:               0.9
+mare:                 0.9
+faro:                 0.9
+tramonto:             0.9
+rosso_di_sera:        0.9

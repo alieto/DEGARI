@@ -1,0 +1,12 @@
+luce:                 0.9
+aria:                 0.9
+ironia:               0.9
+delizia:              0.9
+oriente:              0.9
+corfiota:             0.9
+malizia:              0.9
+shopping:             0.9
+felino:               0.9
+ferino:               0.9
+velina:               0.9
+cucina:               0.9

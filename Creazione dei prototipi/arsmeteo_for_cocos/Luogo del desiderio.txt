@@ -1,0 +1,6 @@
+immaginazione:        0.9
+desiderio:            0.9
+luogo:                0.9
+astrale:              0.9
+metafora:             0.9
+simbolo:              0.9

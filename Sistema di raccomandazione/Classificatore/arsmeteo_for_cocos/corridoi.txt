@@ -1,0 +1,4 @@
+centre_culturel_franà§ais:0.9
+bue:                  0.9
+sera:                 0.9
+curiosità:            0.9

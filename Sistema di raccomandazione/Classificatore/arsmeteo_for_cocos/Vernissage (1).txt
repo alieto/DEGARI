@@ -1,0 +1,10 @@
+mostra:               0.9
+pubblico:             0.9
+persona:              0.9
+vernissage:           0.9
+visitatore:           0.9
+discussione:          0.9
+spiegazione:          0.9
+opinione:             0.9
+mostra_d_arte:        0.9
+esposizione:          0.9

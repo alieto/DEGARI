@@ -1,0 +1,5 @@
+gay:                  0.9
+torino:               0.9
+tanto:                0.9
+strada:               0.9
+applauso:             0.9

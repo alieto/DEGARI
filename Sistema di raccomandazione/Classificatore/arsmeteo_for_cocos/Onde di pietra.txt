@@ -1,0 +1,2 @@
+mare:                 0.9
+scogliera:            0.9

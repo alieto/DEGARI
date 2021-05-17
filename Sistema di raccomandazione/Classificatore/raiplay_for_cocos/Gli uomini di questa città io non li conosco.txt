@@ -1,0 +1,12 @@
+vita:                 0.9
+opera:                0.9
+franco:               0.9
+figura:               0.9
+scaldare:             0.9
+significativo:        0.9
+secondo:              0.9
+metà:                 0.9
+novecento:            0.9
+europeo:              0.9
+maresco:              0.9
+raccontare:           0.9

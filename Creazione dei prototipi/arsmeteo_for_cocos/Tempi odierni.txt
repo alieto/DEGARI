@@ -1,0 +1,3 @@
+scansione_tempo:      0.9
+rif:                  0.9
+giorno_di_mercato:    0.9

@@ -1,0 +1,5 @@
+replaced-dns:         0.9
+rinascita:            0.9
+fiamma:               0.9
+terra:                0.9
+confine:              0.9

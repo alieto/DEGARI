@@ -1,0 +1,1 @@
+sinergia:             0.9

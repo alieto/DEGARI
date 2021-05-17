@@ -1,0 +1,4 @@
+wireframe:            0.9
+stupore:              0.9
+linea:                0.9
+geometria:            0.9

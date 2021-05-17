@@ -1,0 +1,4 @@
+netville:             0.9
+modello:              0.9
+elaborazione:         0.9
+testo:                0.9

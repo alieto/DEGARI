@@ -1,0 +1,4 @@
+residuo:              0.9
+testimonoanze:        0.9
+composizione:         0.9
+tempo_fermo:          0.9

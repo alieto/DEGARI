@@ -1,0 +1,11 @@
+surfanta:             0.9
+surreale:             0.9
+aereo:                0.9
+atterraggio:          0.9
+mistero:              0.9
+stonehenge:           0.9
+druido:               0.9
+morte:                0.9
+eros:                 0.9
+pietra_volante:       0.9
+eros_e_tanatos:       0.9

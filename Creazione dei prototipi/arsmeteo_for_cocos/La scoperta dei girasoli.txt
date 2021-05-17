@@ -1,0 +1,7 @@
+girasole:             0.9
+scoprire:             0.9
+storia:               0.9
+culinaria:            0.9
+sapere:               0.9
+sapore:               0.9
+matino:               0.9

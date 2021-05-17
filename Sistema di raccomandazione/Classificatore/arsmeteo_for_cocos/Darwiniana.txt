@@ -1,0 +1,6 @@
+selezione:            0.9
+artificiale:          0.9
+naturle:              0.9
+che_fare:             0.9
+are_stile_al_caos:    0.9
+questione_fondamentale:0.9

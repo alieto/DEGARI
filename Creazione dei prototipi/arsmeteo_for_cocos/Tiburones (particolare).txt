@@ -1,0 +1,4 @@
+tiburones:            0.9
+squalo:               0.9
+sharks:               0.9
+requins:              0.9

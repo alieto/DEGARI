@@ -1,0 +1,5 @@
+giostra:              0.9
+colore:               0.9
+festa:                0.9
+divertimento:         0.9
+spontaneità:          0.9

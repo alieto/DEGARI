@@ -1,0 +1,6 @@
+quattro:              0.9
+stagione:             0.9
+primavera:            0.9
+estate:               0.9
+autunno:              0.9
+inverno:              0.9

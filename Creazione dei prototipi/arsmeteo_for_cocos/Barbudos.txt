@@ -1,0 +1,9 @@
+piazza:               0.9
+passante:             0.9
+foto:                 0.9
+richiamo:             0.9
+simbolo:              0.9
+uniforme:             0.9
+lampione:             0.9
+ideogramma:           0.9
+barba:                0.9

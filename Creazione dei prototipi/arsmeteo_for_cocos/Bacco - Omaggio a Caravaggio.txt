@@ -1,0 +1,4 @@
+bacco:                0.9
+caravaggio:           0.9
+omaggio:              0.9
+vino:                 0.9

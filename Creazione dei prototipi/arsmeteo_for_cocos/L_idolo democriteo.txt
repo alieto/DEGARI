@@ -1,0 +1,7 @@
+coppia:               0.9
+uccello:              0.9
+uovo:                 0.9
+falce_di_luna:        0.9
+linea:                0.9
+luna_appesa:          0.9
+democriteo:           0.9

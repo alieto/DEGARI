@@ -1,0 +1,4 @@
+distensione:          0.9
+donna:                0.9
+profilo:              0.9
+gamba:                0.9

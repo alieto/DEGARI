@@ -1,0 +1,12 @@
+blu:                  0.9
+azzurro:              0.9
+celesta|celeste:      0.9
+cielo:                0.9
+nube:                 0.9
+nuvola:               0.9
+sfumato:              0.9
+profondo:             0.9
+tergere:              0.9
+infinito:             0.9
+violino:              0.9
+musicale:             0.9

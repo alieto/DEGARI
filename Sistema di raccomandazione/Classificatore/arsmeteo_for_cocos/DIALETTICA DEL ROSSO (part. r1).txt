@@ -1,0 +1,4 @@
+particolare:          0.9
+dialettica:           0.9
+rosso:                0.9
+non_rosso:            0.9

@@ -1,0 +1,5 @@
+natura:               0.9
+morta:                0.9
+brocca:               0.9
+arancia:              0.9
+mela:                 0.9

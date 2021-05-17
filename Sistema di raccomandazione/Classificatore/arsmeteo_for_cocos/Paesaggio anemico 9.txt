@@ -1,0 +1,5 @@
+casa:                 0.9
+rudere:               0.6
+lettera:              0.6
+paesaggio:            0.6
+urbano:               0.6

@@ -1,0 +1,8 @@
+evoluzione:           0.9000000000000001
+metallo:              0.6
+ossidazione:          0.6
+ruggine:              0.6
+installazione:        0.6
+segno_primitivo:      0.6
+alfabeto_cuneiforme:  0.6
+fine:                 0.6

@@ -1,0 +1,7 @@
+meccanismo:           0.9
+macchina_sonora:      0.9
+suono:                0.9
+ruota:                0.9
+ciclo:                0.9
+basso:                0.9
+contrabbasso:         0.9

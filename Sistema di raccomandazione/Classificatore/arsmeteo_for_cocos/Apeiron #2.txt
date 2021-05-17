@@ -1,0 +1,3 @@
+chaos:                0.9
+nebulosità:           0.9
+eperu:                0.9

@@ -1,0 +1,5 @@
+natura:               0.9
+evoluzione:           0.9
+foglia:               0.9
+tempo:                0.9
+bioopera:             0.9

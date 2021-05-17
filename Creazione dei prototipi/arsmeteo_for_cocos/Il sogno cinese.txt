@@ -1,0 +1,5 @@
+sogno:                0.9
+mondo:                0.9
+cina:                 0.9
+olimpiade:            0.9
+grande_muraglia:      0.9

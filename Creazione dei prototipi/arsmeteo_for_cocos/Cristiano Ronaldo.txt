@@ -1,0 +1,7 @@
+pallone:              0.9
+oro:                  0.9
+campione:             0.9
+portogallo:           0.9
+ritratto:             0.9
+caricatura:           0.9
+photoshop:            0.9

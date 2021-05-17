@@ -1,0 +1,2 @@
+finestro:             0.9
+luce:                 0.9

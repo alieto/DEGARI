@@ -1,0 +1,6 @@
+yemen:                0.9
+sabbia:               0.9
+contrasto:            0.9
+desero:               0.9
+cielo:                0.9
+nuvola:               0.9

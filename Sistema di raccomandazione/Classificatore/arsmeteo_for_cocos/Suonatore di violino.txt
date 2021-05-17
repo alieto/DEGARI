@@ -1,0 +1,12 @@
+-festa+:              0.9
+-musica+:             0.9
+-calore+:             0.9
+-taranta+:            0.9
+-staticità:           0.9
+-popolare+:           0.9
+-naif+:               0.9
+-salento+:            0.9
+-pizzica+:            0.9
+violino:              0.9
+suonatore:            0.9
+musicante:            0.9

@@ -1,0 +1,3 @@
+amore:                0.9
+ricordo:              0.9
+messaggio:            0.9

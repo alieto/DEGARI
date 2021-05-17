@@ -1,0 +1,5 @@
+satellite:            0.9
+vicino_a_dio:         0.9
+filo:                 0.9
+cielo:                0.9
+nuvola:               0.9

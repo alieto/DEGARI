@@ -1,0 +1,9 @@
+chapman:              0.9
+creatividad:          0.9
+violacià²n:           0.9
+cacmà:                0.9
+pubblico:             0.9
+laga:                 0.9
+opera:                0.9
+collettivo:           0.9
+realtà:               0.9

@@ -1,0 +1,7 @@
+fiore:                0.9
+disegno:              0.6
+plastica:             0.6
+bottiglia:            0.6
+trashart:             0.6
+ecocompatibilità:     0.6
+recupere:             0.6

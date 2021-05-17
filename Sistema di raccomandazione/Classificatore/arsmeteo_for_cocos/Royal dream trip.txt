@@ -1,0 +1,8 @@
+rinoceronte:          0.9
+surreale:             0.9
+surfanta:             0.9
+rino_aereo:           0.9
+pittore:              0.9
+modella:              0.9
+volo:                 0.9
+fantastico:           0.9

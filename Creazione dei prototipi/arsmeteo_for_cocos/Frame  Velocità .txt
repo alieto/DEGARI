@@ -1,0 +1,7 @@
+frame:                0.9
+velocità:             0.9
+relatività:           0.9
+binario:              0.9
+treno_in_corsa:       0.9
+prospettiva:          0.9
+punto_di_fuga:        0.9

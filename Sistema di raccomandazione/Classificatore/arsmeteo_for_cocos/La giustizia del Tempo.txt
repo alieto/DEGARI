@@ -1,0 +1,15 @@
+arte:                 0.9
+romana:               0.6
+iconografia:          0.6
+tempo:                0.6
+tondo:                0.6
+passato:              0.6
+futuro:               0.6
+eraclito:             0.6
+giustizia:            0.6
+disegno:              0.6
+rilettura:            0.6
+romanico:             0.6
+benedetto:            0.6
+antelami:             0.6
+mese:                 0.6

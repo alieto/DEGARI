@@ -1,0 +1,4 @@
+fiore:                0.9
+ombrellone:           0.9
+venerazione:          0.9
+templio:              0.9

@@ -1,0 +1,5 @@
+chiave:               0.9
+fortuna:              0.9
+jolly:                0.9
+occhio:               0.9
+carta:                0.9

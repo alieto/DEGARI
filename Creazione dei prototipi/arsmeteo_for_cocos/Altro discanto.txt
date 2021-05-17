@@ -1,0 +1,7 @@
+danza:                0.9
+suono:                0.9
+musica:               0.9
+strumento:            0.9
+casa:                 0.9
+concerto:             0.9
+persona:              0.9

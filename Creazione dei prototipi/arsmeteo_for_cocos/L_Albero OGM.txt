@@ -1,0 +1,10 @@
+albero:               0.9
+ogm:                  0.9
+sinuoso:              0.9
+curvo:                0.9
+ritorto:              0.9
+ondeggiante:          0.9
+decorativo:           0.9
+blu:                  0.9
+intenso:              0.9
+notturno:             0.9

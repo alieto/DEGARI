@@ -1,0 +1,4 @@
+la_nostra_canzone:    0.9
+sentimento:           0.9
+ricordo:              0.9
+emozione:             0.9

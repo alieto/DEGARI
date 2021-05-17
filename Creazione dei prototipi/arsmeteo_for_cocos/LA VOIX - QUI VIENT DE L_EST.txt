@@ -1,0 +1,12 @@
+sorveglianza:         0.9
+arbusto:              0.9
+notte:                0.9
+memoria:              0.9
+voce:                 0.9
+attesa:               0.9
+nota:                 0.9
+policromia:           0.9
+vento:                0.9
+savana:               0.9
+sentinella:           0.9
+canto:                0.9

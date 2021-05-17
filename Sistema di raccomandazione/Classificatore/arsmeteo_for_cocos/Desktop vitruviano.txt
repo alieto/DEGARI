@@ -1,0 +1,2 @@
+leonardo:             0.9
+mnemo_tecnica:        0.9

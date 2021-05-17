@@ -1,0 +1,6 @@
+maratona:             0.9
+corsa:                0.9
+velocità:             0.9
+astratto:             0.9
+meta:                 0.9
+folla:                0.9

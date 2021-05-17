@@ -1,0 +1,6 @@
+uomo:                 0.9
+donna:                0.9
+crollo:               0.9
+uccello:              0.9
+mano:                 0.9
+conforto:             0.9

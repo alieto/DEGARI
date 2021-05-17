@@ -1,0 +1,8 @@
+macdonald_s:          0.9
+polenta:              0.9
+raccontare_torino:    0.9
+cucina_piemontese:    0.9
+piazza_castello:      0.9
+bagna_cauda:          0.9
+tradizione:           0.9
+torino_globale:       0.9

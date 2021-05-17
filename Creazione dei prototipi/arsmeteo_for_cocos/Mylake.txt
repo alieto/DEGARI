@@ -1,0 +1,6 @@
+lago:                 0.9
+montano:              0.9
+albero:               0.9
+pino:                 0.9
+natura:               0.9
+gioia:                0.9

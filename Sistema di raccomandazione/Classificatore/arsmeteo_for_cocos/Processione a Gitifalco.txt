@@ -1,0 +1,1 @@
+processione:          0.9

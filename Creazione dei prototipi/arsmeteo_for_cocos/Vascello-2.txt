@@ -1,0 +1,11 @@
+barca:                0.9
+vela:                 0.9
+vascello:             0.9
+mare:                 0.9
+vento:                0.9
+duplicazione:         0.9
+sartia:               0.9
+cima:                 0.9
+prua:                 0.9
+poppa:                0.9
+timone:               0.9

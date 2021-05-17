@@ -1,0 +1,4 @@
+biglietto:            0.9
+fila|file:            0.9
+modificazione:        0.9
+aforisma:             0.9

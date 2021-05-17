@@ -1,0 +1,7 @@
+digitale:             0.9
+oggetto:              0.9
+vaso:                 0.9
+arancia:              0.9
+riflesso:             0.9
+vetro:                0.9
+nero:                 0.9

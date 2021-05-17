@@ -1,0 +1,7 @@
+caschetto:            0.9
+bellezza:             0.9
+specchio:             0.9
+specchiare:           0.9
+pop:                  0.9
+specchio_delle_mie_brame:0.9
+la_pià¹_bella_del_reame:0.9

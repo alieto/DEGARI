@@ -1,0 +1,10 @@
+eyes:                 0.9
+occhio:               0.9
+acrilico:             0.9
+legno:                0.9
+acrylic:              0.9
+on:                   0.9
+wood:                 0.9
+dipinto:              0.9
+informale:            0.9
+materico:             0.9

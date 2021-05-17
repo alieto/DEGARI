@@ -1,0 +1,6 @@
+-strappi+:            0.9
+-decollage+:          0.9
+-frammenti+:          0.9
+-frammentazione+:     0.9
+azzurro:              0.9
+barca_a_vela:         0.9

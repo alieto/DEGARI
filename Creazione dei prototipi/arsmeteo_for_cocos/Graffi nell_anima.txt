@@ -1,0 +1,13 @@
+taglio:               0.9
+neon:                 0.9
+luce:                 0.9
+francesco:            0.9
+concettuale:          0.9
+nociti:               0.9
+arte:                 0.9
+contemporaneo:        0.9
+graffio:              0.9
+italia:               0.9
+anima:                0.9
+blu:                  0.9
+nero:                 0.9

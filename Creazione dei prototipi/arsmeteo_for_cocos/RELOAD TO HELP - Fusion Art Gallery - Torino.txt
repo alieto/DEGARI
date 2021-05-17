@@ -1,0 +1,84 @@
+/:                    0.9
+10px:                 0.8863636363636365
+div:                  0.7445454545454546
+style:                0.7445454545454546
+text-align:           0.7418181818181818
+center:               0.7418181818181818
+img:                  0.7418181818181818
+margin:               0.7418181818181818
+src:                  0.7418181818181818
+alt:                  0.7418181818181818
+width:                0.6027272727272727
+reload:               0.6
+help:                 0.6
+asta:                 0.6
+non_profit:           0.6
+serata_afganistan:    0.6
+beneficienza:         0.6
+arte_solidale:        0.6
+table:                0.6
+0\:                   0.6
+border:               0.6
+tbody:                0.6
+td:                   0.6
+tr:                   0.6
+align:                0.6
+center\:              0.6
+overflow:             0.6
+auto:                 0.6
+760px:                0.6
+height:               0.6
+680px:                0.6
+42aa91fc38dde3504dbecc1680a6bc41\:0.6
+07ac0c79e5728a61198694fa2ab645b3\:0.6
+f26d99dd61aec326b4c79d5c0014f52b\:0.6
+451ae7977ac02597722ee1708d10c382\:0.6
+cd0a188b9949303e1ebc03c8cf7ec364\:0.6
+e1a53af4e2c6e52ca28a8d22ff5f8130\:0.6
+0c94f74e543e0cec6fa8cfb72c5b26cf\:0.6
+fbb0a2a18b9d976bfa4ab33707ca5969\:0.6
+b2ccfa5b522e73f7cc4d990411709b00\:0.6
+1600f4d17f934eb0f0d2ad6fcc9e6073\:0.6
+0be7816941198affbdb858f490a6f79b\:0.6
+80ba2e740f85e30bd97c1c1937de5344\:0.6
+4c5134f66c65046cd9d8b156f8c95b47\:0.6
+a0edadaf43db2938ae1a3b5701ee846b\:0.6
+442b6967f1f7a8ac4f437e838689415a\:0.6
+08103c8525ae5db03c48c294f3d982ab\:0.6
+9b9f8d468b42f5716a53b973fc062809\:0.6
+92f2c354c2a5d613eb9ce58fe6907bfe\:0.6
+dd8c4f3139cf5de6a21b39d228ab97fa\:0.6
+f8fe363af9f9b2b42f18bcdefbd489e0\:0.6
+5a84ee42fb33747cf193e03e1f73369e\:0.6
+37e90e5cdd342c9f423c3a5858e2bf8c\:0.6
+6e1af616d037141a21622f47d0c9a267\:0.6
+d81b23f4f05d5141372617fba81c6754\:0.6
+a6996265bc8dfe44a3efba0ff431fe33\:0.6
+a9dd7a1f2833d373f9d69d8f77cfdfc9\:0.6
+b0145d0d4d351a82b5e8fe0f8af73bd8\:0.6
+45da0c20410a9dde9d87df4aea7e63f5\:0.6
+c8bcdec1e9fc23ffb8a5504c2f73c2ce\:0.6
+e811a0186048e3cbef8ba3b420fdd5d0\:0.6
+53fa506431b2745b86be7d3d9df0c697\:0.6
+0dad896ef509c4dc140f6cdbd08a5f98\:0.6
+136a01219ac9fbf3561c7b6a862caf7d\:0.6
+f8628432f9f9aee98b53ea5cd4b66abd\:0.6
+0f154737c93bba0d58914d747ba07caf\:0.6
+ba8f68d1f9b56db39c7bbf2b863fdc9a\:0.6
+aed2760834a65cf52daf86576108764e\:0.6
+08747662d039d9270cd0a11ab809a97b\:0.6
+9780e6bb910781fdd7685cb5f3a3b48b\:0.6
+dbb3af2e7597383c890c2f268229fefb\:0.6
+5c02c194d5b5f3c1b39c9013d7b4b5cb\:0.6
+aa47bbd51a8bbf123361dca253dc3b8d\:0.6
+6582fb1779b4229a5aa0d6cb65410e56\:0.6
+fd09c8e30ffdefbc594fab31e76e97d4\:0.6
+c896133ed49605bf5b999360e208ad29\:0.6
+e8ee1e0bb8d4d6cc85b1aa24669ec691\:0.6
+9e5ee20634e7d4a06a04f7b29b26b5b8\:0.6
+5d174b17122af1f1907856faabfe20d8\:0.6
+869b461ce6cd7963775c01bc9d037ec7\:0.6
+367a46e04a91616ea55aa57517f70da2\:0.6
+08ca780d91a808f45c0dc1b5110cfaa9\:0.6
+dea59ba88e7a20f1ee853612c72209de\:0.6
+257004213edeb6e6d38630814bcda438\:0.6

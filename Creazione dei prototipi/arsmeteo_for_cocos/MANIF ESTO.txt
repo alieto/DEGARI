@@ -1,0 +1,5 @@
+manifesto:            0.9
+moschino:             0.9
+autoalimentazione:    0.9
+succhiare:            0.9
+cannuccia:            0.9

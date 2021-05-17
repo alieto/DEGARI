@@ -1,0 +1,8 @@
+attesa:               0.9
+monoelica:            0.9
+appiedare:            0.9
+campo_di_fiori:       0.9
+montagna:             0.9
+dove_sei_stato_tutto_questo_tempo:0.9
+sogno:                0.9
+vicino_alle_nuvole:   0.9

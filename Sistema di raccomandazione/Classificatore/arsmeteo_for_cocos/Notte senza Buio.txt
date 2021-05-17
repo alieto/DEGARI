@@ -1,0 +1,5 @@
+luce:                 0.9
+volo:                 0.9
+notte:                0.9
+sogno:                0.9
+allucinazione:        0.9

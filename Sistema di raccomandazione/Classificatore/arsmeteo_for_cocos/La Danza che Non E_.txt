@@ -1,0 +1,7 @@
+colore:               0.9
+quadro:               0.9
+fobia:                0.9
+sogno:                0.9
+alba:                 0.9
+ragno:                0.9
+danza:                0.9

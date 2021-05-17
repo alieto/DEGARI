@@ -1,0 +1,10 @@
+mulatero:             0.9
+mass_media:           0.9
+torriani:             0.9
+taiuti:               0.9
+gilardi:              0.9
+brera:                0.9
+pav:                  0.9
+art:                  0.9
+living:               0.9
+lettera_at:           0.9

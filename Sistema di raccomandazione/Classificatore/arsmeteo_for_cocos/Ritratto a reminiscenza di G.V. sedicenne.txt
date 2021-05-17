@@ -1,0 +1,8 @@
+reminiscenza:         0.9
+sedicenne:            0.9
+sedicente:            0.9
+autoritratto:         0.9
+autore:               0.9
+tratto:               0.9
+futurismo:            0.9
+giovanile:            0.9

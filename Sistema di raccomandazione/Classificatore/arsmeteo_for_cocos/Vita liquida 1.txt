@@ -1,0 +1,9 @@
+liquido:              0.9
+fluido:               0.9
+donna:                0.9
+prostituta:           0.9
+tunnel:               0.9
+vita:                 0.9
+strada:               0.9
+oro:                  0.9
+vortice:              0.9

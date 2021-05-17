@@ -1,0 +1,5 @@
+liguria:              0.9
+barca:                0.9
+cretto:               0.9
+pietra:               0.9
+secca:                0.9

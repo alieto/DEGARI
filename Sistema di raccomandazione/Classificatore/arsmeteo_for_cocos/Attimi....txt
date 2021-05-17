@@ -1,0 +1,6 @@
+tramonto:             0.9
+nuvola:               0.9
+cielo:                0.9
+sibillino:            0.9
+natura:               0.9
+silhoutte:            0.9

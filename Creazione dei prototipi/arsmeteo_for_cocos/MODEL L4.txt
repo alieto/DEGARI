@@ -1,0 +1,14 @@
+smoking_gun:          0.9
+caravaggio:           0.9
+david:                0.9
+golia:                0.9
+war:                  0.9
+peace:                0.9
+make_love:            0.9
+ira:                  0.9
+netville:             0.9
+project:              0.9
+fionda:               0.9
+sasso:                0.9
+rettile:              0.9
+ereziopne:            0.9

@@ -1,0 +1,5 @@
+ferrari:              0.9
+dino:                 0.9
+automobile:           0.9
+design:               0.9
+auto_da_corsa:        0.9

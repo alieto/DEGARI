@@ -1,0 +1,4 @@
+cahteaubriant:        0.9
+una_montagna_di_catalizzatori:0.9
+soldo:                0.9
+metallo:              0.9

@@ -1,0 +1,5 @@
+perdita:              0.9
+autoscatto:           0.9
+rolley:               0.9
+fotografia:           0.9
+strumento:            0.9

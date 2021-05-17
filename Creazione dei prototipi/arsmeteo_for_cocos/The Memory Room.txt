@@ -1,0 +1,6 @@
+stanza:               0.9
+memoria:              0.9
+urna:                 0.9
+fumo:                 0.9
+fiamma:               0.9
+fuoco:                0.9

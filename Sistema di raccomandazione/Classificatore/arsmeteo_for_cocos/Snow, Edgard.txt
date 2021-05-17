@@ -1,0 +1,5 @@
+autoritratto:         0.9
+polaroid:             0.9
+bruxelles:            0.9
+datare:               0.9
+libro:                0.9

@@ -1,0 +1,4 @@
+ordine:               0.9
+impronta:             0.9
+elemento:             0.9
+fuoco:                0.9

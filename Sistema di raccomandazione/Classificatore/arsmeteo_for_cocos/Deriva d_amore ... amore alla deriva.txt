@@ -1,0 +1,4 @@
+casualità:            0.9
+segreto:              0.9
+libertà:              0.9
+pensiero:             0.9

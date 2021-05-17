@@ -1,0 +1,4 @@
+disagio:              0.9
+sfuggente:            0.9
+tendere:              0.9
+occhiale:             0.9

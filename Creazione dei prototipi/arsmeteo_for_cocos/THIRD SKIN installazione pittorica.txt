@@ -1,0 +1,7 @@
+carta:                0.9
+gesso:                0.9
+bianco:               0.9
+leggerezza:           0.9
+aria:                 0.9
+sospensione:          0.9
+legno:                0.9

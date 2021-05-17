@@ -1,0 +1,11 @@
+mano:                 0.9
+capo:                 0.9
+unico:                0.9
+fatto:                0.9
+entrambi:             0.9
+dimora:               0.9
+dio:                  0.9
+diafano:              0.9
+corpo:                0.9
+acqua:                0.9
+fiammeggiare:         0.9

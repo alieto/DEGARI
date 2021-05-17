@@ -1,0 +1,9 @@
+visione:              0.9
+roma:                 0.9
+forzato:              0.9
+sepolcro:             0.9
+castello:             0.9
+dimora:               0.9
+carcere:              0.9
+residenza:            0.9
+mausoleo:             0.9

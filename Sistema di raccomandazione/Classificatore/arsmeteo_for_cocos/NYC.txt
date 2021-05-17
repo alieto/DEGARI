@@ -1,0 +1,3 @@
+skyline:              0.9
+hudson:               0.9
+densità:              0.9

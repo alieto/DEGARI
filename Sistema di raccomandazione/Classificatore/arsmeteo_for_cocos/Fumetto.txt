@@ -1,0 +1,12 @@
+fumetto:              0.9
+bionda:               0.6
+vetrina:              0.6
+cellulare:            0.6
+rifotografare:        0.6
+succesione:           0.6
+quadrato:             0.6
+parola:               0.6
+situazione:           0.6
+monologo:             0.6
+intervento:           0.6
+parole_dette:         0.6

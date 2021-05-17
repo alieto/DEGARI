@@ -1,0 +1,3 @@
+luna:                 0.9
+fiammifero:           0.9
+tre:                  0.9

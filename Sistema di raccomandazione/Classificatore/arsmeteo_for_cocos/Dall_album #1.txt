@@ -1,0 +1,5 @@
+grigio:               0.9
+declivio:             0.6
+mistero:              0.6
+sfumatura:            0.6
+nebbia:               0.6

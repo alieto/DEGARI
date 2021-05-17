@@ -1,0 +1,3 @@
+male:                 0.9
+metamorfosi:          0.9
+minaccia:             0.9

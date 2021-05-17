@@ -1,0 +1,6 @@
+lascaux:              0.9
+uomo:                 0.9
+habitat:              0.9
+scultura:             0.9
+faber:                0.9
+spessore:             0.9

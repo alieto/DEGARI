@@ -1,0 +1,5 @@
+oldies:               0.9
+senigallia:           0.9
+sapori_antichi:       0.9
+viaggi_nel_tempo:     0.9
+viaggio:              0.9

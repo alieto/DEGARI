@@ -1,0 +1,5 @@
+chitarra:             0.9
+concerto:             0.9
+les_paul:             0.9
+ciccio:               0.9
+rosso:                0.9

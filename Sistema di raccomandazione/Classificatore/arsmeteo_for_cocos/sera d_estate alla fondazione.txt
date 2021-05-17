@@ -1,0 +1,7 @@
+foto:                 0.9
+rifotografare:        0.9
+visitatore:           0.9
+sicuro:               0.9
+attentare:            0.9
+incerto:              0.9
+dubbioso:             0.9

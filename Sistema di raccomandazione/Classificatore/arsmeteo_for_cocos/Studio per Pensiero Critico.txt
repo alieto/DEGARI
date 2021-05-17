@@ -1,0 +1,3 @@
+anziano:              0.9
+professore:           0.9
+studioso:             0.9

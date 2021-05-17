@@ -1,0 +1,6 @@
+centro:               0.9
+solo:                 0.9
+stella:               0.9
+energia:              0.9
+esplosione:           0.9
+raggio:               0.9

@@ -1,0 +1,4 @@
+fresh_art:            0.9
+katia_olivieri:       0.9
+mario_schiavone:      0.9
+copertina:            0.9

@@ -1,0 +1,6 @@
+drago:                0.9
+ferro_battuto:        0.9
+metallo:              0.9
+medioevo:             0.9
+ornamento:            0.9
+grigio:               0.9

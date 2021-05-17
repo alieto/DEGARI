@@ -1,0 +1,9 @@
+umanità:              0.9
+clandestino:          0.9
+clandestinità:        0.9
+migrare:              0.9
+lavoro:               0.9
+immigrazione:         0.9
+integrazione:         0.9
+società:              0.9
+globalizzazione:      0.9

@@ -1,0 +1,5 @@
+coppia:               0.9
+danza:                0.9
+fermaglio:            0.9
+occhi_socchiusi:      0.9
+capello:              0.9

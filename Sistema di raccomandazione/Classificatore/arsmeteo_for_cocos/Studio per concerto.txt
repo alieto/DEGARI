@@ -1,0 +1,2 @@
+violino:              0.9
+sedia:                0.9

@@ -1,0 +1,7 @@
+occidentale:          0.9
+yukio_mishima:        0.9
+caduta_degli_dei:     0.9
+twilight:             0.9
+xx_century:           0.9
+requiem:              0.9
+mao:                  0.9

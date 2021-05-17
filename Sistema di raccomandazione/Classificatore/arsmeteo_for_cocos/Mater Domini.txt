@@ -1,0 +1,3 @@
+mater:                0.9
+dominio|domino:       0.9
+donna:                0.9

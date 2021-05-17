@@ -1,0 +1,4 @@
+caos:                 0.9
+rumore:               0.9
+luce:                 0.9
+insetto:              0.9

@@ -1,0 +1,12 @@
+storia:               0.9
+gualtiero:            0.9
+marchese:             0.9
+fondatore:            0.9
+considerare:          0.9
+nuovo:                0.9
+cucina:               0.9
+italiano:             0.9
+parere:               0.9
+chef:                 0.9
+noto:                 0.9
+mondo:                0.9

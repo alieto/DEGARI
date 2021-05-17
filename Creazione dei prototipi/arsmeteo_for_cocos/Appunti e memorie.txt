@@ -1,0 +1,4 @@
+memoria:              0.9
+impressione:          0.9
+frame:                0.9
+appunti_interiori:    0.9

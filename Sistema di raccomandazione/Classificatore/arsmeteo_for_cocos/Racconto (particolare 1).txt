@@ -1,0 +1,8 @@
+bastone:              0.9
+vescovile:            0.9
+potere:               0.9
+antico:               0.9
+sulla_tartaruga:      0.9
+maligno:              0.9
+grottesco:            0.9
+caricatura:           0.9

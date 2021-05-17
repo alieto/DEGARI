@@ -1,0 +1,8 @@
+filo:                 0.9
+fili_luminosi:        0.9
+notte:                0.9
+scia:                 0.9
+scie_luminose:        0.9
+giostra:              0.9
+traiettoria:          0.9
+orbita:               0.9

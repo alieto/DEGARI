@@ -1,0 +1,6 @@
+torino:               0.9
+photoshop:            0.9
+sommergere:           0.9
+mare:                 0.9
+blu:                  0.9
+sindone:              0.9

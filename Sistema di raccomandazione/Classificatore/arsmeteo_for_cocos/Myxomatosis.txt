@@ -1,0 +1,8 @@
+girandola:            0.9
+rivoir:               0.9
+stella:               0.9
+nero:                 0.9
+myxomatosis:          0.9
+gatto:                0.9
+radiohead:            0.9
+narradiohead:         0.9

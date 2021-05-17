@@ -1,0 +1,5 @@
+simposio:             0.9
+simposisti:           0.9
+cartellone:           0.9
+discussione:          0.9
+convegno:             0.9

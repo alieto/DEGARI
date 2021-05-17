@@ -1,0 +1,6 @@
+simmetrico:           0.9
+arsmeteo:             0.9
+riflessione:          0.9
+bianco_e_neto:        0.9
+tag:                  0.9
+logo:                 0.9

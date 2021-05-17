@@ -1,0 +1,6 @@
+sesquicavallo:        0.9
+surfanta:             0.9
+scheletro:            0.9
+surreale:             0.9
+sei_zampe:            0.9
+osso:                 0.9

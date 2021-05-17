@@ -1,0 +1,3 @@
+bacon:                0.9
+espressione_facciale: 0.9
+ibridamenti:          0.9

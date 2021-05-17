@@ -1,0 +1,2 @@
+pietra:               0.9
+piercing:             0.9

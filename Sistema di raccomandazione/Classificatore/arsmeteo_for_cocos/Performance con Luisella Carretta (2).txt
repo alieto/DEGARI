@@ -1,0 +1,7 @@
+donna:                0.9
+mare:                 0.9
+fine:                 0.9
+nostalgia:            0.9
+sudario:              0.9
+bianco:               0.9
+innocenza:            0.9

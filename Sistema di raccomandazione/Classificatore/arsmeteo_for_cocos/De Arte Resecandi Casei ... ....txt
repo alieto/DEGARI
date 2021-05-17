@@ -1,0 +1,9 @@
+formaggio:            0.9
+marco_parenti:        0.9
+semiserio:            0.9
+tractatus:            0.9
+farfalla:             0.9
+microfono:            0.9
+comunicazione:        0.9
+design:               0.9
+festa:                0.9

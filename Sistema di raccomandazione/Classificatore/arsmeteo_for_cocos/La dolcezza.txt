@@ -1,0 +1,6 @@
+dolcezza:             0.9
+abbraccio:            0.9
+coppia:               0.9
+cono_gelato:          0.9
+ironia:               0.9
+cremeria:             0.9

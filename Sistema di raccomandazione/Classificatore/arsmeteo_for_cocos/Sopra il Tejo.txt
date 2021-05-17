@@ -1,0 +1,6 @@
+cielo:                0.9
+nuvola:               0.9
+barocco:              0.9
+nave:                 0.9
+lucentezza:           0.9
+sao_vicente_de_fora:  0.9

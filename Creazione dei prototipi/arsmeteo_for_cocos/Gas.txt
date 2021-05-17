@@ -1,0 +1,5 @@
+gas:                  0.9
+elaborazione:         0.9
+digitale:             0.9
+fuoco:                0.9
+metano:               0.9

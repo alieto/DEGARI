@@ -1,0 +1,4 @@
+ballo:                0.9
+spazio:               0.9
+triangolazione:       0.9
+forchetta:            0.9

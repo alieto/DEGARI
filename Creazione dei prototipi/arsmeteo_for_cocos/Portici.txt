@@ -1,0 +1,9 @@
+portico:              0.9
+ripetizione:          0.9
+iterazione:           0.9
+tunnel:               0.9
+galleria:             0.9
+sogno:                0.9
+bicicletta:           0.9
+soffondere:           0.9
+luce:                 0.9

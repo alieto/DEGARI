@@ -1,0 +1,5 @@
+baratto:              0.9
+martire:              0.9
+pace:                 0.9
+guerra:               0.9
+america:              0.9

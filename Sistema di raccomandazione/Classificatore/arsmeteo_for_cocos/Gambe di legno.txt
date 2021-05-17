@@ -1,0 +1,4 @@
+legno:                0.9
+albero:               0.9
+radice:               0.9
+gamba:                0.9

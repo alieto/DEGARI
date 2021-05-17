@@ -1,0 +1,6 @@
+cielo:                0.9
+nuvola:               0.9
+pensiero:             0.9
+mente:                0.9
+sogno:                0.9
+desiderio:            0.9

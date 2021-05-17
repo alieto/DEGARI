@@ -1,0 +1,4 @@
+iris:                 0.9
+omaggio:              0.9
+van_gogh:             0.9
+campo:                0.9

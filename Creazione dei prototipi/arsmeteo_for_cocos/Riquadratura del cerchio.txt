@@ -1,0 +1,9 @@
+emanazione:           0.9
+allineamento:         0.9
+pianeta:              0.9
+sole:                 0.9
+completezza:          0.9
+gerarchia:            0.9
+baffo:                0.9
+occhio:               0.9
+strabuzzamenti:       0.9

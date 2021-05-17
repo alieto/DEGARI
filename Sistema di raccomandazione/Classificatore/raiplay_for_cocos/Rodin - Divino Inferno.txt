@@ -1,0 +1,16 @@
+popolare:             0.9
+augusta:              0.6
+mente:                0.6
+rodare:               0.6
+cosa:                 0.6
+capolavoro:           0.6
+vita:                 0.6
+scultura:             0.6
+colossale:            0.6
+dannato:              0.6
+donna:                0.6
+amato:                0.6
+moltitudine:          0.6
+segreto:              0.6
+porta:                0.6
+inferno:              0.6

@@ -1,0 +1,6 @@
+two:                  0.9
+due:                  0.9
+doppio:               0.9
+coppia:               0.9
+cosma_e_damiano:      0.9
+santi_medici:         0.9

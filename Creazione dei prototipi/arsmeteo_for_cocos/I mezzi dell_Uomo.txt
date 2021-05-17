@@ -1,0 +1,11 @@
+romanico:             0.9
+fatica:               0.9
+estate:               0.9
+disegno:              0.9
+carta:                0.9
+pacco:                0.9
+animale:              0.9
+cavallo:              0.9
+marco:                0.9
+spirito:              0.9
+santo:                0.9

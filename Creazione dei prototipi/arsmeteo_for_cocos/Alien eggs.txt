@@ -1,0 +1,4 @@
+uovo:                 0.9
+tegamino:             0.9
+alieno:               0.9
+ufo:                  0.9

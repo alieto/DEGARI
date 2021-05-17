@@ -1,0 +1,8 @@
+denaro:               0.9
+amore:                0.9
+cielo:                0.9
+fabrizio:             0.9
+de_andre\:            0.9
+fontana:              0.9
+lamborgini:           0.9
+euro:                 0.9

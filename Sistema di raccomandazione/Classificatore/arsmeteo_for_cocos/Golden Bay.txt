@@ -1,0 +1,5 @@
+golden_bay:           0.9
+mare:                 0.9
+spiaggia:             0.9
+oro:                  0.9
+calore:               0.9

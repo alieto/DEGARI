@@ -1,0 +1,6 @@
+medico_condotto:      0.9
+casa_diroccata:       0.9
+la_morte:             0.9
+surfanta:             0.9
+ultima_cena:          0.9
+surreale:             0.9

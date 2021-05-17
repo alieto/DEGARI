@@ -1,0 +1,17 @@
+minacciata:           0.9
+filisteo:             0.9
+tribù:                0.9
+israelitico:          0.9
+regno:                0.9
+nascere:              0.9
+dio:                  0.9
+israele:              0.9
+scelta:               0.9
+futuro:               0.9
+davide:               0.9
+discendenza:          0.9
+vita:                 0.9
+dare:                 0.9
+tempio:               0.9
+costruire:            0.9
+dedicare:             0.6

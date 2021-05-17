@@ -1,0 +1,4 @@
+trash_trash:          0.9
+sesso:                0.9
+_virtuale:            0.9
+albergo:              0.9

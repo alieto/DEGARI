@@ -1,0 +1,7 @@
+segno:                0.9
+significato:          0.9
+significante:         0.9
+braille:              0.9
+ginocchio:            0.9
+cece:                 0.9
+inginocchiatoio:      0.9

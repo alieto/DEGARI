@@ -1,0 +1,10 @@
+specchio:             0.9
+ripetizione:          0.9
+frammento:            0.9
+rifotografare:        0.9
+non_vedo:             0.9
+ilarità:              0.9
+giocare:              0.9
+allegria:             0.9
+spontaneità:          0.9
+bianco_e_nero:        0.9

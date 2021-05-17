@@ -1,0 +1,8 @@
+david:                0.9
+trio:                 0.9
+minore:               0.9
+shostakovic:          0.9
+op.67:                0.9
+violino:              0.9
+violoncello:          0.9
+pianoforte:           0.9

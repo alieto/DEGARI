@@ -1,0 +1,5 @@
+green_wish:           0.9
+wezembeek_oppem:      0.9
+giardino:             0.9
+fioraio:              0.9
+statuina:             0.9

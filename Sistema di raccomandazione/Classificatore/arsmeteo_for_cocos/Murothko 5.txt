@@ -1,0 +1,6 @@
+muro:                 0.9
+rothko:               0.9
+due:                  0.9
+ocra:                 0.9
+bianco:               0.9
+stratigrafia:         0.9

@@ -1,0 +1,2 @@
+nome:                 0.9
+cognome:              0.9

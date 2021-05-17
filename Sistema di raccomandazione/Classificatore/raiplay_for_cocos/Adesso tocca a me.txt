@@ -1,0 +1,16 @@
+paolo:                0.9
+raccontare:           0.9
+borsellino:           0.9
+venticinque:          0.9
+anno:                 0.9
+tragico:              0.9
+fine:                 0.9
+cento:                0.9
+chilo:                0.9
+esplosivo:            0.9
+morte:                0.9
+causare:              0.9
+uomo:                 0.9
+scorta:               0.9
+docu-film:            0.6
+docufilm:             0.6

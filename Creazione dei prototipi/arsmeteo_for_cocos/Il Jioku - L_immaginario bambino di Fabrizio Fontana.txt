@@ -1,0 +1,8 @@
+jioku:                0.9
+jioko:                0.9
+gioco:                0.9
+fabrizio_fontana:     0.9
+realtà:               0.9
+barbie:               0.9
+kinder:               0.9
+red_ink:              0.9

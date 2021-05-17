@@ -1,0 +1,8 @@
+acrilico:             0.9
+oro:                  0.9
+pantoni:              0.9
+indelebile:           0.9
+china:                0.9
+inserto:              0.9
+carta:                0.9
+tela:                 0.9

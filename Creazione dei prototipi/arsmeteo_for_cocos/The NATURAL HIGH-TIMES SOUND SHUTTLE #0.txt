@@ -1,0 +1,5 @@
+adrassan:             0.9
+solo:                 0.9
+viaggio:              0.9
+capsula:              0.9
+mente:                0.9

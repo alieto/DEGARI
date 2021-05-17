@@ -1,0 +1,10 @@
+tibet:                0.9
+lhasa:                0.9
+dalai_lama:           0.9
+palazzo:              0.9
+monastero:            0.9
+scheletro:            0.9
+visionare:            0.9
+surreale:             0.9
+visionario:           0.9
+surfanta:             0.9

@@ -1,0 +1,5 @@
+felicità:             0.9
+radice:               0.9
+sviluppo:             0.9
+esplosione:           0.9
+frattali:             0.9

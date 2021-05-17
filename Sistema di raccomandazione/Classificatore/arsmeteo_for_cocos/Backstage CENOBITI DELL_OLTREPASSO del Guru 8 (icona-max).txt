@@ -1,0 +1,4 @@
+backstage:            0.9
+cenobiti_dell_oltrepasso:0.9
+guru:                 0.9
+icona_max:            0.9

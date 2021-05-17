@@ -1,0 +1,16 @@
+figlio:               0.9
+giuseppe:             0.9
+amato:                0.9
+giacobbe:             0.9
+tradito:              0.9
+schiavo:              0.9
+vendere:              0.9
+faraone:              0.9
+sogno:                0.9
+interpretare:         0.9
+due:                  0.9
+prigioniero:          0.9
+corte:                0.9
+accogliere:           0.9
+grande:               0.9
+indovino:             0.9

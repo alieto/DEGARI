@@ -1,0 +1,5 @@
+quh:                  0.9
+carta:                0.9
+quori:                0.9
+regina:               0.9
+psycho:               0.9

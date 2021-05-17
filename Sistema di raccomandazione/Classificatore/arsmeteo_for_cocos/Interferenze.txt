@@ -1,0 +1,4 @@
+luce:                 0.9
+scia:                 0.9
+nastro:               0.9
+scorrimento:          0.9

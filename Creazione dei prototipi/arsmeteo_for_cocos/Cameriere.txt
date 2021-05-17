@@ -1,0 +1,14 @@
+-metallo+:            0.9
+-riciclato+:          0.9
+-rivivere+:           0.9
+-recupero+:           0.9
+-assemblaggio+:       0.9
+-rottami+:            0.9
+-composizione+:       0.9
+-pezzi+:              0.9
+cameriera|cameriere:  0.9
+servizio:             0.9
+torta_nuziale:        0.9
+tovagliolo:           0.9
+serbatoio:            0.9
+ingranaggio:          0.9

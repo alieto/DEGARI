@@ -1,0 +1,6 @@
+bilancia:             0.9
+verde:                0.9
+celesta|celeste:      0.9
+linnea:               0.9
+segno_zodiacale:      0.9
+aria:                 0.9

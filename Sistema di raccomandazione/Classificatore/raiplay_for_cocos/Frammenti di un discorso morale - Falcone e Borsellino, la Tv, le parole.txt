@@ -1,0 +1,8 @@
+apparizione:          0.9
+televisivo:           0.9
+falcone:              0.9
+borsellino:           0.9
+discorso:             0.9
+mafia:                0.9
+corruzione:           0.9
+italia:               0.6

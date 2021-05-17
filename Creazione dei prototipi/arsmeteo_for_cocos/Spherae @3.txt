@@ -1,0 +1,3 @@
+circolo:              0.9
+linea:                0.9
+scostamento:          0.9

@@ -1,0 +1,4 @@
+neruda:               0.9
+libro_d_artista:      0.9
+cane:                 0.9
+scrittura:            0.9

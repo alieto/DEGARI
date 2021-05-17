@@ -1,0 +1,6 @@
+chitarra:             0.9
+totem:                0.9
+gestuale:             0.9
+materico:             0.9
+prolungamento:        0.9
+metamorfosi:          0.9

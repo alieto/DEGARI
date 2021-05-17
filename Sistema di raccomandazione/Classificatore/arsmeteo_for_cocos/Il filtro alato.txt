@@ -1,0 +1,10 @@
+fantasia:             0.9
+venezia:              0.9
+laguna:               0.9
+acquerello:           0.9
+sogno:                0.9
+tecnica_mista:        0.9
+gallery:              0.9
+amore:                0.9
+gondola:              0.9
+grafica:              0.9

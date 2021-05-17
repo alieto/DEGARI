@@ -1,0 +1,3 @@
+segnatempo:           0.9
+segnalibro:           0.9
+segnale:              0.9

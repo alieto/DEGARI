@@ -1,0 +1,8 @@
+futuro:               0.9
+presente:             0.9
+previsione:           0.9
+nuvola:               0.9
+tag_clouds:           0.9
+prototipo:            0.9
+sogno:                0.9
+altro_non_saprei:     0.9

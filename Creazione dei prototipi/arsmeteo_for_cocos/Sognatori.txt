@@ -1,0 +1,7 @@
+sognatore:            0.9
+amico:                0.9
+vecchietta:           0.9
+cane:                 0.9
+interno:              0.9
+guscio:               0.9
+abbraccio:            0.9

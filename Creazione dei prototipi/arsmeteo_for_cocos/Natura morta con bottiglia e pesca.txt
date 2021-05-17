@@ -1,0 +1,4 @@
+natura:               0.9
+morta:                0.9
+bottiglia:            0.9
+pesca:                0.9

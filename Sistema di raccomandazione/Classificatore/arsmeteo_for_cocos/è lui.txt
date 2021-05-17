@@ -1,0 +1,11 @@
+adolfo:               0.9
+cattelan:             0.9
+verosimigliante:      0.9
+male:                 0.9
+estraneante:          0.9
+banalità:             0.9
+potere:               0.9
+follia:               0.9
+sogno:                0.9
+distruzione:          0.9
+caduta:               0.9

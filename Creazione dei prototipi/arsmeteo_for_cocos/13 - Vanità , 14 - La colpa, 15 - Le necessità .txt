@@ -1,0 +1,3 @@
+vanità:               0.9
+colpa:                0.9
+necessità:            0.9

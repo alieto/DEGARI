@@ -1,0 +1,4 @@
+garofano:             0.9
+vasetto:              0.9
+fiore:                0.9
+foglia:               0.9

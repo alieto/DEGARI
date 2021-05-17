@@ -1,0 +1,5 @@
+farfalla:             0.9
+sfera:                0.9
+pianeta:              0.9
+leggerezza:           0.9
+ombra:                0.9

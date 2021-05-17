@@ -1,0 +1,2 @@
+fungo:                0.9
+porcino:              0.9

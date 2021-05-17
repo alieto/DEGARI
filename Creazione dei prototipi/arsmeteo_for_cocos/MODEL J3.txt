@@ -1,0 +1,3 @@
+pensiero:             0.9
+debole:               0.9
+netville:             0.9

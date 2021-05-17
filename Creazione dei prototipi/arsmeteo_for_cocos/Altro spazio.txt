@@ -1,0 +1,4 @@
+spazio:               0.9
+alieno:               0.9
+struttura:            0.9
+loce:                 0.9

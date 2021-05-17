@@ -1,0 +1,4 @@
+dante:                0.9
+divina_commedia:      0.9
+virgilio:             0.9
+inferno:              0.9

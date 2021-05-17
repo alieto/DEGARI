@@ -1,0 +1,6 @@
+trash:                0.9
+second_life:          0.9
+ordures:              0.9
+débarassement:        0.9
+secco_non_riciclabile:0.9
+avatar:               0.9

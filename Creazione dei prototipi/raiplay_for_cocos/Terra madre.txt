@@ -1,0 +1,8 @@
+documentario:         0.9
+abitudine:            0.9
+contadino:            0.9
+mondo:                0.9
+enorme:               0.9
+amore:                0.9
+lega:                 0.9
+terra:                0.9

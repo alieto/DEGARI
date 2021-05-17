@@ -1,0 +1,10 @@
+arsmeteo:             0.9
+what_is_art:          0.9
+cos_è_l_arte:         0.9
+euro:                 0.9
+money:                0.9
+paypal:               0.9
+a_suivre:             0.9
+es_art:               0.9
+credit_card:          0.9
+fondamentale:         0.9

@@ -1,0 +1,6 @@
+alveare:              0.9
+alienazione:          0.9
+simmetria:            0.9
+cella:                0.9
+struttura:            0.9
+architettura_improbabile:0.9

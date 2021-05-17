@@ -1,0 +1,4 @@
+spiaggia:             0.9
+messico:              0.9
+donna:                0.9
+riposo:               0.9

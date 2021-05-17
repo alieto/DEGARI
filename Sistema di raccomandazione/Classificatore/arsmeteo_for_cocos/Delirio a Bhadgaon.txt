@@ -1,0 +1,9 @@
+delirio:              0.9
+bhagdaon:             0.9
+himalaya:             0.9
+nepal:                0.9
+svastica:             0.9
+carro:                0.9
+surfanta:             0.9
+uccelli_impietosi:    0.9
+naso_a_becco:         0.9

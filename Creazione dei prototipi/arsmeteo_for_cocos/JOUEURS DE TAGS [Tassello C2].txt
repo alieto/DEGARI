@@ -1,0 +1,12 @@
+tag:                  0.9
+taggers:              0.9
+joueurs:              0.9
+netville:             0.9
+carta:                0.9
+cards:                0.9
+taggatori:            0.9
+tallonare:            0.9
+opportuni_tag:        0.9
+reciprocità:          0.9
+riuso:                0.9
+deserto_dei_tag:      0.9

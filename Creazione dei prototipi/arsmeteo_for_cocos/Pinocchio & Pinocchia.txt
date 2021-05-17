@@ -1,0 +1,7 @@
+letto:                0.9
+pinocchio:            0.6
+pinocchia:            0.6
+matita:               0.6
+temperino:            0.6
+amore:                0.6
+ironia:               0.6

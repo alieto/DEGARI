@@ -1,0 +1,9 @@
+pistillo:             0.9
+calla:                0.6
+genova:               0.6
+bianco:               0.6
+giallo:               0.6
+fiore:                0.6
+verde:                0.6
+scostamento:          0.6
+calice:               0.6

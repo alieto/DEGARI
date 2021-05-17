@@ -1,0 +1,4 @@
+disegno:              0.9
+figurino:             0.9
+costume:              0.9
+epoca:                0.9

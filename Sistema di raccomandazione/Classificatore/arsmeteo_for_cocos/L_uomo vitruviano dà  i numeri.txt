@@ -1,0 +1,4 @@
+uomo_vitruviano:      0.9
+numero:               0.9
+umorismo:             0.9
+caus:                 0.9

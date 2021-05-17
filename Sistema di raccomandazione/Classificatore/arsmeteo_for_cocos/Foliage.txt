@@ -1,0 +1,6 @@
+ascolto:              0.9
+attenzione:           0.9
+concentrazione:       0.9
+fruscio:              0.9
+nota:                 0.9
+espressione:          0.9

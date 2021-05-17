@@ -1,0 +1,12 @@
+donna:                0.9
+siluette:             0.9
+femminile:            0.9
+nudo:                 0.9
+mordente:             0.9
+china:                0.9
+apparizione:          0.9
+sorpresa:             0.9
+noce:                 0.9
+nero:                 0.9
+disegno:              0.9
+macchia:              0.9

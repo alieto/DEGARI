@@ -1,0 +1,5 @@
+parco:                0.9
+hongkong:             0.9
+lettura:              0.9
+rilassamento:         0.9
+concentrazione:       0.9

@@ -1,0 +1,5 @@
+notte:                0.9
+metafisica|metafisico:0.9
+prospettiva:          0.9
+magico:               0.9
+statico:              0.9

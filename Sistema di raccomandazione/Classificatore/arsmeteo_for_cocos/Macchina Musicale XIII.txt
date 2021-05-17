@@ -1,0 +1,4 @@
+assemblaggio:         0.9
+elmo:                 0.9
+plettro:              0.9
+dente:                0.9

@@ -1,0 +1,8 @@
+negozio:              0.9
+vendita:              0.9
+quadro:               0.9
+vetrina:              0.9
+offerta:              0.9
+in_vendita:           0.9
+finzione:             0.9
+mondo_parallelo:      0.9

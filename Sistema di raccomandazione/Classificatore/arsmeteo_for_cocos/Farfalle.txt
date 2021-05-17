@@ -1,0 +1,5 @@
+farfalla:             0.9
+penna:                0.9
+pasta:                0.9
+grano_duro:           0.9
+pasta_secca:          0.9

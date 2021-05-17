@@ -1,0 +1,6 @@
+animale:              0.9
+leone:                0.9
+criniera:             0.9
+coppia:               0.9
+felino:               0.9
+fiera:                0.9

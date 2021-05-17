@@ -1,0 +1,3 @@
+variazione:           0.9
+triangolazione:       0.9
+maculae:              0.9

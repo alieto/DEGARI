@@ -1,0 +1,6 @@
+easy:                 0.9
+bit:                  0.9
+food:                 0.9
+pesce:                0.9
+cucinare:             0.9
+cibo:                 0.9

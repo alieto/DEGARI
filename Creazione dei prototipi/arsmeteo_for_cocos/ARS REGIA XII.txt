@@ -1,0 +1,10 @@
+sacrificio:           0.9
+umiliazione:          0.6
+derisione:            0.6
+dedizione:            0.6
+pauperismo:           0.6
+disciplina:           0.6
+anima:                0.6
+ferita:               0.6
+tempo:                0.6
+arcaico:              0.6

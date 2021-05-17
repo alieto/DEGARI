@@ -1,0 +1,4 @@
+camaleonte:           0.9
+sul_ramo:             0.9
+arcaico:              0.9
+antico:               0.9

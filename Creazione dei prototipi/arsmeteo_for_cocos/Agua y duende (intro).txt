@@ -1,0 +1,5 @@
+acqua:                0.9
+duende:               0.9
+agua:                 0.9
+colore:               0.9
+ritmo:                0.9

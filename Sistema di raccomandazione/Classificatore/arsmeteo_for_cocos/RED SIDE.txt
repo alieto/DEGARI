@@ -1,0 +1,7 @@
+jiokube:              0.9
+composizione:         0.9
+cubo:                 0.9
+jioko_finale:         0.9
+red:                  0.9
+rosso:                0.9
+red_ink:              0.9

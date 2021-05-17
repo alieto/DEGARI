@@ -1,0 +1,16 @@
+civetta:              0.9
+notte:                0.9
+cappotto:             0.9
+nobiltà:              0.9
+sul_ramo:             0.9
+appollaiare:          0.9
+notturno:             0.9
+doppiopetto:          0.9
+cappottino:           0.9
+accigliare:           0.9
+surfanta:             0.9
+giaveno:              0.9
+dandy:                0.9
+fantasia:             0.9
+simbolo:              0.9
+sguardo:              0.9

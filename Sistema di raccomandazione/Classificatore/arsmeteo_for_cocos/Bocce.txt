@@ -1,0 +1,8 @@
+perdita:              0.9
+ghisa:                0.9
+ruggine:              0.9
+lampada:              0.9
+ferro:                0.9
+luce:                 0.9
+ferraglia:            0.9
+boccia:               0.9

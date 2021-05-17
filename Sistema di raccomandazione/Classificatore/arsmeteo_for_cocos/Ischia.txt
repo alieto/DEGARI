@@ -1,0 +1,4 @@
+bagnante:             0.9
+ombra:                0.9
+calza:                0.9
+grigio:               0.9

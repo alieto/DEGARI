@@ -1,0 +1,5 @@
+sguardo_attento:      0.9
+cappello:             0.9
+larga_tesa:           0.9
+occhio:               0.9
+disincanto:           0.9

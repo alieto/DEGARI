@@ -1,0 +1,13 @@
+brooklyn:             0.9
+serbia:               0.9
+foto:                 0.9
+sguardo:              0.9
+ghetto:               0.9
+violenza:             0.9
+emarginazione:        0.9
+fatalità:             0.9
+ignoranza:            0.9
+povertà:              0.9
+mito:                 0.9
+eroe:                 0.9
+negativo:             0.9

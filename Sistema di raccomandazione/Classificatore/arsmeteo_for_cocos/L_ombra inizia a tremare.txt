@@ -1,0 +1,8 @@
+matita:               0.9
+chiocciola:           0.9
+sogno:                0.9
+soffondere:           0.9
+fantasia:             0.9
+compenetrazione:      0.9
+combinazione:         0.9
+zig_zag:              0.9

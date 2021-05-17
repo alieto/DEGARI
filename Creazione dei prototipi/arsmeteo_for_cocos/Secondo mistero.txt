@@ -1,0 +1,9 @@
+secondo:              0.9
+mistero:              0.9
+madonna:              0.9
+vegetazione:          0.9
+verde:                0.9
+bianco_e_nero:        0.9
+bianco:               0.9
+nero:                 0.9
+mano:                 0.9

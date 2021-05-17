@@ -1,0 +1,4 @@
+introspezione:        0.9
+leonardo:             0.9
+materico:             0.9
+geometria:            0.9

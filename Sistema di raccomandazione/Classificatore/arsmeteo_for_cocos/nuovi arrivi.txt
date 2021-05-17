@@ -1,0 +1,5 @@
+arte:                 0.9
+provvocazione:        0.9
+se_vi_piace:          0.9
+trasgressione:        0.9
+a_me_non_da_fastidio: 0.9

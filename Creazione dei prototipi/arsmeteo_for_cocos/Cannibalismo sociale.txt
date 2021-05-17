@@ -1,0 +1,4 @@
+cannibalismo:         0.9
+pesce_mangia_pesce:   0.9
+uomo_mangia_uomo:     0.9
+homo_homini_lupus:    0.9

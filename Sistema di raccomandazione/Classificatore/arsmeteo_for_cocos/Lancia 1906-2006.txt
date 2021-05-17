@@ -1,0 +1,4 @@
+automobile:           0.9
+lancia:               0.9
+pilota:               0.9
+storia:               0.9

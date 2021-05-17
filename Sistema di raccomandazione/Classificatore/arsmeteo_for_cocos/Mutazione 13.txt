@@ -1,0 +1,6 @@
+fuoco:                0.9
+ghiaccio:             0.9
+caldo:                0.9
+freddo:               0.9
+liberazione:          0.9
+mito:                 0.9

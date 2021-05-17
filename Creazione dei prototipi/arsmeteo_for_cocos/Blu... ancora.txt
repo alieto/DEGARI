@@ -1,0 +1,3 @@
+fosforescenza:        0.9
+periodo_blu:          0.9
+deframmentazione:     0.9

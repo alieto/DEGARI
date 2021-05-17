@@ -1,0 +1,7 @@
+mare:                 0.9
+spiaggia:             0.9
+ristoro:              0.9
+caffeina:             0.9
+spagna:               0.9
+bassa_stagione:       0.9
+orizzonte:            0.9

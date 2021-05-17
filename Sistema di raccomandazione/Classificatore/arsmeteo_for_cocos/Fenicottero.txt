@@ -1,0 +1,7 @@
+-metallo+:            0.9
+-riciclato+:          0.9
+-rivivere+:           0.9
+-recupero+:           0.9
+-assemblaggio+:       0.9
+fenicottero:          0.9
+serbatoio:            0.9

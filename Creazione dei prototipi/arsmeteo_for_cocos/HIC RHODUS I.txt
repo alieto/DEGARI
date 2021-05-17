@@ -1,0 +1,10 @@
+hic:                  0.9
+nunc:                 0.9
+rhodus:               0.9
+tagging:              0.9
+imperativo:           0.9
+semantico:            0.9
+sociale:              0.9
+collettivo:           0.9
+barbarico:            0.9
+compositivo:          0.9

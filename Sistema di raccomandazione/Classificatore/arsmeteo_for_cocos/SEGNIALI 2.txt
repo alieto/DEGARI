@@ -1,0 +1,10 @@
+simbolo:              0.9
+segno:                0.9
+graffito:             0.9
+semantica:            0.9
+semiotica:            0.9
+primitivo:            0.9
+infantile:            0.9
+primigenio:           0.9
+comunicazione:        0.9
+significato:          0.9

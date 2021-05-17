@@ -1,0 +1,3 @@
+poesia:               0.9
+nigra:                0.9
+video:                0.9

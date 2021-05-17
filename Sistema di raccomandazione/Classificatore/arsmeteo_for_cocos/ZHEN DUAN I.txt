@@ -1,0 +1,12 @@
+incertezza:           0.9
+terapia:              0.9
+china:                0.9
+nitidezza:            0.9
+corpo:                0.9
+lettura:              0.9
+femmina:              0.9
+maschio:              0.9
+mano:                 0.9
+tavolo:               0.9
+braille:              0.9
+supino:               0.9

@@ -1,0 +1,11 @@
+volto:                0.9
+prospetto:            0.9
+viso:                 0.9
+osservazione:         0.9
+profilo:              0.9
+uomo:                 0.9
+donna:                0.9
+intreccio:            0.9
+blu:                  0.9
+biro:                 0.9
+schizzo:              0.9

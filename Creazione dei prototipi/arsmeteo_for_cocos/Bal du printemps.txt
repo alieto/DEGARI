@@ -1,0 +1,4 @@
+danza:                0.9
+primavera:            0.9
+colore:               0.9
+verde:                0.9

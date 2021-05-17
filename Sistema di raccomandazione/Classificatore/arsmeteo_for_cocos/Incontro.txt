@@ -1,0 +1,8 @@
+curiosità:            0.9
+mono_dia_logo:        0.9
+dejeuner_au_muse\:    0.9
+cibo:                 0.9
+bestiale:             0.9
+insetto:              0.9
+alieno:               0.9
+incontro:             0.9

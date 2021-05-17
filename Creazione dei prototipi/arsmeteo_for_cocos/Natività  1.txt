@@ -1,0 +1,5 @@
+maternità:            0.9
+grottesco:            0.9
+natività:             0.9
+in_braccio:           0.9
+mostro:               0.9

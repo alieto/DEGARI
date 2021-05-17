@@ -1,0 +1,3 @@
+luce:                 0.9
+evocazione:           0.9
+suggestione:          0.9

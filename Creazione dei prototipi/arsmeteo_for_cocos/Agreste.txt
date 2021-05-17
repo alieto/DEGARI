@@ -1,0 +1,6 @@
+agresto:              0.9
+assolato:             0.9
+siciliana:            0.9
+campagna:             0.9
+fruttifero:           0.9
+sigari_toscani:       0.9

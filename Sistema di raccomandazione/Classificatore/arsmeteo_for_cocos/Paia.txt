@@ -1,0 +1,6 @@
+due_a_due:            0.9
+taipei:               0.9
+thru_the_window:      0.9
+brother_hotel:        0.9
+nankin_road:          0.9
+cosmogonia:           0.9

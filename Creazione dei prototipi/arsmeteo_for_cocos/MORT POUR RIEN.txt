@@ -1,0 +1,12 @@
+morto:                0.9
+niente:               0.9
+casseur:              0.9
+banlieue:             0.9
+scacco:               0.9
+periferia:            0.9
+disperazione:         0.9
+rivolta:              0.9
+albert_camus:         0.9
+pied_noir:            0.9
+cittadinanza:         0.9
+netville:             0.9

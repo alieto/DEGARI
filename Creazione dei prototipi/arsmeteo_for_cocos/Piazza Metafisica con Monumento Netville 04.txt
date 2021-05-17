@@ -1,0 +1,8 @@
+intervista:           0.9
+possibile:            0.9
+metafisica|metafisico:0.9
+madunina:             0.9
+caval_d_bronz:        0.9
+netville:             0.9
+city:                 0.9
+monument:             0.9

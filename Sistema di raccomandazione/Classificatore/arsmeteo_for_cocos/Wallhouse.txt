@@ -1,0 +1,5 @@
+palazzo:              0.9
+muro:                 0.9
+incombente:           0.9
+piatto:               0.9
+cemento:              0.9

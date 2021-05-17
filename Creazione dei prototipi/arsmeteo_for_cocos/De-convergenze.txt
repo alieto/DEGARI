@@ -1,0 +1,4 @@
+linea:                0.9
+colore:               0.9
+punto:                0.9
+fuoco:                0.9

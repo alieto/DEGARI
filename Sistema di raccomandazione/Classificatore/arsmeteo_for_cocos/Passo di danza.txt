@@ -1,0 +1,5 @@
+scena_balletto:       0.9
+musicalita\:          0.9
+leggerezza:           0.9
+corpo:                0.9
+azzurro:              0.9

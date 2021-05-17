@@ -1,0 +1,3 @@
+clown:                0.9
+serpente:             0.9
+stupore:              0.9

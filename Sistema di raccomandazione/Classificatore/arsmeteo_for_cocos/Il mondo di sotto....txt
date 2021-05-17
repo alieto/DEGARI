@@ -1,0 +1,6 @@
+delicato:             0.9
+evanescente:          0.9
+nascondere:           0.9
+circolare:            0.9
+geometrico:           0.9
+evasivo:              0.9

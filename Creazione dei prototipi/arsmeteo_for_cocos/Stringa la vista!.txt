@@ -1,0 +1,6 @@
+aiuto:                0.9
+help:                 0.9
+fratello_piccolo:     0.9
+installazione:        0.9
+via_cabiria:          0.9
+script:               0.9

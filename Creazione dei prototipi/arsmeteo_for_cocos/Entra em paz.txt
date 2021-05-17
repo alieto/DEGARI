@@ -1,0 +1,5 @@
+portogallo:           0.9
+finestra:             0.9
+pittura_fresca:       0.9
+colore:               0.9
+amicizia:             0.9

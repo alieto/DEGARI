@@ -1,0 +1,10 @@
+male:                 0.9
+vedere:               0.9
+errore:               0.9
+menzogna:             0.9
+attonito:             0.9
+spettatore:           0.9
+incanto:              0.9
+magia:                0.9
+spietato:             0.9
+bellezza:             0.9

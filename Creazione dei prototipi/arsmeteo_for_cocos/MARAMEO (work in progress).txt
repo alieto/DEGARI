@@ -1,0 +1,5 @@
+marameo:              0.9
+work_in_progress:     0.9
+vinile:               0.9
+serigrafia:           0.9
+long_playing:         0.9

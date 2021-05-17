@@ -1,0 +1,2 @@
+cortesia:             0.9
+jeu_de_cartes:        0.9

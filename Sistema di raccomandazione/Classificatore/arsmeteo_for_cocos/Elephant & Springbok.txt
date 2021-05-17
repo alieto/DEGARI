@@ -1,0 +1,8 @@
+savana:               0.9
+odore:                0.9
+africo:               0.9
+casa:                 0.9
+estremo:              0.9
+libertà:              0.9
+antilope:             0.9
+africana:             0.9

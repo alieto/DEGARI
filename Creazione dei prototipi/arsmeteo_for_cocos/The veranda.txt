@@ -1,0 +1,5 @@
+veranda:              0.9
+cane:                 0.9
+albero:               0.9
+finestra:             0.9
+luce:                 0.9

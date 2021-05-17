@@ -1,0 +1,6 @@
+muro:                 0.9
+rothko:               0.9
+due:                  0.9
+stratigrafia:         0.9
+bianco_nero:          0.9
+venatura:             0.9

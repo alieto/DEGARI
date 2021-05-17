@@ -1,0 +1,4 @@
+uomo:                 0.9
+riposo:               0.9
+poltrona:             0.9
+blu:                  0.9

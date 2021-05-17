@@ -1,0 +1,3 @@
+piazza:               0.9
+statua:               0.9
+cavallo:              0.9

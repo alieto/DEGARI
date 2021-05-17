@@ -1,0 +1,8 @@
+senza_parole:         0.9
+prossemica:           0.9
+al_parco:             0.9
+panchina:             0.9
+fissità:              0.9
+sguardi_incrociati:   0.9
+banalità:             0.9
+siepe:                0.9

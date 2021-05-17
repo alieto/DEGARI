@@ -1,0 +1,3 @@
+muro:                 0.9
+uva:                  0.9
+tralcio:              0.9

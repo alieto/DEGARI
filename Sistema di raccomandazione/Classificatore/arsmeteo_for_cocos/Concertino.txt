@@ -1,0 +1,6 @@
+sedere:               0.9
+femminile:            0.9
+culo:                 0.9
+tanto:                0.9
+imbarazzo:            0.9
+scelta:               0.9

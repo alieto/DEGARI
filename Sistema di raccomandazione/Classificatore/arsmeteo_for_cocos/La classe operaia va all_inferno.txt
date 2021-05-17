@@ -1,0 +1,15 @@
+antonio_schiavone:    0.9
+roberto_scola:        0.9
+angelo_laurino:       0.9
+operaio:              0.9
+morto:                0.9
+fuoco:                0.9
+incendio:             0.9
+crimine:              0.9
+pelizza_da_volpedo:   0.9
+cut_up:               0.9
+thyssenkrupp:         0.9
+commemorare:          0.9
+capitalismo:          0.9
+merda:                0.9
+morte:                0.9

@@ -1,0 +1,4 @@
+non_impressionabile:  0.9
+muovere:              0.9
+ritratto:             0.9
+principe:             0.9

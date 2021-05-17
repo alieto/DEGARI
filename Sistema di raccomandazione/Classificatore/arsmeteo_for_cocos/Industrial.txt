@@ -1,0 +1,7 @@
+torre:                0.9
+acqua:                0.9
+industria:            0.9
+silos:                0.9
+cielo:                0.9
+nuvola:               0.9
+cemento:              0.9

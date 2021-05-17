@@ -1,0 +1,16 @@
+viscere:              0.9
+vesuvio:              0.9
+pulcinella:           0.9
+giorno:               0.9
+campania:             0.9
+ultimo:               0.9
+esaudire:             0.9
+volontà:              0.9
+pastore:              0.9
+tommaso:              0.9
+salvo:                0.9
+mettere:              0.9
+giovane:              0.9
+bufalo:               0.9
+nome:                 0.9
+sarchiapone:          0.9

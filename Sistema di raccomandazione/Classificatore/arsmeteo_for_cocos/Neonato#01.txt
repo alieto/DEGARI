@@ -1,0 +1,4 @@
+zampette:             0.9
+cicala:               0.9
+repetita_juvant:      0.9
+newborn:              0.9

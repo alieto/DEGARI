@@ -1,0 +1,9 @@
+divinazione:          0.9
+magia:                0.9
+caffè:                0.9
+oracolo:              0.9
+caffeina:             0.9
+caffeomanzia:         0.9
+cromaroma:            0.9
+luce:                 0.9
+luna_nera:            0.9

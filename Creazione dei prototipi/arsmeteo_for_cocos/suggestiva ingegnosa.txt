@@ -1,0 +1,3 @@
+newpop:               0.9
+pop:                  0.9
+famiglia:             0.9

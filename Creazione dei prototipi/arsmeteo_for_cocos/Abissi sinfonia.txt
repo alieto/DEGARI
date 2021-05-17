@@ -1,0 +1,10 @@
+ferro:                0.9
+mista:                0.9
+tecnica:              0.9
+acrilico:             0.9
+sintetico:            0.9
+schiuma:              0.9
+tavola:               0.9
+mare:                 0.9
+pittura:              0.9
+toccare:              0.9

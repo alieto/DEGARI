@@ -1,0 +1,6 @@
+intervista:           0.9
+netville:             0.9
+nietzsche:            0.9
+agorà:                0.9
+arsmeteo:             0.9
+theatrum_communicationis:0.9

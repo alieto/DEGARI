@@ -1,0 +1,4 @@
+scatola:              0.9
+garibaldi:            0.9
+garibaldino:          0.9
+marchio_depositato:   0.9

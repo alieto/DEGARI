@@ -1,0 +1,6 @@
+fashion:              0.9
+viso:                 0.9
+volto:                0.9
+riflesso:             0.9
+retrovisore:          0.9
+posa:                 0.9

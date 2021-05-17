@@ -1,0 +1,7 @@
+calamita:             0.9
+lampadina:            0.9
+notte:                0.9
+stella:               0.9
+sostituzione:         0.9
+energia_pulita:       0.9
+eletromagnetismo:     0.9

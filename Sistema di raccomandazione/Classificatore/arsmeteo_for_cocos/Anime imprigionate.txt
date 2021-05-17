@@ -1,0 +1,7 @@
+anima:                0.9
+anime_imprigionate:   0.9
+imprigionare:         0.9
+spirito:              0.9
+maschera:             0.9
+simbolico:            0.9
+velo:                 0.9

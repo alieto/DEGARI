@@ -1,0 +1,9 @@
+bacio:                0.9
+bocca:                0.9
+industria:            0.9
+città:                0.9
+netville:             0.9
+morbidezza:           0.9
+calore:               0.9
+donna_leone:          0.9
+poltronessa:          0.9

@@ -1,0 +1,5 @@
+grottesco:            0.9
+follia:               0.9
+caricatura:           0.9
+trasfigurazione:      0.9
+folle:                0.9

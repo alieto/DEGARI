@@ -1,0 +1,7 @@
+futuro:               0.9
+bambino:              0.9
+guerra:               0.9
+carro_armato:         0.9
+casa:                 0.9
+preoccupazione:       0.9
+guardare_avanti:      0.9

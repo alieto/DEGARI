@@ -1,0 +1,5 @@
+lucertola:            0.9
+scorpione:            0.9
+linea:                0.9
+omaggio:              0.9
+positivismo:          0.9

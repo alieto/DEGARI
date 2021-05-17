@@ -1,0 +1,7 @@
+fotografia:           0.9
+bianco-e-nero:        0.9
+donna:                0.9
+sonno:                0.9
+caldo:                0.9
+velo:                 0.9
+gerusalemme:          0.9

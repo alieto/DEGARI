@@ -1,0 +1,7 @@
+riflesso:             0.9
+casa:                 0.9
+scritto:              0.9
+lettera:              0.9
+graffio:              0.9
+urbano:               0.9
+paesaggio:            0.9

@@ -1,0 +1,4 @@
+cielo:                0.9
+luna:                 0.9
+solo:                 0.9
+ufo:                  0.9

@@ -1,0 +1,7 @@
+tradizione:           0.9
+giovane:              0.6
+himba:                0.6
+sedere:               0.6
+africo:               0.6
+namibia:              0.6
+etnico:               0.6

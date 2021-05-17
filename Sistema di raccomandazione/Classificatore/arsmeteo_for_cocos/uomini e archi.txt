@@ -1,0 +1,4 @@
+donna_in_primo_piano: 0.9
+grandiosità:          0.9
+folla:                0.9
+paris:                0.9

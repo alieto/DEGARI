@@ -1,0 +1,6 @@
+scalino:              0.9
+millerighe:           0.9
+tennis:               0.9
+scarpa:               0.9
+estate:               0.9
+lumix:                0.9

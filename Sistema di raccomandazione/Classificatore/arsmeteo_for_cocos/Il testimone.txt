@@ -1,0 +1,4 @@
+incontro:             0.9
+testimone:            0.6
+spia:                 0.6
+testimone_oculare:    0.6

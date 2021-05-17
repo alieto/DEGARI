@@ -1,0 +1,6 @@
+sentinella:           0.9
+alpiforte:            0.9
+bramafam:             0.9
+photoshop:            0.9
+digital:              0.9
+paint:                0.9

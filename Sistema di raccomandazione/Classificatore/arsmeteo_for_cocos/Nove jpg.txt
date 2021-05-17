@@ -1,0 +1,9 @@
+jpg:                  0.9
+mixed_media:          0.9
+composizione:         0.9
+nove:                 0.9
+elemento:             0.9
+colore:               0.9
+tela:                 0.9
+cornice:              0.9
+bordo:                0.9

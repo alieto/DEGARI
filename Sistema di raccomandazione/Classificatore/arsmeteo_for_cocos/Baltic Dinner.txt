@@ -1,0 +1,5 @@
+vino:                 0.9
+acqua:                0.9
+riga:                 0.9
+mare:                 0.9
+luce:                 0.9

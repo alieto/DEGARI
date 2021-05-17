@@ -1,0 +1,7 @@
+coppia:               0.9
+armonia:              0.9
+assonanza:            0.9
+musica:               0.9
+viola:                0.9
+violoncello:          0.9
+forma:                0.9

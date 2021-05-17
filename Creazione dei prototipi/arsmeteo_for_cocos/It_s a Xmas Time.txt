@@ -1,0 +1,2 @@
+landscape:            0.9
+augurio:              0.9

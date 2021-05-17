@@ -1,0 +1,6 @@
+public:               0.9
+people:               0.9
+socialize:            0.9
+lonelyness:           0.9
+tension:              0.9
+waiting:              0.9

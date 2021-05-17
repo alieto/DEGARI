@@ -1,0 +1,12 @@
+estremo:              0.9
+pellicola:            0.9
+passato:              0.9
+bianco:               0.9
+nero:                 0.9
+vortice:              0.9
+velocità:             0.9
+occhio:               0.9
+scorrere:             0.9
+particolare:          0.9
+distinguere:          0.9
+fine:                 0.9

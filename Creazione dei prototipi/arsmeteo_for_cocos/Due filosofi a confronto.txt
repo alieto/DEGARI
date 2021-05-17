@@ -1,0 +1,3 @@
+chitarra:             0.9
+totem:                0.9
+filosofo:             0.9

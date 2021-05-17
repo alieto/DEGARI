@@ -1,0 +1,3 @@
+intifada_dei_sassi:   0.9
+segregare:            0.9
+sangue:               0.9

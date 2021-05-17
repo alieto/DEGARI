@@ -1,0 +1,6 @@
+serpente:             0.9
+eva:                  0.9
+paradiso_terrestre:   0.9
+albero_della_conoscenza:0.9
+peccato:              0.9
+tentazione:           0.9

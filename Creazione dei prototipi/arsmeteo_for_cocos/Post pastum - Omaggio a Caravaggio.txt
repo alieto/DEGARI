@@ -1,0 +1,4 @@
+tavolo:               0.9
+cibo:                 0.9
+caravaggio:           0.9
+fine_pasto:           0.9

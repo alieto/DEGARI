@@ -1,0 +1,4 @@
+atlantide:            0.9
+ritratto:             0.9
+segno:                0.9
+interiore:            0.9

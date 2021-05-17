@@ -1,0 +1,10 @@
+mostro:               0.9
+surfanta:             0.9
+inconscio:            0.9
+asteroide:            0.9
+zanna:                0.9
+occhio:               0.9
+simbolo:              0.9
+scruto_ed_osservo:    0.9
+spazio:               0.9
+goccia:               0.9

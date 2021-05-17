@@ -1,0 +1,4 @@
+arsmeteo:             0.9
+creazione:            0.9
+tempo_dell_arte:      0.9
+inizio:               0.9

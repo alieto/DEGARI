@@ -1,0 +1,11 @@
+es:                   0.9
+ragione:              0.9
+sogno:                0.9
+linea:                0.9
+spazio:               0.9
+luce:                 0.9
+centro:               0.9
+geometria:            0.9
+mente:                0.9
+anima:                0.9
+cammino:              0.9

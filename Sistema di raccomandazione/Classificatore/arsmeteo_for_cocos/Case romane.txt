@@ -1,0 +1,7 @@
+aggregazione:         0.9
+frammento:            0.9
+strappo:              0.9
+brandello:            0.9
+finestra:             0.9
+viola:                0.9
+decollage_digitale:   0.9

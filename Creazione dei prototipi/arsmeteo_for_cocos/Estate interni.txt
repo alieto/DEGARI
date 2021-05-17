@@ -1,0 +1,4 @@
+estate:               0.9
+interno:              0.9
+persiana:             0.9
+luce:                 0.9

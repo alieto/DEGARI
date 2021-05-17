@@ -1,0 +1,4 @@
+estate:               0.9
+feste_in_cortile:     0.9
+inaugurazione:        0.9
+occasione:            0.9

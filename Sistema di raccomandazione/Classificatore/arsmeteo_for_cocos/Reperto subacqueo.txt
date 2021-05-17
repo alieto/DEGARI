@@ -1,0 +1,10 @@
+ritrovamento:         0.9
+tesoro:               0.9
+sommerso:             0.9
+previsione:           0.9
+puntatore:            0.9
+perla:                0.9
+subacqueo:            0.9
+digitale:             0.9
+netville:             0.9
+casuale:              0.9

@@ -1,0 +1,4 @@
+blob:                 0.9
+materia:              0.9
+oscuro:               0.9
+viscoso:              0.9

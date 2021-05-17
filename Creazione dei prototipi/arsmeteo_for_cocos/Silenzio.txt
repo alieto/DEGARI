@@ -1,0 +1,12 @@
+silenzio:             0.9
+br:                   0.9
+text-align:           0.6
+style:                0.6
+center:               0.6
+60px:                 0.6
+margin:               0.6
+fondo:                0.6
+ciò:                  0.6
+sentire:              0.6
+muovere:              0.6
+/:                    0.6

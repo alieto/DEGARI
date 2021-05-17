@@ -1,0 +1,10 @@
+libritti_di_mao:      0.9
+che_cazzo:            0.9
+acqua:                0.9
+fede:                 0.9
+cieca:                0.9
+obbedienza:           0.9
+psicosi_collettiva:   0.9
+astinenza:            0.9
+mancanza_cronica_di_donne:0.9
+balzo_in_avanti_nel_vuoto:0.9

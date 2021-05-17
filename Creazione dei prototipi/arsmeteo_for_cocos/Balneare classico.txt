@@ -1,0 +1,7 @@
+statua:               0.9
+ellenico:             0.9
+kitch:                0.9
+balneazione:          0.9
+spiaggia:             0.9
+mare:                 0.9
+fano:                 0.9

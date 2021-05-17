@@ -1,0 +1,6 @@
+infanzia:             0.9
+emigrare:             0.9
+differenza:           0.9
+video:                0.9
+baro:                 0.9
+albania:              0.9

@@ -1,0 +1,4 @@
+frites:               0.9
+friterie:             0.9
+unto_dal_signore:     0.9
+strutto:              0.9

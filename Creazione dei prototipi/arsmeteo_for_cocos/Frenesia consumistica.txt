@@ -1,0 +1,5 @@
+hongkong:             0.9
+consumo:              0.9
+gente:                0.9
+trasporto:            0.9
+densità:              0.9

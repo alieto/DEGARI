@@ -1,0 +1,8 @@
+grottesco:            0.9
+caricatura:           0.9
+metaforico:           0.9
+trasfigurazione:      0.9
+personaggio:          0.9
+coniglio:             0.9
+orecchio:             0.9
+bunny:                0.9

@@ -1,0 +1,10 @@
+bambola:              0.9
+cappello:             0.9
+modaiola:             0.9
+moda:                 0.9
+nice:                 0.9
+stivale:              0.9
+kitch:                0.9
+chic:                 0.9
+surfanta:             0.9
+volpe:                0.9

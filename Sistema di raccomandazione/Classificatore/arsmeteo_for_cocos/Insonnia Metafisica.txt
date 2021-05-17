@@ -1,0 +1,8 @@
+insonnia:             0.9
+luna:                 0.9
+caffè:                0.9
+sufi:                 0.9
+metafisica|metafisico:0.9
+caffettiera:          0.9
+scacchiera:           0.9
+dervishi:             0.9

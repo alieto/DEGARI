@@ -1,0 +1,4 @@
+portogallo:           0.9
+volto:                0.9
+colore:               0.9
+finestra:             0.9

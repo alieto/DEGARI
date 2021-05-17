@@ -1,0 +1,6 @@
+matitona:             0.9
+incappucciare:        0.9
+lumaca:               0.9
+matita_portamatita:   0.9
+cappuccio:            0.9
+uscita:               0.9

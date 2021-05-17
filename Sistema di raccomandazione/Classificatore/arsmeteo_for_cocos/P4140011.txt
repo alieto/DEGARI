@@ -1,0 +1,11 @@
+numero:               0.9
+anonimo:              0.9
+serie:                0.9
+discernere:           0.9
+cronologia:           0.9
+data:                 0.9
+ricerca:              0.9
+aspettare:            0.9
+terra:                0.9
+radice:               0.9
+pietra:               0.9

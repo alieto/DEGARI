@@ -1,0 +1,6 @@
+animal_machines:      0.9
+allevamento_intensivo:0.9
+cibo:                 0.9
+oggetti_organici:     0.9
+freddo:               0.9
+consumo:              0.9

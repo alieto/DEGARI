@@ -1,0 +1,6 @@
+jioko:                0.9
+candela:              0.9
+quattro:              0.9
+quattro_ruote:        0.9
+automobile:           0.9
+incidente_stradale:   0.9

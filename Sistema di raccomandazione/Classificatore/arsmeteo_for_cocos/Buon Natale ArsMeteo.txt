@@ -1,0 +1,6 @@
+carlina:              0.9
+piazza:               0.9
+buon_natale:          0.9
+ars_meteo:            0.9
+lampione:             0.9
+torino:               0.9

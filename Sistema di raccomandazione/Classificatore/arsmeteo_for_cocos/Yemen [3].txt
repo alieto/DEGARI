@@ -1,0 +1,8 @@
+yemen:                0.9
+donna:                0.9
+occhio:               0.9
+sguardo:              0.9
+sabbia:               0.9
+occhi_sorridenti:     0.9
+velo:                 0.9
+nascondere:           0.9

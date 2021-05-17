@@ -1,0 +1,7 @@
+siemens:              0.9
+telefonino:           0.6
+cellulare:            0.6
+vibrazione:           0.6
+privacy:              0.6
+sodomizzazione:       0.6
+mail_art:             0.6

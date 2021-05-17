@@ -1,0 +1,3 @@
+coppia:               0.9
+appeso:               0.9
+testa_in_già¹:        0.9

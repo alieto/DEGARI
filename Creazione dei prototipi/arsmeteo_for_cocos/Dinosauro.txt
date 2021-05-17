@@ -1,0 +1,6 @@
+-metallo+:            0.9
+-riciclato+:          0.9
+-rivivere+:           0.9
+-recupero+:           0.9
+-assemblaggio+:       0.9
+dinosauro:            0.9

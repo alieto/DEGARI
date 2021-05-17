@@ -1,0 +1,2 @@
+know:                 0.9
+about_you:            0.9

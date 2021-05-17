@@ -1,0 +1,5 @@
+donna:                0.9
+velo:                 0.9
+quadro:               0.9
+quadro_nel_quadro:    0.9
+tempo:                0.9

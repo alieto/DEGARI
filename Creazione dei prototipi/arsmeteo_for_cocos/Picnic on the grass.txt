@@ -1,0 +1,7 @@
+soccer:               0.9
+calcio:               0.9
+televisione:          0.9
+mixed_media:          0.9
+fotografia:           0.9
+giancarlo_baraldo:    0.9
+tecnica_mista:        0.9

@@ -1,0 +1,15 @@
+luce:                 0.9
+tramonto:             0.9
+cielo:                0.9
+nube:                 0.9
+nuvoloso:             0.9
+nuvola:               0.9
+rosso:                0.9
+indaco:               0.9
+arancio:              0.9
+blu:                  0.9
+giallo:               0.9
+bianco:               0.9
+profondo:             0.9
+meditazione:          0.9
+infinito:             0.9

@@ -1,0 +1,6 @@
+piazza:               0.9
+montevideo:           0.9
+giorno_di_festa:      0.9
+eleganza:             0.9
+stivale:              0.9
+machismo:             0.9

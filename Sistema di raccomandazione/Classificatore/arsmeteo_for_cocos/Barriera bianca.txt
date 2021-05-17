@@ -1,0 +1,7 @@
+loggia_san_bartolomeo:0.9
+palermo:              0.9
+capello:              0.9
+gommina:              0.9
+silhouette:           0.9
+immobile:             0.9
+destino:              0.9

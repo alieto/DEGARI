@@ -1,0 +1,5 @@
+muro:                 0.9
+rothko:               0.9
+giallo:               0.9
+grigio:               0.9
+due:                  0.9

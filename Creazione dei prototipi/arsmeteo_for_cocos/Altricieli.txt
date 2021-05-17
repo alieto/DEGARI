@@ -1,0 +1,7 @@
+cielo:                0.9
+tramonto:             0.9
+nuvola:               0.9
+rosso_di_sera:        0.9
+luce:                 0.9
+profilo:              0.9
+contrasto:            0.9

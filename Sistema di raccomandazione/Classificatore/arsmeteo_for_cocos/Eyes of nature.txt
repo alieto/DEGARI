@@ -1,0 +1,4 @@
+natura:               0.9
+inquinamento:         0.9
+occhio:               0.9
+futuro:               0.9

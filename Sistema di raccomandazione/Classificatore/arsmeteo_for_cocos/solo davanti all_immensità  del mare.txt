@@ -1,0 +1,6 @@
+acqua:                0.9
+possenza:             0.9
+orizzonte:            0.9
+grandezza:            0.9
+sgomento:             0.9
+incredulità:          0.9

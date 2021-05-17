@@ -1,0 +1,12 @@
+anniversario:         0.9
+fiat:                 0.9
+seicento:             0.9
+automobile:           0.9
+tempera_su_carta:     0.9
+omaggio:              0.9
+ricorrenza:           0.9
+modello:              0.9
+popolare:             0.9
+industria:            0.9
+donna:                0.9
+per_tutti:            0.9

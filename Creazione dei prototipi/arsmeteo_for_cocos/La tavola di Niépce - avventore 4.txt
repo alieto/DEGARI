@@ -1,0 +1,5 @@
+apparecchiatura:      0.9
+sfotografica:         0.9
+avventore:            0.9
+tavola:               0.9
+scodella:             0.9

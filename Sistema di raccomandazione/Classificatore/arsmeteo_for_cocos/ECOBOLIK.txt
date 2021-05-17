@@ -1,0 +1,3 @@
+ecografia:            0.9
+diabolik:             0.9
+sguardo:              0.9

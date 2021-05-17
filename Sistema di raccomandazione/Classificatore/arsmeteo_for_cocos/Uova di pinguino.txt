@@ -1,0 +1,4 @@
+pinguino:             0.9
+uovo:                 0.9
+igloo:                0.9
+caus:                 0.9

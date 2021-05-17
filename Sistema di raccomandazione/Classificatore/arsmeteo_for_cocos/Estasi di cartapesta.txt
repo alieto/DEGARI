@@ -1,0 +1,5 @@
+estasi:               0.9
+sacro:                0.9
+immagine:             0.9
+cartapesta:           0.9
+vetrina:              0.9

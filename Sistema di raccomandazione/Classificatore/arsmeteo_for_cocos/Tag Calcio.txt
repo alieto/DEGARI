@@ -1,0 +1,8 @@
+calcio:               0.9
+capolettera:          0.9
+lettera_c:            0.9
+alfameteo:            0.9
+competizione:         0.9
+gioco:                0.9
+arscrittura:          0.9
+deleuze:              0.9

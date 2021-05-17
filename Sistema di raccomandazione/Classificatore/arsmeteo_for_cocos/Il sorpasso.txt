@@ -1,0 +1,4 @@
+protervo:             0.9
+fiero:                0.9
+bicicletta:           0.9
+anni_cinquanta:       0.9

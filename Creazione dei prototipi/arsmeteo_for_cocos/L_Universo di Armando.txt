@@ -1,0 +1,10 @@
+bottega:              0.9
+oggetto:              0.9
+caos:                 0.9
+armare:               0.9
+disordine:            0.9
+borotalco:            0.9
+candela:              0.9
+cartolina:            0.9
+rotolo:               0.9
+filo:                 0.9

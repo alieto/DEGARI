@@ -1,0 +1,5 @@
+archetipo:            0.9
+pietra:               0.9
+gandhara:             0.9
+vita_spezzata:        0.9
+buddha:               0.9

@@ -1,0 +1,4 @@
+solo:                 0.9
+strada:               0.9
+percorso:             0.9
+via:                  0.9

@@ -1,0 +1,4 @@
+muffa:                0.9
+lichene:              0.9
+pietra:               0.9
+terra:                0.9

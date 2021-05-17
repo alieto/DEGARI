@@ -1,0 +1,10 @@
+palla:                0.9
+frattali:             0.9
+sfera:                0.9
+nuvola:               0.9
+nebulosa:             0.9
+spirale:              0.9
+vortice:              0.9
+risucchio:            0.9
+psichedelia:          0.9
+psichedelico:         0.9

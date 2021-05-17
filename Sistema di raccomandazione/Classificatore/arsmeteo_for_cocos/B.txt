@@ -1,0 +1,5 @@
+illustrazione:        0.9
+filastrocca:          0.9
+bambino:              0.9
+barchetta:            0.9
+burattino:            0.9

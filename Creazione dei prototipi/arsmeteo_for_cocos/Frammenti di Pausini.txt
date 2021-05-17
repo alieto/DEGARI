@@ -1,0 +1,5 @@
+occhio:               0.9
+strappo:              0.9
+decollage:            0.9
+frammento:            0.9
+frammentazione:       0.9

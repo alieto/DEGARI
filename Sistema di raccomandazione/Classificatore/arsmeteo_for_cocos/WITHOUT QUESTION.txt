@@ -1,0 +1,11 @@
+violenza:             0.9
+pedofobia:            0.9
+espressione:          0.9
+negazione:            0.9
+costrizione:          0.9
+ombelico:             0.9
+offerta:              0.9
+manipolazione:        0.9
+accanimento:          0.9
+macelleria:           0.9
+netville:             0.9

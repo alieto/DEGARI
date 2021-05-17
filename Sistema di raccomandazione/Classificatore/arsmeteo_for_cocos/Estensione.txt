@@ -1,0 +1,6 @@
+castello:             0.9
+estense|estenso:      0.9
+fossato:              0.9
+ferrara:              0.9
+arco:                 0.9
+luce:                 0.9

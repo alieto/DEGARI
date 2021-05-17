@@ -1,0 +1,5 @@
+red:                  0.9
+cappuccetto_rosso:    0.9
+lupo:                 0.9
+lupo_sazio:           0.9
+lupo_spaziale:        0.9

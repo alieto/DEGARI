@@ -1,0 +1,7 @@
+anguria:              0.9
+frutta:               0.9
+estate:               0.9
+geometria:            0.9
+calore:               0.9
+sapore:               0.9
+casa:                 0.9

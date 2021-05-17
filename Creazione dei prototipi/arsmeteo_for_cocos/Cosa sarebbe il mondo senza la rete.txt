@@ -1,0 +1,14 @@
+/:                    0.9
+nbsp:                 0.78
+align:                0.6599999999999999
+center\:              0.6599999999999999
+assenza:              0.6
+vuoto_virtuale:       0.6
+smarrimento:          0.6
+tempo_libero:         0.6
+strike:               0.6
+strong:               0.6
+cosa:                 0.6
+mondo:                0.6
+rete:                 0.6
+br:                   0.6

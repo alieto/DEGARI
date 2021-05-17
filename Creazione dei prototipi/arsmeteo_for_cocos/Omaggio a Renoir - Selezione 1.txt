@@ -1,0 +1,4 @@
+tratteggio:           0.9
+sezione:              0.9
+renoir:               0.9
+citazione:            0.9

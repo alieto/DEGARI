@@ -1,0 +1,8 @@
+acquerello:           0.9
+carta:                0.9
+chef:                 0.9
+giovane:              0.9
+uomo:                 0.9
+viso:                 0.9
+cappello:             0.9
+disegno:              0.9

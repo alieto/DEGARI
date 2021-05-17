@@ -1,0 +1,5 @@
+mazza:                0.9
+strumenti_lavoro:     0.9
+installazione:        0.9
+particolare:          0.9
+sam:                  0.9

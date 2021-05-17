@@ -1,0 +1,9 @@
+surfanta:             0.9
+surreale:             0.9
+caimano:              0.9
+soho:                 0.9
+infame:               0.9
+strada:               0.9
+viavai:               0.9
+tottenham_court_road: 0.9
+blue_posts:           0.9

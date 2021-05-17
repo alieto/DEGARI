@@ -1,0 +1,11 @@
+gatto:                0.9
+micio:                0.9
+felino:               0.9
+predominante:         0.9
+pietra:               0.9
+radice:               0.9
+uovo:                 0.9
+ovoidale:             0.9
+asse|asso:            0.9
+albero:               0.9
+ramificazione:        0.9

@@ -1,0 +1,12 @@
+a_thing_of_beauty:    0.9
+non_sense:            0.9
+arsmeteo:             0.9
+social_tag:           0.9
+alter_ego:            0.9
+serendipity:          0.9
+memento:              0.9
+visual_poetry:        0.9
+hic_salta:            0.9
+dante:                0.9
+rabdom_art:           0.9
+arsmap:               0.9

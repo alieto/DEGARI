@@ -1,0 +1,6 @@
+ferrari:              0.9
+cavallino:            0.9
+rampante:             0.9
+velocità:             0.9
+rossa:                0.9
+competitivo:          0.9

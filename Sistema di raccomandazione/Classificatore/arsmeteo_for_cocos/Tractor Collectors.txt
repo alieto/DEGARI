@@ -1,0 +1,11 @@
+contadino:            0.9
+trattore:             0.6
+tractors:             0.6
+agricoltura:          0.6
+ritratto:             0.6
+portraits:            0.6
+field:                0.6
+farm:                 0.6
+man:                  0.6
+farmer:               0.6
+motore:               0.6

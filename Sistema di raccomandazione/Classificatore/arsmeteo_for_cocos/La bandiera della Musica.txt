@@ -1,0 +1,11 @@
+accostamento:         0.9
+armonico:             0.9
+suono:                0.9
+musica:               0.9
+pittura:              0.9
+corda:                0.9
+convergenza:          0.9
+mostra:               0.9
+pinguino:             0.9
+stecco:               0.9
+ananasso:             0.9

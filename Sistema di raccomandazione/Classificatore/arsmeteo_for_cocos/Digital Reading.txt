@@ -1,0 +1,14 @@
+schermo:              0.9
+schiena:              0.9
+ricurvo:              0.9
+sapere:               0.9
+velocità:             0.9
+intrigo:              0.9
+finestra_sul_mondo:   0.9
+strumento:            0.9
+occhio_elettronico:   0.9
+estensione:           0.9
+interfaccia:          0.9
+comunicazione:        0.9
+calcolo:              0.9
+letture_in_conserva:  0.9

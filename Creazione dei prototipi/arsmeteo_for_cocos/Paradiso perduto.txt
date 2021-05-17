@@ -1,0 +1,2 @@
+erosione:             0.9
+lettura_dantesca:     0.9

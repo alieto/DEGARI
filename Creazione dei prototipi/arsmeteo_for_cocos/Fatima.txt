@@ -1,0 +1,10 @@
+armonia:              0.9
+spiaggia:             0.9
+marocco:              0.9
+mare:                 0.9
+gioco:                0.9
+africo:               0.9
+innocenza:            0.9
+infanzia:             0.9
+cane:                 0.9
+luce:                 0.9

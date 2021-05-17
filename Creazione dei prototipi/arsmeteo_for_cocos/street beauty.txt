@@ -1,0 +1,6 @@
+distrazione:          0.9
+vetrina:              0.9
+effimero:             0.9
+illusione:            0.9
+seduzione:            0.9
+richiamo:             0.9

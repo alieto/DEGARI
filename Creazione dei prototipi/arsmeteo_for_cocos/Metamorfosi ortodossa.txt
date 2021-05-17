@@ -1,0 +1,5 @@
+croce:                0.9
+santo:                0.9
+vita_e_opere:         0.6
+inginocchiatoio:      0.6
+devozione:            0.6

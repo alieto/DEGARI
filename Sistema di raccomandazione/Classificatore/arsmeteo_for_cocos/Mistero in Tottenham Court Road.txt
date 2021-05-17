@@ -1,0 +1,9 @@
+surfanta:             0.9
+surreale:             0.9
+mistero:              0.9
+morte:                0.9
+processione:          0.9
+neri_figuri:          0.9
+naso_a_becco:         0.9
+teschio:              0.9
+the_blue_posts:       0.9

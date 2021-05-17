@@ -1,0 +1,3 @@
+sonno:                0.9
+riposo:               0.9
+attesa:               0.9

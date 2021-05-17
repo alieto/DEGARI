@@ -1,0 +1,12 @@
+domino:               0.9
+previsione:           0.9
+tracciato:            0.9
+modulare:             0.9
+piano_di_crescita:    0.9
+sviluppo:             0.9
+anticipazione:        0.9
+risveglio:            0.9
+occhio:               0.9
+respiro_globale:      0.9
+ambito:               0.9
+netville:             0.9

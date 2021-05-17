@@ -1,0 +1,12 @@
+radiohead:            0.9
+narradiohead:         0.9
+creep:                0.9
+sfigato:              0.9
+soliloquio:           0.9
+incazzare:            0.9
+arrabbiato:           0.9
+sandalo:              0.9
+rimuginare:           0.9
+piuma:                0.9
+legna:                0.9
+falegname:            0.9

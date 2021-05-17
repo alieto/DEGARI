@@ -1,0 +1,4 @@
+battistero:           0.9
+top:                  0.9
+prova:                0.9
+piede:                0.9

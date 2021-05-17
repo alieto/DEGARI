@@ -1,0 +1,4 @@
+dromedario:           0.9
+coppia:               0.9
+gobba:                0.9
+collo_lungo:          0.9

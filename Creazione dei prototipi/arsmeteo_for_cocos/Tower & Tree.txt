@@ -1,0 +1,5 @@
+torre:                0.9
+albero:               0.9
+profilo:              0.9
+guardia:              0.9
+collina:              0.9

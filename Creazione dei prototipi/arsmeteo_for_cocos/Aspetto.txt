@@ -1,0 +1,4 @@
+geometria:            0.9
+incrocio:             0.9
+vuoto:                0.9
+sostegno:             0.9

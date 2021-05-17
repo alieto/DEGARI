@@ -1,0 +1,5 @@
+mito:                 0.9
+consumo:              0.9
+vetrina:              0.9
+banalizzazione:       0.9
+oggetto:              0.9

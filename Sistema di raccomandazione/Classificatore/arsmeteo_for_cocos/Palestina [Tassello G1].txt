@@ -1,0 +1,5 @@
+bambino:              0.9
+palestina:            0.9
+sbarra:               0.9
+finestra:             0.9
+curiosità:            0.9

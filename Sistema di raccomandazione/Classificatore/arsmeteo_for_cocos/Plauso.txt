@@ -1,0 +1,12 @@
+alfabeto:             0.9
+carattere:            0.9
+plauso:               0.9
+nome:                 0.9
+scuro:                0.9
+tenebroso:            0.9
+profondo:             0.9
+medioevale:           0.9
+metallo:              0.9
+resinoso:             0.9
+ambrato:              0.9
+traslucido:           0.9

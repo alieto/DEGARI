@@ -1,0 +1,8 @@
+disegno:              0.9
+autoritratto:         0.9
+sogno:                0.9
+china:                0.9
+carta:                0.9
+metaforico:           0.9
+schizzo:              0.9
+bianco_nero:          0.9

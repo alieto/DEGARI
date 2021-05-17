@@ -1,0 +1,5 @@
+trionfo:              0.9
+cavallo:              0.9
+esplosione:           0.9
+raggio:               0.9
+giallo_oro:           0.9

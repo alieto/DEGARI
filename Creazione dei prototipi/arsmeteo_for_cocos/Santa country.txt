@@ -1,0 +1,3 @@
+campagna:             0.9
+contadino:            0.9
+salento:              0.9

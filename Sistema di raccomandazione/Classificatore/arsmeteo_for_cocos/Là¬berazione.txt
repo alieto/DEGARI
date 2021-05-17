@@ -1,0 +1,7 @@
+liberazione:          0.9
+chiara:               0.9
+cambiamento:          0.9
+taglio:               0.9
+bianco:               0.9
+fotografia:           0.9
+bianco_e_nero:        0.9

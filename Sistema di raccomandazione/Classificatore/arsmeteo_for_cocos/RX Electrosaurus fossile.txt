@@ -1,0 +1,16 @@
+fossile:              0.9
+rexucciolo_electrosaurus:0.9
+electrosaurus_rex:    0.9
+isolante:             0.9
+cucciolo:             0.9
+elettrico:            0.9
+draghetto_elettronico:0.9
+virus_preistorico:    0.9
+giurassico_siderale:  0.9
+electrotexture:       0.9
+alien:                0.9
+creatura_misteriosa:  0.9
+contaminazione_creativa:0.9
+futuro_passato:       0.9
+prima_del_nulla:      0.9
+neobestiale:          0.9

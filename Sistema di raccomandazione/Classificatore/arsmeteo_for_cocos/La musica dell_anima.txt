@@ -1,0 +1,7 @@
+isola:                0.9
+musica:               0.9
+atmosfera:            0.9
+cetra:                0.9
+sole_nascente:        0.9
+alba:                 0.9
+suonatore:            0.9

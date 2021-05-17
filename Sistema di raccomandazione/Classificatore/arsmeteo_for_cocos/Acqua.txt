@@ -1,0 +1,9 @@
+esauribile:           0.9
+prezioso:             0.9
+frizzante:            0.9
+particolare:          0.9
+donna:                0.9
+acqua:                0.9
+mare:                 0.9
+tavolo:               0.9
+anfora:               0.9

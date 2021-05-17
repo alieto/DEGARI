@@ -1,0 +1,13 @@
+festa:                0.9
+calore:               0.9
+terrore:              0.9
+laurea:               0.9
+lode:                 0.9
+amico:                0.9
+hafa:                 0.9
+cafè:                 0.9
+minaccia:             0.9
+invito:               0.9
+vizio:                0.9
+summa_cum_laude:      0.9
+lettera_minatoria:    0.9

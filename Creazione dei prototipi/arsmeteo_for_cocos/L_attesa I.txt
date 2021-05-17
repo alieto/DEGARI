@@ -1,0 +1,4 @@
+scrittura:            0.9
+profilo:              0.9
+attesa:               0.9
+segno:                0.9

@@ -1,0 +1,3 @@
+santo:                0.9
+oronzo:               0.9
+baratto:              0.9

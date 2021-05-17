@@ -1,0 +1,4 @@
+montagna:             0.9
+reportage:            0.9
+gargano:              0.9
+natura:               0.9

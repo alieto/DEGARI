@@ -1,0 +1,9 @@
+barna:                0.9
+vedi_rudi:            0.9
+aeroporto:            0.9
+tempo:                0.9
+attesa:               0.9
+ansia:                0.9
+noia:                 0.9
+controllo:            0.9
+raggi_x:              0.9

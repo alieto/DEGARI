@@ -1,0 +1,3 @@
+colore:               0.9
+primavera:            0.9
+semplicità:           0.9

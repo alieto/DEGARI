@@ -1,0 +1,6 @@
+erba:                 0.9
+evoluzione:           0.9
+natura:               0.9
+digitale:             0.9
+sviluppo:             0.9
+termine:              0.9

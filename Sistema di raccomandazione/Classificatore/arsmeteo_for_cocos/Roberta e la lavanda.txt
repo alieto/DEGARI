@@ -1,0 +1,6 @@
+roberta:              0.9
+lavanda:              0.9
+monferrato:           0.9
+profumo:              0.9
+fiore:                0.9
+attesa:               0.9

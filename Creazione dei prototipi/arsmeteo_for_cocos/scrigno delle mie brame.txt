@@ -1,0 +1,5 @@
+matisse:              0.9
+pinacoteca_agnelli:   0.9
+piano:                0.9
+allegresse:           0.9
+stupore:              0.9

@@ -1,0 +1,6 @@
+saggio:               0.9
+eclissi_lunare:       0.9
+eremita:              0.9
+notte:                0.9
+surfanta:             0.9
+surreale:             0.9

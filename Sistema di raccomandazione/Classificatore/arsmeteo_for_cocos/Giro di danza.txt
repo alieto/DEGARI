@@ -1,0 +1,7 @@
+danza:                0.9
+bianco_nero:          0.9
+giro_di_danza:        0.9
+movimento:            0.9
+ballo:                0.9
+donna:                0.9
+sensuale+:            0.9

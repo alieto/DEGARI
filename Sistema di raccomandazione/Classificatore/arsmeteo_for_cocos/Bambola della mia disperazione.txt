@@ -1,0 +1,6 @@
+surfanta:             0.9
+surreale:             0.9
+bambola:              0.9
+disperazione:         0.9
+resa:                 0.9
+braccia_alzate:       0.9

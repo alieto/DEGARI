@@ -1,0 +1,2 @@
+ivrea:                0.9
+carnevale:            0.9

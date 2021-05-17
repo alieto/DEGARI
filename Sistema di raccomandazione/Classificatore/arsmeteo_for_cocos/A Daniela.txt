@@ -1,0 +1,5 @@
+amore:                0.9
+daniela:              0.9
+mare:                 0.9
+sabbia:               0.9
+claudio:              0.9

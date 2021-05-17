@@ -1,0 +1,4 @@
+narciso:              0.9
+specchio:             0.9
+nikon:                0.9
+rosso_nero:           0.9

@@ -1,0 +1,5 @@
+viso:                 0.9
+gli_altri:            0.9
+mano:                 0.9
+espressione:          0.9
+tre_per_tre:          0.9

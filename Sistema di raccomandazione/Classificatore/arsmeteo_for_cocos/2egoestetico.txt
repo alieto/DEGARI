@@ -1,0 +1,4 @@
+singlossia:           0.9
+poesia:               0.9
+visivo:               0.9
+ego:                  0.9

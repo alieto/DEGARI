@@ -1,0 +1,3 @@
+cielo:                0.9
+simmetria:            0.9
+colori_nascosti:      0.9

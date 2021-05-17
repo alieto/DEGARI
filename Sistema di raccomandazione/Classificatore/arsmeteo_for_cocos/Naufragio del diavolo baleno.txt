@@ -1,0 +1,7 @@
+naufragio:            0.9
+mare:                 0.9
+diavolo_baleno:       0.9
+riva:                 0.9
+bagnasciuga:          0.9
+surfanta:             0.9
+surreale:             0.9

@@ -1,0 +1,4 @@
+materico:             0.9
+tavola:               0.9
+terra:                0.9
+colore:               0.9

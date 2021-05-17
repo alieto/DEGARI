@@ -1,0 +1,6 @@
+altrarte:             0.9
+galatina:             0.9
+quadro:               0.9
+esposizione:          0.9
+raccolta:             0.9
+valutazione:          0.9

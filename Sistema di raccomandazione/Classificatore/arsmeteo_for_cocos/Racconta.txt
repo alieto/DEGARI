@@ -1,0 +1,5 @@
+appunto:              0.9
+bloc_notes:           0.9
+carta:                0.9
+matita:               0.9
+disegno:              0.9

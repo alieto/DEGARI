@@ -1,0 +1,17 @@
+/:                    0.9
+br:                   0.72
+insonne:              0.6
+blockquote:           0.6
+ltr\:                 0.6
+dire:                 0.6
+font-size:            0.6
+style:                0.6
+16px:                 0.6
+line-height:          0.6
+24px:                 0.6
+margin-right:         0.6
+0px\:                 0.6
+veglia:               0.6
+giacere:              0.6
+aspettare:            0.6
+soglia:               0.6

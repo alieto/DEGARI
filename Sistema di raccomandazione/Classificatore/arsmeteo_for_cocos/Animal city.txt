@@ -1,0 +1,9 @@
+animale:              0.9
+città:                0.9
+casa:                 0.9
+giraffa:              0.9
+capra:                0.9
+gallo:                0.9
+serpente:             0.9
+rinoceronte:          0.9
+pesce:                0.9

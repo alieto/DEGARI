@@ -1,0 +1,3 @@
+contrattempo:         0.9
+tempo:                0.9
+senso:                0.9

@@ -1,0 +1,1 @@
+lampione:             0.9

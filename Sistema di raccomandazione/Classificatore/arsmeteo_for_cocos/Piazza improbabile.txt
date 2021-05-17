@@ -1,0 +1,18 @@
+piazza:               0.9
+metafisica|metafisico:0.9
+manichino:            0.9
+virtuale:             0.9
+de_chirico:           0.9
+-entità:              0.9
+-improbabile+:        0.9
+-composizione+:       0.9
+-scarafaggio_capovolto+:0.9
+-ovale_metafisico+:   0.9
+-frattale+:           0.9
+-anima_animale+:      0.9
+-uovo_uomo+:          0.9
+-virtuale+:           0.9
+-digitale+:           0.9
+-metafisica_digitale+:0.9
+-metafisica_frattale+:0.9
+-inc:                 0.9

@@ -1,0 +1,8 @@
+supermercato:         0.9
+moda:                 0.9
+merce:                0.9
+ostentazione:         0.9
+capelli_platinati:    0.9
+consumismo:           0.9
+freddo:               0.9
+bellezza:             0.9

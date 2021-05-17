@@ -1,0 +1,2 @@
+collage:              0.9
+maschera:             0.9

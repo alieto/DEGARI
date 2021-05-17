@@ -1,0 +1,3 @@
+tavola:               0.9
+ceroli:               0.9
+fiore:                0.9

@@ -1,0 +1,3 @@
+nuovo:                0.9
+nuvola:               0.9
+continentale:         0.9

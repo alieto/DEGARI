@@ -1,0 +1,6 @@
+opera:                0.9
+primigenio:           0.9
+cortile:              0.9
+torino:               0.9
+sotto_la_mole:        0.9
+suono:                0.9

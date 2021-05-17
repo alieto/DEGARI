@@ -1,0 +1,10 @@
+ignoto:               0.9
+guardiano:            0.9
+orizzonte:            0.9
+scia:                 0.9
+cielo:                0.9
+digitale:             0.9
+forma:                0.9
+essenza:              0.9
+spirito:              0.9
+linea:                0.9

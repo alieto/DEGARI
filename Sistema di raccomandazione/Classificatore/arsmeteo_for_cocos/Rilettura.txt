@@ -1,0 +1,10 @@
+romanico:             0.9
+ricerca:              0.9
+senso:                0.9
+parola:               0.9
+comunicazione:        0.9
+disegno:              0.9
+lettura:              0.9
+scultura:             0.9
+azione:               0.9
+tempo:                0.9

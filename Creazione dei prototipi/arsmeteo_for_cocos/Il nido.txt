@@ -1,0 +1,5 @@
+nido:                 0.9
+stadio_olimpico:      0.9
+cina:                 0.9
+fiore:                0.9
+albero:               0.9

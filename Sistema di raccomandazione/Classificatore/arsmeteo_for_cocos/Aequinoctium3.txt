@@ -1,0 +1,6 @@
+equinozio:            0.9
+fotocopia:            0.9
+montagna:             0.9
+linea:                0.9
+strato:               0.9
+digitale:             0.9

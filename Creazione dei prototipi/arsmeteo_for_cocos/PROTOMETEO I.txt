@@ -1,0 +1,12 @@
+memoria:              0.9
+caso:                 0.9
+plasma:               0.9
+piazza:               0.9
+kalsa:                0.9
+mondo:                0.9
+donna:                0.9
+occhio:               0.9
+netville:             0.9
+sound:                0.9
+fato:                 0.9
+ars_meteo:            0.9

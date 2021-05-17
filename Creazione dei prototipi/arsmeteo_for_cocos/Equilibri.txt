@@ -1,0 +1,7 @@
+equilibrio:           0.9
+matita:               0.9
+matitona:             0.9
+fune:                 0.9
+asta:                 0.9
+chiocciola:           0.9
+barchetta_di_carta:   0.9

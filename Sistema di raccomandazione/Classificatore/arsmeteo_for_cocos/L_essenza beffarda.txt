@@ -1,0 +1,4 @@
+essenza:              0.9
+uomo_senza_volto:     0.9
+luna:                 0.9
+identità:             0.9

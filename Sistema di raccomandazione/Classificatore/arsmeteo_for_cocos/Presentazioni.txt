@@ -1,0 +1,5 @@
+presentazione:        0.9
+gallina:              0.9
+galli_a_vento:        0.9
+tetto:                0.9
+coppia:               0.9

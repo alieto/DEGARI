@@ -1,0 +1,13 @@
+capello:              0.9
+nona|none|nono:       0.6
+forma:                0.6
+corpo:                0.6
+astrazione:           0.6
+curva:                0.6
+linea:                0.6
+geometria:            0.6
+campiture:            0.6
+intersezione:         0.6
+stilizzazione:        0.6
+bronzo:               0.6
+occhio:               0.6

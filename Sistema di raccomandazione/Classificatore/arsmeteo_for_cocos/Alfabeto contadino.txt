@@ -1,0 +1,3 @@
+attrezzo:             0.9
+contadino:            0.9
+cascina:              0.9

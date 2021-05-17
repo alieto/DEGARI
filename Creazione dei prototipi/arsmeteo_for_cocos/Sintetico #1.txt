@@ -1,0 +1,2 @@
+virtuale:             0.9
+niente:               0.9

@@ -1,0 +1,6 @@
+solitudine:           0.9
+pace:                 0.9
+volo:                 0.9
+strada:               0.9
+sereno:               0.9
+ricordo:              0.9

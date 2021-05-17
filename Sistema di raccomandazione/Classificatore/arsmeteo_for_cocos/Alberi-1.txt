@@ -1,0 +1,13 @@
+albero:               0.9
+ramo:                 0.6
+confronto:            0.6
+similitudine:         0.6
+differenza:           0.6
+ogm:                  0.6
+blu:                  0.6
+modificare:           0.6
+cielo:                0.6
+radice:               0.6
+radicamento:          0.6
+saldo:                0.6
+robusto:              0.6

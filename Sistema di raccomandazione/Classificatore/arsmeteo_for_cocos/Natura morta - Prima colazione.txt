@@ -1,0 +1,8 @@
+prima_colazione:      0.9
+natura_morta:         0.9
+linea:                0.9
+taglio:               0.9
+sezione:              0.9
+ragno:                0.9
+sezionare:            0.9
+tazza:                0.9

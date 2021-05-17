@@ -1,0 +1,7 @@
+sfinge:               0.9
+guardiano:            0.9
+ferrara:              0.9
+inquietante:          0.9
+arcigno:              0.9
+statua:               0.9
+severo:               0.9

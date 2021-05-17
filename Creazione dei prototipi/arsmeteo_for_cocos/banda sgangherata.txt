@@ -1,0 +1,5 @@
+spiaggia:             0.9
+musica:               0.9
+estraneamento:        0.9
+colore:               0.9
+animazione:           0.9

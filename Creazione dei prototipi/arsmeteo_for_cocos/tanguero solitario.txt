@@ -1,0 +1,6 @@
+nostalgia:            0.9
+tempi_andati:         0.9
+dignità:              0.9
+fierezza:             0.9
+buenos:               0.9
+aires:                0.9

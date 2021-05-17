@@ -1,0 +1,6 @@
+tetto:                0.9
+donna:                0.9
+villaggio:            0.9
+terrazzo:             0.9
+casa:                 0.9
+affacciare:           0.9

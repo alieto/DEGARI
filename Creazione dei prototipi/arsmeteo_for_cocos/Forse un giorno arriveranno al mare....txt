@@ -1,0 +1,9 @@
+bambino:              0.9
+barchette_di_carta:   0.6
+paesaggio:            0.6
+acqua:                0.6
+erba:                 0.6
+cielo:                0.6
+fantasia:             0.6
+bambina:              0.6
+lontano:              0.6

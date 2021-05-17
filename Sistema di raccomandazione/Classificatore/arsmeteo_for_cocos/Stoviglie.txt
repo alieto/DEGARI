@@ -1,0 +1,4 @@
+vetrina:              0.9
+fiore:                0.9
+composizione:         0.9
+vetrinismo:           0.9

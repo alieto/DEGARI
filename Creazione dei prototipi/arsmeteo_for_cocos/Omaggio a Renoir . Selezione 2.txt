@@ -1,0 +1,3 @@
+oro_antico:           0.9
+citazione:            0.9
+renoir:               0.9

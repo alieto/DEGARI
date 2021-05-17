@@ -1,0 +1,3 @@
+indelebile:           0.9
+stampa:               0.9
+carta:                0.9

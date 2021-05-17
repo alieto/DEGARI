@@ -1,0 +1,5 @@
+cibo:                 0.9
+pantagruele:          0.9
+delikatessen:         0.9
+gargantua:            0.9
+strage:               0.9

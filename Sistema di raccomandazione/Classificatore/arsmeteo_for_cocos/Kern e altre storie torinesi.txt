@@ -1,0 +1,7 @@
+happening:            0.9
+disegno:              0.9
+in_mostra:            0.9
+mano:                 0.9
+gesto:                0.9
+intenzione:           0.9
+sottinteso:           0.9

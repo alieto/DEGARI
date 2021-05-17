@@ -1,0 +1,6 @@
+ginnastica:           0.9
+ginnasta:             0.9
+flessione:            0.9
+figura:               0.9
+geometria:            0.9
+stilizzazione:        0.9

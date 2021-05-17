@@ -1,0 +1,5 @@
+assolato:             0.9
+arancia:              0.9
+solo:                 0.9
+casa:                 0.9
+geometria:            0.9

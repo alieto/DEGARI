@@ -1,0 +1,8 @@
+-astratto+:           0.9
+-geometrico+:         0.9
+-angoli+:             0.9
+-composizione+:       0.9
+trama:                0.9
+intreccio:            0.9
+zigzag:               0.9
+-colori_vivaci+:      0.9

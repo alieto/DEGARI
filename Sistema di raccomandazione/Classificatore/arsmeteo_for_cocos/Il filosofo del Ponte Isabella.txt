@@ -1,0 +1,4 @@
+barbona|barbone:      0.9
+ponte:                0.9
+gestualità:           0.9
+matericità:           0.9

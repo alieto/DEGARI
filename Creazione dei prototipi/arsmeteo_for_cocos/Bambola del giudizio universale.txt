@@ -1,0 +1,9 @@
+bambola:              0.9
+surfanta:             0.9
+surreale:             0.9
+tromba:               0.9
+pipistrello:          0.9
+farfalla:             0.9
+teschio:              0.9
+osso:                 0.9
+stivale:              0.9

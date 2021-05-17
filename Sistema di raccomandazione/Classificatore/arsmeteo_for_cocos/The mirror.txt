@@ -1,0 +1,2 @@
+specchio:             0.9
+frattale:             0.9

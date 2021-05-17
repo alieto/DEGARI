@@ -1,0 +1,5 @@
+ricorrenza:           0.9
+salvato_dall_oblio:   0.9
+arsmeteo:             0.9
+marylin:              0.9
+principe:             0.9

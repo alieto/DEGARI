@@ -1,0 +1,7 @@
+light:                0.9
+insect:               0.9
+robot:                0.9
+insetto:              0.9
+musica:               0.9
+griglia:              0.9
+fantascienza:         0.9

@@ -1,0 +1,9 @@
+guerra:               0.9
+pace:                 0.9
+uomo:                 0.9
+parola:               0.9
+scultura:             0.9
+immagine:             0.9
+disegno:              0.9
+grafite:              0.9
+medievale:            0.9

@@ -1,0 +1,10 @@
+insect:               0.9
+robot:                0.9
+rhythm:               0.9
+ritmo:                0.9
+luce:                 0.9
+lampo:                0.9
+riflesso:             0.9
+sotto:                0.9
+mondo:                0.9
+ecosistema:           0.9

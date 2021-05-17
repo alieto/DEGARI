@@ -1,0 +1,3 @@
+natale:               0.9
+easybit:              0.9
+design:               0.9

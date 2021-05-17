@@ -1,0 +1,2 @@
+colore_blu:           0.9
+pixels:               0.9

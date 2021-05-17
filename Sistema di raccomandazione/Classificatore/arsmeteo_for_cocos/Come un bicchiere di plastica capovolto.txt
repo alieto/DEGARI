@@ -1,0 +1,6 @@
+bicchiere:            0.9
+bicchiere_di_plastica:0.9
+capovolgere:          0.9
+torre:                0.9
+preparazione:         0.9
+bozza:                0.9

@@ -1,0 +1,3 @@
+ragno:                0.9
+coccinella:           0.9
+cetonia_dorata:       0.9

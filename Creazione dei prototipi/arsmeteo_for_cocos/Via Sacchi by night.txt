@@ -1,0 +1,7 @@
+luce:                 0.9
+rotaia:               0.9
+torino:               0.9
+imbrunire:            0.9
+stazione:             0.9
+portico:              0.9
+ritorno:              0.9

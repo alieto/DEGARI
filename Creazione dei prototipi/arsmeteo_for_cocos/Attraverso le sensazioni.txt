@@ -1,0 +1,4 @@
+donna:                0.9
+sagoma:               0.9
+unito:                0.9
+sensazione:           0.9

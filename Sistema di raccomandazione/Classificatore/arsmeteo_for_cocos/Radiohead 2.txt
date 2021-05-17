@@ -1,0 +1,5 @@
+diritto:              0.9
+laggià¹:              0.9
+infinito:             0.9
+grigio:               0.9
+mise_en_abyme:        0.9

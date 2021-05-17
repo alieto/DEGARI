@@ -1,0 +1,7 @@
+precipizio:           0.9
+caduta:               0.9
+resistenza:           0.9
+nuvola:               0.9
+lasciarsi_andare:     0.9
+sedile:               0.9
+schiacciato_al_suolo_come_una_cimice:0.9

@@ -1,0 +1,4 @@
+testa|teste:          0.9
+acconciatura:         0.9
+teatro:               0.9
+costume:              0.9

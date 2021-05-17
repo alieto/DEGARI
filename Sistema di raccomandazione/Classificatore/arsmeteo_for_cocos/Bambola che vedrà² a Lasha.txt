@@ -1,0 +1,7 @@
+bambola:              0.9
+surfanta:             0.9
+orientale:            0.9
+yoga:                 0.9
+lasha:                0.9
+candela:              0.9
+piattino:             0.9

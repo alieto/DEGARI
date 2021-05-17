@@ -1,0 +1,12 @@
+orchestra:            0.9
+sinfonico:            0.9
+nazionale:            0.9
+rai:                  0.9
+diretto:              0.9
+eliahu:               0.9
+brahms:               0.9
+eseguire:             0.9
+sinfonia:             0.9
+n.2:                  0.9
+grande:               0.9
+op.73:                0.9

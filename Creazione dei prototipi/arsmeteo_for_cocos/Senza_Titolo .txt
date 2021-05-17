@@ -1,0 +1,8 @@
+stella:               0.9
+metallico:            0.9
+fiamma:               0.9
+forma:                0.9
+ossidrico:            0.9
+plasmare:             0.9
+perlaceo:             0.9
+superficie:           0.9

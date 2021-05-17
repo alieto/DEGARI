@@ -1,0 +1,8 @@
+interpretazione:      0.9
+ricerca:              0.9
+significato:          0.9
+codifica:             0.9
+espressione:          0.9
+calcolo:              0.9
+risultato:            0.9
+esercizio:            0.9

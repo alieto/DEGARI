@@ -1,0 +1,3 @@
+bagliore:             0.9
+transito:             0.9
+luce:                 0.9

@@ -1,0 +1,8 @@
+cerchi_concentrici:   0.9
+goccia:               0.9
+acqua:                0.9
+foglia:               0.9
+rana:                 0.9
+bombola:              0.9
+batteria:             0.9
+elettrolitico:        0.9

@@ -1,0 +1,6 @@
+singapore:            0.9
+grattacielo:          0.9
+colore:               0.9
+struttura:            0.9
+sovrapposizione:      0.9
+soldo:                0.9

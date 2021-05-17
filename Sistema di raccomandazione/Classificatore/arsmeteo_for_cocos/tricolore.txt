@@ -1,0 +1,5 @@
+folla:                0.9
+sfumare:              0.9
+sfilata:              0.9
+kermesse:             0.9
+torino:               0.9

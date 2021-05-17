@@ -1,0 +1,15 @@
+uomo_libro:           0.9
+libro:                0.9
+lettura:              0.9
+percorso:             0.9
+fuga:                 0.9
+librazione:           0.9
+lex_ibris:            0.9
+foglio_dopo_foglio:   0.9
+scappare_via:         0.9
+odore_di_stampa:      0.9
+gesto_atletico:       0.9
+parole_parole_parole: 0.9
+strappo:              0.9
+pagina:               0.9
+cammino_letterario:   0.9

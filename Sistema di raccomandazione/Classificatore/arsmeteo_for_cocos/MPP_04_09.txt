@@ -1,0 +1,5 @@
+luce:                 0.9
+colore:               0.9
+faro:                 0.9
+auto:                 0.9
+milano:               0.9

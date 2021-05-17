@@ -1,0 +1,6 @@
+ombra:                0.9
+miraggio:             0.9
+sortilegio:           0.9
+trasparenza:          0.9
+platone:              0.9
+caverna:              0.9

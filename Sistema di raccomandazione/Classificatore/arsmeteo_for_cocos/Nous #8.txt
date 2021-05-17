@@ -1,0 +1,3 @@
+irregolarità:         0.9
+_controllate:         0.9
+spazi_geometrici:     0.9

@@ -1,0 +1,9 @@
+finestra:             0.9
+viso:                 0.9
+curioso:              0.9
+spiare:               0.9
+yemen:                0.9
+sguardo:              0.9
+visione:              0.9
+infinito:             0.9
+paesaggio:            0.9

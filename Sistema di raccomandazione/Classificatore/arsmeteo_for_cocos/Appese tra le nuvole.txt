@@ -1,0 +1,10 @@
+nuvola:               0.9
+matita:               0.9
+matitona:             0.9
+chiocciola:           0.9
+appendere:            0.9
+cielo:                0.9
+fune:                 0.9
+etereo:               0.9
+in_cielo:             0.9
+barchette_di_carta:   0.9

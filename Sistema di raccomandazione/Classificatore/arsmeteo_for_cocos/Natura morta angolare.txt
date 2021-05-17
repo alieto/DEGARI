@@ -1,0 +1,9 @@
+still_life:           0.9
+banana:               0.9
+natura_morta:         0.9
+pera:                 0.9
+arancia:              0.9
+inversione:           0.9
+angolo:               0.9
+quadrato:             0.9
+geometria:            0.9

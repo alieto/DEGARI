@@ -1,0 +1,6 @@
+venere:               0.9
+botticelli:           0.9
+nascita:              0.9
+sintetico:            0.9
+avatar:               0.9
+scultura_digitale:    0.9

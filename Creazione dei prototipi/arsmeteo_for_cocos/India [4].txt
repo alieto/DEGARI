@@ -1,0 +1,9 @@
+india:                0.9
+uomo:                 0.9
+barba:                0.9
+turbante:             0.9
+sigaretta:            0.9
+fiammifero:           0.9
+volto:                0.9
+sguardo:              0.9
+interrogativo:        0.9

@@ -1,0 +1,8 @@
+corazon:              0.9
+tirare:               0.9
+incomunicabilità:     0.9
+amore_digitale:       0.9
+memoria:              0.9
+annotare:             0.9
+gaturro:              0.9
+la_nacion:            0.9

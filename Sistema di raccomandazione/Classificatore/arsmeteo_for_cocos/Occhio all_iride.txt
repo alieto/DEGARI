@@ -1,0 +1,6 @@
+occhio:               0.9
+iride:                0.9
+arcobaleno:           0.9
+pesce:                0.9
+risalita:             0.9
+caus:                 0.9

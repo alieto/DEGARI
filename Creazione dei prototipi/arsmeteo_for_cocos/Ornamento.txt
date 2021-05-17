@@ -1,0 +1,4 @@
+magister:             0.9
+battistero:           0.9
+torso:                0.9
+tatuare:              0.9

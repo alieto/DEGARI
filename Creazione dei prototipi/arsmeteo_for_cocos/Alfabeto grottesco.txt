@@ -1,0 +1,4 @@
+alfabeto:             0.9
+maschera:             0.9
+grottesco:            0.9
+font:                 0.9

@@ -1,0 +1,7 @@
+sindaco:              0.9
+sergio:               0.9
+torino:               0.9
+chimparino:           0.9
+caricatura:           0.9
+ritratto:             0.9
+photoshop:            0.9

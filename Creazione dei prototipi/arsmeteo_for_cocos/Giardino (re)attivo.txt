@@ -1,0 +1,4 @@
+natura:               0.9
+ambiente:             0.9
+fiore:                0.9
+relazione:            0.9

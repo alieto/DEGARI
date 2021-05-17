@@ -1,0 +1,6 @@
+segno:                0.9
+braille:              0.9
+significato:          0.9
+significare:          0.9
+corrimano:            0.9
+hobbes:               0.9

@@ -1,0 +1,4 @@
+ecografia:            0.9
+fujiko:               0.9
+pistola:              0.9
+bang:                 0.9

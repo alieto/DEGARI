@@ -1,0 +1,3 @@
+stampa:               0.9
+oriente:              0.9
+argent_azione:        0.9

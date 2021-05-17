@@ -1,0 +1,2 @@
+digital:              0.9
+photo:                0.9

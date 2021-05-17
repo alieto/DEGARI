@@ -1,0 +1,15 @@
+toccare:              0.9
+mano:                 0.6
+pelle:                0.6
+delicatezza:          0.6
+precisione:           0.6
+rilievo:              0.6
+manualità:            0.6
+tatto:                0.6
+conoscenza:           0.6
+geometria:            0.6
+modellato:            0.6
+gioco:                0.6
+lavoro:               0.6
+luce:                 0.6
+ombra:                0.6

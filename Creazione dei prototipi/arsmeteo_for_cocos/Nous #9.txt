@@ -1,0 +1,2 @@
+matrice:              0.9
+colore_verde:         0.9

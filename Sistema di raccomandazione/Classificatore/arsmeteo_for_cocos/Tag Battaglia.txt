@@ -1,0 +1,10 @@
+battaglia:            0.9
+tag:                  0.9
+linea_dello_stile:    0.9
+combattimento:        0.9
+embedded:             0.9
+deleuze:              0.9
+crollo:               0.9
+abécédaire:           0.9
+maceria:              0.9
+carro_armato:         0.9

@@ -1,0 +1,4 @@
+sogno:                0.9
+pace:                 0.9
+colomba:              0.9
+triangolo:            0.9

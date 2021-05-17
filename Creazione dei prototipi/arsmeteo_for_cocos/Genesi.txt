@@ -1,0 +1,2 @@
+passione:             0.9
+alieno:               0.9

@@ -1,0 +1,3 @@
+figura:               0.9
+riposare:             0.9
+donna:                0.9

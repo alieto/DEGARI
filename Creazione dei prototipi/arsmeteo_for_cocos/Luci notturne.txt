@@ -1,0 +1,5 @@
+notte:                0.9
+luce:                 0.9
+metropoli:            0.9
+città:                0.9
+luci_della_città:     0.9

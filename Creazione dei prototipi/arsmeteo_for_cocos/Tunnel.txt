@@ -1,0 +1,3 @@
+notte_o_giorno:       0.9
+velocità:             0.9
+costrizione:          0.9

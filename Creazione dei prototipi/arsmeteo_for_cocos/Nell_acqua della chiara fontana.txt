@@ -1,0 +1,5 @@
+interpretazione:      0.9
+donna:                0.9
+chiara_fontana:       0.9
+de_andrè:             0.9
+nell_acqua:           0.9

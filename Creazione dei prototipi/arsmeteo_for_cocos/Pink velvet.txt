@@ -1,0 +1,7 @@
+neutro:               0.9
+pixel:                0.9
+filo:                 0.9
+sfocatura:            0.9
+rosa:                 0.9
+velluto:              0.9
+retino:               0.9

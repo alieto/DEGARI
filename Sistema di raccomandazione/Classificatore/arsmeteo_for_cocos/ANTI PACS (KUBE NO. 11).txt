@@ -1,0 +1,6 @@
+antipatico:           0.9
+papa:                 0.9
+pacs:                 0.9
+coppia:               0.9
+doppio:               0.9
+undici:               0.9

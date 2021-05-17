@@ -1,0 +1,6 @@
+danza:                0.9
+sfrenata:             0.9
+suono:                0.9
+lontano:              0.9
+vibrazione:           0.9
+evocazione:           0.9

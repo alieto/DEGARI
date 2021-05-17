@@ -1,0 +1,2 @@
+foto:                 0.9
+cineambiente:         0.9

@@ -1,0 +1,13 @@
+albero:               0.9
+foglia:               0.9
+stilizzazione:        0.9
+pittogramma:          0.9
+ideogramma:           0.9
+scrittura:            0.9
+stile_delle_erbe:     0.9
+bianco:               0.9
+neto:                 0.9
+pennello:             0.9
+velocità:             0.9
+carta:                0.9
+seppiato:             0.9

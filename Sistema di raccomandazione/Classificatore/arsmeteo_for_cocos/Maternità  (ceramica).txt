@@ -1,0 +1,3 @@
+piatto:               0.9
+terracotta:           0.9
+dipinto:              0.9

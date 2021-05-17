@@ -1,0 +1,14 @@
+flauto:               0.9
+orchestrale:          0.9
+ritratto:             0.9
+musica:               0.9
+nascondere:           0.9
+maschera:             0.9
+teatro:               0.9
+volto:                0.9
+profilo:              0.9
+ramificazione:        0.9
+mistero:              0.9
+meandro:              0.9
+esplorare:            0.9
+partitura:            0.9

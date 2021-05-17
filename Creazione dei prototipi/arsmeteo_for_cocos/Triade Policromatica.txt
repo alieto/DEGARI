@@ -1,0 +1,7 @@
+multicolore:          0.9
+cromatico:            0.9
+triade:               0.9
+policromatico:        0.9
+materico:             0.9
+striare:              0.9
+tondo:                0.9

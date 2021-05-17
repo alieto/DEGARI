@@ -1,0 +1,9 @@
+porco:                0.9
+porcino:              0.9
+tre_di:               0.9
+ala:                  0.9
+porci_con_le_ali:     0.9
+aline:                0.9
+porcini_con_aline:    0.9
+arte_tre_di:          0.9
+occhi_ali_necessitano:0.9

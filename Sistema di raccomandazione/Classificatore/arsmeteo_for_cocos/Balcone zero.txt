@@ -1,0 +1,6 @@
+torino:               0.9
+balcone:              0.9
+assenza:              0.9
+finestra:             0.9
+casa:                 0.9
+vuoto:                0.9

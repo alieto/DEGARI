@@ -1,0 +1,5 @@
+vita:                 0.9
+ragazzo:              0.9
+acume:                0.9
+virulenza:            0.9
+intelligenza:         0.9

@@ -1,0 +1,8 @@
+città:                0.9
+vuoto:                0.9
+costruzione:          0.9
+composizione:         0.9
+modulo:               0.9
+metropoli_arcaica:    0.9
+intarsio:             0.9
+incastonare:          0.9

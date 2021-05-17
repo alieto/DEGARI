@@ -1,0 +1,3 @@
+bambino:              0.9
+zitto:                0.9
+fare_silenzio:        0.9

@@ -1,0 +1,4 @@
+convergenza:          0.9
+cromatizzazioni:      0.9
+studio:               0.9
+automatismi_controllati:0.9

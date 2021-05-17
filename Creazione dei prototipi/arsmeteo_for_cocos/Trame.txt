@@ -1,0 +1,3 @@
+fusione:              0.9
+limite:               0.9
+intreccio:            0.9

@@ -1,0 +1,3 @@
+bach:                 0.9
+fuga:                 0.9
+contrappunto:         0.9

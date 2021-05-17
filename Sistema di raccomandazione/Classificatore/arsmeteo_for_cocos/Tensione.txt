@@ -1,0 +1,6 @@
+tensione:             0.9
+cane:                 0.9
+bimba:                0.9
+conflitto:            0.9
+lotta:                0.9
+tenacia:              0.9

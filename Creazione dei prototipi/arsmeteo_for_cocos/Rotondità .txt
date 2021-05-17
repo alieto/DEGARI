@@ -1,0 +1,13 @@
+curva:                0.9
+pietroso:             0.9
+sasso:                0.9
+ovalizzazione:        0.9
+sedere:               0.9
+corposo:              0.9
+erotico:              0.9
+prominenente:         0.9
+poderoso:             0.9
+ammiccare:            0.9
+evidente:             0.9
+trasformazione:       0.9
+nascente:             0.9

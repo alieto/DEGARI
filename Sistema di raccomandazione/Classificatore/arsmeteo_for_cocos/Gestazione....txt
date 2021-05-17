@@ -1,0 +1,2 @@
+gestualità:           0.9
+latente:              0.9

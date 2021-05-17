@@ -1,0 +1,8 @@
+pinocchio:            0.9
+fatina:               0.9
+mastro_geppetto:      0.9
+bacchetta_magica:     0.9
+fermato:              0.9
+cavalletta:           0.9
+orecchie_d_asino:     0.9
+grottesco:            0.9

@@ -1,0 +1,2 @@
+passero:              0.9
+solitario:            0.9

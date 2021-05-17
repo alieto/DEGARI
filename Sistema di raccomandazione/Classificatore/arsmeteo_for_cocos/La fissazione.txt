@@ -1,0 +1,6 @@
+coppia:               0.9
+fissazione:           0.9
+ironia:               0.9
+avvitare:             0.9
+vite_avvitate:        0.9
+fissare:              0.9

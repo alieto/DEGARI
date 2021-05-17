@@ -1,0 +1,4 @@
+me:                   0.9
+jiokube:              0.9
+space_invaders:       0.9
+reload:               0.9

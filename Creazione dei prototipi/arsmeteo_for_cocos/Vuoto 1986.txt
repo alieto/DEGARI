@@ -1,0 +1,4 @@
+polaroid:             0.9
+specchio:             0.9
+riflesso:             0.9
+vuoto:                0.9

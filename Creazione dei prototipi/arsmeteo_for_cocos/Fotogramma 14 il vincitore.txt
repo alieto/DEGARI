@@ -1,0 +1,1 @@
+il_vincitore:         0.9

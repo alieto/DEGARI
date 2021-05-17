@@ -1,0 +1,5 @@
+ho_messo_via:         0.9
+deposizione:          0.9
+fine:                 0.9
+quattro:              0.9
+rose_rosse_per_me:    0.9

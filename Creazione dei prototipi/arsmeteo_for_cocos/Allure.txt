@@ -1,0 +1,5 @@
+petit_prince:         0.9
+discesa:              0.9
+bastoncino:           0.9
+ski:                  0.9
+neve:                 0.9

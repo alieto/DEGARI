@@ -1,0 +1,6 @@
+ricerca:              0.9
+sosia:                0.9
+avviso:               0.9
+looking_for:          0.9
+cerco_sosia:          0.9
+sabine_delafon:       0.9

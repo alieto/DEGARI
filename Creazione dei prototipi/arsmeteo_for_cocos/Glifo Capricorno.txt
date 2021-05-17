@@ -1,0 +1,2 @@
+glifo:                0.9
+capricorno:           0.9

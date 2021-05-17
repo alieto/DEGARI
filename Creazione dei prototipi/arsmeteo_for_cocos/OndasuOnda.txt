@@ -1,0 +1,6 @@
+tavola:               0.9
+arte:                 0.9
+mare:                 0.9
+toccare:              0.9
+natura:               0.9
+forma:                0.9

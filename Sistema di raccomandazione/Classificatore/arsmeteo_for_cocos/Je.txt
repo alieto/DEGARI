@@ -1,0 +1,4 @@
+speranza:             0.9
+libertà:              0.9
+aria:                 0.9
+leggerezza:           0.9

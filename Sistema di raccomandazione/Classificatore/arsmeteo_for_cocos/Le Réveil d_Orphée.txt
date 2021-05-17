@@ -1,0 +1,4 @@
+orfeo:                0.9
+musica:               0.9
+viaggio:              0.9
+perdita:              0.9

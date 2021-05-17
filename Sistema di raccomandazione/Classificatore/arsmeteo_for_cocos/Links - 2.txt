@@ -1,0 +1,2 @@
+legame:               0.9
+connessione:          0.9

@@ -1,0 +1,9 @@
+forza_di_antigravità: 0.9
+massi_sospesi:        0.9
+uccelli_impietosi:    0.9
+precipizio:           0.9
+sospeso:              0.9
+fluttuante:           0.9
+surfanta:             0.9
+surreale:             0.9
+fantasia:             0.9

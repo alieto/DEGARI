@@ -1,0 +1,6 @@
+fiume:                0.9
+riva:                 0.9
+paesaggio:            0.9
+attonito:             0.9
+calma:                0.9
+quiete:               0.9

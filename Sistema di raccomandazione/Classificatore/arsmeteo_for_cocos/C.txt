@@ -1,0 +1,5 @@
+illustrazione:        0.9
+filastrocca:          0.9
+campana:              0.9
+capretta:             0.9
+ciliegia:             0.9

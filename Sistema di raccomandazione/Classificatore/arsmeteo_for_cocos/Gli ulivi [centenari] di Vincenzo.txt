@@ -1,0 +1,6 @@
+corazonada:           0.9
+presentimento:        0.9
+minaccia:             0.9
+cemento:              0.9
+lotizzazione:         0.9
+salento:              0.9

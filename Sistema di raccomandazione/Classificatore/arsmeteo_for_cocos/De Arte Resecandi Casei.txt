@@ -1,0 +1,9 @@
+coltello:             0.9
+formaggio:            0.9
+marco_parenti:        0.9
+semiserio:            0.9
+tractatus:            0.9
+giangiacomo_migone:   0.9
+microfono:            0.9
+comunicazione:        0.9
+indice:               0.9

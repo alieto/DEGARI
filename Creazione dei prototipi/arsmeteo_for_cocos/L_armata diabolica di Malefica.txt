@@ -1,0 +1,4 @@
+orco:                 0.9
+sfilata:              0.9
+orda:                 0.9
+mucchio_selvaggio:    0.9

@@ -1,0 +1,6 @@
+foglia:               0.9
+velo:                 0.9
+garza:                0.9
+quinta:               0.9
+trasparenza:          0.9
+luminoso:             0.9

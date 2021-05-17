@@ -1,0 +1,3 @@
+digitale:             0.9
+pixel:                0.9
+eternità:             0.9

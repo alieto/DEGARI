@@ -1,0 +1,12 @@
+vino:                 0.9
+uva:                  0.9
+calice:               0.9
+bottiglia:            0.9
+bordeaux:             0.9
+rosso:                0.9
+sanguigno:            0.9
+foglia:               0.9
+verde_bottiglia:      0.9
+vita|vite:            0.9
+vitigno:              0.9
+tavolo:               0.9

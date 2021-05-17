@@ -1,0 +1,9 @@
+condfusione:          0.9
+promiscuità:          0.9
+casualità:            0.9
+disattenzione:        0.9
+sfiga:                0.9
+tri_valente:          0.9
+vergogna:             0.9
+porvertà:             0.9
+emarginazione:        0.9

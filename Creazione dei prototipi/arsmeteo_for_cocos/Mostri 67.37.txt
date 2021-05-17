@@ -1,0 +1,15 @@
+mostro:               0.9
+inconscio:            0.6
+surfanta:             0.6
+surreale:             0.6
+rigido:               0.6
+cretaceceo:           0.6
+corno:                0.6
+psichedelico:         0.6
+fantastico:           0.6
+occhio:               0.6
+mandibola:            0.6
+screpolare:           0.6
+rinocerospo:          0.6
+due_zampe:            0.6
+azzurro:              0.6

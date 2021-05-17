@@ -1,0 +1,7 @@
+monsignore:           0.9
+buona_forchetta:      0.9
+fabrizio:             0.9
+fontana:              0.9
+cibo:                 0.9
+cover:                0.9
+tovaglia:             0.9

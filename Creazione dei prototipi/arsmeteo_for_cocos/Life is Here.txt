@@ -1,0 +1,10 @@
+life:                 0.9
+first:                0.9
+netville:             0.9
+characters:           0.9
+avatar:               0.9
+writing:              0.9
+communication:        0.9
+community:            0.9
+scrittura:            0.9
+macchina:             0.9

@@ -1,0 +1,6 @@
+montagna:             0.9
+cima:                 0.9
+roccia:               0.9
+sommità:              0.9
+top:                  0.9
+punta:                0.9

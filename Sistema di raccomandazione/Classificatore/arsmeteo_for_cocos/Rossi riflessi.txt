@@ -1,0 +1,11 @@
+matita+:              0.9
+-chiocciola+:         0.9
+-soffuso+:            0.9
+-compenetrazione+:    0.9
+-combinazione+:       0.9
+-zig_zag+:            0.9
+-onde_angolari+:      0.9
+-blu_oltremare+:      0.9
+-denti_di_sega+:      0.9
+-onirico+:            0.9
+fune:                 0.9

@@ -1,0 +1,10 @@
+iacopus:              0.9
+bohumil:              0.9
+ezra:                 0.9
+reincarnazione:       0.9
+spontaneità:          0.9
+disegno:              0.9
+direzione:            0.9
+cammino:              0.9
+cellulare:            0.9
+immagine:             0.9

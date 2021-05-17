@@ -1,0 +1,7 @@
+chirone:              0.9
+tempo:                0.9
+centauro:             0.9
+orologio:             0.9
+metafora:             0.9
+metamorfosi:          0.9
+faccia_tempo:         0.9

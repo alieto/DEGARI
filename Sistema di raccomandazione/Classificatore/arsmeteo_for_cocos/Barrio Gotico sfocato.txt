@@ -1,0 +1,7 @@
+luce:                 0.9
+natale:               0.9
+incombente:           0.9
+spesa:                0.9
+folla:                0.9
+barna:                0.9
+vicolo:               0.9

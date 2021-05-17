@@ -1,0 +1,2 @@
+parola:               0.9
+scrostare:            0.9

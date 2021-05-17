@@ -1,0 +1,4 @@
+ikam:                 0.9
+maison_européenne_de_la_photographie:0.9
+fléri:                0.9
+magie_digitali:       0.9

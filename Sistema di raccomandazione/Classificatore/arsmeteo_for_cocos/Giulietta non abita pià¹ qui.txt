@@ -1,0 +1,5 @@
+ritorno:              0.9
+casa:                 0.9
+finestra:             0.9
+tetto:                0.9
+abbandono:            0.9

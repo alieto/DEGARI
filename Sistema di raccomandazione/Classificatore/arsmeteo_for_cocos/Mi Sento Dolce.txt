@@ -1,0 +1,7 @@
+merda:                0.9
+cioccolato:           0.9
+caramello:            0.9
+dolce:                0.9
+melenso:              0.9
+logo:                 0.9
+gnumgunm:             0.9

@@ -1,0 +1,2 @@
+impurità:             0.9
+ybris:                0.9

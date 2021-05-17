@@ -1,0 +1,5 @@
+panama:               0.9
+buenos:               0.9
+aires:                0.9
+tempo:                0.9
+remoto:               0.9

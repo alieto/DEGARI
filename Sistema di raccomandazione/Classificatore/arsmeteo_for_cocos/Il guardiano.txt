@@ -1,0 +1,7 @@
+liquido:              0.9
+fluido:               0.9
+occhio:               0.9
+donna:                0.9
+corpo:                0.9
+iride:                0.9
+grotta:               0.9

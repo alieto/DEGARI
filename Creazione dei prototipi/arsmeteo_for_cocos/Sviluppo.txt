@@ -1,0 +1,4 @@
+architettura:         0.9
+abilità:              0.9
+storia:               0.9
+creazione:            0.9

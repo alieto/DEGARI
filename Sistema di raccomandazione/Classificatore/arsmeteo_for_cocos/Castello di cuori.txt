@@ -1,0 +1,6 @@
+amore:                0.9
+costruzione:          0.9
+castello_di_carte:    0.9
+cuore:                0.9
+la_costruzione_di_un_amore:0.9
+caus:                 0.9

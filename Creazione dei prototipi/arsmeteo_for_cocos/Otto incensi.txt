@@ -1,0 +1,9 @@
+incenso:              0.9
+atterraggio:          0.9
+surfanta:             0.9
+surreale:             0.9
+fabbrica:             0.9
+scheletro_pilota:     0.9
+lancia:               0.9
+aereo:                0.9
+biplano:              0.9

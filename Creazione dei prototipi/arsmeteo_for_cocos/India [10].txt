@@ -1,0 +1,7 @@
+india:                0.9
+acque_placide:        0.9
+riflesso:             0.9
+suggestivo:           0.9
+vacca_sacra:          0.9
+lentezza:             0.9
+calma:                0.9

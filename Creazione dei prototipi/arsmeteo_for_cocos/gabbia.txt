@@ -1,0 +1,3 @@
+houston:              0.9
+mfa:                  0.9
+retrospettiva:        0.9

@@ -1,0 +1,3 @@
+techno:               0.9
+abilità:              0.9
+passione:             0.9

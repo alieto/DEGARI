@@ -1,0 +1,15 @@
+strada:               0.9
+sera:                 0.9
+artista:              0.9
+passo:                0.9
+steps:                0.9
+torino:               0.9
+vecchio:              0.9
+donna:                0.9
+racconto:             0.9
+traccia:              0.9
+specchio:             0.9
+pioggia:              0.9
+goccia_acqua:         0.9
+attimo:               0.9
+piazza_castello:      0.9

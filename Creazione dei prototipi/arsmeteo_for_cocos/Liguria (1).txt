@@ -1,0 +1,5 @@
+barca:                0.9
+liguria:              0.9
+porto:                0.9
+linea:                0.9
+sovrapposizione:      0.9

@@ -1,0 +1,12 @@
+seppiato:             0.9
+automobile:           0.9
+utilitaria:           0.9
+piccolina:            0.9
+cinquino:             0.9
+cinque_chiappe:       0.9
+nebbioso:             0.9
+nuvola:               0.9
+nella_nebbia:         0.9
+nebbia:               0.9
+nube:                 0.9
+fra_le_nuvole:        0.9

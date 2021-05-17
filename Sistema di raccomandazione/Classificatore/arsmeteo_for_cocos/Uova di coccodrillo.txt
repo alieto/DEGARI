@@ -1,0 +1,4 @@
+uovo:                 0.9
+coccodrillo:          0.9
+caus:                 0.9
+a_pezzi:              0.9

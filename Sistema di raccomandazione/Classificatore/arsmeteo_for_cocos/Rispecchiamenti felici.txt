@@ -1,0 +1,3 @@
+rispecchiamento:      0.9
+autoironia:           0.9
+le_bonheur_des_dames: 0.9

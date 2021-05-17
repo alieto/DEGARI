@@ -1,0 +1,10 @@
+tempio:               0.9
+cina:                 0.9
+yunnan:               0.9
+kunming:              0.9
+cultura:              0.9
+religione:            0.9
+esotico:              0.9
+architettura:         0.9
+porta:                0.9
+strada:               0.9

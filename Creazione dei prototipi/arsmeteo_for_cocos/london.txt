@@ -1,0 +1,7 @@
+taxi:                 0.9
+metropoli:            0.9
+gente:                0.9
+assente:              0.9
+station:              0.9
+cartello:             0.9
+simbolo:              0.9

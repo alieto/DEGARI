@@ -1,0 +1,13 @@
+matita:               0.9
+chiocciola:           0.9
+sogno:                0.9
+soffondere:           0.9
+fantasia:             0.9
+tenue:                0.9
+compenetrazione:      0.9
+combinazione:         0.9
+matitona:             0.9
+barchetta_di_carta:   0.9
+zig_zag:              0.9
+denti_di_sega:        0.9
+su_e_già¹:            0.9

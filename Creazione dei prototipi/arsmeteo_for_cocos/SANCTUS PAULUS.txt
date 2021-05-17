@@ -1,0 +1,3 @@
+baratto:              0.9
+santo:                0.9
+paolo:                0.9

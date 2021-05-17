@@ -1,0 +1,3 @@
+pittore_chitarrista:  0.9
+cane:                 0.9
+uccello:              0.9

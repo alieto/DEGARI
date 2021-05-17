@@ -1,0 +1,11 @@
+guanto:               0.9
+svanire:              0.9
+vento:                0.9
+ombra_del_vero:       0.9
+impronta:             0.9
+evanescenza:          0.9
+sabbia:               0.9
+traccia:              0.9
+orma:                 0.9
+insabbiamento:        0.9
+mimetismo:            0.9

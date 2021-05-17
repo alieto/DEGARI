@@ -1,0 +1,4 @@
+falce_martello:       0.9
+simbolo:              0.9
+messaggio:            0.9
+presenza_incombente:  0.9

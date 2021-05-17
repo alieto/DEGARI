@@ -1,0 +1,5 @@
+tartaruga:            0.9
+esplorazione:         0.9
+tre_mani:             0.9
+assolato:             0.9
+orient:               0.9

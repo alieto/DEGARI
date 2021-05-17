@@ -1,0 +1,7 @@
+isolamento:           0.9
+ragione:              0.9
+elevare:              0.9
+asprezza:             0.9
+schematismo:          0.9
+logica:               0.9
+fuga:                 0.9

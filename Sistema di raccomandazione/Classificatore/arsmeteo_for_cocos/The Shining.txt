@@ -1,0 +1,15 @@
+shining:              0.9
+film:                 0.9
+cinema:               0.9
+jack:                 0.9
+nicholson:            0.9
+kubrik:               0.9
+francesco:            0.9
+torino:               0.9
+nociti:               0.9
+arte:                 0.9
+italia:               0.9
+contemporaneo:        0.9
+acrilico:             0.9
+horror:               0.9
+terrore:              0.9

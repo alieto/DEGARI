@@ -1,0 +1,7 @@
+ghigno:               0.9
+cappuccio:            0.9
+nuvola:               0.9
+incappucciare:        0.9
+setta:                0.9
+surfanta:             0.9
+surreale:             0.9

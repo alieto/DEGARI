@@ -1,0 +1,5 @@
+india:                0.9
+finestra:             0.9
+spiare:               0.9
+verde:                0.9
+dalla_strada:         0.9

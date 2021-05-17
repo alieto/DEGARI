@@ -1,0 +1,6 @@
+sua_maestà:           0.9
+ghigno:               0.9
+king:                 0.9
+beffardo:             0.9
+malvagio:             0.9
+corona:               0.9

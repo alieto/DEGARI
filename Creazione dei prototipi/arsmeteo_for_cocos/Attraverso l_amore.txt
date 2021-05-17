@@ -1,0 +1,6 @@
+love:                 0.9
+amore_a_prima_vista:  0.9
+amore:                0.9
+falling_in_love:      0.9
+walking_in_love:      0.9
+sliema:               0.9

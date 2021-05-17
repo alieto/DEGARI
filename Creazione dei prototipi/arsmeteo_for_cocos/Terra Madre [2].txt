@@ -1,0 +1,3 @@
+terra_madre:          0.9
+indaffarato:          0.9
+indicazione:          0.9

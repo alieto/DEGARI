@@ -1,0 +1,5 @@
+baratto:              0.9
+fabrizio_fontana:     0.9
+performance:          0.9
+fine_stagione:        0.9
+p_arti:               0.9

@@ -1,0 +1,5 @@
+rapace_notturno:      0.9
+lampadina:            0.9
+buio:                 0.9
+caus:                 0.9
+lampada_rotta:        0.9

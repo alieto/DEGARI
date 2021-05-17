@@ -1,0 +1,9 @@
+pierre_de_france:     0.9
+abbandono:            0.9
+attesa:               0.9
+destinazione:         0.9
+progetto:             0.9
+arsmeteo:             0.9
+polvere:              0.9
+detrito:              0.9
+erbaccia:             0.9

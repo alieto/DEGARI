@@ -1,0 +1,6 @@
+farfalla:             0.9
+linea:                0.9
+sincronicità:         0.9
+spartito_musicale_bruciato:0.9
+fuoco:                0.9
+magma:                0.9

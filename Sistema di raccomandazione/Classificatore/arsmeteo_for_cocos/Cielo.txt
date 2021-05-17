@@ -1,0 +1,10 @@
+nube:                 0.9
+nuvola:               0.9
+distribuzione:        0.9
+ordinata:             0.9
+realismo:             0.9
+iperrealismo:         0.9
+degrader:             0.9
+blu:                  0.9
+blues:                0.9
+nuvolo:               0.9

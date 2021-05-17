@@ -1,0 +1,3 @@
+pixel:                0.9
+digitale:             0.9
+ink_jet:              0.9

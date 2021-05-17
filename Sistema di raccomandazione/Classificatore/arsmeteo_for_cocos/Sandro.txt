@@ -1,0 +1,6 @@
+caricatura:           0.9
+uomo:                 0.9
+divano:               0.9
+relax:                0.9
+figura:               0.9
+piedone:              0.9

@@ -1,0 +1,6 @@
+gothic:               0.9
+luci_ombre:           0.9
+bianco_e_nero:        0.9
+visione:              0.9
+castello:             0.9
+silhouette:           0.9

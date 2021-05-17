@@ -1,0 +1,4 @@
+spazio:               0.9
+galleria:             0.9
+esposizione:          0.9
+luogo_per_l_arte:     0.9

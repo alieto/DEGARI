@@ -1,0 +1,5 @@
+viaggiatore:          0.9
+treno:                0.9
+cane:                 0.9
+bicchiere:            0.9
+valigia:              0.9

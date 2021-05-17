@@ -1,0 +1,3 @@
+melone:               0.9
+piatto:               0.9
+pastello:             0.9

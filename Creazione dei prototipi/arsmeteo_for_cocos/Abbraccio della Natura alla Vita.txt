@@ -1,0 +1,16 @@
+albero:               0.9000000000000001
+ramo:                 0.9000000000000001
+donna:                0.6
+uomo:                 0.6
+radice:               0.6
+braccio:              0.6
+mano:                 0.6
+sensualità:           0.6
+amore:                0.6
+opposto:              0.6
+invertibilità:        0.6
+inverso:              0.6
+dolcezza:             0.6
+vegetale:             0.6
+animale:              0.6
+umanità:              0.6

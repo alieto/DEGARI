@@ -1,0 +1,10 @@
+struttura:            0.9
+visione:              0.9
+arcata:               0.9
+metodo:               0.9
+innovazione:          0.9
+quotidiano:           0.9
+dna:                  0.9
+sangue:               0.9
+diritto:              0.9
+netville:             0.9

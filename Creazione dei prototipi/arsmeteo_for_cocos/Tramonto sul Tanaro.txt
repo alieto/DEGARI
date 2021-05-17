@@ -1,0 +1,8 @@
+tanaro:               0.9
+alessandria:          0.9
+fiume:                0.9
+acqua:                0.9
+riflesso:             0.9
+solo:                 0.9
+sera:                 0.9
+imbrunire:            0.9

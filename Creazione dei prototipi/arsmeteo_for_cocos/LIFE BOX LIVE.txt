@@ -1,0 +1,12 @@
+contemporaneo:        0.9
+abitare:              0.9
+modulo:               0.9
+nomade:               0.9
+design:               0.9
+claustrofobia:        0.9
+cubo:                 0.9
+contenitore:          0.9
+habitat:              0.9
+life:                 0.9
+box:                  0.9
+armadio_viaggiante:   0.9

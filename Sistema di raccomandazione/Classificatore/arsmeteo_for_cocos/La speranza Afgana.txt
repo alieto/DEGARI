@@ -1,0 +1,15 @@
+francesco:            0.9
+arte:                 0.9
+nociti:               0.9
+contemporaneo:        0.9
+torino:               0.9
+liberazione:          0.9
+italia:               0.9
+guerra:               0.9
+afghanistan:          0.9
+speranza:             0.9
+rinascita:            0.9
+libertà:              0.9
+lotta:                0.9
+ala:                  0.9
+angelo:               0.9

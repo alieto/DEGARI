@@ -1,0 +1,8 @@
+maiale:               0.9
+amore:                0.9
+terra:                0.9
+ecologia:             0.9
+discorso:             0.9
+interpretazione:      0.9
+metafora:             0.9
+mondo_marcio:         0.9

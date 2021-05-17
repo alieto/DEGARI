@@ -1,0 +1,6 @@
+yemen:                0.9
+forno:                0.9
+fuoco:                0.9
+cottura:              0.9
+piatto:               0.9
+calore:               0.9

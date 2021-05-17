@@ -1,0 +1,3 @@
+manichino:            0.9
+linea:                0.9
+falce_di_luna:        0.9

@@ -1,0 +1,8 @@
+uomo:                 0.9
+brutto:               0.9
+primate:              0.9
+facia:                0.9
+piccolo:              0.9
+legno:                0.9
+hombre_chango:        0.9
+bocca:                0.9

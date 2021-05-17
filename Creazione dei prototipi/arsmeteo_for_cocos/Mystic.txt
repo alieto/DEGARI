@@ -1,0 +1,4 @@
+apparizione:          0.9
+luce:                 0.9
+mistico:              0.9
+spirito:              0.9

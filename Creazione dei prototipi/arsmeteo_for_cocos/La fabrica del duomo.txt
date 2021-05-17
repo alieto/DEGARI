@@ -1,0 +1,3 @@
+bildung:              0.9
+costruttivismo:       0.9
+tessuto_digitale:     0.9

@@ -1,0 +1,4 @@
+vitalità:             0.9
+musica:               0.9
+espansione:           0.9
+albero:               0.9

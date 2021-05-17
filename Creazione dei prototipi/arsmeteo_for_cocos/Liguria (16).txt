@@ -1,0 +1,4 @@
+liguria:              0.9
+barca:                0.9
+grafite_digitale:     0.9
+imbarcazione:         0.9

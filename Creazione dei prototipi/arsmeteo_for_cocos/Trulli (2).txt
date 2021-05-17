@@ -1,0 +1,10 @@
+chiave:               0.9
+memoria:              0.9
+trullo:               0.9
+salento:              0.9
+costruzione:          0.9
+testimonianza:        0.9
+pietra:               0.9
+abitazione:           0.9
+antico:               0.9
+rifugio:              0.9

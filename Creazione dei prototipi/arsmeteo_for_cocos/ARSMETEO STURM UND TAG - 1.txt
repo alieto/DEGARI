@@ -1,0 +1,8 @@
+metetag:              0.9
+ritaggare:            0.9
+opera:                0.9
+sturm:                0.9
+tag:                  0.9
+drang:                0.9
+passione:             0.9
+riversamento:         0.9

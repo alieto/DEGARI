@@ -1,0 +1,6 @@
+libro:                0.9
+raccolta:             0.9
+passione:             0.9
+lettura:              0.9
+innamoramento:        0.9
+condivisione:         0.9

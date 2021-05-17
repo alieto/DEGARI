@@ -1,0 +1,4 @@
+transito:             0.9
+travel_gear:          0.9
+stretto_necessario:   0.9
+pausa:                0.9

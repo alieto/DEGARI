@@ -1,0 +1,6 @@
+incisione:            0.9
+rupestre:             0.9
+graffito:             0.9
+baby:                 0.9
+stalattite:           0.9
+giocattolo:           0.9

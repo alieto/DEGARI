@@ -1,0 +1,5 @@
+pavone:               0.9
+blu:                  0.9
+ruota:                0.9
+maestoso:             0.9
+vanitoso:             0.9

@@ -1,0 +1,6 @@
+arsmeteo:             0.9
+omaggio:              0.9
+arte_viva:            0.9
+abbraccio:            0.9
+tempo_dell_arte:      0.9
+casa_dell_arte:       0.9

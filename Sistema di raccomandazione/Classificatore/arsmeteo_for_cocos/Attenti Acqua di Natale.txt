@@ -1,0 +1,7 @@
+attenzione:           0.9
+fragilità:            0.6
+vetro:                0.6
+trasparente:          0.6
+formalina:            0.6
+acqua:                0.6
+conservazione:        0.6

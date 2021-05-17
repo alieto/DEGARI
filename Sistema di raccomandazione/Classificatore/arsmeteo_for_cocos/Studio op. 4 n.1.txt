@@ -1,0 +1,3 @@
+peace:                0.9
+tratto:               0.9
+evocazione:           0.9

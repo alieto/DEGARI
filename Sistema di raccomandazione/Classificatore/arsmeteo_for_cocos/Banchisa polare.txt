@@ -1,0 +1,7 @@
+banchisa:             0.9
+polare:               0.9
+freddo:               0.9
+ghiccio:              0.9
+suggestione:          0.9
+pack:                 0.9
+banchisa_polare:      0.9

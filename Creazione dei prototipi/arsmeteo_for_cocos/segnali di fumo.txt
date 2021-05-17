@@ -1,0 +1,5 @@
+specchio:             0.9
+duplicazione:         0.9
+borges:               0.9
+vetrina:              0.9
+libro:                0.9

@@ -1,0 +1,5 @@
+verme:                0.9
+fuga:                 0.9
+prigione:             0.9
+fine_inaspettata:     0.9
+causpiano_di_fuga:    0.9

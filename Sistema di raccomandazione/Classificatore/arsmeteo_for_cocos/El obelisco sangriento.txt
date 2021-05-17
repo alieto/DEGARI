@@ -1,0 +1,8 @@
+prospettiva:          0.9
+fallo:                0.9
+valore:               0.9
+insanguinare:         0.9
+patriottismo:         0.9
+populismo:            0.9
+monumento:            0.9
+memoria:              0.9

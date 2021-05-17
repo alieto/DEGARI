@@ -1,0 +1,9 @@
+oceano:               0.9
+namibia:              0.9
+profumo:              0.9
+candore:              0.9
+tramonto:             0.9
+magia:                0.9
+silenzio:             0.9
+equilibrio:           0.9
+perfezione:           0.9

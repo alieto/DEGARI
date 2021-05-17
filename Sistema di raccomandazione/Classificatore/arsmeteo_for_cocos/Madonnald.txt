@@ -1,0 +1,2 @@
+macdonald:            0.9
+madonna:              0.9

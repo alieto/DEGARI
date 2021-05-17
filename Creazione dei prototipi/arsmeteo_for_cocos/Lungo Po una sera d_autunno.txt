@@ -1,0 +1,6 @@
+maestuoso:            0.9
+vita:                 0.9
+confine:              0.9
+denso_di_storia:      0.9
+maltrattato:          0.9
+frequentare:          0.9

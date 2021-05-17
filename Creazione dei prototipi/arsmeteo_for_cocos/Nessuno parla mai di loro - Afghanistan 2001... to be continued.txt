@@ -1,0 +1,6 @@
+olio:                 0.9
+acrilico:             0.9
+tuttamina:            0.9
+inserto:              0.9
+giornale:             0.9
+pvc:                  0.9

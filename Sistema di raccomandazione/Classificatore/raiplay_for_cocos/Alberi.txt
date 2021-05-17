@@ -1,0 +1,13 @@
+cortometraggio:       0.9
+carnevale:            0.9
+satriano:             0.9
+lucania:              0.9
+figura:               0.9
+leggendaria:          0.9
+romito:               0.9
+uomo-albero:          0.9
+moma:                 0.9
+esordire:             0.9
+ps1:                  0.9
+new:                  0.9
+york:                 0.9

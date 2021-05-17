@@ -1,0 +1,1 @@
+verticalita:          0.9

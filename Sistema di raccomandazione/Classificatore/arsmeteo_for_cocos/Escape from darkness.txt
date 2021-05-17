@@ -1,0 +1,5 @@
+tinte_pastello:       0.9
+accorpamento:         0.9
+ripetizione:          0.9
+percorso:             0.9
+agglomerato:          0.9

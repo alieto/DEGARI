@@ -1,0 +1,3 @@
+indelenili:           0.9
+pantoni:              0.9
+carta:                0.9

@@ -1,0 +1,7 @@
+insetto:              0.9
+semovente:            0.9
+automa:               0.9
+cellula:              0.9
+energia:              0.9
+luce:                 0.9
+ombra:                0.9

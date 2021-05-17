@@ -1,0 +1,2 @@
+arsmeteo:             0.9
+qr_code:              0.9

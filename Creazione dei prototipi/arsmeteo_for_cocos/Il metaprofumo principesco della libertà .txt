@@ -1,0 +1,7 @@
+principe:             0.9
+jim:                  0.9
+rifilmare:            0.9
+rourke:               0.9
+sicilia:              0.9
+il_problema_del_traffico:0.9
+arsmeteo:             0.9

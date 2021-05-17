@@ -1,0 +1,4 @@
+lettera:              0.9
+simbolo:              0.9
+libro:                0.9
+manuale:              0.9

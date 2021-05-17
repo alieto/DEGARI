@@ -1,0 +1,3 @@
+incisione:            0.9
+alluminio:            0.9
+laser:                0.9

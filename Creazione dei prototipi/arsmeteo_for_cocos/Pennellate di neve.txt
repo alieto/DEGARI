@@ -1,0 +1,5 @@
+castelluccio_di_norcia:0.9
+neve:                 0.9
+panorama:             0.9
+monte:                0.9
+natura:               0.9

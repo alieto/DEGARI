@@ -1,0 +1,11 @@
+guerra:               0.9
+paura:                0.9
+angoscia:             0.9
+aereo:                0.9
+vuoto:                0.9
+bombardamento_mediatico:0.9
+lisbona:              0.9
+grandi_imprese:       0.9
+video_gioco_per_sadici_militari_del_cazzo:0.9
+hulliburton:          0.9
+cagoni:               0.9

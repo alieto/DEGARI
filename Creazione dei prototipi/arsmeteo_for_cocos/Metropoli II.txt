@@ -1,0 +1,4 @@
+metropoli:            0.9
+struttura:            0.9
+sensazione:           0.9
+dalla_finestra:       0.9

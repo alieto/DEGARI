@@ -1,0 +1,5 @@
+dimensione:           0.9
+andamento:            0.9
+portamento:           0.9
+ingrossamento:        0.9
+attitudine:           0.9

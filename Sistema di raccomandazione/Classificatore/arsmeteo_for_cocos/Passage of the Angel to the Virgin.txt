@@ -1,0 +1,6 @@
+dettaglio:            0.9
+sfumare:              0.9
+derek_jarman:         0.9
+dieter_roth:          0.9
+arredo:               0.9
+angelo:               0.9

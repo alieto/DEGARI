@@ -1,0 +1,4 @@
+baratto:              0.9
+obelisco:             0.9
+lecce:                0.9
+porta_napoli:         0.9

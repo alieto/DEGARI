@@ -1,0 +1,6 @@
+mietitrice:           0.9
+asparago:             0.9
+raccolto:             0.9
+surfanta:             0.9
+surreale:             0.9
+campo:                0.9

@@ -1,0 +1,9 @@
+principio:            0.9
+fine:                 0.9
+circolare:            0.9
+immobile_e_mobile:    0.9
+ritorno:              0.9
+divenire:             0.9
+alpha_e_omega:        0.9
+quesito:              0.9
+risposta:             0.9

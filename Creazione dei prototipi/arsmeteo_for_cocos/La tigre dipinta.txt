@@ -1,0 +1,6 @@
+cura:                 0.9
+con_delicatezza:      0.9
+orient:               0.9
+mano:                 0.9
+pennello:             0.9
+scarpa:               0.9

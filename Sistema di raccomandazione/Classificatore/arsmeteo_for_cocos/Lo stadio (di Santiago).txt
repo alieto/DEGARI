@@ -1,0 +1,8 @@
+sofferenza:           0.9
+golpe:                0.9
+detenzione:           0.9
+tortura:              0.9
+follia:               0.9
+pinochet:             0.9
+bastardo:             0.9
+furia:                0.9

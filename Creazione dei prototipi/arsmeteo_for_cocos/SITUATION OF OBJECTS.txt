@@ -1,0 +1,12 @@
+ventre:               0.9
+polpa:                0.9
+femmina:              0.9
+disarmo:              0.9
+sesso:                0.9
+triangolo:            0.9
+morbidezza:           0.9
+carne:                0.9
+macelleria:           0.9
+ombelico:             0.9
+venere:               0.9
+arrendevolezza:       0.9

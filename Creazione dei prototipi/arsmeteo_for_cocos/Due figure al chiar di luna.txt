@@ -1,0 +1,10 @@
+luna:                 0.9
+notte:                0.9
+donna:                0.9
+attesa:               0.9
+amore:                0.9
+illusione:            0.9
+miseria:              0.9
+vittima:              0.9
+sfruttamento:         0.9
+poesia:               0.9

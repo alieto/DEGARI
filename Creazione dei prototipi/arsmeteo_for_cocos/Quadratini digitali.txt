@@ -1,0 +1,14 @@
+digitale:             0.9
+quadratini+:          0.9
+-ossessione+:         0.9
+-icone+:              0.9
+-segni+:              0.9
+-stilizzazioni+:      0.9
+-gioco+:              0.9
+-rappresentazione+:   0.9
+-cosmogonia+:         0.9
+-pittogrammi+:        0.9
+-sequenze+:           0.9
+-infanzia+:           0.9
+-figure+:             0.9
+-creatività:          0.9

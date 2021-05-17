@@ -1,0 +1,5 @@
+cane:                 0.9
+klil:                 0.9
+sonno:                0.9
+israele:              0.9
+pace:                 0.9

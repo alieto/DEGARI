@@ -1,0 +1,4 @@
+immobile:             0.9
+grande_fogliati:      0.9
+incombente:           0.9
+possente:             0.9

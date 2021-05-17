@@ -1,0 +1,2 @@
+focus_on:             0.9
+riguardare:           0.9

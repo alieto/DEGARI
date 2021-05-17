@@ -1,0 +1,8 @@
+-strappi+:            0.9
+-decollage+:          0.9
+-frammenti:           0.9
+-frammentazione+:     0.9
+mezzo_sguardo:        0.9
+viso_di_donna:        0.9
+orecchino:            0.9
+giallo_rosso:         0.9

@@ -1,0 +1,4 @@
+televisore:           0.9
+no_more_zapping:      0.9
+uso_improprio:        0.9
+uso_proprio:          0.9

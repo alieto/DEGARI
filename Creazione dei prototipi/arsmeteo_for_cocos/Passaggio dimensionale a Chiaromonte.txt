@@ -1,0 +1,7 @@
+passaggio:            0.9
+livello:              0.9
+buio:                 0.9
+luce:                 0.9
+terra_mia:            0.9
+arco:                 0.9
+pietra:               0.9

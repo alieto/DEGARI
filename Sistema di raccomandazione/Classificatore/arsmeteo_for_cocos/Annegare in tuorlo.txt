@@ -1,0 +1,6 @@
+tuorlo:               0.9
+annegare:             0.9
+help:                 0.9
+guscio:               0.9
+uovo:                 0.9
+caus:                 0.9

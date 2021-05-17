@@ -1,0 +1,6 @@
+fuoco:                0.9
+artificio:            0.9
+luce:                 0.9
+ombrellone:           0.9
+mare:                 0.9
+buio:                 0.9

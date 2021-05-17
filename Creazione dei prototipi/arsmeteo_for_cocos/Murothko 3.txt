@@ -1,0 +1,5 @@
+muro:                 0.9
+rothko:               0.9
+stratigrafia:         0.9
+nero_bianco_arancio_ocra:0.9
+striscia:             0.9

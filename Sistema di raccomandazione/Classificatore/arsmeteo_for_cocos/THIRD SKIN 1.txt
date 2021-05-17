@@ -1,0 +1,12 @@
+carta:                0.9
+bianco:               0.9
+rilievo:              0.9
+cicatrice:            0.9
+cerchio:              0.9
+punto:                0.9
+tempo:                0.9
+memoria:              0.9
+impronta:             0.9
+indelebile:           0.9
+segno:                0.9
+essenza:              0.9

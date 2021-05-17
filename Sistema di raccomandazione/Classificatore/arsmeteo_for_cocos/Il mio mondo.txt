@@ -1,0 +1,3 @@
+scultura:             0.9
+mondo:                0.9
+cartone:              0.9

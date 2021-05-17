@@ -1,0 +1,3 @@
+tecnica:              0.9
+mista:                0.9
+spray:                0.9

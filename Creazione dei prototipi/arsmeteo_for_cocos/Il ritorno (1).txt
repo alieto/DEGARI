@@ -1,0 +1,4 @@
+ritorno:              0.9
+giacca_in_spalla:     0.9
+cammino:              0.9
+uomo:                 0.9

@@ -1,0 +1,8 @@
+colomba:              0.9
+strappo:              0.9
+decollage:            0.9
+frammento:            0.9
+frammentazione:       0.9
+sguardo:              0.9
+viso_di_donna:        0.9
+mezzo_sguardo:        0.9

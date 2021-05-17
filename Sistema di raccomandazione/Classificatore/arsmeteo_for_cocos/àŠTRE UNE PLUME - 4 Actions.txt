@@ -1,0 +1,7 @@
+atelier_nomade:       0.9
+piuma:                0.9
+parigi:               0.9
+tour_eiffel:          0.9
+pyramide_du_louvre:   0.9
+notre_dame:           0.9
+place_des_vosges:     0.9

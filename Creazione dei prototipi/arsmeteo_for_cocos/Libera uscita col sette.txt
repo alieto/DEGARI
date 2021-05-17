@@ -1,0 +1,10 @@
+matita:               0.9
+chiocciola:           0.9
+gessoso:              0.9
+compenetrazione:      0.9
+combinazione:         0.9
+matitona:             0.9
+lumachine:            0.9
+sette:                0.9
+numero_sette:         0.9
+uscita:               0.9

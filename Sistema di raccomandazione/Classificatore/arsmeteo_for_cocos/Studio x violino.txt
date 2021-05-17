@@ -1,0 +1,3 @@
+violino:              0.9
+tavolo:               0.9
+archetto:             0.9

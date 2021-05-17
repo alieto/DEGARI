@@ -1,0 +1,5 @@
+mela:                 0.9
+lampione:             0.9
+violino-viola:        0.9
+notte:                0.9
+raggio_di_luce:       0.9

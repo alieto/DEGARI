@@ -1,0 +1,10 @@
+wiev:                 0.9
+master:               0.9
+topolino:             0.9
+infanzia:             0.9
+nsu:                  0.9
+prinz:                0.9
+uomo:                 0.9
+luna:                 0.9
+transistor:           0.9
+moplen:               0.9

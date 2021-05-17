@@ -1,0 +1,7 @@
+crysler:              0.9
+coronet:              0.9
+millenovecentosettantadue:0.9
+trasporto:            0.9
+comunicazione:        0.9
+servizio:             0.9
+pensione_prossima:    0.9

@@ -1,0 +1,6 @@
+liberazione:          0.9
+gioco:                0.9
+infanzia:             0.9
+metaforico:           0.9
+libertà:              0.9
+liberi_tutti:         0.9

@@ -1,0 +1,7 @@
+impossibile:          0.9
+motosega:             0.9
+forma:                0.9
+vettoriale:           0.9
+morfologia:           0.9
+fantasia:             0.9
+esplosione:           0.9

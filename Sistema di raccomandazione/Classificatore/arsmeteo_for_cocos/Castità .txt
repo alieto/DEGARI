@@ -1,0 +1,2 @@
+castità:              0.9
+suora:                0.9

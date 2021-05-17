@@ -1,0 +1,6 @@
+uomo:                 0.9
+camminare:            0.9
+solitudine:           0.9
+gerusalemme:          0.9
+strada:               0.9
+israele:              0.9

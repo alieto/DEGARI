@@ -1,0 +1,5 @@
+rifiuto:              0.9
+lettere_buttate:      0.9
+cassonetto:           0.9
+spazzatura_letterale: 0.9
+emergenza:            0.9

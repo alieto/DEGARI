@@ -1,0 +1,2 @@
+compensato:           0.9
+grafite:              0.9

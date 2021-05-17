@@ -1,0 +1,1 @@
+lottatore:            0.9

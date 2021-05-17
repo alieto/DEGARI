@@ -1,0 +1,29 @@
+#Title composizione
+Title : surprise-joy
+
+#Concetto Principale
+Head Concept Name : surprise
+
+#Concetto Modificatore
+Modifier Concept Name : joy
+
+head, -anticipation
+
+modifier, -holocaust
+
+T(modifier), happiness, 0.98
+T(modifier), bliss, 0.97
+T(modifier), celebrating, 0.97
+T(modifier), jubilant, 0.97
+T(modifier), ecstatic, 0.95
+T(modifier), elation, 0.94
+
+T(head), surprise, 0.93
+T(head), flabbergast, 0.91
+T(head), explode, 0.91
+T(head), ambush, 0.88
+T(head), eruption, 0.88
+T(head), frighten, 0.88
+
+
+Result : '1', '1', '1', '1', '1', '0', '1', '0', '0', '0', '0', '0', 6.636327952401907e-05

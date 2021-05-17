@@ -1,0 +1,7 @@
+scarpa:               0.9
+umberto:              0.9
+filosofia:            0.9
+pensiero:             0.9
+fondamento:           0.9
+skype:                0.9
+principe:             0.9

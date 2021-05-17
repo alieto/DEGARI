@@ -1,0 +1,8 @@
+intervista:           0.9
+lettura:              0.9
+saggio:               0.9
+racconto:             0.9
+lettera:              0.9
+salento:              0.9
+mare:                 0.9
+fiume:                0.9

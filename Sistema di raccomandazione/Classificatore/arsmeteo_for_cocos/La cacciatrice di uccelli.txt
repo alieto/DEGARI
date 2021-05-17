@@ -1,0 +1,4 @@
+donna:                0.9
+pappagallo_blu:       0.9
+uccellino:            0.9
+gabbia:               0.9

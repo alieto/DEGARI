@@ -1,0 +1,7 @@
+fine:                 0.9
+mondo:                0.9
+finire:               0.9
+allegria:             0.9
+verso:                0.9
+correre:              0.9
+precipizio:           0.9

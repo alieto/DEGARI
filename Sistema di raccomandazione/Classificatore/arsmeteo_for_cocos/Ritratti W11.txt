@@ -1,0 +1,9 @@
+acquerello:           0.9
+figurativo:           0.9
+volto:                0.9
+sorrico:              0.9
+giovane:              0.9
+uomo:                 0.9
+capello:              0.9
+rosso:                0.9
+carta:                0.9

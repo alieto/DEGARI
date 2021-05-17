@@ -1,0 +1,4 @@
+scontro_di_tecnologie:0.9
+reclame:              0.9
+insegna:              0.9
+indelebile:           0.9

@@ -1,0 +1,6 @@
+coda:                 0.9
+ordinata:             0.9
+ufficio:              0.9
+lavoro:               0.9
+ascensorista:         0.9
+taipei:               0.9

@@ -1,0 +1,6 @@
+serbatoio:            0.9
+immagine:             0.9
+memoria:              0.9
+proiezione:           0.9
+tecnologia:           0.9
+anni_luce:            0.9

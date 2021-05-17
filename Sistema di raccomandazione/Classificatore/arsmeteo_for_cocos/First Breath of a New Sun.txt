@@ -1,0 +1,6 @@
+ambient:              0.9
+digital:              0.9
+esplosione:           0.9
+nascita:              0.9
+synthesizer:          0.9
+germinare:            0.9

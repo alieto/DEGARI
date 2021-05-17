@@ -1,0 +1,5 @@
+tavola:               0.9
+niépce:               0.9
+protofotografia:      0.9
+sfotografia:          0.9
+conviviale:           0.9

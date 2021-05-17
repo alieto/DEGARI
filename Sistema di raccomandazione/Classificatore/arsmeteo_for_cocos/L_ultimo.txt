@@ -1,0 +1,4 @@
+ruspa:                0.9
+vendetta:             0.9
+estinzione:           0.9
+progresso:            0.9

@@ -1,0 +1,5 @@
+chitarra:             0.9
+sedia:                0.9
+notte:                0.9
+luna:                 0.9
+spartito:             0.9

@@ -1,0 +1,6 @@
+seguace:              0.9
+estasi:               0.9
+sacralità:            0.9
+psicopatologia:       0.9
+esperienze_estatiche: 0.9
+stigmate:             0.9

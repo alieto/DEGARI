@@ -1,0 +1,11 @@
+occhio:               0.9
+fotografare:          0.9
+visione:              0.9
+speculare:            0.9
+reprimere:            0.9
+dissuasione:          0.9
+annotare:             0.9
+permesso:             0.9
+rubare:               0.9
+netville:             0.9
+nascondere:           0.9

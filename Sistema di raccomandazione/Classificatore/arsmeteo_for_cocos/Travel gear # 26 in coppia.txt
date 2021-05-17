@@ -1,0 +1,7 @@
+sekt:                 0.9
+telefono:             0.9
+giornale:             0.9
+portatile:            0.9
+ordine:               0.9
+ammenicoli_vari:      0.9
+disordine:            0.9

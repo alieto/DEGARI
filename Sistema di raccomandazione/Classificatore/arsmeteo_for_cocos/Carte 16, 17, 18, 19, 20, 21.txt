@@ -1,0 +1,4 @@
+le_differenze:        0.9
+la_guerra:            0.9
+il_potere:            0.9
+il_quotidiano:        0.9

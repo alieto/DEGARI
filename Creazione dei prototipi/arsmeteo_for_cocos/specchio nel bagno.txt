@@ -1,0 +1,3 @@
+specchio:             0.9
+bagno:                0.9
+arabo:                0.9

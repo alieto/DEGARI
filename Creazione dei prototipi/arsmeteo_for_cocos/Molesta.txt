@@ -1,0 +1,6 @@
+torino:               0.9
+mole:                 0.9
+albero:               0.9
+gioco:                0.9
+prospettiva:          0.9
+sovrapposizione:      0.9

@@ -1,0 +1,2 @@
+poesia:               0.9
+visivo:               0.9

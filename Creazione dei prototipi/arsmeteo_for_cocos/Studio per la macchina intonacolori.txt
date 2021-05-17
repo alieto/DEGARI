@@ -1,0 +1,3 @@
+futurismo:            0.9
+studio:               0.9
+intonacolori:         0.9

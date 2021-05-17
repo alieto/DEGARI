@@ -1,0 +1,7 @@
+fab_four:             0.9
+gratitudine:          0.9
+ricordare:            0.9
+affetto:              0.9
+condivisione:         0.9
+universale:           0.9
+gene|genio:           0.9

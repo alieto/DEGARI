@@ -1,0 +1,3 @@
+genova:               0.9
+porto:                0.9
+rosso:                0.9

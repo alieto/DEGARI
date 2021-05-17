@@ -1,0 +1,3 @@
+diafanie:             0.9
+ghiaccio:             0.9
+segmento:             0.9

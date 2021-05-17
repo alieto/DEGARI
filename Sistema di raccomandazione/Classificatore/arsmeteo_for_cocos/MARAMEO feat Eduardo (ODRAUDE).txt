@@ -1,0 +1,6 @@
+marameo:              0.9
+eduardo:              0.9
+serigrafia:           0.9
+alfa_romeo:           0.9
+mostro:               0.9
+odraude:              0.9

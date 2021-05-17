@@ -1,0 +1,14 @@
+incrocio:             0.9
+shopper:              0.9
+passo:                0.9
+young_man:            0.9
+woman:                0.9
+di_spalle:            0.9
+giubbotto:            0.9
+shopping:             0.9
+metropoli:            0.9
+coda:                 0.9
+attesa:               0.9
+ressa:                0.9
+urbano:               0.9
+folla:                0.9

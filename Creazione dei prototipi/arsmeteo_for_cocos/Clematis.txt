@@ -1,0 +1,17 @@
+seme:                 0.9
+terra:                0.9
+poesia:               0.6
+alda_merini:          0.6
+addio:                0.6
+ricordo:              0.6
+memoria:              0.6
+estinzione:           0.6
+pietra:               0.6
+fossile:              0.6
+passato:              0.6
+perenne:              0.6
+colore:               0.6
+tatto:                0.6
+olfatto:              0.6
+vista:                0.6
+pianta:               0.6

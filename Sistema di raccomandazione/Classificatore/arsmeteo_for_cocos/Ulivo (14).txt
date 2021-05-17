@@ -1,0 +1,2 @@
+grande:               0.9
+vecchio:              0.9

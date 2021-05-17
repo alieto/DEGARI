@@ -1,0 +1,12 @@
+charlie:              0.9
+chaplin:              0.9
+comico:               0.9
+ritratto:             0.9
+china:                0.9
+saltimbanco:          0.9
+regista:              0.9
+attore:               0.9
+musicista:            0.9
+compositore:          0.9
+scenografo:           0.9
+tuttofare:            0.9

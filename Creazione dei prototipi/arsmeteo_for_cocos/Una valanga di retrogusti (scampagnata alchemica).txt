@@ -1,0 +1,9 @@
+viaggio:              0.9
+spirito:              0.9
+grappa:               0.9
+distillato:           0.9
+maestro:              0.9
+alchemico:            0.9
+retrogusto:           0.9
+sapienzialità:        0.9
+distillare:           0.9

@@ -1,0 +1,4 @@
+spreco:               0.9
+dove_è_andato_a_finire:0.9
+experimenta:          0.9
+denaro_pubblico:      0.9

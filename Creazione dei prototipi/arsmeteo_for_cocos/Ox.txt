@@ -1,0 +1,3 @@
+attività:             0.9
+grafica:              0.9
+ox:                   0.9

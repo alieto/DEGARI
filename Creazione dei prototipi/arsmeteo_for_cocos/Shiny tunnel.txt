@@ -1,0 +1,5 @@
+tunnel:               0.9
+luce:                 0.9
+via:                  0.9
+visione:              0.9
+splendere:            0.9

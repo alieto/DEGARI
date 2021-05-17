@@ -1,0 +1,4 @@
+borsalino:            0.9
+praà§a_do_comercio:   0.9
+martinho_da_arcada:   0.9
+omaggio_al_principe:  0.9

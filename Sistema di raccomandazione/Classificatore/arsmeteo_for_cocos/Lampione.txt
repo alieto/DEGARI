@@ -1,0 +1,6 @@
+cielo:                0.9
+solo:                 0.9
+tramonto:             0.9
+lampione:             0.9
+landscape:            0.9
+profilo:              0.9

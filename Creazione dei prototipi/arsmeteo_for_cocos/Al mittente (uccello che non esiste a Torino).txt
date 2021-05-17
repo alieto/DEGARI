@@ -1,0 +1,10 @@
+uccello:              0.9
+rispedire:            0.9
+estinto:              0.9
+fantastico:           0.9
+surreale:             0.9
+surfanta:             0.9
+becco:                0.9
+penna:                0.9
+zampa:                0.9
+occhio:               0.9

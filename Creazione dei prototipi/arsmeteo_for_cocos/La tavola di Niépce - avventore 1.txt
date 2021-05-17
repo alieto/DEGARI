@@ -1,0 +1,10 @@
+tavola:               0.9
+avventore:            0.9
+apparecchiare:        0.9
+bottiglia:            0.9
+bicchiere:            0.9
+scodella:             0.9
+piatto:               0.9
+posata:               0.9
+tovaglia:             0.9
+prime_foto:           0.9

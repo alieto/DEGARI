@@ -1,0 +1,6 @@
+notte:                0.9
+mare:                 0.9
+sandalo:              0.9
+capanno:              0.9
+doppio:               0.9
+nero:                 0.9

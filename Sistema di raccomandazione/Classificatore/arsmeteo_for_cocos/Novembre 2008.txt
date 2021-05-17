@@ -1,0 +1,22 @@
+br:                   0.9
+due:                  0.63
+tre:                  0.63
+volta:                0.63
+/:                    0.63
+senso_della_vita:     0.6
+div:                  0.6
+amore_come_senso_ultimo_della_vita:0.6
+text-align:           0.6
+style:                0.6
+left:                 0.6
+padding-left:         0.6
+30px:                 0.6
+vita:                 0.6
+alcun:                0.6
+senso:                0.6
+amore:                0.6
+mese:                 0.6
+giorno:               0.6
+em:                   0.6
+diocane:              0.6
+nbsp:                 0.6

@@ -1,0 +1,1 @@
+campo_da_gioco_virtuale:0.9

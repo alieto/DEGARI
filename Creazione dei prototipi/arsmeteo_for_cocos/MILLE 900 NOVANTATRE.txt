@@ -1,0 +1,7 @@
+mille:                0.9
+stress:               0.9
+società:              0.9
+_contemporanea:       0.9
+abito:                0.9
+nel_vuoto:            0.9
+novecento:            0.9

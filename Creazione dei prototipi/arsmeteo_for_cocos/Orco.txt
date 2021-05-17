@@ -1,0 +1,3 @@
+orco:                 0.9
+lingua_tagliente:     0.9
+cervello_vulcanico:   0.9

@@ -1,0 +1,4 @@
+braccio:              0.9
+shiva:                0.9
+seduzione:            0.9
+vocalizzo:            0.9

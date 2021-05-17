@@ -1,0 +1,1 @@
+nellp_spazio:         0.9

@@ -1,0 +1,6 @@
+muro:                 0.9
+rothko:               0.9
+bianco:               0.9
+marrone:              0.9
+due:                  0.9
+orizzontale:          0.9

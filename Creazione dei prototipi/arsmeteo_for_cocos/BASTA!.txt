@@ -1,0 +1,10 @@
+caccia:               0.9
+bastare:              0.9
+sparo:                0.9
+pelliccia:            0.9
+colpire:              0.9
+vittima:              0.9
+lusso:                0.9
+indifferenza:         0.9
+freddo:               0.9
+netville:             0.9

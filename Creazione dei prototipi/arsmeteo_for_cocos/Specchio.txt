@@ -1,0 +1,5 @@
+specchio:             0.9
+pompei:               0.6
+affresco:             0.6
+labirinto:            0.6
+cavallo:              0.6

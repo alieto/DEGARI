@@ -1,0 +1,8 @@
+calore:               0.9
+albero:               0.9
+vita:                 0.9
+fine:                 0.9
+rosso:                0.9
+uomo:                 0.9
+discanto:             0.9
+eternità:             0.9

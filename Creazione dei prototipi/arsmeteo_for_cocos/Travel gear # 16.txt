@@ -1,0 +1,7 @@
+hotel:                0.9
+trave_gear:           0.9
+transito:             0.9
+viaggio:              0.9
+acquisto:             0.9
+lettura:              0.9
+caffè:                0.9

@@ -1,0 +1,8 @@
+lacunare:             0.9
+stagno:               0.9
+mimesi:               0.9
+acqua_ferma:          0.9
+attesa:               0.9
+predazione:           0.9
+insetto:              0.9
+verde_speranza:       0.9

@@ -1,0 +1,3 @@
+segno:                0.9
+ricerca:              0.9
+informale:            0.9

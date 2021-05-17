@@ -1,0 +1,5 @@
+venezia:              0.9
+acqua:                0.9
+vaso_rotto:           0.9
+banco:                0.9
+barchette_di_carta:   0.9

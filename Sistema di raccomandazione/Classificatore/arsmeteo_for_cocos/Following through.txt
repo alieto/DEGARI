@@ -1,0 +1,5 @@
+lanterna:             0.9
+mongolfiera:          0.9
+magia:                0.9
+here_comes_the_sun:   0.9
+notte:                0.9

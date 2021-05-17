@@ -1,0 +1,10 @@
+ragia:                0.9
+rampage:              0.9
+gorilla:              0.9
+king_kong:            0.9
+tre_gorilla:          0.9
+attacco:              0.9
+metropoli:            0.9
+grattacielo:          0.9
+elicottero:           0.9
+paracadute:           0.9

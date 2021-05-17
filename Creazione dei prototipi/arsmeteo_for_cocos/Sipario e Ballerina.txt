@@ -1,0 +1,6 @@
+ballerina:            0.9
+sipario:              0.9
+palcoscenico:         0.9
+teatro:               0.9
+spettacolo:           0.9
+balletto:             0.9

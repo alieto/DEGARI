@@ -1,0 +1,6 @@
+immobile:             0.9
+cuore:                0.9
+trafiggere:           0.9
+solido:               0.9
+liquido:              0.9
+cupo:                 0.9

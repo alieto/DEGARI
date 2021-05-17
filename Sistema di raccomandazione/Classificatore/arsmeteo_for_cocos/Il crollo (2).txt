@@ -1,0 +1,2 @@
+crollo:               0.9
+maceria:              0.9

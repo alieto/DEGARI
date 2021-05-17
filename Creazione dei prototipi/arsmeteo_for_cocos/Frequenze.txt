@@ -1,0 +1,9 @@
+propagazione:         0.9
+ripetizione:          0.9
+ondulazione:          0.9
+frequenza:            0.9
+tridimensionalità:    0.9
+interazione:          0.9
+vibrazione:           0.9
+vibrante:             0.9
+intersecare:          0.9

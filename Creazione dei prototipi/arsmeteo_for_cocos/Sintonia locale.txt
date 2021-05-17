@@ -1,0 +1,8 @@
+suono:                0.9
+ascolto:              0.9
+collettivo:           0.9
+orchestra:            0.9
+di_strada:            0.9
+fiato:                0.9
+orecchio:             0.9
+attenzione:           0.9

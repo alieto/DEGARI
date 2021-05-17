@@ -1,0 +1,6 @@
+forma:                0.9
+energia:              0.9
+vita:                 0.9
+energia_vitale:       0.9
+forma_dell_energia:   0.9
+simbolo:              0.9

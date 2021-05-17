@@ -1,0 +1,6 @@
+fiore:                0.9
+rosa:                 0.9
+blu:                  0.9
+albero:               0.9
+cielo:                0.9
+sprimavera:           0.9

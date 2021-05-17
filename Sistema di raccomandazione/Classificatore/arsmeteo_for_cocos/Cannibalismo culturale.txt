@@ -1,0 +1,5 @@
+cervello:             0.9
+fusione:              0.9
+schermo:              0.9
+banalità:             0.9
+spazzatura:           0.9

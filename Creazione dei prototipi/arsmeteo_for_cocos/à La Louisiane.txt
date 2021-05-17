@@ -1,0 +1,9 @@
+luce:                 0.9
+stanza:               0.9
+essenziale:           0.9
+paris:                0.9
+intimità:             0.9
+relax:                0.9
+inclinazione:         0.9
+incidenza:            0.9
+hotel:                0.9

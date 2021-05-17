@@ -1,0 +1,5 @@
+aereo:                0.9
+vento:                0.9
+leumann:              0.9
+bufera:               0.9
+atterraggio:          0.9

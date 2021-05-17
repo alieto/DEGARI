@@ -1,0 +1,4 @@
+flaubert:             0.9
+vetrina:              0.9
+appeal:               0.9
+ciapa_ciapa:          0.9

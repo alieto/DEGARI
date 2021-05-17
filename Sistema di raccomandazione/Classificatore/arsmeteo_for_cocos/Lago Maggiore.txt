@@ -1,0 +1,7 @@
+notte:                0.9
+lago:                 0.9
+notturno:             0.9
+luna:                 0.9
+luna_piena:           0.9
+nero:                 0.9
+profilo:              0.9

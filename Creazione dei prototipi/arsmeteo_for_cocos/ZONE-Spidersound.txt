@@ -1,0 +1,12 @@
+uomoragno:            0.9
+fuga:                 0.9
+cornice:              0.9
+volo:                 0.9
+chitarra_elettrica:   0.9
+colore:               0.9
+segno:                0.9
+segni_animat:         0.6
+scrittura_animata:    0.6
+eroe:                 0.6
+fantasia:             0.6
+multimedialità:       0.6

@@ -1,0 +1,11 @@
+cielo:                0.9
+nuvola:               0.9
+cavallo:              0.9
+prateria:             0.9
+paesaggio:            0.9
+campo:                0.9
+tramonto:             0.9
+galoppo:              0.9
+libertà:              0.9
+spazio:               0.9
+photoshop:            0.9

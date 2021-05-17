@@ -1,0 +1,11 @@
+stelarc:              0.9
+intelligent:          0.9
+agent:                0.9
+embodied:             0.9
+embedded:             0.9
+generated:            0.9
+interaction:          0.9
+what_is_art:          0.9
+awareness:            0.9
+agency:               0.9
+medium:               0.9

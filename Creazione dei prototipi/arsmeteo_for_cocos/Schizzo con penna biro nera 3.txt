@@ -1,0 +1,13 @@
+grillo:               0.9
+uovo:                 0.9
+ovoidale:             0.9
+forma_ovoidale:       0.9
+ellisse|ellissi:      0.9
+fiore:                0.9
+pistillo:             0.9
+stame:                0.9
+petalo:               0.9
+ascia:                0.9
+nero:                 0.9
+disegno:              0.9
+schizzo:              0.9

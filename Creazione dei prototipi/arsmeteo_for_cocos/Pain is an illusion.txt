@@ -1,0 +1,7 @@
+darkroom:             0.9
+dolore:               0.9
+illusione:            0.9
+paura:                0.9
+bisongi_nascosti:     0.9
+confusione:           0.9
+incubo:               0.9

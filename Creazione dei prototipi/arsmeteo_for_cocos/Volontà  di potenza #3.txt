@@ -1,0 +1,3 @@
+eruzione:             0.9
+inconscio:            0.9
+livello:              0.9

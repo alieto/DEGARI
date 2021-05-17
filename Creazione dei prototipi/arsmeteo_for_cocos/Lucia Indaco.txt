@@ -1,0 +1,12 @@
+pop:                  0.9
+olio:                 0.9
+spazio:               0.9
+icona:                0.9
+indaco:               0.9
+ufo:                  0.9
+volto:                0.9
+stupore:              0.9
+sguardo:              0.9
+open:                 0.9
+osservare:            0.9
+rinascita:            0.9

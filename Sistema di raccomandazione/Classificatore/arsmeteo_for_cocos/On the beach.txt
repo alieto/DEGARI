@@ -1,0 +1,7 @@
+family:               0.9
+warm:                 0.9
+kids:                 0.9
+sea:                  0.9
+protezione:           0.9
+tenerezza:            0.9
+ombra:                0.9

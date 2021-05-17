@@ -1,0 +1,4 @@
+nudo:                 0.9
+albero:               0.9
+pietra:               0.9
+sasso:                0.9

@@ -1,0 +1,5 @@
+fiore:                0.9
+donna:                0.9
+campo:                0.9
+casa:                 0.9
+campagna:             0.9

@@ -1,0 +1,5 @@
+tosco:                0.9
+gatto:                0.9
+bottiglia:            0.9
+bicchiere:            0.9
+tavolino:             0.9

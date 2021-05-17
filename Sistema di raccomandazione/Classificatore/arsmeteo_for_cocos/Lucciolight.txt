@@ -1,0 +1,3 @@
+luce:                 0.9
+lucciola:             0.9
+fosforo:              0.9

@@ -1,0 +1,6 @@
+donna:                0.9
+rifotografare:        0.9
+modella:              0.9
+seduta:               0.9
+attesa:               0.9
+solitudine:           0.9

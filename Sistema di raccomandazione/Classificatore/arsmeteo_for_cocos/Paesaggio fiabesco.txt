@@ -1,0 +1,4 @@
+paesaggio:            0.9
+campanile:            0.9
+fiabesco:             0.9
+verde:                0.9

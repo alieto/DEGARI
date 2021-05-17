@@ -1,0 +1,10 @@
+-metallo+:            0.9
+-riciclato+:          0.9
+-rivivere+:           0.9
+-uccello+:            0.9
+-recupero+:           0.9
+-assemblaggio+:       0.9
+vanità:               0.9
+_riciclata:           0.9
+-di_metallo+:         0.9
+-animale_metallico+:  0.9

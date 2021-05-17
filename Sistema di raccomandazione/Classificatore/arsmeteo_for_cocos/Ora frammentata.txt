@@ -1,0 +1,8 @@
+-strappi+:            0.9
+-decollage+:          0.9
+-frammenti+:          0.9
+-frammentazione+:     0.9
+orologio:             0.9
+tempo:                0.9
+frammenti_di_tempo:   0.9
+tempo_frammentato:    0.9

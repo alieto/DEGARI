@@ -1,0 +1,5 @@
+antenato:             0.9
+allarme:              0.9
+india:                0.9
+avvinghiamento:       0.9
+acutezza:             0.9

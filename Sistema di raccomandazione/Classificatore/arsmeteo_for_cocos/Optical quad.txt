@@ -1,0 +1,5 @@
+optical:              0.9
+quadrifoglio:         0.9
+ipnotico:             0.9
+cerchio:              0.9
+concentrico:          0.9

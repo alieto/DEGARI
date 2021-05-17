@@ -1,0 +1,8 @@
+cielo:                0.9
+mongolfiera:          0.9
+sfera:                0.9
+ruggine:              0.9
+aspirazione:          0.9
+speranza:             0.9
+sogno:                0.9
+statico:              0.9

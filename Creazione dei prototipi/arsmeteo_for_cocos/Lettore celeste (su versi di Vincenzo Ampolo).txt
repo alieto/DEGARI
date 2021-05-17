@@ -1,0 +1,3 @@
+lettore:              0.9
+scala:                0.9
+verso:                0.9

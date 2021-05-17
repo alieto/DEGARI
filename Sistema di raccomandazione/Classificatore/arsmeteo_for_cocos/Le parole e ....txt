@@ -1,0 +1,3 @@
+parola:               0.9
+sesso:                0.9
+rosa:                 0.9

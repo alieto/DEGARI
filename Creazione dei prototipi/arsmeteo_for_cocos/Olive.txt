@@ -1,0 +1,3 @@
+oliva:                0.9
+ricchezza:            0.9
+varietà:              0.9

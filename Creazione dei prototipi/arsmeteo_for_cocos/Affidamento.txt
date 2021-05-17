@@ -1,0 +1,10 @@
+intesa:               0.9
+lampo:                0.9
+cerniera:             0.9
+sfida:                0.9
+carmen:               0.9
+affidamento:          0.9
+sguardo:              0.9
+incontro:             0.9
+coppia:               0.9
+manuale:              0.9

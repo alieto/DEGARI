@@ -1,0 +1,3 @@
+paesaggio:            0.9
+libro:                0.9
+finestra:             0.9

@@ -1,0 +1,4 @@
+cultura:              0.9
+storia:               0.9
+paese_del_centro:     0.9
+ideogramma:           0.9

@@ -1,0 +1,6 @@
+acrilico:             0.9
+tela:                 0.9
+tecnica:              0.9
+mista:                0.9
+dimensione:           0.9
+cm.70x80:             0.9

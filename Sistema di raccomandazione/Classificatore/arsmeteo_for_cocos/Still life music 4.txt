@@ -1,0 +1,8 @@
+music:                0.9
+news:                 0.9
+emotion:              0.9
+classic:              0.9
+history:              0.9
+realtime:             0.9
+time:                 0.9
+timeless:             0.9

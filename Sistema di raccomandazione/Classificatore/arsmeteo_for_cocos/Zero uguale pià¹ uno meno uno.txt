@@ -1,0 +1,5 @@
+unità:                0.9
+madre:                0.9
+archetipo:            0.9
+numero:               0.9
+infinito:             0.9

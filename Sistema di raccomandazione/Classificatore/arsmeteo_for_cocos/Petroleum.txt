@@ -1,0 +1,9 @@
+petrolio:             0.9
+petroleum:            0.9
+sottrazione:          0.9
+ricchezza_e_povertà:  0.9
+furto:                0.9
+senza_parole:         0.9
+composizione:         0.9
+intarsio:             0.9
+ligneo:               0.9

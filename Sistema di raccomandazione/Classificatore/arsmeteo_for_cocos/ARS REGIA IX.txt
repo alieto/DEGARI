@@ -1,0 +1,16 @@
+spietato:             0.9
+tempo:                0.9
+lustro:               0.9
+avvenire:             0.9
+miseria:              0.9
+risparmiare:          0.9
+condizione:           0.9
+umanità:              0.9
+gioia:                0.9
+dimenticare:          0.9
+azzurro:              0.9
+cielo:                0.9
+trasparenza:          0.9
+sera:                 0.9
+occhio:               0.9
+danza:                0.9

@@ -1,0 +1,6 @@
+secolo:               0.9
+continuare:           0.9
+nuovo:                0.9
+tela:                 0.9
+iniziare:             0.9
+olio:                 0.9

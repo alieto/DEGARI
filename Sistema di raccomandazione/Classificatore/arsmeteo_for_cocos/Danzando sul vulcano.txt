@@ -1,0 +1,3 @@
+farfalla:             0.9
+magma:                0.9
+linea:                0.9

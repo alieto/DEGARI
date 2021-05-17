@@ -1,0 +1,5 @@
+visione:              0.9
+vista_offuscata:      0.9
+colore:               0.9
+luce:                 0.9
+lacrima:              0.9

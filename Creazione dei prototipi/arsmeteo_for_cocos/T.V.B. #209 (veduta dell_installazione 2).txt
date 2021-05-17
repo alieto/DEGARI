@@ -1,0 +1,5 @@
+tvb:                  0.9
+installazione:        0.9
+barbie:               0.9
+babele:               0.9
+italia:               0.9

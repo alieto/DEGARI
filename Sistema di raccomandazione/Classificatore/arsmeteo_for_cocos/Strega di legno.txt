@@ -1,0 +1,2 @@
+strega:               0.9
+legno:                0.9

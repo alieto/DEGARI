@@ -1,0 +1,5 @@
+viaggio:              0.9
+lettura:              0.9
+libro:                0.9
+perso_tra_le_pagine:  0.9
+trascinato_via:       0.9

@@ -1,0 +1,5 @@
+legno:                0.9
+composizione:         0.9
+linea:                0.9
+spirale:              0.9
+design:               0.9

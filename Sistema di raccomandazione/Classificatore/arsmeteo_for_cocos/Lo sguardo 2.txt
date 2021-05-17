@@ -1,0 +1,9 @@
+sguardo:              0.9
+strappo:              0.6
+decollage:            0.6
+frammento:            0.6
+frammentazione:       0.6
+scritto:              0.6
+lettera:              0.6
+occhio:               0.6
+donna:                0.6

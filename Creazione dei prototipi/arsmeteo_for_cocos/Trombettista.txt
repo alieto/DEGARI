@@ -1,0 +1,4 @@
+jazz:                 0.9
+swing:                0.9
+tromba:               0.9
+musica:               0.9

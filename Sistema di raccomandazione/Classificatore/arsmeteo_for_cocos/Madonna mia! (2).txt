@@ -1,0 +1,5 @@
+madonna:              0.9
+maria:                0.9
+bambinello:           0.9
+corona:               0.9
+statua:               0.9

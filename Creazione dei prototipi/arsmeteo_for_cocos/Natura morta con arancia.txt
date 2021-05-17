@@ -1,0 +1,3 @@
+mela:                 0.9
+arancia:              0.9
+caffettiera:          0.9

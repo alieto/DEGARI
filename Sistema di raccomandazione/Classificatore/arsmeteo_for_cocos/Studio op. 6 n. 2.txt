@@ -1,0 +1,4 @@
+pentagono:            0.9
+timbro:               0.9
+studio:               0.9
+noise:                0.9

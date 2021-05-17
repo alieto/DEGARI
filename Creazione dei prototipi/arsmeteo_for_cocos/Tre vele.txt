@@ -1,0 +1,8 @@
+paesaggio:            0.9
+vela:                 0.9
+casa:                 0.9
+villaggio:            0.9
+linea:                0.9
+intersezione:         0.9
+geometria:            0.9
+tetto:                0.9

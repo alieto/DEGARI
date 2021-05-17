@@ -1,0 +1,5 @@
+luna:                 0.9
+biblioteca:           0.9
+scala:                0.9
+libro:                0.9
+dormiente:            0.9

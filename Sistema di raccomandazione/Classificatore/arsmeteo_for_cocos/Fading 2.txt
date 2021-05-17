@@ -1,0 +1,2 @@
+dissolvenza:          0.9
+bilico:               0.9

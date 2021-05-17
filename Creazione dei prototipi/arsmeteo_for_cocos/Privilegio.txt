@@ -1,0 +1,4 @@
+scrittura:            0.9
+libertà:              0.9
+architettura:         0.9
+stampa:               0.9

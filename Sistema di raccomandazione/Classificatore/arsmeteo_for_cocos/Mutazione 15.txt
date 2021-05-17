@@ -1,0 +1,3 @@
+fibra:                0.9
+onda:                 0.9
+corteccia:            0.9

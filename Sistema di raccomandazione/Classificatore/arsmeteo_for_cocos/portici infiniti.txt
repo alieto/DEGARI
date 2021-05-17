@@ -1,0 +1,5 @@
+portico:              0.9
+infinito:             0.9
+successione:          0.9
+bologna:              0.9
+tunnel:               0.9

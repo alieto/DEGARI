@@ -1,0 +1,5 @@
+notte:                0.9
+eclisse|eclissi:      0.9
+sandemonio:           0.9
+morificazioni:        0.9
+spillone:             0.9

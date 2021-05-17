@@ -1,0 +1,8 @@
+una_sera_a_stansted:  0.9
+rivisitazione:        0.9
+susan_sontag:         0.9
+dolore_degli_altri:   0.9
+sparizione:           0.9
+psicosi_collettiva:   0.9
+albergo:              0.9
+tv:                   0.9

@@ -1,0 +1,5 @@
+scimmiottamento:      0.9
+anglicismo:           0.9
+olimpiade:            0.9
+muri_di_torino:       0.9
+fermento:             0.9

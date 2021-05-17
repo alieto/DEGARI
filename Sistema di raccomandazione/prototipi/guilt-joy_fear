@@ -1,0 +1,29 @@
+#Title composizione
+Title : joy-fear
+
+#Concetto Principale
+Head Concept Name : joy
+
+#Concetto Modificatore
+Modifier Concept Name : fear
+
+head, -holocaust
+
+
+
+T(modifier), torture, 0.98
+T(modifier), terrorist, 0.97
+T(modifier), horrific, 0.97
+T(modifier), kill, 0.96
+T(modifier), annihilate, 0.95
+T(modifier), terror, 0.95
+
+T(head), happiness, 0.98
+T(head), bliss, 0.97
+T(head), celebrating, 0.97
+T(head), jubilant, 0.97
+T(head), ecstatic, 0.95
+T(head), elation, 0.94
+
+
+Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 7.652116932516042e-07

@@ -1,0 +1,7 @@
+casa:                 0.9
+ligure:               0.9
+finestra:             0.9
+aggregato:            0.9
+ripetizione:          0.9
+frammentazione:       0.9
+destrutturazione:     0.9

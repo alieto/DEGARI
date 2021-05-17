@@ -1,0 +1,3 @@
+scostamento:          0.9
+puttino:              0.9
+geometria:            0.9

@@ -1,0 +1,14 @@
+donna:                0.9
+graphicus:            0.9
+sedere:               0.9
+radice:               0.9
+trasformazione:       0.9
+lettera:              0.9
+scrittura:            0.9
+copertina:            0.9
+rivista:              0.9
+grafica:              0.9
+stoffa:               0.9
+svolazzare:           0.9
+velo:                 0.9
+tulle:                0.9

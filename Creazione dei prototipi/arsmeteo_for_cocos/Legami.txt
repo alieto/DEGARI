@@ -1,0 +1,2 @@
+legame:               0.9
+casa:                 0.9

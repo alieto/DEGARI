@@ -1,0 +1,10 @@
+peperoncino:          0.9
+rosso:                0.9
+piccante:             0.9
+assolato:             0.9
+silente:              0.9
+calce:                0.9
+bianca:               0.9
+povero:               0.9
+sguardo:              0.9
+grata:                0.9

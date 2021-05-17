@@ -1,0 +1,29 @@
+#Title composizione
+Title : fear-surprise
+
+#Concetto Principale
+Head Concept Name : fear
+
+#Concetto Modificatore
+Modifier Concept Name : surprise
+
+
+
+modifier, -anticipazione
+
+T(modifier), sorpresa, 0.93
+T(modifier), sbalordire, 0.91
+T(modifier), esplodere, 0.91
+T(modifier), imboscata, 0.88
+T(modifier), eruzione, 0.88
+T(modifier), impaurire, 0.88
+
+T(head), tortura, 0.98
+T(head), terrorista, 0.97
+T(head), orribile, 0.97
+T(head), uccidere, 0.96
+T(head), annientare, 0.95
+T(head), terrore, 0.95
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '0', '1', 5.473260166929408e-05

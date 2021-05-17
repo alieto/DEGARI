@@ -1,0 +1,4 @@
+marameo:              0.9
+jiokoplastiko:        0.9
+rhythmic_white_wind:  0.9
+streamfest:           0.9

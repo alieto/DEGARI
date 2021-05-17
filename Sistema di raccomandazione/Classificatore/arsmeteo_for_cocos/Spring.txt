@@ -1,0 +1,3 @@
+freschezza:           0.9
+delicato:             0.9
+profondo:             0.9

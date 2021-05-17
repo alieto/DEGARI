@@ -1,0 +1,6 @@
+cielo:                0.9
+nuvola:               0.9
+barocco:              0.9
+voluta:               0.9
+balaustrini:          0.9
+tetto:                0.9

@@ -1,0 +1,4 @@
+marea:                0.9
+atmosfera:            0.9
+inesorabile:          0.9
+sfumato:              0.9

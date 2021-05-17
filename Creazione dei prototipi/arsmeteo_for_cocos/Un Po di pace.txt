@@ -1,0 +1,7 @@
+mole:                 0.9
+torino:               0.9
+fiume:                0.9
+paesaggio:            0.9
+fluviale:             0.9
+fiume_po:             0.9
+canottiere:           0.9

@@ -1,0 +1,3 @@
+occhio:               0.9
+surreale:             0.9
+bicchiere:            0.9

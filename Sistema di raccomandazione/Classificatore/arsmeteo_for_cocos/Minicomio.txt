@@ -1,0 +1,7 @@
+mad:                  0.9
+minicomio:            0.9
+manicomio:            0.9
+pazzo:                0.9
+foliia:               0.9
+morsa:                0.9
+stretta_di_testa:     0.9

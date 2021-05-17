@@ -1,0 +1,12 @@
+pera:                 0.9
+violino:              0.9
+strumento:            0.9
+musica:               0.9
+archetto:             0.9
+corda:                0.9
+pera_violino:         0.9
+foglia:               0.9
+metamorfosi:          0.9
+violino_pera:         0.9
+forme_assonanti:      0.9
+assonanza:            0.9

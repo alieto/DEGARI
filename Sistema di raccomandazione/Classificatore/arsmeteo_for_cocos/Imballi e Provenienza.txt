@@ -1,0 +1,5 @@
+imballo:              0.9
+cassetta:             0.9
+geografia_catena_alimentare:0.9
+trash_art_urbana:     0.9
+rifiuto:              0.9

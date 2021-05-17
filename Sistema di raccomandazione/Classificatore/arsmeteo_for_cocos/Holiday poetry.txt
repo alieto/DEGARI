@@ -1,0 +1,3 @@
+inchiostro:           0.9
+pvc:                  0.9
+biro:                 0.9

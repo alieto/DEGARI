@@ -1,0 +1,7 @@
+bambola:              0.9
+itterico:             0.9
+limone:               0.9
+cappello:             0.9
+allentare:            0.9
+cuore:                0.9
+surfanta:             0.9

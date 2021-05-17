@@ -1,0 +1,6 @@
+muro:                 0.9
+infinito:             0.9
+nuotare:              0.9
+sorgente:             0.9
+nada:                 0.9
+nemo:                 0.9

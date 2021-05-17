@@ -1,0 +1,3 @@
+il_logico:            0.9
+non_ricorsivo:        0.9
+vegetale:             0.9

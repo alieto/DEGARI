@@ -1,0 +1,16 @@
+no_press_release:     0.9
+philip_dick:          0.9
+takes_control:        0.9
+your_mind:            0.9
+stand_still:          0.9
+time:                 0.9
+ordinary_things:      0.9
+become_mysterious:    0.9
+fantasy_creatures:    0.9
+overturn_the_order:   0.9
+your_soul:            0.9
+young_girl_peeping:   0.9
+through_a_hole:       0.9
+going_through:        0.9
+mickey_mouse:         0.9
+ups_and_downs:        0.9

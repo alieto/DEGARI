@@ -1,0 +1,3 @@
+assonanza:            0.9
+ironia:               0.9
+marchio:              0.9

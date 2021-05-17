@@ -1,0 +1,11 @@
+punta:                0.9
+slancio:              0.9
+colore:               0.9
+costruzione:          0.9
+rotto:                0.9
+vetro:                0.9
+palazzo:              0.9
+vecchio:              0.9
+archeologia:          0.9
+industriale:          0.9
+acrilico:             0.9

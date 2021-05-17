@@ -1,0 +1,6 @@
+gioco:                0.9
+mulini_a_vento:       0.9
+girandola:            0.9
+bimba:                0.9
+tulipano:             0.9
+paesi_bassi:          0.9

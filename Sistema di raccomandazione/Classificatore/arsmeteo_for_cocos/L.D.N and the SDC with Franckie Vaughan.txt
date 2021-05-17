@@ -1,0 +1,9 @@
+pregno:               0.9
+stivale:              0.9
+inarcare:             0.9
+all_indietro:         0.9
+braccia_cadenti:      0.9
+attesa:               0.9
+grigio:               0.9
+franckie:             0.9
+vaughan:              0.9

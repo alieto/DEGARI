@@ -1,0 +1,2 @@
+figura:               0.9
+arte|arto:            0.9

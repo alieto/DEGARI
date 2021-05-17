@@ -1,0 +1,12 @@
+world:                0.9
+oppressione:          0.9
+manipolazione:        0.9
+rappresaglia:         0.9
+paura:                0.9
+angoscia:             0.9
+insicurezza:          0.9
+realtà:               0.9
+vergona:              0.9
+uomo:                 0.9
+umanità:              0.9
+gino:                 0.9

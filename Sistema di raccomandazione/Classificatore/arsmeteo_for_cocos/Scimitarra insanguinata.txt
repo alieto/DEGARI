@@ -1,0 +1,2 @@
+attacco:              0.9
+offesa:               0.9

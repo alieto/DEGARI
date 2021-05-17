@@ -1,0 +1,3 @@
+scudiero:             0.9
+cavallo:              0.9
+ragazzo:              0.9

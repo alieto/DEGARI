@@ -1,0 +1,15 @@
+istanza:              0.9
+improbabile:          0.9
+creazione:            0.9
+costruzione:          0.9
+freddo:               0.9
+metallico:            0.9
+cervellotico:         0.9
+scarafaggio_capovolto:0.9
+ovale_metafisico:     0.9
+uovo_uomo:            0.9
+anima_animale:        0.9
+mistero:              0.9
+virtuale:             0.9
+digitale:             0.9
+implementazione:      0.9

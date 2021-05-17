@@ -1,0 +1,7 @@
+belvedere:            0.9
+abruzzo:              0.9
+dolcezza:             0.9
+sguardo:              0.9
+serenità:             0.9
+donna:                0.9
+vita:                 0.9

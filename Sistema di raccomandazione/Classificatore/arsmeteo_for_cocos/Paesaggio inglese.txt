@@ -1,0 +1,4 @@
+verde:                0.9
+bosco:                0.9
+frescura:             0.9
+fiume:                0.9

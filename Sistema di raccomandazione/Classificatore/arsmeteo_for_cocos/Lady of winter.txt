@@ -1,0 +1,4 @@
+donna_farfalla:       0.9
+linea:                0.9
+sincronicità:         0.9
+ghiaccio:             0.9

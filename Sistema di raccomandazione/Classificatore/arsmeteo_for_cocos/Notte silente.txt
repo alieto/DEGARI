@@ -1,0 +1,7 @@
+barbona|barbone:      0.9
+notte:                0.9
+cane:                 0.9
+gatto:                0.9
+fiasco:               0.9
+violino:              0.9
+nube:                 0.9

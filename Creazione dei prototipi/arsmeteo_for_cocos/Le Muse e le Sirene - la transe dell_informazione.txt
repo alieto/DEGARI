@@ -1,0 +1,3 @@
+musa:                 0.9
+sirena:               0.9
+informazione:         0.9

@@ -1,0 +1,6 @@
+riga:                 0.9
+colore:               0.9
+giallo:               0.9
+arancio:              0.9
+striscia:             0.9
+pixel:                0.9

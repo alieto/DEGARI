@@ -1,0 +1,4 @@
+attrezzo:             0.9
+sicurezza:            0.9
+aeroeporto:           0.9
+vetrina:              0.9

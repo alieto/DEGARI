@@ -1,0 +1,11 @@
+sapere:               0.9
+interiore:            0.9
+pianto:               0.9
+essere|stare:         0.9
+brezza:               0.9
+foglia:               0.9
+morte:                0.9
+lentezza:             0.9
+bagaglio:             0.9
+viaggio:              0.9
+luogo:                0.9

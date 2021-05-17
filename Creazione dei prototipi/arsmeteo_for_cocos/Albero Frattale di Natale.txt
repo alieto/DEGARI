@@ -1,0 +1,5 @@
+albero:               0.9
+luce:                 0.9
+pino_frattale:        0.9
+augurio:              0.9
+buon_natale:          0.9

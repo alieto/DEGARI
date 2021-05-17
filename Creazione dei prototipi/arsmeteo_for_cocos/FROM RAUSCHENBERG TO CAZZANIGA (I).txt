@@ -1,0 +1,7 @@
+rivestimento:         0.9
+fustagno:             0.9
+candeggina:           0.9
+robert_rauschenberg:  0.9
+tessuto:              0.9
+decolorazione:        0.9
+video_ripresa:        0.9

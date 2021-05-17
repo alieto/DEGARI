@@ -1,0 +1,7 @@
+egitto:               0.9
+stadio:               0.9
+piramide:             0.9
+sfinge:               0.9
+faraone:              0.9
+gradinata:            0.9
+commistione:          0.9

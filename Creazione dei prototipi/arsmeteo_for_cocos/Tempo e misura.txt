@@ -1,0 +1,6 @@
+brescia:              0.9
+orologio:             0.9
+meridiana:            0.9
+misura:               0.9
+zodiaco:              0.9
+angelo:               0.9

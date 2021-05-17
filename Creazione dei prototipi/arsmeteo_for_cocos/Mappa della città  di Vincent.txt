@@ -1,0 +1,5 @@
+mappa:                0.9
+azzurro:              0.9
+astrarre:             0.9
+svolta:               0.9
+concettuale:          0.9

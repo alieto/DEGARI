@@ -1,0 +1,7 @@
+barna:                0.9
+biblioteca:           0.9
+tranquillità:         0.9
+stile:                0.9
+lusso:                0.9
+civiltà:              0.9
+cultura:              0.9

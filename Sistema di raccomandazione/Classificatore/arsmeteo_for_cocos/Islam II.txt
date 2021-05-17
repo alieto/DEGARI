@@ -1,0 +1,6 @@
+vento:                0.9
+gioia:                0.9
+sorriso:              0.9
+sguardo:              0.9
+velo:                 0.9
+innocenza:            0.9

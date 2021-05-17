@@ -1,0 +1,5 @@
+violino:              0.9
+violinista:           0.9
+calore:               0.9
+salento:              0.9
+musica:               0.9

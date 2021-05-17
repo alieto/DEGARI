@@ -1,0 +1,7 @@
+bianco_e_nero:        0.9
+africo:               0.9
+etnico:               0.9
+fotografia:           0.9
+nascondere:           0.9
+lavoro:               0.9
+angolo:               0.9

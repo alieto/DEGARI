@@ -1,0 +1,7 @@
+rifiuto:              0.9
+sporco:               0.9
+scorie_umane:         0.9
+plastica:             0.9
+ombrellone:           0.9
+spiaggia_sporca:      0.9
+secchiello_rifiutato: 0.9

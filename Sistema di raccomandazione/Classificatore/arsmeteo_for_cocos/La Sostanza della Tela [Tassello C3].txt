@@ -1,0 +1,10 @@
+opera_collettiva:     0.9
+contaminazione:       0.9
+aver_visto_arsmeteo:  0.9
+sfera:                0.9
+occhio:               0.9
+ragno:                0.9
+tela:                 0.9
+arsmeteo:             0.9
+accidente:            0.9
+sostanza:             0.9

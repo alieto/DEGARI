@@ -1,0 +1,6 @@
+invaders:             0.9
+nyc:                  0.9
+11_settembre:         0.9
+new_york:             0.9
+ground_zero:          0.9
+invasione:            0.9

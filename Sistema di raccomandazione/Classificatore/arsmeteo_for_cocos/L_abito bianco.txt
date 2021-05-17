@@ -1,0 +1,5 @@
+abito:                0.9
+donna:                0.9
+pesce:                0.9
+bianco:               0.9
+oro:                  0.9

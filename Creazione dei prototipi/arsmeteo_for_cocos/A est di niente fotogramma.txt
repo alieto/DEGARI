@@ -1,0 +1,4 @@
+video:                0.9
+est:                  0.9
+niente:               0.9
+spazio:               0.9

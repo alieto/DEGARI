@@ -1,0 +1,9 @@
+femminile:            0.9
+mistero:              0.9
+figura:               0.9
+linea:                0.9
+campo_di_forza:       0.9
+emanazione:           0.9
+bocca:                0.9
+labbro:               0.9
+capello:              0.9

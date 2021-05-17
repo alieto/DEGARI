@@ -1,0 +1,11 @@
+mare:                 0.9
+bambino:              0.9
+semplicità:           0.9
+libero:               0.9
+aquila:               0.9
+profondo:             0.9
+sangue:               0.9
+popolo:               0.9
+risorgere:            0.9
+ricerca:              0.9
+spazio:               0.9

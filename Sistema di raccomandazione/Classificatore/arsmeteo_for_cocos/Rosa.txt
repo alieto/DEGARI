@@ -1,0 +1,4 @@
+rosa:                 0.9
+rosa_rosa:            0.9
+il_nome_della_rosa:   0.9
+iperrealismo:         0.9

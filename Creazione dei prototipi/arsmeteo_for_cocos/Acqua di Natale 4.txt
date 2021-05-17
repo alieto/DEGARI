@@ -1,0 +1,7 @@
+-fragilità:           0.9
+-vetro+:              0.9
+-trasparente+:        0.9
+-attenzione+:         0.9
+-conservazione+:      0.9
+ultima_cena:          0.9
+-sottovetro+:         0.9

@@ -1,0 +1,7 @@
+tecnica:              0.9
+mista:                0.9
+linoleum:             0.9
+cm:                   0.9
+50x60:                0.9
+anno:                 0.9
+esecuzione:           0.9

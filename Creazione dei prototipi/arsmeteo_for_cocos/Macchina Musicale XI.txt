@@ -1,0 +1,5 @@
+assemblaggio:         0.9
+macina:               0.9
+corda:                0.9
+lancinante:           0.9
+suono:                0.9

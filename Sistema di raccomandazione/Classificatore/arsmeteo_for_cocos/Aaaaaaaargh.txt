@@ -1,0 +1,5 @@
+mixed:                0.9
+media:                0.9
+pvc:                  0.9
+video:                0.9
+tecnopittura:         0.9

@@ -1,0 +1,11 @@
+studente:             0.9
+lapidazione:          0.9
+negazione:            0.9
+assembramento:        0.9
+attesa:               0.9
+manifestazione:       0.9
+polvere:              0.9
+viaggio:              0.9
+kandahar:             0.9
+presente:             0.9
+netville:             0.9

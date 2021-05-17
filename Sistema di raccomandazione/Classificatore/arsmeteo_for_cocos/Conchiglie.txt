@@ -1,0 +1,5 @@
+conchiglia:           0.9
+sabbia:               0.9
+spaggia:              0.9
+mare:                 0.9
+gocce_di_colore:      0.9

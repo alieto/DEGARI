@@ -1,0 +1,4 @@
+amore:                0.9
+felicità:             0.9
+solitudine:           0.9
+dissonanza:           0.9

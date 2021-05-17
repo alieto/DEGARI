@@ -1,0 +1,3 @@
+parabolé:             0.9
+arco:                 0.9
+costruzione:          0.9

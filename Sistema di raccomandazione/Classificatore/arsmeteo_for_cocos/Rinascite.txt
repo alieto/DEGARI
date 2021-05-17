@@ -1,0 +1,5 @@
+rinascita:            0.9
+donna:                0.9
+velo:                 0.9
+trasparenza:          0.9
+blu:                  0.9

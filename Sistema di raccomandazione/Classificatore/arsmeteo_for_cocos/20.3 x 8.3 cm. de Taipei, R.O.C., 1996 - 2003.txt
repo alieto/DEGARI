@@ -1,0 +1,11 @@
+inquinamento:         0.9
+casino:               0.9
+folla:                0.9
+auto:                 0.9
+moto:                 0.9
+segno:                0.9
+polveri_sottili:      0.9
+insegna:              0.9
+attività:             0.9
+metropoli:            0.9
+incrocio:             0.9

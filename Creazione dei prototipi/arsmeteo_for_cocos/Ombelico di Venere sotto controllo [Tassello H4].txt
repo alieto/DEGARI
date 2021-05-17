@@ -1,0 +1,6 @@
+decostruzione:        0.9
+ricostruzione:        0.9
+digitale:             0.9
+virtuale:             0.9
+liquido:              0.9
+netville:             0.9

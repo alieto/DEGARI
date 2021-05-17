@@ -1,0 +1,14 @@
+città:                0.9
+vuoto:                0.6
+costruzione:          0.6
+composizione:         0.6
+modulo:               0.6
+metropoli_arcaica:    0.6
+finestre_vuote:       0.6
+intarsiare:           0.6
+pietra:               0.6
+villaggio:            0.6
+sassi_legnosi:        0.6
+abbandono:            0.6
+_fantasma:            0.6
+pianta_della_città:   0.6

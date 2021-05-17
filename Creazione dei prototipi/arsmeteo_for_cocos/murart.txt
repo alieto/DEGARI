@@ -1,0 +1,7 @@
+graffito:             0.9
+murales:              0.9
+matrioska:            0.9
+muso:                 0.9
+acrilico:             0.9
+impermanenti:         0.9
+segno:                0.9

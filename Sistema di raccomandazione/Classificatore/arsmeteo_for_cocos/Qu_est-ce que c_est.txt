@@ -1,0 +1,5 @@
+bambino:              0.9
+curiosità:            0.9
+volto:                0.9
+ritratto:             0.9
+spontaneità:          0.9

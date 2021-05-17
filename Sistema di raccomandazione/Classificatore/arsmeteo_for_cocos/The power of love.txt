@@ -1,0 +1,5 @@
+dante:                0.9
+inferno:              0.9
+canto:                0.9
+100x70:               0.9
+cm:                   0.9

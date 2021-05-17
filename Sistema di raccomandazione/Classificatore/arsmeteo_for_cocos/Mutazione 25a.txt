@@ -1,0 +1,2 @@
+brulichio:            0.9
+animale-vegetale:     0.9

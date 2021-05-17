@@ -1,0 +1,5 @@
+altri_tempi:          0.9
+u2:                   0.9
+altre_sonorità:       0.9
+puntina:              0.9
+fragilità:            0.9

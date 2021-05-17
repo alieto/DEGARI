@@ -1,0 +1,1 @@
+statua_rio:           0.9

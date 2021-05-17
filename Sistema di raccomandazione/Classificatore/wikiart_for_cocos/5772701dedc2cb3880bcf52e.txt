@@ -1,0 +1,2 @@
+anger:                0.9
+disagreeableness:     0.9

@@ -1,0 +1,6 @@
+pittore:              0.9
+modella:              0.9
+quadro:               0.9
+quadro_nel_quadro:    0.9
+studio:               0.9
+posa:                 0.9

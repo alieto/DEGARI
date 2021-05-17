@@ -1,0 +1,3 @@
+pennellata:           0.9
+striscia:             0.9
+diafanie:             0.9

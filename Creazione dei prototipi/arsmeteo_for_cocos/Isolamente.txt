@@ -1,0 +1,6 @@
+attimo:               0.9
+epifania:             0.9
+palla:                0.9
+ragazzo:              0.9
+sfondo:               0.9
+periferia:            0.9

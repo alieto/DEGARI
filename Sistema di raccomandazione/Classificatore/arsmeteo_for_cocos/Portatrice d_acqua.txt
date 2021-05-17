@@ -1,0 +1,6 @@
+portatrice:           0.9
+donna:                0.9
+yemen:                0.9
+vaso_in_testa:        0.9
+portatrice_d_acqua:   0.9
+tradizione:           0.9

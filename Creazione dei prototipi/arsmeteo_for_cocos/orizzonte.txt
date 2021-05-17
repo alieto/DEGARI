@@ -1,0 +1,6 @@
+pesca:                0.9
+solitudine:           0.9
+acqua:                0.9
+contemplazione:       0.9
+flusso:               0.9
+riflusso:             0.9

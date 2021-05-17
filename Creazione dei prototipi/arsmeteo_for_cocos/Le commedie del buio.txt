@@ -1,0 +1,9 @@
+commedia:             0.9
+buio:                 0.9
+esoterismo:           0.9
+esoterico:            0.9
+mistico:              0.9
+metafisico:           0.9
+trascendente:         0.9
+ascesi:               0.9
+ascetismo:            0.9

@@ -1,0 +1,6 @@
+guernica:             0.9
+picasso:              0.9
+tragedia:             0.9
+legno:                0.9
+guarnizione:          0.9
+cubismo:              0.9

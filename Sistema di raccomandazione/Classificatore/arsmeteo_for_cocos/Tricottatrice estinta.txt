@@ -1,0 +1,4 @@
+tricottare:           0.9
+uncinetto:            0.9
+pazienza:             0.9
+mia_zia:              0.9

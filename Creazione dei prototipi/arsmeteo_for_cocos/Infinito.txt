@@ -1,0 +1,7 @@
+infinito:             0.9
+ricorsione:           0.9
+profondità:           0.9
+ripetizione:          0.9
+iterazione:           0.9
+nulla:                0.9
+infinito_nulla:       0.9

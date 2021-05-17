@@ -1,0 +1,2 @@
+pelle:                0.9
+superficie:           0.9

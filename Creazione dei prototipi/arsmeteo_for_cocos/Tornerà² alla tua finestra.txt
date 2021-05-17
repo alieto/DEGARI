@@ -1,0 +1,6 @@
+rosa:                 0.9
+ritorno:              0.6
+finestra:             0.6
+amore:                0.6
+tempo:                0.6
+ricordo:              0.6

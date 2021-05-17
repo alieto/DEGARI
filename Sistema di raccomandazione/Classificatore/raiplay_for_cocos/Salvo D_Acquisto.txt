@@ -1,0 +1,17 @@
+eroica:               0.9
+storia:               0.9
+sacrificio:           0.9
+salvo:                0.9
+acquisto:             0.9
+giovane:              0.9
+vicebrigadiere:       0.9
+carabiniere:          0.9
+ventenne:             0.9
+tremenda:             0.9
+estate:               0.9
+vita:                 0.9
+offrire:              0.9
+cambio:               0.9
+salvezza:             0.9
+gruppo:               0.9
+partigiano:           0.9

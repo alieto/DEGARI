@@ -1,0 +1,8 @@
+ottignies:            0.9
+estella:              0.9
+ricordo:              0.9
+emozione:             0.9
+genealogia:           0.9
+emigrazione:          0.9
+adozione:             0.9
+amore:                0.9

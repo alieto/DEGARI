@@ -1,0 +1,8 @@
+mito:                 0.9
+collage:              0.9
+storia:               0.9
+memoria:              0.9
+graffito:             0.9
+decade:               0.9
+anni_cinquanta:       0.9
+decennio:             0.9

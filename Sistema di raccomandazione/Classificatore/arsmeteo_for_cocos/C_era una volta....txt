@@ -1,0 +1,4 @@
+mamma:                0.9
+bambino:              0.9
+trenino:              0.9
+barchetta_di_carta:   0.9

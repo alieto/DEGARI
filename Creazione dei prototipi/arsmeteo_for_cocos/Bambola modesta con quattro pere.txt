@@ -1,0 +1,5 @@
+bambola:              0.9
+surfanta:             0.9
+modesta:              0.9
+quattro_pere:         0.9
+dolce:                0.9

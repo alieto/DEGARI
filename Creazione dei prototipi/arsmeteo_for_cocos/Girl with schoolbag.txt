@@ -1,0 +1,7 @@
+young:                0.9
+school:               0.9
+sad:                  0.9
+memories:             0.9
+scolaro:              0.9
+ragazza:              0.9
+cartella:             0.9

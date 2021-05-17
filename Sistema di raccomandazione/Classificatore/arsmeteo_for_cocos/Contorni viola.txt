@@ -1,0 +1,2 @@
+immagine:             0.9
+ricontestualizzare:   0.9

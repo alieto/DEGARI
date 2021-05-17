@@ -1,0 +1,2 @@
+instabilità:          0.9
+contrapposto:         0.9

@@ -1,0 +1,5 @@
+vetrina:              0.9
+libro:                0.9
+musica:               0.9
+bellezza:             0.9
+irruenza:             0.9

@@ -1,0 +1,4 @@
+marmo:                0.9
+materiale:            0.9
+illusione:            0.9
+ottica:               0.9

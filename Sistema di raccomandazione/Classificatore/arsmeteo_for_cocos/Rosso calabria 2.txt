@@ -1,0 +1,7 @@
+rosso:                0.9
+materia_prima:        0.9
+muro:                 0.9
+calabria:             0.9
+sfasciume_geologico:  0.9
+essenziale:           0.9
+creta:                0.9

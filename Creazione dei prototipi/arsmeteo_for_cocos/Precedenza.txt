@@ -1,0 +1,4 @@
+parco:                0.9
+verde:                0.9
+viottolo:             0.9
+deviazione:           0.9

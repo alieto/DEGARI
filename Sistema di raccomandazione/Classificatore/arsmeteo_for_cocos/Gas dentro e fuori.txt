@@ -1,0 +1,6 @@
+energia:              0.9
+pericolo:             0.9
+bisogno:              0.9
+dipendenza:           0.9
+danno:                0.9
+beneficio:            0.9

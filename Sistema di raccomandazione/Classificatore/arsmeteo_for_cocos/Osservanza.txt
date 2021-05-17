@@ -1,0 +1,6 @@
+osservanza:           0.9
+occhio:               0.9
+osservare:            0.9
+occhiale:             0.9
+il_grande_occhio:     0.9
+mi_sento_osservato:   0.9

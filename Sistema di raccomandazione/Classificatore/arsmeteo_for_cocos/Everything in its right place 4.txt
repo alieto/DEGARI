@@ -1,0 +1,8 @@
+radiohead:            0.9
+bianco_e_nero:        0.9
+omino:                0.9
+cappello:             0.9
+inquietante:          0.9
+albero:               0.9
+moltiplicazione:      0.9
+fine:                 0.9

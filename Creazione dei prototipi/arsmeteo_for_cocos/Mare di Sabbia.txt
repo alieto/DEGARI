@@ -1,0 +1,14 @@
+vela:                 0.9
+barca:                0.9
+imbarcazione:         0.9
+mare:                 0.9
+sabia:                0.9
+deserto:              0.9
+mare_di_sabbia:       0.9
+duna:                 0.9
+navigare:             0.9
+simbologia:           0.9
+rosso:                0.9
+verde:                0.9
+bianco:               0.9
+bandiera:             0.9

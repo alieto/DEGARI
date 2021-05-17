@@ -1,0 +1,6 @@
+falce_di_luna:        0.9
+terra:                0.9
+stella:               0.9
+notte:                0.9
+cielo:                0.9
+fabbricastelle:       0.9

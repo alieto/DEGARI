@@ -1,0 +1,8 @@
+surfanta:             0.9
+surreale:             0.9
+uccelli_impietosi:    0.9
+naso_a_becco:         0.9
+cappuccetto_rosso:    0.9
+pericolo:             0.9
+telephone:            0.9
+cabina_telefonica:    0.9

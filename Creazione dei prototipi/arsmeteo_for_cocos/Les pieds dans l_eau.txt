@@ -1,0 +1,5 @@
+acqua:                0.9
+molo:                 0.9
+tempo:                0.9
+sciabordio:           0.9
+contemplazione:       0.9

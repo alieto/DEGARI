@@ -1,0 +1,5 @@
+imerese:              0.9
+monte_san_calogero:   0.9
+cupola:               0.9
+maiolicato:           0.9
+coppo:                0.9

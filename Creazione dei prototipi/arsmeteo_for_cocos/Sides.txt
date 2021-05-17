@@ -1,0 +1,6 @@
+casa:                 0.9
+trasloco:             0.9
+territorio:           0.9
+appartenenza:         0.9
+separazione:          0.9
+distanza:             0.9

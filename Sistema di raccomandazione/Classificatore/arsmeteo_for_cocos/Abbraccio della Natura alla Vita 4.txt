@@ -1,0 +1,16 @@
+uomo:                 0.9
+donna:                0.9
+fiamma:               0.9
+radice:               0.9
+interscambio:         0.9
+ramo:                 0.9
+abbraccio:            0.9
+amorevole:            0.9
+amore:                0.9
+sensualità:           0.9
+protezione:           0.9
+sensuale:             0.9
+rosso:                0.9
+fuoco:                0.9
+blu:                  0.9
+notte:                0.9

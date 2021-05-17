@@ -1,0 +1,3 @@
+puglia:               0.9
+mattoncino:           0.9
+seppia:               0.9

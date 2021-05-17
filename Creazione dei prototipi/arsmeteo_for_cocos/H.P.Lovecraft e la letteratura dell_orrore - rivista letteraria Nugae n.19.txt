@@ -1,0 +1,8 @@
+periodico:            0.9
+lovecraft:            0.9
+horror:               0.9
+letteratura:          0.9
+magazine:             0.9
+trailer:              0.9
+media:                0.9
+nugae:                0.9

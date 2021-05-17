@@ -1,0 +1,4 @@
+raffinata_ricerca:    0.9
+solitario:            0.9
+geniale:              0.9
+preciso:              0.9

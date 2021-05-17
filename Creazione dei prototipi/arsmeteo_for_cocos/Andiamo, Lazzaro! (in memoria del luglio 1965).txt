@@ -1,0 +1,5 @@
+lazzaro:              0.9
+redivivo:             0.9
+deambulare:           0.9
+surreale:             0.9
+zombie:               0.9

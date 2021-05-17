@@ -1,0 +1,8 @@
+caffè:                0.9
+bundi:                0.9
+ginseng:              0.9
+servizio:             0.9
+cortesia:             0.9
+bar:                  0.9
+ristoro:              0.9
+energia:              0.9

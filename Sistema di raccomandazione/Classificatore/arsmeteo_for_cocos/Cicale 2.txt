@@ -1,0 +1,7 @@
+performance:          0.9
+mostra:               0.9
+rude:                 0.9
+festival_delle_colline:0.9
+moransengo:           0.9
+castello:             0.9
+domenica:             0.9

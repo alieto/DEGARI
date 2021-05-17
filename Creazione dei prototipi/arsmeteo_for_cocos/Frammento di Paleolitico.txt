@@ -1,0 +1,4 @@
+paleolitico:          0.9
+dimetrodonte:         0.9
+linea:                0.9
+sincronicità:         0.9

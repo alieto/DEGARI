@@ -1,0 +1,3 @@
+sdc:                  0.9
+sabine_delafon:       0.9
+corporation:          0.9

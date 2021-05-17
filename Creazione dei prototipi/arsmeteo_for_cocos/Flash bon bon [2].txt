@@ -1,0 +1,7 @@
+-posa+:               0.9
+-moda+:               0.9
+-donna+:              0.9
+-sensualità:          0.9
+sinuoso:              0.9
+roccia:               0.9
+durezza:              0.9

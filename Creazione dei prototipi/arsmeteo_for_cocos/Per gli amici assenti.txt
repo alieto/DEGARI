@@ -1,0 +1,7 @@
+amico:                0.9
+assente:              0.9
+esercizio:            0.9
+memoria:              0.9
+frammento:            0.9
+immagine:             0.9
+istantanea:           0.9

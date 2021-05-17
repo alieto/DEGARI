@@ -1,0 +1,15 @@
+rexucciolo_electrosaurus:0.9
+electrosaurus_rex:    0.9
+cucciolo:             0.9
+crescita:             0.9
+elettrico:            0.9
+simbolo:              0.9
+draghetto_elettronico:0.9
+altri_mondi_abitati:  0.9
+forme_ancestrali:     0.9
+giurassico_siderale:  0.9
+web_fossile:          0.9
+virus_preistorico:    0.9
+vibrations:           0.9
+elettrizzante:        0.9
+nutrimento:           0.9

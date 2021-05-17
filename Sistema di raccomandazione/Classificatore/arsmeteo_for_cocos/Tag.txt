@@ -1,0 +1,7 @@
+tag:                  0.9
+domenica:             0.9
+undici:               0.9
+novembre:             0.9
+duemilasette:         0.9
+arsmeteo:             0.9
+zero_nove_quarantacinque:0.9

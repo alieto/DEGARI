@@ -1,0 +1,6 @@
+foto:                 0.9
+rifotografare:        0.9
+gente:                0.9
+amico:                0.9
+bello:                0.9
+conoscitore:          0.9

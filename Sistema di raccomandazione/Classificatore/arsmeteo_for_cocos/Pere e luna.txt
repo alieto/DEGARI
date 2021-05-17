@@ -1,0 +1,9 @@
+arancione:            0.9
+luna:                 0.9
+casa:                 0.9
+pera:                 0.9
+arancio:              0.9
+calore:               0.9
+assolato:             0.9
+cerchio:              0.9
+geometria:            0.9

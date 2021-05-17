@@ -1,0 +1,17 @@
+ottanta:              0.9
+anno:                 0.9
+vita:                 0.9
+attività:             0.9
+centro:               0.9
+sperimentale:         0.9
+cinematografia:       0.9
+materiale:            0.9
+raccontare:           0.9
+archivio:             0.9
+esclusivo:            0.9
+occhio:               0.9
+corso:                0.9
+colorare:             0.9
+tempo:                0.9
+aula:                 0.9
+frequentare:          0.9

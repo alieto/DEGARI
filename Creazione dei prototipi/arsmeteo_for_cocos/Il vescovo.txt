@@ -1,0 +1,3 @@
+vescovo:              0.9
+graffio:              0.9
+luce:                 0.9

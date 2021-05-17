@@ -1,0 +1,15 @@
+-orologio+:           0.9
+-mela+:               0.9
+-lancette+:           0.9
+-tempo+:              0.9
+-tempo_della_mela+:   0.9
+-ritardo+:            0.9
+-tempo_fermo+:        0.9
+-magritte_dalà¬+:     0.9
+-sospensione+:        0.9
+-surreale+:           0.9
+-vuoto+:              0.9
+-eternità:            0.9
+-metafora+:           0.9
+-attesa+:             0.9
+-mela_rossa+:         0.9

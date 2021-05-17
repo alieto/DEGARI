@@ -1,0 +1,7 @@
+archetto:             0.9
+farfalla:             0.9
+violino:              0.9
+pera:                 0.9
+pera_violino:         0.9
+linea:                0.9
+violino_pera:         0.9

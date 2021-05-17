@@ -1,0 +1,5 @@
+acrilico:             0.9
+matita:               0.9
+inserto:              0.9
+carta:                0.9
+cartone:              0.9

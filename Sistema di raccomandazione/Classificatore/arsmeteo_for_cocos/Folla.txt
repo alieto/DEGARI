@@ -1,0 +1,7 @@
+folla:                0.9
+metropoli:            0.9
+massa:                0.9
+persona:              0.9
+città:                0.9
+ammassamento_urbano:  0.9
+gente:                0.9

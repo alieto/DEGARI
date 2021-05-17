@@ -1,0 +1,11 @@
+tulipano:             0.9
+strada:               0.9
+striscia:             0.9
+orizzonte:            0.9
+degrader:             0.9
+cielo:                0.9
+blu:                  0.9
+floreale:             0.9
+rivincita:            0.9
+catrame:              0.9
+voragine:             0.9

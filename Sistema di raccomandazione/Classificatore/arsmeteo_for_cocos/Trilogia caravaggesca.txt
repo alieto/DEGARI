@@ -1,0 +1,4 @@
+bacco:                0.9
+violino:              0.9
+canestro:             0.9
+frutta:               0.9

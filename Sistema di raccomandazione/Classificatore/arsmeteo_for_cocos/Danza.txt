@@ -1,0 +1,5 @@
+donna:                0.9
+danza:                0.9
+figura:               0.9
+armonia:              0.9
+colori_caldi:         0.9

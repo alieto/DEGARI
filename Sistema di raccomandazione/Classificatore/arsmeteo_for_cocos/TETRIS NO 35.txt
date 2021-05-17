@@ -1,0 +1,8 @@
+tetris:               0.9
+edicola_votiva:       0.9
+santo:                0.9
+santi_medici:         0.9
+medico:               0.9
+cosma_e_damiano:      0.9
+cosma:                0.9
+damiano:              0.9

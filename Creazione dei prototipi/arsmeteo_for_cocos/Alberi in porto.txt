@@ -1,0 +1,9 @@
+albero:               0.9
+mare:                 0.9
+vela:                 0.9
+riflesso:             0.9
+chiavari:             0.9
+navigazione:          0.9
+porto:                0.9
+pesce:                0.9
+fuga:                 0.9

@@ -1,0 +1,1 @@
+animali_domestici:    0.9

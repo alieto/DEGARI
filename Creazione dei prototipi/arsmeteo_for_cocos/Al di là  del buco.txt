@@ -1,0 +1,1 @@
+apertura:             0.9

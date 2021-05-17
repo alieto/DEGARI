@@ -1,0 +1,9 @@
+barchetta_di_carta:   0.9
+veliero:              0.9
+sogno:                0.9
+viaggio_mentale:      0.9
+ricordo:              0.9
+barca_e_barchette:    0.9
+notte:                0.9
+stella:               0.9
+notte_stellata:       0.9

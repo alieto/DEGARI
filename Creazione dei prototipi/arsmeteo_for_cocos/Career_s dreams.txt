@@ -1,0 +1,7 @@
+sogno:                0.9
+speranza:             0.9
+vita:                 0.9
+carriera:             0.9
+lavoro:               0.9
+famiglia:             0.9
+felicità:             0.9

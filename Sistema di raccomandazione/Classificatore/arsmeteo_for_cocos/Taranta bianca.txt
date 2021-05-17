@@ -1,0 +1,4 @@
+taranta:              0.9
+trance:               0.9
+sangue:               0.9
+magia:                0.9

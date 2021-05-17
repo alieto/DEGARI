@@ -1,0 +1,4 @@
+houston_museum_of_fine_arts:0.9
+foto_rubate:          0.9
+tempera:              0.9
+acquerello:           0.9

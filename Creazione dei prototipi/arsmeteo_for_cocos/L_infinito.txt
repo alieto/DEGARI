@@ -1,0 +1,4 @@
+orizzonte:            0.9
+collina:              0.9
+scacchiera:           0.9
+paesaggio:            0.9

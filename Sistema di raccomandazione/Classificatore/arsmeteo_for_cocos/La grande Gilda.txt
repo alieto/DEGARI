@@ -1,0 +1,8 @@
+mole:                 0.9
+rifotografare:        0.9
+museo:                0.9
+cinema:               0.9
+dettaglio:            0.9
+posa:                 0.9
+sensuale:             0.9
+distante:             0.9

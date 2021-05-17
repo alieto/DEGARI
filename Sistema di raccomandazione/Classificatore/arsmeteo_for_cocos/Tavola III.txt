@@ -1,0 +1,7 @@
+figura:               0.9
+divano:               0.9
+fiore:                0.9
+carta:                0.9
+libro:                0.9
+stampa:               0.9
+collage:              0.9

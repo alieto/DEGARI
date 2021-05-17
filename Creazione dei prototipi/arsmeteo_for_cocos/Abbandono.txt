@@ -1,0 +1,7 @@
+abbandono:            0.9
+solitudine:           0.9
+cane:                 0.9
+strada:               0.9
+cestino:              0.9
+legare:               0.9
+ingiustizia:          0.9

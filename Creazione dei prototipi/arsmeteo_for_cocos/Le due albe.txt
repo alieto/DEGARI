@@ -1,0 +1,6 @@
+quadro_nel_quadro:    0.9
+geometria:            0.9
+sedia:                0.9
+luna:                 0.9
+alba:                 0.9
+surreale:             0.9

@@ -1,0 +1,6 @@
+capello:              0.9
+crescita:             0.9
+cerchi_concentrici:   0.9
+sviluppo:             0.9
+faccia:               0.9
+bocca_aperta:         0.9

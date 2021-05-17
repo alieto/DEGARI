@@ -1,0 +1,6 @@
+-barca+:              0.9
+-tutto_parte_di_tutto+:0.9
+-gocce_di_colore+:    0.9
+-cromatismi+:         0.9
+-spiaggia+:           0.9
+-mare+:               0.9

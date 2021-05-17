@@ -1,0 +1,6 @@
+ingranaggio:          0.9
+particolare:          0.9
+parto:                0.9
+oggetto:              0.9
+cornice:              0.9
+metallo:              0.9

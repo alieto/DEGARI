@@ -1,0 +1,6 @@
+cielo:                0.9
+azzurro:              0.9
+intenso:              0.9
+nuvola:               0.9
+acqua:                0.9
+vita:                 0.9

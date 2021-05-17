@@ -1,0 +1,6 @@
+magia:                0.9
+filo_di_ferro:        0.9
+armonia:              0.9
+houston:              0.9
+foto_rubate:          0.9
+fine_arts:            0.9

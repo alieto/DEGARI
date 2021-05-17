@@ -1,0 +1,4 @@
+femminile:            0.9
+madre:                0.9
+sfinge:               0.9
+caverna:              0.9

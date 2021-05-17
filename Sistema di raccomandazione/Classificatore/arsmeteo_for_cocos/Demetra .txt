@@ -1,0 +1,4 @@
+dea:                  0.9
+madre_terra:          0.9
+grano:                0.9
+mitologia:            0.9

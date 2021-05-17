@@ -1,0 +1,14 @@
+perocorsi:            0.9
+ricorso:              0.9
+stranezza:            0.9
+lavoro:               0.9
+andare:               0.9
+uomo:                 0.9
+vedere:               0.9
+nero:                 0.9
+vestire:              0.9
+ritroso:              0.9
+camminare:            0.9
+mistero:              0.9
+mente:                0.9
+umano:                0.9

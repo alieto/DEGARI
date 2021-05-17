@@ -1,0 +1,2 @@
+manifestazione:       0.9
+pace:                 0.9

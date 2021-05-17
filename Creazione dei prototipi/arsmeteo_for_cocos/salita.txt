@@ -1,0 +1,4 @@
+colore:               0.9
+vegetazione:          0.9
+cielo:                0.9
+cemento:              0.9

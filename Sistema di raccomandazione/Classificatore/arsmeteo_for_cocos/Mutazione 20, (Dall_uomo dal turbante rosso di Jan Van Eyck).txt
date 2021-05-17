@@ -1,0 +1,4 @@
+mutazione_antropomorfa:0.9
+brodo_primordiale:    0.9
+sensualità:           0.9
+chirurgico:           0.9

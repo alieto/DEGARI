@@ -1,0 +1,1 @@
+orizzonte:            0.9

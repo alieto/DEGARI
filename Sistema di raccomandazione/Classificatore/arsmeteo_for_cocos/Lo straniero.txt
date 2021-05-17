@@ -1,0 +1,4 @@
+tessuto:              0.9
+trasparenza:          0.9
+passaggio:            0.9
+moiré:                0.9

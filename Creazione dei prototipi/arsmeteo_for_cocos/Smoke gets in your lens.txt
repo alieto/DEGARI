@@ -1,0 +1,5 @@
+smoke:                0.9
+el_presidente:        0.9
+trasformazione:       0.9
+urgenza:              0.9
+riprnsamenti:         0.9

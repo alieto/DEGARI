@@ -1,0 +1,4 @@
+mare:                 0.9
+bambino:              0.9
+sera:                 0.9
+cartone:              0.9

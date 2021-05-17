@@ -1,0 +1,6 @@
+tombino:              0.9
+cerchio:              0.9
+crop_circle:          0.9
+arcaico:              0.9
+mistero:              0.9
+segno:                0.9

@@ -1,0 +1,4 @@
+equilibrio:           0.9
+pixel:                0.9
+in_equilibrio:        0.9
+abilità:              0.9

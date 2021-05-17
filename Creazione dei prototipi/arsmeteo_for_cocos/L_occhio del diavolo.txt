@@ -1,0 +1,4 @@
+seppia:               0.9
+occhio:               0.9
+distorsione:          0.9
+occulto:              0.9

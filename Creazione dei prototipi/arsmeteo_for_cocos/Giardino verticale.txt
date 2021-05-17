@@ -1,0 +1,3 @@
+giardino:             0.9
+verticale:            0.9
+toupè:                0.9

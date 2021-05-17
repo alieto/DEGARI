@@ -1,0 +1,4 @@
+paese:                0.9
+maranzana:            0.9
+collina:              0.9
+vigneto:              0.9

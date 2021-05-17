@@ -1,0 +1,4 @@
+flatlandia:           0.9
+alice:                0.9
+uomo:                 0.9
+verticalità:          0.9

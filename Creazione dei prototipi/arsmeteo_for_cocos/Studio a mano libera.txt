@@ -1,0 +1,3 @@
+figurativo:           0.9
+studio:               0.9
+mouse:                0.9

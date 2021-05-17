@@ -1,0 +1,3 @@
+lattina:              0.9
+simbolo:              0.9
+segno:                0.9

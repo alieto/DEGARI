@@ -1,0 +1,3 @@
+salento:              0.9
+rifotografare:        0.9
+inquetante:           0.9

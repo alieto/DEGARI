@@ -1,0 +1,7 @@
+trasporto:            0.9
+scritto:              0.9
+comunicazione:        0.9
+lavoro:               0.9
+commercio:            0.9
+aleppo:               0.9
+cellulare:            0.9

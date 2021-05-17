@@ -1,0 +1,3 @@
+occhio:               0.9
+felix:                0.9
+bestiario:            0.9

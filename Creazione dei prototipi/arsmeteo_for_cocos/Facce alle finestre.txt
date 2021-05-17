@@ -1,0 +1,7 @@
+faccia:               0.9
+finestra:             0.9
+muro:                 0.9
+fano:                 0.9
+pubblicità:           0.9
+occhiale:             0.9
+contrasto:            0.9

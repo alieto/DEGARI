@@ -1,0 +1,4 @@
+scrittura:            0.9
+tempo:                0.9
+cammino:              0.9
+suono:                0.9

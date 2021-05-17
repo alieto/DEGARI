@@ -1,0 +1,9 @@
+ignoranza:            0.9
+faccia:               0.9
+easybit:              0.9
+pastiglia:            0.9
+leone:                0.9
+espositore:           0.9
+gusto:                0.9
+package:              0.9
+dipendenza:           0.9

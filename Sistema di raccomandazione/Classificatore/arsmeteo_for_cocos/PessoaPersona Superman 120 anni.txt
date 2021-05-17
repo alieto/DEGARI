@@ -1,0 +1,4 @@
+celebrazione:         0.9
+percorso:             0.9
+luogo:                0.9
+illustrazione:        0.9

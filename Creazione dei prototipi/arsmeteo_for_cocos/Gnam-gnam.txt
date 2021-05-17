@@ -1,0 +1,8 @@
+singapore:            0.9
+museum_contemporary-arts:0.9
+calligrafo:           0.9
+gnam:                 0.9
+andare_secondo_il_caso:0.9
+rifotografare:        0.9
+caldo:                0.9
+umido:                0.9

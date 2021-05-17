@@ -1,0 +1,5 @@
+cielo:                0.9
+terra:                0.9
+angelo:               0.9
+pace:                 0.9
+angelo_della_pace:    0.9

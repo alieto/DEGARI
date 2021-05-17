@@ -1,0 +1,5 @@
+self:                 0.9
+portrait:             0.9
+mito:                 0.9
+marylin:              0.9
+cesso:                0.9

@@ -1,0 +1,5 @@
+bambino:              0.9
+notte:                0.9
+barchette_di_carta:   0.9
+immaginazione:        0.9
+gioco:                0.9

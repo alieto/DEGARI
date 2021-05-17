@@ -1,0 +1,8 @@
+penna:                0.9
+orologio:             0.9
+bollitore:            0.9
+soldo:                0.9
+specchio:             0.9
+hotel:                0.9
+oggetti_utili_inutili:0.9
+little_india:         0.9

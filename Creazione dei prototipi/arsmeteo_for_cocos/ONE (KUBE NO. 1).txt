@@ -1,0 +1,7 @@
+jiokube:              0.9
+one:                  0.9
+cubo:                 0.9
+pena|pene:            0.9
+cristo:               0.9
+crocefisso:           0.9
+berlusconi:           0.9

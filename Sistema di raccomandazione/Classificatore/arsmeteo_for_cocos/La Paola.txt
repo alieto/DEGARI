@@ -1,0 +1,6 @@
+seduta:               0.9
+donna:                0.9
+geometria:            0.9
+spigolo:              0.9
+intersezione:         0.9
+stilizzazione:        0.9

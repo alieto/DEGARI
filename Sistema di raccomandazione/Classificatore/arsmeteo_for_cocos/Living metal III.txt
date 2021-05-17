@@ -1,0 +1,9 @@
+alluminio+:           0.9
+-laser+:              0.9
+-fluidi_percorsi+:    0.9
+-metallo+:            0.9
+-metallico+:          0.9
+-vivente+:            0.9
+-fluido+:             0.9
+-liquido+:            0.9
+-incastro+:           0.9

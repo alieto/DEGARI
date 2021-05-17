@@ -1,0 +1,5 @@
+notte:                0.9
+luna:                 0.9
+museruola:            0.9
+testa_di_lupo:        0.9
+stella:               0.9

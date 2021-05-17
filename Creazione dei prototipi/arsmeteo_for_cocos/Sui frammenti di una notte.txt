@@ -1,0 +1,10 @@
+linea:                0.9
+violino:              0.9
+conchiglia:           0.9
+simbolo:              0.9
+musica:               0.9
+luna:                 0.9
+spartito:             0.9
+partitura:            0.9
+falce_di_luna:        0.9
+notte:                0.9

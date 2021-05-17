@@ -1,0 +1,9 @@
+-legno+:              0.9
+-bianco+:             0.9
+-minimale+:           0.9
+-cerchi+:             0.9
+-forme+:              0.9
+-cerchi_concentrici+: 0.9
+-luce+:               0.9
+-dittico+:            0.9
+-divisi+:             0.9

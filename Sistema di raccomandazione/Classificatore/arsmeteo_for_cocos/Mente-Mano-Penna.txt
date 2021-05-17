@@ -1,0 +1,14 @@
+scrittura:            0.9
+penna:                0.9
+inchiostro:           0.9
+albero:               0.9
+stilo:                0.9
+carattere:            0.9
+ideogramma:           0.9
+libro:                0.9
+carta:                0.9
+mano:                 0.9
+stilografica:         0.9
+disegno:              0.9
+grafica:              0.9
+mente:                0.9

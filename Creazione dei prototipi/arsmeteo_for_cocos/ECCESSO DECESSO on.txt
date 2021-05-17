@@ -1,0 +1,7 @@
+eccesso:              0.9
+decesso:              0.9
+uso:                  0.9
+bullone:              0.9
+accordo_divino:       0.9
+jasper_johns:         0.9
+on:                   0.9

@@ -1,0 +1,7 @@
+squarcio:             0.9
+frattali:             0.9
+vista:                0.9
+spaziale:             0.9
+alieno:               0.9
+stella:               0.9
+pianeta:              0.9

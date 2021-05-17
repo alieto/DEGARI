@@ -1,0 +1,7 @@
+rosa:                 0.9
+rosa_rosae:           0.6
+raccolta:             0.6
+gusto:                0.6
+armonia:              0.6
+essenza:              0.6
+spina:                0.6

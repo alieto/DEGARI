@@ -1,0 +1,7 @@
+tag:                  0.9
+riconoscimento:       0.9
+omaggio:              0.9
+lettera_u:            0.9
+lezione:              0.9
+lettura:              0.9
+lettera:              0.9

@@ -1,0 +1,10 @@
+tipo:                 0.9
+atteggiamento:        0.9
+posa:                 0.9
+situazione:           0.9
+faccia:               0.9
+faccetta:             0.9
+occhietto:            0.9
+arrabbiare:           0.9
+japan:                0.9
+variazione:           0.9

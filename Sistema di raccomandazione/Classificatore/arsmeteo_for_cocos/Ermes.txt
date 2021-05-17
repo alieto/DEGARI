@@ -1,0 +1,2 @@
+ritratto:             0.9
+ermes:                0.9

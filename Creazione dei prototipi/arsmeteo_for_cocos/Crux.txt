@@ -1,0 +1,3 @@
+quadrato:             0.9
+rombo:                0.9
+croce:                0.9

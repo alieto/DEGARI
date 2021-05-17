@@ -1,0 +1,7 @@
+volto:                0.9
+osservante:           0.9
+prospetto:            0.9
+sguardo:              0.9
+penetrante:           0.9
+orientale:            0.9
+personaggio:          0.9

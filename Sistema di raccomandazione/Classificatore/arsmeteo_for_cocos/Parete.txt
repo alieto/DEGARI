@@ -1,0 +1,2 @@
+nero:                 0.9
+colore:               0.9

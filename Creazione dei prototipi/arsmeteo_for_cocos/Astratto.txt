@@ -1,0 +1,4 @@
+astratto:             0.9
+informale:            0.6
+segno:                0.6
+figurativo:           0.6

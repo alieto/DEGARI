@@ -1,0 +1,4 @@
+vincent:              0.9
+compleanno:           0.9
+a-tavola-con-il:      0.9
+principe:             0.9

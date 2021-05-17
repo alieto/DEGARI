@@ -1,0 +1,17 @@
+ritratto:             0.9
+città:                0.9
+detroit:              0.9
+capitale:             0.9
+industria:            0.9
+automobilistico:      0.9
+americano:            0.9
+crisi:                0.9
+colpire:              0.9
+economico:            0.9
+rinascita:            0.9
+sperare:              0.9
+arrivo:               0.9
+sergio:               0.9
+marchionne:           0.9
+capo:                 0.9
+chrysler:             0.9

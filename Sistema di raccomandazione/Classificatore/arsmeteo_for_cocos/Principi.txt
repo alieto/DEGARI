@@ -1,0 +1,4 @@
+inciso:               0.9
+attivo:               0.9
+segno:                0.9
+parola:               0.9

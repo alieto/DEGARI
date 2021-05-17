@@ -1,0 +1,9 @@
+red_ink:              0.9
+red:                  0.9
+ink:                  0.9
+plexiglass:           0.9
+disco:                0.9
+vinile:               0.9
+33_giri:              0.9
+lp:                   0.9
+kinder:               0.9

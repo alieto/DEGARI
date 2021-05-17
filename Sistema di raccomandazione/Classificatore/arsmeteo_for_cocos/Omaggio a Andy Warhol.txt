@@ -1,0 +1,3 @@
+neo_iperrealismo:     0.9
+provocazione:         0.9
+bolletta_scaduta:     0.9

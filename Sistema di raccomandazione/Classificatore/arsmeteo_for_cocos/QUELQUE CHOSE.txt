@@ -1,0 +1,10 @@
+qualcosa:             0.9
+succedere:            0.9
+nulla:                0.9
+motto:                0.9
+ironia:               0.9
+john_cage:            0.9
+attendere:            0.9
+casuale:              0.9
+musica:               0.9
+netville:             0.9

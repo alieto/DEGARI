@@ -1,0 +1,4 @@
+baratto:              0.9
+trenino:              0.9
+pellegrino:           0.9
+padre_pio:            0.9

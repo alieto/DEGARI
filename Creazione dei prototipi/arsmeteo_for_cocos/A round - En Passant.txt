@@ -1,0 +1,7 @@
+scacco:               0.9
+occhio:               0.9
+en_passant:           0.9
+mossa:                0.9
+pedone:               0.9
+chess:                0.9
+re_degli_scacchi:     0.9

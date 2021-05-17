@@ -1,0 +1,7 @@
+onirosauri:           0.9
+sogno:                0.9
+radice:               0.9
+terra:                0.9
+storia:               0.9
+luogo:                0.9
+sacro:                0.9

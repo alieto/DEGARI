@@ -1,0 +1,6 @@
+liquido:              0.9
+fluido:               0.9
+torino:               0.9
+sciogliere:           0.9
+città:                0.9
+paesaggio:            0.9

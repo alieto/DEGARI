@@ -1,0 +1,3 @@
+donna:                0.9
+sonno:                0.9
+povere_cose:          0.9

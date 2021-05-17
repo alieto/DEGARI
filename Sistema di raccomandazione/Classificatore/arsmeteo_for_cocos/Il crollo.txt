@@ -1,0 +1,5 @@
+crollo:               0.9
+struttura:            0.9
+spettatore:           0.9
+testimone:            0.9
+caducità:             0.9

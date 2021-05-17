@@ -1,0 +1,6 @@
+guru:                 0.9
+gianni_colombo:       0.9
+iterazione:           0.9
+iperazione:           0.9
+multipresenza:        0.9
+obiquità:             0.9

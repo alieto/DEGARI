@@ -1,0 +1,4 @@
+informativo:          0.9
+icon:                 0.9
+controcultura:        0.9
+onirico:              0.9

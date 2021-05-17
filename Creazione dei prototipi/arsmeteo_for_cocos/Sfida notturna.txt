@@ -1,0 +1,7 @@
+sfida:                0.9
+notte:                0.9
+montagna:             0.9
+nuvola:               0.9
+luna:                 0.9
+falce_di_luna:        0.9
+stella:               0.9

@@ -1,0 +1,5 @@
+mediterraneo:         0.9
+armonia:              0.9
+colore:               0.9
+struttura:            0.9
+benessere:            0.9

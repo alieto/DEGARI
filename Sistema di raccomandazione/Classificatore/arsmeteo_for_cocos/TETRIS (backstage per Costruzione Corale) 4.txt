@@ -1,0 +1,7 @@
+tetris:               0.9
+backstage:            0.9
+doppio:               0.9
+costruzione_corale:   0.9
+sindaco:              0.9
+doppio_sindaco:       0.9
+comizio:              0.9

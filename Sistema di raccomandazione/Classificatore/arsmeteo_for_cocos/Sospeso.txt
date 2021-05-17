@@ -1,0 +1,6 @@
+cielo:                0.9
+simmetria:            0.9
+sospendere:           0.9
+sorpresa:             0.9
+fluttuante:           0.9
+nuvola:               0.9

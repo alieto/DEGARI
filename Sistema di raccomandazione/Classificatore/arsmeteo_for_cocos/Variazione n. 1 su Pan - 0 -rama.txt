@@ -1,0 +1,3 @@
+gorgo:                0.9
+mandare:              0.9
+simmetria:            0.9

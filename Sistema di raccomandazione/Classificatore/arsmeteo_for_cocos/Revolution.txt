@@ -1,0 +1,5 @@
+indifeso:             0.9
+rifotografare:        0.9
+nudità:               0.9
+lotta_impari:         0.9
+_fragilità:           0.9

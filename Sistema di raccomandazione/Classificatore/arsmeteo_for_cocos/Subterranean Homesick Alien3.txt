@@ -1,0 +1,7 @@
+vortice:              0.9
+moltiplicazione:      0.9
+caduta:               0.9
+spazio:               0.9
+alieno:               0.9
+radiohead:            0.9
+discovolante:         0.9

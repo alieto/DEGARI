@@ -1,0 +1,6 @@
+cinque:               0.9
+valere:               0.9
+euro:                 0.9
+baratto:              0.9
+biancaneve:           0.9
+cocaina:              0.9

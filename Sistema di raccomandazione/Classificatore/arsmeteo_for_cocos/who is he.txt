@@ -1,0 +1,7 @@
+wijk_bij_duurstede:   0.9
+vetrina:              0.9
+fotografo:            0.9
+sera:                 0.9
+rivivere:             0.9
+olanda:               0.9
+fumo:                 0.9

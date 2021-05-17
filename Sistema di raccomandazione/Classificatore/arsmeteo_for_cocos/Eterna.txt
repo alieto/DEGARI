@@ -1,0 +1,14 @@
+tempo:                0.9
+passato:              0.9
+proiezioni_future:    0.9
+sabine_delafon:       0.9
+mare:                 0.9
+natura:               0.9
+fisicità:             0.9
+materia:              0.9
+universo:             0.9
+dio:                  0.9
+legame:               0.9
+equilibrio:           0.9
+evoluzione:           0.9
+acqua:                0.9

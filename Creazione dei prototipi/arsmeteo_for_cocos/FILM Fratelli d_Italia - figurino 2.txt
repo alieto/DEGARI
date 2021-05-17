@@ -1,0 +1,4 @@
+costume:              0.9
+figurino:             0.9
+colore:               0.9
+percussione:          0.9

@@ -1,0 +1,6 @@
+silos:                0.9
+struttura:            0.9
+lavoro:               0.9
+fatica:               0.9
+estetica_del_lavoro:  0.9
+potenza:              0.9

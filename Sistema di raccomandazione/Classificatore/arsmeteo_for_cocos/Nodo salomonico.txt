@@ -1,0 +1,5 @@
+celtico:              0.9
+chimera:              0.9
+leone:                0.9
+capra:                0.9
+grifone:              0.9

@@ -1,0 +1,8 @@
+velocità:             0.9
+viaggio:              0.9
+pozzo:                0.9
+ciberspazio:          0.9
+interconnettività:    0.9
+cyberspace:           0.9
+fiamma:               0.9
+sconosciuto:          0.9

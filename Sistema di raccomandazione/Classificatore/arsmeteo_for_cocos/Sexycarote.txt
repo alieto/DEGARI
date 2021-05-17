@@ -1,0 +1,4 @@
+sesso_vegetale:       0.9
+carota:               0.9
+icx:                  0.9
+cromo_soma:           0.9

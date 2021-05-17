@@ -1,0 +1,10 @@
+magazzino:            0.9
+sala|sale:            0.9
+tortona:              0.9
+nervo:                0.9
+parabola:             0.9
+intreccio:            0.9
+cassettone:           0.9
+ripetizione:          0.9
+sostegno:             0.9
+copertura:            0.9

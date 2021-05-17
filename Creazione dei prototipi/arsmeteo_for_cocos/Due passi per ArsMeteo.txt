@@ -1,0 +1,6 @@
+omino:                0.9
+infinito:             0.9
+allungo:              0.9
+due_passi:            0.9
+linea:                0.9
+passeggiata:          0.9

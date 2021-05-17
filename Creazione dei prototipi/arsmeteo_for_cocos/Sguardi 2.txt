@@ -1,0 +1,3 @@
+modella:              0.9
+quadro:               0.9
+artista:              0.9

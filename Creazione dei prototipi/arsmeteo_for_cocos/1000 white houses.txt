@@ -1,0 +1,12 @@
+acrilico:             0.9
+tela:                 0.9
+70x100:               0.9
+cm:                   0.9
+opera:                0.9
+parte:                0.9
+serie:                0.9
+cina:                 0.9
+dedicare:             0.9
+anno:                 0.9
+poesia:               0.9
+tang:                 0.9

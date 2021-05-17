@@ -1,0 +1,3 @@
+diecimila_tag:        0.9
+documento:            0.9
+tag:                  0.9

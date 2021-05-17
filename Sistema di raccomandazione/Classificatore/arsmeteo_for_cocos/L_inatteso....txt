@@ -1,0 +1,3 @@
+inatteso:             0.9
+ospite:               0.9
+caso:                 0.9

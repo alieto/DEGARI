@@ -1,0 +1,6 @@
+linea:                0.9
+farfalla:             0.9
+nebulosa:             0.9
+stella:               0.9
+cosmo:                0.9
+farfalla_cosmica:     0.9

@@ -1,0 +1,6 @@
+binario:              0.9
+morto:                0.9
+cielo:                0.9
+nuvola:               0.9
+viaggio:              0.9
+arrivo:               0.9

@@ -1,0 +1,3 @@
+ritratto:             0.9
+che_cosa_vedi:        0.9
+sigaretta:            0.9

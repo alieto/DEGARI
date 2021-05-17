@@ -1,0 +1,4 @@
+cesare_vignato:       0.9
+simbolismo:           0.9
+musica:               0.9
+video:                0.9

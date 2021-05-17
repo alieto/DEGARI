@@ -1,0 +1,9 @@
+velocità:             0.9
+treno:                0.9
+viaggio:              0.9
+attesa:               0.9
+lettura:              0.9
+noia:                 0.9
+sicurezza:            0.9
+fiducia:              0.9
+tecnologia:           0.9

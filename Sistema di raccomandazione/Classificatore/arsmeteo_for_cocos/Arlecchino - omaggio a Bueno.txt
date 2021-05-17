@@ -1,0 +1,4 @@
+antonio_bueno:        0.9
+arlecchino:           0.9
+omaggio:              0.9
+maschera:             0.9

@@ -1,0 +1,15 @@
+auditorium:           0.9
+rai:                  0.9
+torino:               0.9
+concerto:             0.9
+sinfonico:            0.9
+musica:               0.9
+mozart:               0.9
+divertimento:         0.9
+bemolle:              0.9
+grande:               0.9
+opera:                0.9
+diretto:              0.9
+maestro:              0.9
+bernad:               0.9
+klee:                 0.9

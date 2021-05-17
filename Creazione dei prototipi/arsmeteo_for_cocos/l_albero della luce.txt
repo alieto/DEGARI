@@ -1,0 +1,6 @@
+albero:               0.9
+frutto:               0.9
+luce:                 0.9
+cielo:                0.9
+terra:                0.9
+sparkling:            0.9

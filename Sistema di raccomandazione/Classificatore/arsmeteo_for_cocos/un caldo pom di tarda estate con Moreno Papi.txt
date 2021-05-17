@@ -1,0 +1,3 @@
+incubo:               0.9
+robotico:             0.9
+rico_rico:            0.9

@@ -1,0 +1,5 @@
+bocca_di_rosa:        0.9
+cagnetta:             0.9
+treno:                0.9
+solo:                 0.9
+stella:               0.9

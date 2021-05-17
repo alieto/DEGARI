@@ -1,0 +1,10 @@
+pianeta:              0.9
+asteroide:            0.9
+spazio:               0.6
+levitazione:          0.6
+magnetismo:           0.6
+extraterrestre:       0.6
+ufo:                  0.6
+universo:             0.6
+monolite:             0.6
+corpo_celeste:        0.6

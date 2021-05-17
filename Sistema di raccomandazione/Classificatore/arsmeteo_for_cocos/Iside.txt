@@ -1,0 +1,5 @@
+eco:                  0.9
+voce:                 0.9
+donna:                0.9
+stella:               0.9
+amore:                0.9

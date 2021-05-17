@@ -1,0 +1,11 @@
+alfabeto:             0.9
+simbolo:              0.9
+paleocristiano:       0.9
+stile:                0.9
+tratto:               0.9
+a_z:                  0.9
+dalla_a_alla_z:       0.9
+scrittura:            0.9
+abbecedario:          0.9
+lettera:              0.9
+caus:                 0.9

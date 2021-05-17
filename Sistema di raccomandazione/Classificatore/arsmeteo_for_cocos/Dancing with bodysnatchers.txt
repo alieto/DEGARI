@@ -1,0 +1,15 @@
+ultracorpi:           0.9
+radiohead:            0.9
+genio:                0.9
+ebberezza:            0.9
+rock:                 0.9
+assoluto:             0.9
+hegel:                0.9
+studio:               0.9
+fuck_majors:          0.9
+compagno:             0.9
+giustezza:            0.9
+figo:                 0.9
+grande:               0.9
+wagner:               0.9
+hendrix:              0.9

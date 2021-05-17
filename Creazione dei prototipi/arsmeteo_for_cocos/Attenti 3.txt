@@ -1,0 +1,9 @@
+attenzione:           0.9
+attentare:            0.9
+vetro:                0.9
+impegno:              0.9
+percezione:           0.9
+significato:          0.9
+trasparenza:          0.9
+vetro_in_vetro:       0.9
+contenitori_contenuti:0.9

@@ -1,0 +1,7 @@
+bacio:                0.9
+geometria:            0.9
+intersezione:         0.9
+coppia:               0.9
+farfalla:             0.9
+linea:                0.9
+sincronicità:         0.9

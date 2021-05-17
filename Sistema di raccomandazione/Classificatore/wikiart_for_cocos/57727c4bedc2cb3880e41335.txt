@@ -1,0 +1,3 @@
+happiness:            0.9
+love:                 0.9
+surprise:             0.9

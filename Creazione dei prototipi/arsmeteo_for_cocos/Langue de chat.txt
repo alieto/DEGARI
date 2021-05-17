@@ -1,0 +1,3 @@
+insinuante:           0.9
+ombra:                0.9
+merletto:             0.9

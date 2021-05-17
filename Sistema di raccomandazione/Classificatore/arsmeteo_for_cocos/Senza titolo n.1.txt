@@ -1,0 +1,3 @@
+animal_machines:      0.9
+consumo:              0.9
+oggetti_organici:     0.9

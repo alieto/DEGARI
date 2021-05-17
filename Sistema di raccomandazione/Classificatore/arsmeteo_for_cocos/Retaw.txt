@@ -1,0 +1,4 @@
+water:                0.9
+atmosfera:            0.9
+notte:                0.9
+galassia:             0.9

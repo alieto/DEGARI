@@ -1,0 +1,4 @@
+figura:               0.9
+donna:                0.9
+abito:                0.9
+bronzo:               0.9

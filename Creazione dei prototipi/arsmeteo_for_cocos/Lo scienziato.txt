@@ -1,0 +1,8 @@
+caricatura:           0.9
+china:                0.9
+disegno:              0.9
+scienziato:           0.9
+bile:                 0.9
+arrabbiato:           0.9
+iroso:                0.9
+scienza:              0.9

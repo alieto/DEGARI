@@ -1,0 +1,2 @@
+orecchio:             0.9
+taglio:               0.9

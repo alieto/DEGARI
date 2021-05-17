@@ -1,0 +1,3 @@
+studio:               0.9
+musicista:            0.9
+violinista:           0.9

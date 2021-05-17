@@ -1,0 +1,5 @@
+yemen:                0.9
+anziano:              0.9
+mercato:              0.9
+sacco:                0.9
+sporta:               0.9

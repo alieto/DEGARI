@@ -1,0 +1,4 @@
+luna:                 0.9
+sbadiglio:            0.9
+convegno_amoroso:     0.9
+incontro:             0.9

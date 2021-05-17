@@ -1,0 +1,8 @@
+strapiombo:           0.9
+baratro:              0.9
+abisso:               0.9
+precipizio:           0.9
+voragine:             0.9
+pozzo:                0.9
+sprofondare:          0.9
+crepaccio:            0.9

@@ -1,0 +1,7 @@
+sinapsi:              0.9
+cerebrale:            0.9
+cibernetico:          0.9
+connessione:          0.9
+frattale:             0.9
+macchina_intelligente:0.9
+inquietante:          0.9

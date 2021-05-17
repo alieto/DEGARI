@@ -1,0 +1,2 @@
+giallo:               0.9
+libro-d-artista:      0.9

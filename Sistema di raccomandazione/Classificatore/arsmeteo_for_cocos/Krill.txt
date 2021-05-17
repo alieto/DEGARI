@@ -1,0 +1,6 @@
+recensione:           0.9
+rivista:              0.9
+krill:                0.9
+immaginario:          0.9
+coscienze_inquiete:   0.9
+immaginario_contemporaneo:0.9

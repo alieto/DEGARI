@@ -1,0 +1,5 @@
+borges:               0.9
+buenos:               0.9
+aires:                0.9
+giorno_di_luglio:     0.9
+sesso_immaginato:     0.9

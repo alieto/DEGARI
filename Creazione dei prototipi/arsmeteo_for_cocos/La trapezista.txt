@@ -1,0 +1,2 @@
+trapezista:           0.9
+collana:              0.9

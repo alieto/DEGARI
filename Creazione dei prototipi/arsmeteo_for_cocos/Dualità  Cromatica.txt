@@ -1,0 +1,10 @@
+contrasto:            0.9
+blu:                  0.9
+magma:                0.9
+plasma:               0.9
+incandescente:        0.9
+tramatura:            0.9
+giallo:               0.9
+trapelare:            0.9
+rosso:                0.9
+fuoco:                0.9

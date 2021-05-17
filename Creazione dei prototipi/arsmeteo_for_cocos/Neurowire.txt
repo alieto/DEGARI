@@ -1,0 +1,5 @@
+biologico:            0.9
+frattali:             0.9
+connessione:          0.9
+biomorfo:             0.9
+rete:                 0.9

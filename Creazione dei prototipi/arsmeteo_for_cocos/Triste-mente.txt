@@ -1,0 +1,4 @@
+triste:               0.9
+donna:                0.9
+oggetto:              0.9
+mostrificata:         0.9

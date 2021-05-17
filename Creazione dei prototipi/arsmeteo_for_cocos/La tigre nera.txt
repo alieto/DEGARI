@@ -1,0 +1,3 @@
+tappeto:              0.9
+orient:               0.9
+abbraccio:            0.9

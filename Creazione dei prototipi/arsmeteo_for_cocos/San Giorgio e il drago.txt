@@ -1,0 +1,8 @@
+san_giorgio:          0.9
+drago:                0.9
+combattimento:        0.9
+scontro:              0.9
+rivisitazione:        0.9
+tre_teste:            0.9
+mito:                 0.9
+metafora:             0.9

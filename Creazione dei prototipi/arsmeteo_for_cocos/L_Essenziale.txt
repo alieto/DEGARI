@@ -1,0 +1,13 @@
+mare:                 0.9
+cielo:                0.9
+nube:                 0.9
+blu:                  0.9
+azzurro:              0.9
+infinito:             0.9
+orizzonte:            0.9
+nuvola:               0.9
+luce:                 0.9
+centro:               0.9
+lontananza:           0.9
+profondità:           0.9
+essenza:              0.9

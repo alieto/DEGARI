@@ -1,0 +1,5 @@
+musica:               0.9
+corale:               0.9
+mix:                  0.9
+remix:                0.9
+bach:                 0.9

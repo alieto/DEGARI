@@ -1,0 +1,3 @@
+effimero:             0.9
+estemporaneo:         0.9
+composizione:         0.9

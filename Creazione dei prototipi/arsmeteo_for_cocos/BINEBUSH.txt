@@ -1,0 +1,9 @@
+petroliere:           0.9
+oil:                  0.9
+terror:               0.9
+museum:               0.9
+baghdad:              0.9
+intelligence:         0.9
+pubblico:             0.9
+al_quaeda:            0.9
+netville:             0.9

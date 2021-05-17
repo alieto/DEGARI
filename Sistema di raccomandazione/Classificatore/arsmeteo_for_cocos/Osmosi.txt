@@ -1,0 +1,3 @@
+colore:               0.9
+gessetto:             0.9
+carta:                0.9

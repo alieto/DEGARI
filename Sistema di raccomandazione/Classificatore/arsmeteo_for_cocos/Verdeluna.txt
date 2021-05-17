@@ -1,0 +1,2 @@
+venezia:              0.9
+verdeluna:            0.9

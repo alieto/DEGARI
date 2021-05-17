@@ -1,0 +1,6 @@
+cecil_beaton:         0.9
+rifotografare:        0.9
+bellezza:             0.9
+sorriso:              0.9
+incanto:              0.9
+fascino:              0.9

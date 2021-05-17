@@ -1,0 +1,6 @@
+fiore:                0.9
+papavero:             0.9
+rosso:                0.9
+petalo:               0.9
+natura:               0.9
+luce:                 0.9

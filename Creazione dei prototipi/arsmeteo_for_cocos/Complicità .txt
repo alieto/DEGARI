@@ -1,0 +1,6 @@
+voodoo:               0.9
+bambola:              0.9
+luna:                 0.9
+pozza:                0.9
+cerchi_concentrici:   0.9
+rito:                 0.9

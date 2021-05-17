@@ -1,0 +1,3 @@
+cappello:             0.9
+ragazza:              0.9
+nastro_rosso:         0.9

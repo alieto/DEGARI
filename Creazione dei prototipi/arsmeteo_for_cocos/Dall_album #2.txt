@@ -1,0 +1,4 @@
+orizzonte:            0.9
+inversione:           0.9
+sottosopra:           0.9
+riflesso:             0.9

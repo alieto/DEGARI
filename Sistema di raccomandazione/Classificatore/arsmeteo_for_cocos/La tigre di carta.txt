@@ -1,0 +1,4 @@
+orient:               0.9
+stanca:               0.9
+mite:                 0.9
+dolce_felinitudine:   0.9

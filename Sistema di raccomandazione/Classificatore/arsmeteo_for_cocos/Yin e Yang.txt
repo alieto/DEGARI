@@ -1,0 +1,3 @@
+tao:                  0.9
+essicazione:          0.9
+simboli_fossili:      0.9

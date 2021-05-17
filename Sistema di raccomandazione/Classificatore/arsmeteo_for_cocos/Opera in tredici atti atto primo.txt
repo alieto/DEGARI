@@ -1,0 +1,6 @@
+body:                 0.9
+nudo:                 0.9
+cristo:               0.9
+gesà¹:                0.9
+foto:                 0.9
+photo:                0.9

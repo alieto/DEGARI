@@ -1,0 +1,6 @@
+asino:                0.9
+campanella:           0.9
+bidone:               0.9
+morte:                0.9
+caduta:               0.9
+realtà:               0.9

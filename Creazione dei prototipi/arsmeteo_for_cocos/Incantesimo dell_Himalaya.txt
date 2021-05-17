@@ -1,0 +1,6 @@
+incantesimo:          0.9
+himalaya:             0.9
+evocazione:           0.9
+demone:               0.9
+lama:                 0.9
+surfanta:             0.9

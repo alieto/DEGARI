@@ -1,0 +1,4 @@
+modella:              0.9
+cavalletto:           0.9
+collage:              0.9
+accademia_del_nudo:   0.9

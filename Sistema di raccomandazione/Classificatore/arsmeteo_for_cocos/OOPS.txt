@@ -1,0 +1,8 @@
+netville:             0.9
+arma:                 0.9
+squillare:            0.9
+voilà:                0.9
+oops:                 0.9
+spettacolare:         0.9
+militarismo:          0.9
+presentazione:        0.9

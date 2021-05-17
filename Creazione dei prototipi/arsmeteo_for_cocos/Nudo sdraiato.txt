@@ -1,0 +1,9 @@
+sul_letto:            0.9
+nudo:                 0.9
+donna:                0.9
+geometria:            0.9
+sdraiare:             0.9
+stilizzazione:        0.9
+geometrizzazione:     0.9
+conchiglia:           0.9
+capello:              0.9

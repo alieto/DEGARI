@@ -1,0 +1,5 @@
+tetris:               0.9
+mucca:                0.9
+contadino:            0.9
+pink_floyd:           0.9
+atom_heart_mother:    0.9

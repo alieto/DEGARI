@@ -1,0 +1,4 @@
+muro:                 0.9
+simbolo:              0.9
+accenno:              0.9
+graffito:             0.9

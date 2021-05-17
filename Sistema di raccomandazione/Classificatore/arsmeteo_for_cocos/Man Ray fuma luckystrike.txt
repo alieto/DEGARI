@@ -1,0 +1,5 @@
+manray:               0.9
+sigaretta:            0.9
+fumo:                 0.9
+mano:                 0.9
+uomo:                 0.9

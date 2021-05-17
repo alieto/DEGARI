@@ -1,0 +1,4 @@
+epifania:             0.9
+apparizione:          0.9
+variazione:           0.9
+lapis:                0.9

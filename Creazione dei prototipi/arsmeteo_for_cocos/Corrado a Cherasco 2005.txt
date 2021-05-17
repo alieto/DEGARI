@@ -1,0 +1,1 @@
+cartello_mostre:      0.9

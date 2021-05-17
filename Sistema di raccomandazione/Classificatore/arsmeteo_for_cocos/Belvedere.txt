@@ -1,0 +1,4 @@
+belvedere:            0.9
+geometrico:           0.9
+escher:               0.9
+struttura:            0.9

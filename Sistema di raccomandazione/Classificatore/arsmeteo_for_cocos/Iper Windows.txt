@@ -1,0 +1,3 @@
+informatica:          0.9
+saturazione:          0.9
+alienazione:          0.9

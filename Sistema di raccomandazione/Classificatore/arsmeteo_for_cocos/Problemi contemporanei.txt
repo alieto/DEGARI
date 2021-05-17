@@ -1,0 +1,10 @@
+pc:                   0.9
+video:                0.9
+errore:               0.9
+disco:                0.9
+rotto:                0.9
+computer:             0.9
+sistema:              0.9
+guaio:                0.9
+vista:                0.9
+bill_gates:           0.9

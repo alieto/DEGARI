@@ -1,0 +1,2 @@
+donna:                0.9
+pesce:                0.9

@@ -1,0 +1,8 @@
+montagna:             0.9
+pietra:               0.9
+sasso:                0.9
+tibet:                0.9
+lama:                 0.9
+scritto:              0.9
+surfanta:             0.9
+surreale:             0.9

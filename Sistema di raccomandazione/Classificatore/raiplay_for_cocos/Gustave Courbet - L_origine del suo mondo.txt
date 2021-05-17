@@ -1,0 +1,15 @@
+padre:                0.9
+considerare:          0.9
+realismo:             0.9
+pittura:              0.9
+primo:                0.9
+vita:                 0.9
+riprendere:           0.9
+quotidiano:           0.9
+essenza:              0.9
+visione:              0.9
+sottrarre:            0.9
+idealistico:          0.9
+edulcorare:           0.9
+contemporaneo:        0.9
+rappresentare:        0.9

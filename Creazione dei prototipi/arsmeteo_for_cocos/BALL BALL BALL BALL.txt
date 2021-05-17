@@ -1,0 +1,4 @@
+ball:                 0.9
+pallone:              0.9
+quattro:              0.9
+erba_sintetica:       0.9

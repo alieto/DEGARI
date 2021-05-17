@@ -1,0 +1,14 @@
+colore:               0.9
+triangolo:            0.9
+bianco:               0.6
+nero:                 0.6
+bianco_nero:          0.6
+monello:              0.6
+charlie_chaplin:      0.6
+charlie:              0.6
+chaplin:              0.6
+bombetta:             0.6
+geometria:            0.6
+cromatismo:           0.6
+triangolo_isoscele:   0.6
+cromatico:            0.6

@@ -1,0 +1,11 @@
+ciminiera:            0.9
+disuso:               0.9
+gabbia:               0.9
+postindustriale:      0.9
+architettura:         0.9
+archeologia_industriale:0.9
+città:                0.9
+fabbrica:             0.9
+storia:               0.9
+sociale:              0.9
+autonomia:            0.9

@@ -1,0 +1,4 @@
+autoritratto:         0.9
+autoironia:           0.9
+anni_ruggenti:        0.9
+groovy:               0.9

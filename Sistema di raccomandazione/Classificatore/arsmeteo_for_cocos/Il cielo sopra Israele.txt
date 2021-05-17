@@ -1,0 +1,3 @@
+libertà:              0.9
+giustizia:            0.9
+pace:                 0.9

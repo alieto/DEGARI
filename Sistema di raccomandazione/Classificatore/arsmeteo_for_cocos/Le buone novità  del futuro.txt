@@ -1,0 +1,11 @@
+interpretazione:      0.9
+lettura:              0.9
+parola:               0.9
+immagine:             0.9
+gestualità:           0.9
+iconografia:          0.9
+tuttotondo:           0.9
+volume:               0.9
+battistero:           0.9
+religiosità:          0.9
+tempo:                0.9

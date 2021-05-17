@@ -1,0 +1,10 @@
+barbona|barbone:      0.9
+scalzo:               0.9
+rondine:              0.9
+ironico:              0.9
+non_fa_primavera:     0.9
+surfanta:             0.9
+suona_fiore:          0.9
+incantatore:          0.9
+tornano_le_rondini:   0.9
+lunga_tuba:           0.9

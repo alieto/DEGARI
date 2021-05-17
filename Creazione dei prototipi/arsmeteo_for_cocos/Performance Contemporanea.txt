@@ -1,0 +1,2 @@
+bioart:               0.9
+per_farvi_ridere:     0.9

@@ -1,0 +1,5 @@
+cubo:                 0.9
+lama:                 0.9
+taglio:               0.9
+digitale:             0.9
+spigoli_vivi:         0.9

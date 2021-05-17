@@ -1,0 +1,9 @@
+grottesco+:           0.9
+-caricatura+:         0.9
+-metaforico+:         0.9
+-trasfigurazione+:    0.9
+imperatore:           0.9
+-personaggio:         0.9
+cesare:               0.9
+augusto:              0.9
+corona_di_alloro:     0.9

@@ -1,0 +1,3 @@
+traccia:              0.9
+guasto:               0.9
+opposizione:          0.9

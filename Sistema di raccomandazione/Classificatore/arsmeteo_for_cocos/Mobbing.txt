@@ -1,0 +1,12 @@
+liberazione:          0.9
+inaspettato:          0.9
+siciliano:            0.9
+sorprendere:          0.9
+mobbing:              0.9
+capo_squadra:         0.9
+operaio:              0.9
+sorvegliante:         0.9
+di_buon_occhio:       0.9
+rosso:                0.9
+cuor_di_leone:        0.9
+il_ruggito_della_pecora:0.9

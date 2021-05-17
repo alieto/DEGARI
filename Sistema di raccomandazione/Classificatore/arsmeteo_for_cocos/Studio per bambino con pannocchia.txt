@@ -1,0 +1,3 @@
+studio:               0.9
+bambino:              0.9
+pannocchia:           0.9

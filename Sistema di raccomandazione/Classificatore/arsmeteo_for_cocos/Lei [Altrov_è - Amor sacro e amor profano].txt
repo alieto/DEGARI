@@ -1,0 +1,2 @@
+delta_di_venere:      0.9
+cartolina:            0.9

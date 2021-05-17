@@ -1,0 +1,9 @@
+violinista:           0.9
+musica:               0.9
+barchette_di_carta:   0.9
+falce_di_luna:        0.9
+leggio:               0.9
+partitura:            0.9
+musicista:            0.9
+in_strada:            0.9
+esecuzione:           0.9

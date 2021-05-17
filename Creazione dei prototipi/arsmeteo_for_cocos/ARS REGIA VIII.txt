@@ -1,0 +1,14 @@
+shock:                0.9
+cammino:              0.9
+occhio:               0.9
+riprendere:           0.9
+dolente:              0.9
+strada:               0.9
+vedere:               0.9
+rovo:                 0.9
+merlo:                0.9
+nido:                 0.9
+delizia:              0.9
+canto:                0.9
+rosso:                0.9
+ferita:               0.9

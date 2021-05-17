@@ -1,0 +1,6 @@
+sforzo:               0.9
+sostenere:            0.9
+scultura:             0.9
+milano:               0.9
+galleria:             0.9
+ivan_theimer:         0.9

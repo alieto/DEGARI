@@ -1,0 +1,17 @@
+strada:               0.9
+striscia:             0.9
+crepa:                0.9
+rottura:              0.9
+increspatura:         0.9
+montagna:             0.9
+roccioso:             0.9
+arido:                0.9
+secco:                0.9
+caldo:                0.9
+torrido:              0.9
+desertico:            0.9
+ardere:               0.9
+sabbioso:             0.9
+arsura:               0.9
+cielo_terso:          0.9
+catrame:              0.9

@@ -1,0 +1,8 @@
+origine:              0.9000000000000001
+big_bang:             0.6
+esplosione:           0.6
+inizio:               0.6
+sfera:                0.6
+forza:                0.6
+framment_azione:      0.6
+omaggio_a_pollock:    0.6

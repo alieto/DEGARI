@@ -1,0 +1,6 @@
+houston:              0.9
+piano:                0.9
+menil:                0.9
+macchia:              0.9
+poesia:               0.9
+magia:                0.9

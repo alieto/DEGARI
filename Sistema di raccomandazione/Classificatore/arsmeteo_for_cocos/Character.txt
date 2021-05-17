@@ -1,0 +1,7 @@
+stelarc:              0.9
+avatar:               0.9
+organs:               0.9
+what_is_art:          0.9
+scrittura:            0.9
+macchina:             0.9
+character:            0.9

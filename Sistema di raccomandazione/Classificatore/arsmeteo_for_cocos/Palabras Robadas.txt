@@ -1,0 +1,6 @@
+parola:               0.9
+rubato:               0.9
+legno:                0.9
+due_anni:             0.9
+buco:                 0.9
+aria:                 0.9

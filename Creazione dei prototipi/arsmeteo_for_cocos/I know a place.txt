@@ -1,0 +1,7 @@
+moda:                 0.9
+posa:                 0.9
+scala:                0.9
+scalino:              0.9
+alto:                 0.9
+donna:                0.9
+bellezza:             0.9

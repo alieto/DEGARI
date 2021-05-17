@@ -1,0 +1,7 @@
+forza:                0.9
+silvio:               0.9
+italia:               0.9
+ferro:                0.9
+battuto:              0.9
+bacheca:              0.9
+azzurro:              0.9

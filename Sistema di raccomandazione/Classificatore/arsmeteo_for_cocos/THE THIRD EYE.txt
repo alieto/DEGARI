@@ -1,0 +1,11 @@
+sigaretta:            0.9
+deserto:              0.9
+minorenne:            0.9
+budello:              0.9
+incidente:            0.9
+sfondo:               0.9
+ambiguità:            0.9
+sorriso:              0.9
+scollatura:           0.9
+graffitismo:          0.9
+netville:             0.9

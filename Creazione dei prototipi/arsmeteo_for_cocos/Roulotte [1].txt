@@ -1,0 +1,4 @@
+bellezza:             0.9
+luce:                 0.9
+interno:              0.9
+donna:                0.9

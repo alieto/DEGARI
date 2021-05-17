@@ -1,0 +1,7 @@
+profilo:              0.9
+ombra:                0.9
+muro:                 0.9
+arco:                 0.9
+linea:                0.9
+viraggio:             0.9
+pietra_virtuale:      0.9

@@ -1,0 +1,3 @@
+suonatore:            0.9
+flauto:               0.9
+abbozzo:              0.9

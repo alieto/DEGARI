@@ -1,0 +1,6 @@
+margherita:           0.9
+domanda:              0.9
+sfogliare:            0.9
+amore:                0.9
+donna:                0.9
+solo:                 0.9

@@ -1,0 +1,7 @@
+leumann:              0.9
+venanzio:             0.9
+storia:               0.9
+tessile:              0.9
+violinista:           0.9
+viandante:            0.9
+storia_di_venanzio:   0.9

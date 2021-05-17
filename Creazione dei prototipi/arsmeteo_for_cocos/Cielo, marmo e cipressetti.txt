@@ -1,0 +1,5 @@
+basilica:             0.9
+garfagnana:           0.9
+cipresso:             0.9
+nuvola:               0.9
+cielo:                0.9

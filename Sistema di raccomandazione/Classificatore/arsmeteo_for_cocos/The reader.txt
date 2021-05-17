@@ -1,0 +1,6 @@
+uomo:                 0.9
+legge:                0.9
+lettore:              0.9
+repubblica:           0.9
+manifesto:            0.9
+miope:                0.9

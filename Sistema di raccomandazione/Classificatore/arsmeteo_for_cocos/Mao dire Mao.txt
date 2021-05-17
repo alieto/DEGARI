@@ -1,0 +1,7 @@
+andy_warhol:          0.9
+srigrafia:            0.9
+millenovecentosettantadue:0.9
+novantunopernovantuno:0.9
+serigrafia:           0.9
+mostra:               0.9
+parma:                0.9

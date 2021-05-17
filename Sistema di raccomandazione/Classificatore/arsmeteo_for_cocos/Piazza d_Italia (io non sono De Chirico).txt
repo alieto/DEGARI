@@ -1,0 +1,6 @@
+metafisica|metafisico:0.9
+castello:             0.9
+aria:                 0.9
+collina:              0.9
+chiesa:               0.9
+casa:                 0.9

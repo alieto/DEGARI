@@ -1,0 +1,3 @@
+firenze:              0.9
+souvenir:             0.9
+mattoncino:           0.9

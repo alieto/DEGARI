@@ -1,0 +1,9 @@
+progetto:             0.9
+stato_avanzamento:    0.9
+futuro:               0.9
+finestra:             0.9
+facciata:             0.9
+lavoro:               0.9
+muratore:             0.9
+garage:               0.9
+prova_colore:         0.9

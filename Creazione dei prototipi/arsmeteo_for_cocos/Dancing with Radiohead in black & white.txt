@@ -1,0 +1,5 @@
+radiohead:            0.9
+metarotazione:        0.9
+dance:                0.9
+bianco_e_nero:        0.9
+dioniso:              0.9

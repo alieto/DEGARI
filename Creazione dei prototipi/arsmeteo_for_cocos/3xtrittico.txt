@@ -1,0 +1,5 @@
+mondo:                0.9
+creature_nude:        0.9
+insetto:              0.9
+repetita_juvant:      0.9
+bollino:              0.9

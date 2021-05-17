@@ -1,0 +1,10 @@
+quilt:                0.9
+american:             0.9
+trasparenza:          0.9
+lento:                0.9
+tradizione:           0.9
+famiglia:             0.9
+trapunta:             0.9
+tessuto:              0.9
+frammento:            0.9
+rifrangere:           0.9

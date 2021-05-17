@@ -1,0 +1,9 @@
+biglietto:            0.9
+fila|file:            0.9
+modificazione:        0.9
+aforisma:             0.9
+ripetizione:          0.9
+destrutturazione:     0.9
+da_svista:            0.9
+postcard:             0.9
+francobollo:          0.9

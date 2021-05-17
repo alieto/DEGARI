@@ -1,0 +1,4 @@
+colonizzazione:       0.9
+massificazione:       0.9
+sugna:                0.9
+grasso_che_cola:      0.9

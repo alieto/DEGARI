@@ -1,0 +1,10 @@
+la_tavola_di_niépce:  0.9
+avventore:            0.9
+tavola:               0.9
+convivio:             0.9
+arte_collettiva:      0.9
+contaminazione:       0.9
+ripresa_digitale:     0.9
+set_table:            0.9
+pià¹_che_multipli:    0.9
+gioco_di_vita:        0.9

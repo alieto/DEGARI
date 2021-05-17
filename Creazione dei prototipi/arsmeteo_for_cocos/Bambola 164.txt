@@ -1,0 +1,8 @@
+bambola:              0.9
+aiuto:                0.9
+asteroide:            0.9
+surfanta:             0.9
+incubo:               0.9
+sospendere:           0.9
+ancestrale:           0.9
+visionario:           0.9

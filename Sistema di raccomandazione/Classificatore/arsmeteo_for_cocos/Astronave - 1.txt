@@ -1,0 +1,13 @@
+nave_spaziale:        0.9
+ufo:                  0.9
+astronave:            0.9
+spazio:               0.9
+universo:             0.9
+cosmico:              0.9
+cromatico:            0.9
+costellazione:        0.9
+pulviscolo:           0.9
+asteroide:            0.9
+extraterrestre:       0.9
+volante:              0.9
+infinito:             0.9

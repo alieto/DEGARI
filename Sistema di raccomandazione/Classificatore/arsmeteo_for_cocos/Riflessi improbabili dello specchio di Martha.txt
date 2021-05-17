@@ -1,0 +1,7 @@
+riflesso:             0.9
+doppio:               0.9
+improbabile:          0.9
+donna:                0.9
+specchio:             0.9
+allo_specchio:        0.9
+riflessione:          0.9

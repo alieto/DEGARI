@@ -1,0 +1,6 @@
+notte:                0.9
+luce:                 0.9
+scia:                 0.9
+scie_luninose:        0.9
+palazzo:              0.9
+strada:               0.9

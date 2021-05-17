@@ -1,0 +1,3 @@
+guazzo:               0.9
+acrilico:             0.9
+cartoncino:           0.9

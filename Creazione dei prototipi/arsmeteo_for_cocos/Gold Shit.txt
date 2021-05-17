@@ -1,0 +1,4 @@
+gold:                 0.9
+shit:                 0.9
+oro:                  0.9
+graffito:             0.9

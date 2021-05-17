@@ -1,0 +1,9 @@
+moda:                 0.9
+caschetto:            0.9
+sdraiare:             0.9
+bianco_e_nero:        0.9
+tristezza:            0.9
+noia:                 0.9
+cose_sparse:          0.9
+cameretta:            0.9
+cerchi_concentrici:   0.9

@@ -1,0 +1,10 @@
+età:                  0.9
+vita:                 0.9
+digitale:             0.9
+bottiglia:            0.9
+albero:               0.9
+uovo:                 0.9
+arcobaleno:           0.9
+orizzonte:            0.9
+cambiamento:          0.9
+sviluppo:             0.9

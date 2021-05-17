@@ -1,0 +1,5 @@
+paesaggio_arabo:      0.9
+albero:               0.9
+omaggio:              0.9
+salvo:                0.9
+palma:                0.9

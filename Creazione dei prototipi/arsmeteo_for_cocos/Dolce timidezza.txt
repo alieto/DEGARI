@@ -1,0 +1,2 @@
+segreto:              0.9
+semplicità:           0.9

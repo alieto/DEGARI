@@ -1,0 +1,7 @@
+nietzsche:            0.9
+ego:                  0.9
+postumo:              0.9
+post:                 0.9
+moderno:              0.9
+infinito:             0.9
+superfluo:            0.9

@@ -1,0 +1,6 @@
+vino:                 0.9
+relazione:            0.9
+etnico:               0.9
+multare:              0.9
+differenza:           0.9
+incontro:             0.9

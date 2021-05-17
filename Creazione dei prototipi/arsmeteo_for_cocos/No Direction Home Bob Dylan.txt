@@ -1,0 +1,6 @@
+martin_scorzese:      0.9
+rifotografare:        0.9
+mitico_bob:           0.9
+poeta:                0.9
+menestrello:          0.9
+fotogramma:           0.9

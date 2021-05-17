@@ -1,0 +1,5 @@
+strada:               0.9
+incrocio:             0.9
+foto:                 0.9
+day-after:            0.9
+plebiscito:           0.9

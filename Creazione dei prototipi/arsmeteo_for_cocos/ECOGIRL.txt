@@ -1,0 +1,3 @@
+ecografia:            0.9
+girl:                 0.9
+giapponese:           0.9

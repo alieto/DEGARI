@@ -1,0 +1,6 @@
+agorà:                0.9
+arsmeteo:             0.9
+piazza:               0.9
+metafisica|metafisico:0.9
+piazza_metafisica:    0.9
+silenzio:             0.9

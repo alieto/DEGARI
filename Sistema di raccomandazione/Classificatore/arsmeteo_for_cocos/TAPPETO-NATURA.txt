@@ -1,0 +1,8 @@
+tappeto:              0.9
+natura:               0.9
+artificio:            0.9
+lattice:              0.9
+gomma:                0.9
+poliuretano:          0.9
+zucca:                0.9
+fiore:                0.9

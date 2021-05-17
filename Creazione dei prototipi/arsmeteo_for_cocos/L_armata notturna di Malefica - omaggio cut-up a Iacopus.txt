@@ -1,0 +1,10 @@
+notte:                0.9
+mostro:               0.9
+linee_colorate:       0.9
+paint:                0.9
+metadisegno:          0.9
+citazionismo:         0.9
+originale:            0.9
+copia:                0.9
+variazione:           0.9
+postmodernismo:       0.9

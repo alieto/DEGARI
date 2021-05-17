@@ -1,0 +1,8 @@
+mostro:               0.9
+surfanta:             0.9
+surreale:             0.9
+inconscio:            0.9
+stella:               0.9
+asteroide:            0.9
+zanna:                0.9
+occhio:               0.9

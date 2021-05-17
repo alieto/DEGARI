@@ -1,0 +1,5 @@
+archivio:             0.9
+stratificazione:      0.9
+memoria:              0.9
+oggetto:              0.9
+strato:               0.9

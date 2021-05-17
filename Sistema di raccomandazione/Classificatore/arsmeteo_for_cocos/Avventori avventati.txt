@@ -1,0 +1,5 @@
+porto:                0.9
+vila_nova_de_gaia:    0.9
+atlantico:            0.9
+bar:                  0.9
+hotel:                0.9

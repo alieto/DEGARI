@@ -1,0 +1,7 @@
+-strappi+:            0.9
+-decollage+:          0.9
+-frammenti+:          0.9
+-frammentazione+:     0.9
+donna:                0.9
+-scritte+:            0.9
+-parole_parole_parole+:0.9

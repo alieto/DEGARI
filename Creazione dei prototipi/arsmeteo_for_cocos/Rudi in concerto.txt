@@ -1,0 +1,9 @@
+concerto:             0.9
+musica:               0.9
+performance:          0.9
+rude:                 0.9
+pubblico:             0.9
+rudi_punzo:           0.9
+spettatore:           0.9
+rudipz:               0.9
+ascoltatore:          0.9

@@ -1,0 +1,11 @@
+sky_line:             0.9
+nuvola:               0.9
+antenna:              0.9
+umanità:              0.9
+sovrapposizione:      0.9
+accumulo:             0.9
+storia:               0.9
+mattone:              0.9
+vetro:                0.9
+cemento:              0.9
+ricchezza:            0.9

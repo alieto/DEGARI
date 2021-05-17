@@ -1,0 +1,7 @@
+voce:                 0.9
+caldo:                0.9
+telefono:             0.9
+sogni_erotici:        0.9
+amore_a_distanza:     0.9
+telefono_erotico:     0.9
+dall_altra_parte:     0.9

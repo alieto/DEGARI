@@ -1,0 +1,8 @@
+collettivo:           0.9
+collaborazione:       0.9
+sorpresa:             0.9
+evento:               0.9
+arsmeteo:             0.9
+festa:                0.9
+mille:                0.9
+opera:                0.9

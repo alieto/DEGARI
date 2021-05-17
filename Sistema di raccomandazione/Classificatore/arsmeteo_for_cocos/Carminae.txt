@@ -1,0 +1,13 @@
+giorno:               0.9
+breve:                0.9
+tornare:              0.9
+luce:                 0.9
+unico:                0.9
+dormire:              0.9
+notte:                0.9
+fine:                 0.9
+catullo:              0.9
+tecnica:              0.9
+mista:                0.9
+20x20:                0.9
+cm:                   0.9

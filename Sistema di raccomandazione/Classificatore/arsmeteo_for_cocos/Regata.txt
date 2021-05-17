@@ -1,0 +1,5 @@
+acquerello:           0.9
+carta:                0.9
+cm.50x70:             0.9
+realizzazione:        0.9
+giugno:               0.9

@@ -1,0 +1,2 @@
+spettro:              0.9
+borghesia:            0.9

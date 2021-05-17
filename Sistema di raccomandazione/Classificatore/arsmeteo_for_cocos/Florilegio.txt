@@ -1,0 +1,3 @@
+rilievo:              0.9
+petalo:               0.9
+riquadro:             0.9

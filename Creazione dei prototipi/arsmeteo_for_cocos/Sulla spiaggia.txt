@@ -1,0 +1,3 @@
+geometria:            0.9
+sulla_spiaggia:       0.9
+conchiglia:           0.9

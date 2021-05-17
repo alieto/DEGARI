@@ -1,0 +1,9 @@
+zaffiro:              0.9
+salubre:              0.9
+blu:                  0.9
+manto_di_madonna:     0.9
+agguato:              0.9
+difesa:               0.9
+attesa:               0.9
+terra:                0.9
+attenzione:           0.9

@@ -1,0 +1,21 @@
+-omino+:              0.9
+-sogni+:              0.9
+-grafie+:             0.9
+-segni+:              0.9
+-onirico+:            0.9
+incontro:             0.9
+ponte:                0.9
+tag:                  0.9
+mare_di_tag:          0.9
+-due_passi+:          0.9
+vincent_e_marta:      0.9
+-linea+:              0.9
+-passeggiata+:        0.9
+-delineato+:          0.9
+-bidimensionale+:     0.9
+-flatlandia+:         0.9
+-omaggio_a_cavandoli+:0.9
+-delineare+:          0.9
+-lui_cerca+:          0.9
+-lui_trova+:          0.9
+-linea_di_cav:        0.9

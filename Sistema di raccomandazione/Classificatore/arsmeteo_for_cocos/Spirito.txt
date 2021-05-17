@@ -1,0 +1,4 @@
+spirito:              0.9
+alato:                0.9
+luminescenza:         0.9
+anima:                0.9

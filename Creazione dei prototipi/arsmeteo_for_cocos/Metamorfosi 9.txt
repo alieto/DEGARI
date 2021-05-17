@@ -1,0 +1,3 @@
+canelefante:          0.9
+pallina:              0.9
+_rossa:               0.9

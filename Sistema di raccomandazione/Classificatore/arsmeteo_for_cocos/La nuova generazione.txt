@@ -1,0 +1,7 @@
+gru:                  0.9
+uovo:                 0.9
+schiusa:              0.9
+nuova_generazione:    0.9
+progresso:            0.9
+generazione_tecnologica:0.9
+le_gru:               0.9

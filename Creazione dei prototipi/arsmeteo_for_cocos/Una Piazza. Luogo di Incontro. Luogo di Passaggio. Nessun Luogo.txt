@@ -1,0 +1,6 @@
+città:                0.9
+relazione:            0.9
+urbanistica:          0.9
+bianco:               0.9
+riflessione:          0.9
+sociale:              0.9

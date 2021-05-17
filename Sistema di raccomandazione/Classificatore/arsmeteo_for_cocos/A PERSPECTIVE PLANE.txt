@@ -1,0 +1,12 @@
+prospettiva:          0.9
+precauzione:          0.9
+concentramento:       0.9
+arma:                 0.9
+maceria:              0.9
+pianificazione:       0.9
+disoccupazione:       0.9
+occupazione:          0.9
+indicazione:          0.9
+rastrellamento:       0.9
+elmetto:              0.9
+netville:             0.9

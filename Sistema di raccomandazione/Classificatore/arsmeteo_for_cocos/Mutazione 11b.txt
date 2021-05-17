@@ -1,0 +1,3 @@
+caleidoscopico:       0.9
+rifrazione:           0.9
+cristallo:            0.9

@@ -1,0 +1,5 @@
+costruzione:          0.9
+casa:                 0.9
+scorcio_villaggio:    0.9
+liguria:              0.9
+villaggio:            0.9

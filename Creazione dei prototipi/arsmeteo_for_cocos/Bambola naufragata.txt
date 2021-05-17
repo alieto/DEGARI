@@ -1,0 +1,4 @@
+bambola:              0.9
+nave:                 0.9
+inquietante:          0.9
+blu:                  0.9

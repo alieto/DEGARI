@@ -1,0 +1,15 @@
+cerbiatto:            0.9
+coniglietto:          0.9
+bamby:                0.9
+sicurezza:            0.9
+controllo:            0.9
+ambiente_ostile:      0.9
+albero:               0.9
+ramo:                 0.9
+muro:                 0.9
+pietra:               0.9
+arco:                 0.9
+livello:              0.9
+sfera:                0.9
+cupola:               0.9
+pennone:              0.9

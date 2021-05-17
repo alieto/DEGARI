@@ -1,0 +1,11 @@
+fama:                 0.9
+vanità:               0.9
+mostro:               0.9
+surreale:             0.9
+mille_occhi:          0.9
+mille_bocche:         0.9
+notte:                0.9
+falce_di_luna:        0.9
+simpbolo:             0.9
+metafora:             0.9
+orribile:             0.9

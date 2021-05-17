@@ -1,0 +1,3 @@
+principe:             0.9
+sufi:                 0.9
+rotante:              0.9

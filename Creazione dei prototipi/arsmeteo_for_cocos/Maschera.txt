@@ -1,0 +1,10 @@
+teatro:               0.9
+maschera:             0.9
+nascondere:           0.9
+nero:                 0.9
+blu:                  0.9
+sotto:                0.9
+oro:                  0.9
+metallo:              0.9
+riflesso:             0.9
+lucido:               0.9

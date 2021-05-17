@@ -1,0 +1,8 @@
+vuoto:                0.9
+tienamen:             0.9
+prima_di_den_shiao_ping:0.9
+città:                0.9
+_proibita:            0.9
+uniforme:             0.9
+pedone:               0.9
+luce:                 0.9

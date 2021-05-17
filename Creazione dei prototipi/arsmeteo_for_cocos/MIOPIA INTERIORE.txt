@@ -1,0 +1,4 @@
+mano:                 0.9
+occhio:               0.9
+vicino:               0.9
+lontano:              0.9

@@ -1,0 +1,1 @@
+bagliori_gialli:      0.9

@@ -1,0 +1,6 @@
+palude:               0.9
+oscurità:             0.9
+profondità:           0.9
+isolato:              0.9
+nascondere:           0.9
+silenzio:             0.9

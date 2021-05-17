@@ -1,0 +1,9 @@
+cristo:               0.9
+crocefissione:        0.9
+uso:                  0.9
+america:              0.9
+bandiera:             0.9
+bomba:                0.9
+missile:              0.9
+morte:                0.9
+sofferenza:           0.9

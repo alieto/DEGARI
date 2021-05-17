@@ -1,0 +1,6 @@
+alfabeto:             0.9
+medievale:            0.9
+drago:                0.9
+caus:                 0.9
+dalla_a_alla_z:       0.9
+abbecedario:          0.9

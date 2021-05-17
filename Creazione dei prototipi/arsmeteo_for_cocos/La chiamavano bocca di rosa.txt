@@ -1,0 +1,5 @@
+bocca:                0.9
+rosa:                 0.9
+uomo:                 0.9
+cane:                 0.9
+finestra:             0.9

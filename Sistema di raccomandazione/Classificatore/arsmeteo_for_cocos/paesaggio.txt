@@ -1,0 +1,9 @@
+paesaggio:            0.9
+albero:               0.9
+pittura_digitale:     0.9
+terra:                0.9
+collina:              0.9
+scosceso:             0.9
+campo:                0.9
+filari:               0.9
+tono_su_tono:         0.9

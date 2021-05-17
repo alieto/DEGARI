@@ -1,0 +1,4 @@
+tempo:                0.9
+africo:               0.9
+congo_ex_belga:       0.9
+medici_con_frontiere: 0.9

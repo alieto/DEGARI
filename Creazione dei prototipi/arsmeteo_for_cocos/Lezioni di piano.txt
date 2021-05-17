@@ -1,0 +1,5 @@
+passione:             0.9
+trasporto:            0.9
+indicazione:          0.9
+epanouissement:       0.9
+cellulare:            0.9

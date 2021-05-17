@@ -1,0 +1,7 @@
+matita:               0.9
+chiocciola:           0.9
+matitona:             0.9
+soffondere:           0.9
+fune:                 0.9
+lumachina:            0.9
+filo_della_speranza:  0.9

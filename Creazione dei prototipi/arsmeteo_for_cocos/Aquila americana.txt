@@ -1,0 +1,4 @@
+aquila:               0.9
+americano:            0.9
+stemma:               0.9
+composizione:         0.9

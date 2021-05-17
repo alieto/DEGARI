@@ -1,0 +1,7 @@
+foro:                 0.9
+bruciatura:           0.9
+buco:                 0.9
+combustione:          0.9
+bianco:               0.9
+minimale:             0.9
+spazialismo:          0.9

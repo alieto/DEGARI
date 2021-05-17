@@ -1,0 +1,6 @@
+video_soirveglianza:  0.9
+metropolitana:        0.9
+villepinte:           0.9
+sei_di_sera:          0.9
+dal_treno_in_corsa:   0.9
+occhio_vigile:        0.9

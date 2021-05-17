@@ -1,0 +1,3 @@
+bruxelles:            0.9
+bang_di_bang:         0.9
+openheimer:           0.9

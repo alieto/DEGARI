@@ -1,0 +1,5 @@
+silenzio:             0.9
+natura:               0.9
+incontaminato:        0.9
+ruscello:             0.9
+foresta:              0.9

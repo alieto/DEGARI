@@ -1,0 +1,5 @@
+caldo:                0.9
+solo:                 0.9
+inquinamento:         0.9
+traffico:             0.9
+cosmogonia:           0.9

@@ -1,0 +1,7 @@
+fine_corsa:           0.9
+mucchio:              0.9
+rottame:              0.9
+recupero:             0.9
+riciclare:            0.9
+rifiuto:              0.9
+consumo:              0.9

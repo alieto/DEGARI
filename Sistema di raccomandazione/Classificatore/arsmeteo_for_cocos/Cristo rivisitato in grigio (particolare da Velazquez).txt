@@ -1,0 +1,5 @@
+cristo:               0.9
+velazquez:            0.9
+volto:                0.9
+croce:                0.9
+sofferenza:           0.9

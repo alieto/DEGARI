@@ -1,0 +1,3 @@
+farfalla:             0.9
+mattonella:           0.9
+rosso_venezia:        0.9

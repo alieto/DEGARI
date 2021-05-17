@@ -1,0 +1,2 @@
+velocità:             0.9
+fretta:               0.9

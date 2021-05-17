@@ -1,0 +1,17 @@
+alfabeto:             0.9
+arsmeteo:             0.9
+caus:                 0.9
+lettera:              0.9
+opera:                0.9
+carattere:            0.9
+alfameteo:            0.9
+abbecedario:          0.9
+lettere_artistiche:   0.9
+arte_calligrafica:    0.9
+capolettera_decorati: 0.9
+lettering:            0.9
+a_z:                  0.9
+dalla_a_alla_z:       0.9
+ordine_alfabetico:    0.9
+web_calligrafia:      0.9
+design_calligrafico:  0.9

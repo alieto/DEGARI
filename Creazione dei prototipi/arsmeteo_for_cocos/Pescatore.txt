@@ -1,0 +1,5 @@
+pescatore:            0.9
+pesce:                0.9
+sabbia:               0.9
+abboccare:            0.9
+esca:                 0.9

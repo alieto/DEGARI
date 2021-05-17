@@ -1,0 +1,9 @@
+musica:               0.9
+gusto:                0.9
+dipingere:            0.9
+mano:                 0.9
+corda:                0.9
+tocco:                0.9
+grazia:               0.9
+gentilezza:           0.9
+mostra:               0.9

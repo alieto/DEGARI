@@ -1,0 +1,10 @@
+bianco:               0.9
+rosso:                0.9
+angelo:               0.9
+diavolo:              0.9
+castelletto:          0.9
+monferrato:           0.9
+carnevale:            0.9
+corinadoli:           0.9
+binomio:              0.9
+contrasto:            0.9

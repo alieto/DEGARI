@@ -1,0 +1,4 @@
+lacrima:              0.9
+creazione:            0.9
+universo:             0.9
+caus:                 0.9

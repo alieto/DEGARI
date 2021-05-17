@@ -1,0 +1,4 @@
+newpop:               0.9
+pop:                  0.9
+bambola:              0.9
+natura:               0.9

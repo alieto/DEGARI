@@ -1,0 +1,4 @@
+fotopittura:          0.9
+foto:                 0.9
+mano:                 0.9
+fantasma:             0.9

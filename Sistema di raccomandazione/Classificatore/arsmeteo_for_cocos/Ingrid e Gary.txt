@@ -1,0 +1,7 @@
+sorriso:              0.9
+ansia:                0.9
+paura:                0.9
+dolcezza:             0.9
+cinema:               0.9
+sogno:                0.9
+finzione:             0.9

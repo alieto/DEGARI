@@ -1,0 +1,7 @@
+vandalismo:           0.9
+sacra_famiglia:       0.9
+affresco:             0.9
+cavo:                 0.9
+quadro:               0.9
+torino:               0.9
+muro:                 0.9

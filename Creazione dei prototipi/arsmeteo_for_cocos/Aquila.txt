@@ -1,0 +1,4 @@
+aquila:               0.9
+plexiglass:           0.9
+lampada:              0.9
+design:               0.9

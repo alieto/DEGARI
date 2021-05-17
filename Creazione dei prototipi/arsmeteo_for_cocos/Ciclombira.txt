@@ -1,0 +1,5 @@
+steel_band:           0.9
+macchina_sonora:      0.9
+meccanismo:           0.9
+suono:                0.9
+ritmo:                0.9

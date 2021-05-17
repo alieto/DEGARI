@@ -1,0 +1,4 @@
+spazio:               0.9
+luogo:                0.9
+arco:                 0.9
+ombra:                0.9

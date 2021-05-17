@@ -1,0 +1,6 @@
+torino:               0.9
+casa:                 0.9
+attico:               0.9
+palazzo:              0.9
+notte:                0.9
+inquietudine:         0.9

@@ -1,0 +1,9 @@
+pettirosso:           0.9
+aiuto:                0.9
+freddo:               0.9
+intirizzito:          0.9
+velocità:             0.9
+volo:                 0.9
+autostrada:           0.9
+aria:                 0.9
+fiducia:              0.9

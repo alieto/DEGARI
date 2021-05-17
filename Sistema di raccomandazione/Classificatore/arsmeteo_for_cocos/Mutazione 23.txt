@@ -1,0 +1,3 @@
+vortice:              0.9
+espansione_illimitata:0.9
+presagio_inquietante: 0.9

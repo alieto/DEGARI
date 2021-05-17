@@ -1,0 +1,4 @@
+disco:                0.9
+luce:                 0.9
+zampette:             0.9
+repetita_juvant:      0.9

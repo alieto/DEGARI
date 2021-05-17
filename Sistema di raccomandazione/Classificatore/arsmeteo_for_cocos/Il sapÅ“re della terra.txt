@@ -1,0 +1,9 @@
+installazione:        0.9
+diario:               0.9
+ispirare:             0.9
+due:                  0.9
+mese:                 0.9
+sensazione:           0.9
+pensiero:             0.9
+affetto:              0.9
+vivere:               0.9

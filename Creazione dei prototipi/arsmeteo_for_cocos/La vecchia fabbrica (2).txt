@@ -1,0 +1,12 @@
+fabbrica:             0.9
+metropoli:            0.9
+urbanizzazione:       0.9
+uomo:                 0.9
+grigiore:             0.9
+solitudine:           0.9
+oppressione:          0.9
+plumbeo:              0.9
+segni_del_passato:    0.9
+dissoluzione:         0.9
+vecchia_fabbrica:     0.9
+archeologia_industriale:0.9

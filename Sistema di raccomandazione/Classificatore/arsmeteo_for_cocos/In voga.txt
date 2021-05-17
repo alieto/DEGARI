@@ -1,0 +1,4 @@
+canottaggio:          0.9
+vogare:               0.9
+bianco:               0.9
+andare_via_liscio:    0.9

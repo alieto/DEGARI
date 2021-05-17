@@ -1,0 +1,4 @@
+baratto:              0.9
+ferma_carte:          0.9
+effe:                 0.9
+santa:                0.9

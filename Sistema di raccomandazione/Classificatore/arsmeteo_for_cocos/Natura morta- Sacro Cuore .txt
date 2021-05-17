@@ -1,0 +1,4 @@
+cristo:               0.9
+colore:               0.9
+gesà¹:                0.9
+pennello:             0.9

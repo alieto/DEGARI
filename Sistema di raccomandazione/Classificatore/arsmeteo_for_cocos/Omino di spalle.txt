@@ -1,0 +1,2 @@
+omino:                0.9
+guardare:             0.9

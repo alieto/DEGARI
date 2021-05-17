@@ -1,0 +1,4 @@
+cerchio:              0.9
+cerchi_concentrici:   0.9
+essenzialità:         0.9
+rigore:               0.9

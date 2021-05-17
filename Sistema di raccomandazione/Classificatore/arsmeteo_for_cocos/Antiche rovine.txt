@@ -1,0 +1,3 @@
+memoria:              0.9
+rovina:               0.9
+schema:               0.9

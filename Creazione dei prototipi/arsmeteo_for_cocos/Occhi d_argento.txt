@@ -1,0 +1,5 @@
+fosforescente:        0.9
+surfanta:             0.9
+donna:                0.9
+viso:                 0.9
+scaglia:              0.9

@@ -1,0 +1,15 @@
+/:                    0.9
+nbsp:                 0.76
+erba:                 0.64
+herbe:                0.62
+de:                   0.62
+buono:                0.6
+odeur:                0.6
+yourcenar:            0.6
+odore:                0.6
+venire:               0.6
+trascrizione:         0.6
+prosdocimo:           0.6
+les:                  0.6
+noms:                 0.6
+dieu:                 0.6

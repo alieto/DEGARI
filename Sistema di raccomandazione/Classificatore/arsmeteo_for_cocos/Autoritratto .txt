@@ -1,0 +1,3 @@
+colore:               0.9
+riccio:               0.9
+autoritratto:         0.9

@@ -1,0 +1,8 @@
+lotta:                0.9
+passione:             0.9
+mostro:               0.9
+uomo:                 0.9
+donna:                0.9
+gouache:              0.9
+guazzo:               0.9
+strane_situazioni:    0.9

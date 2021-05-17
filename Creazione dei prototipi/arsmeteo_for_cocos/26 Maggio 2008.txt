@@ -1,0 +1,3 @@
+acrilico:             0.9
+ink:                  0.9
+jet:                  0.9

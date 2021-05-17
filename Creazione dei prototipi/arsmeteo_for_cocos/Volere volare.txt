@@ -1,0 +1,3 @@
+buio:                 0.9
+volare:               0.9
+biancanotte:          0.9

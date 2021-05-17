@@ -1,0 +1,7 @@
+moto:                 0.9
+sccoter:              0.9
+auto:                 0.9
+persona:              0.9
+inquinamento:         0.9
+rumore:               0.9
+affanno:              0.9

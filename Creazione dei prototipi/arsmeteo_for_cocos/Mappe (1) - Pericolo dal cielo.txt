@@ -1,0 +1,6 @@
+nappa:                0.9
+cartina:              0.9
+topografico:          0.9
+pericolo:             0.9
+oscuro:               0.9
+ragno_volante:        0.9

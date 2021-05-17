@@ -1,0 +1,10 @@
+storia:               0.9
+amore:                0.9
+storia_d_amore:       0.9
+love_story:           0.9
+mano:                 0.9
+incontro:             0.9
+con_le_mani:          0.9
+scontro:              0.9
+evoluzione:           0.9
+senza_parole:         0.9

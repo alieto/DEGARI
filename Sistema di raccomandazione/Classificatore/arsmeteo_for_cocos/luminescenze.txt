@@ -1,0 +1,4 @@
+vaso:                 0.9
+notte:                0.9
+cortile:              0.9
+lusso:                0.9

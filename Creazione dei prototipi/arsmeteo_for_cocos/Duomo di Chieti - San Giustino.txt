@@ -1,0 +1,8 @@
+portale:              0.9
+chieti:               0.9
+statua:               0.9
+marmo:                0.9
+bronzo:               0.9
+carità:               0.9
+giustino:             0.9
+duomo:                0.9

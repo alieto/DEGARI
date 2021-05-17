@@ -1,0 +1,7 @@
+jioko:                0.9
+trappola:             0.9
+michele:              0.9
+croce:                0.9
+mickey_mouse:         0.9
+tetris:               0.9
+fontana:              0.9

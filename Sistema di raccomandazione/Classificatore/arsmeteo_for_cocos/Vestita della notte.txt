@@ -1,0 +1,9 @@
+donna:                0.9
+sogno:                0.9
+linea:                0.9
+sezione:              0.9
+linee_rosse:          0.9
+notte:                0.9
+luna:                 0.9
+falce_di_luna:        0.9
+corpo:                0.9

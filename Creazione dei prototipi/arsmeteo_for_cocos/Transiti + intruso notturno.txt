@@ -1,0 +1,3 @@
+fotogramma:           0.9
+cornice:              0.9
+intruso:              0.9

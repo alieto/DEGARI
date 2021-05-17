@@ -1,0 +1,3 @@
+architettura:         0.9
+urbanistica:          0.9
+subliminale:          0.9

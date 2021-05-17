@@ -1,0 +1,6 @@
+selfportrait:         0.9
+benslimane:           0.9
+giardino:             0.9
+vento_del_deserto:    0.9
+attesa:               0.9
+sospensione:          0.9

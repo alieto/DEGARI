@@ -1,0 +1,6 @@
+marameo:              0.9
+nero:                 0.9
+serigrafia:           0.9
+alfa_romeo:           0.9
+marchio:              0.9
+logo:                 0.9

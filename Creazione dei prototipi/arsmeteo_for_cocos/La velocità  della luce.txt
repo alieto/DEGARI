@@ -1,0 +1,3 @@
+fascio:               0.9
+vibrazione:           0.9
+istantenea:           0.9

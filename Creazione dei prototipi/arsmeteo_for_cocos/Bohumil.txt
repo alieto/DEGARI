@@ -1,0 +1,4 @@
+energia:              0.9
+speranza:             0.9
+gioco:                0.9
+curiosità:            0.9

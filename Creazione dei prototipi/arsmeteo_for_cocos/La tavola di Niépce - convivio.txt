@@ -1,0 +1,6 @@
+d_après_niépce:       0.9
+composizione:         0.9
+convivio:             0.9
+sottrazione:          0.9
+sovrapposizione:      0.9
+arte_collettiva:      0.9

@@ -1,0 +1,5 @@
+arco:                 0.9
+pietra:               0.9
+stalattite:           0.9
+neve:                 0.9
+freddo:               0.9

@@ -1,0 +1,16 @@
+br:                   0.9
+spaesato:             0.75
+div:                  0.6
+font-size:            0.6
+style:                0.6
+13px:                 0.6
+40px:                 0.6
+margin:               0.6
+line-height:          0.6
+22px\:                0.6
+dilatare:             0.6
+comporto:             0.6
+ritrovo:              0.6
+volteggio:            0.6
+mente:                0.6
+/:                    0.6

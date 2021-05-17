@@ -1,0 +1,6 @@
+mano:                 0.9
+sigaretta:            0.9
+anello:               0.9
+tra_le_dita:          0.9
+giacca:               0.9
+bottone:              0.9

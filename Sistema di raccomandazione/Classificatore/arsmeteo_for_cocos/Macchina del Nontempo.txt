@@ -1,0 +1,5 @@
+spazio:               0.9
+tecnologia:           0.9
+futuro:               0.9
+alieno:               0.9
+lucido:               0.9

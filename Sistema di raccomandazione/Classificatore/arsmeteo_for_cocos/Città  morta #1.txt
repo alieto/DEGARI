@@ -1,0 +1,5 @@
+città:                0.9
+vuoto:                0.9
+costruzione:          0.9
+composizione:         0.9
+modulo:               0.9

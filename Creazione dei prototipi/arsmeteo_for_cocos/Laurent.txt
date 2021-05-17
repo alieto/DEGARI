@@ -1,0 +1,5 @@
+musica:               0.9
+rosso:                0.9
+unplugged:            0.9
+godere:               0.9
+jamsession:           0.9

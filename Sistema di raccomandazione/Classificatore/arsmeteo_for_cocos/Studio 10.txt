@@ -1,0 +1,7 @@
+studio:               0.9
+pixel:                0.9
+bianco_e_nero:        0.9
+scacco:               0.9
+quadrato:             0.9
+uno_zero:             0.9
+zero_uno:             0.9

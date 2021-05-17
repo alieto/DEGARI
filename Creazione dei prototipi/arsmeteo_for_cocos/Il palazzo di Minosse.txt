@@ -1,0 +1,9 @@
+metamorfosi:          0.9
+metafora:             0.9
+volo:                 0.9
+labirinto:            0.9
+minosse:              0.9
+ala:                  0.9
+visione:              0.9
+sorvolare:            0.9
+surreale:             0.9

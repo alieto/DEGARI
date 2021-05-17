@@ -1,0 +1,3 @@
+fabrizio:             0.9
+fontana:              0.9
+fufu:                 0.9

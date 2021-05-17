@@ -1,0 +1,8 @@
+stupore:              0.9
+euforia:              0.9
+felinitas:            0.9
+trasfigurazione:      0.9
+gatta:                0.9
+girasole:             0.9
+vincent:              0.9
+absit_iniuria:        0.9

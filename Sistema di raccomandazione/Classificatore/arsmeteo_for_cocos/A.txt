@@ -1,0 +1,8 @@
+quadratino:           0.9
+illustrazione:        0.9
+filastrocca:          0.9
+alfabeto:             0.9
+gioco:                0.9
+asinello:             0.9
+albero:               0.9
+angelo:               0.9

@@ -1,0 +1,4 @@
+tre:                  0.9
+elefante:             0.9
+nino:                 0.9
+baratto:              0.9

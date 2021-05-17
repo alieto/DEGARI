@@ -1,0 +1,5 @@
+bottiglia:            0.9
+fotografia:           0.9
+bottiglie_fotografiche:0.9
+tapporosso:           0.9
+foto_ricordo:         0.9

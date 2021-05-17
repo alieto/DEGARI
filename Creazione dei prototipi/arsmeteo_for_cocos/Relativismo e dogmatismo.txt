@@ -1,0 +1,14 @@
+relativismo:          0.9
+dogmatismo:           0.9
+certezza:             0.9
+dubbio:               0.9
+tolleranza:           0.9
+neo_oscurantismo:     0.9
+pensiero_unico:       0.9
+confronto:            0.9
+dialogo:              0.9
+vera_fede:            0.9
+dogma:                0.9
+guerra_santa:         0.9
+popolo_eletto:        0.9
+razza_pura:           0.9

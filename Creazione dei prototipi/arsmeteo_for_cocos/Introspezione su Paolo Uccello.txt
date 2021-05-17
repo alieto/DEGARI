@@ -1,0 +1,3 @@
+introspezione:        0.9
+paolo_uccello:        0.9
+geometria:            0.9

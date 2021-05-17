@@ -1,0 +1,3 @@
+spettro:              0.9
+convergenza:          0.9
+stocastico:           0.9

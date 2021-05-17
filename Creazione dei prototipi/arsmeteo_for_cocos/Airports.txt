@@ -1,0 +1,4 @@
+glamour:              0.9
+effimero:             0.9
+pubblicità:           0.9
+consumo:              0.9

@@ -1,0 +1,5 @@
+armata:               0.9
+ridisegnare:          0.9
+allegria:             0.9
+mostri_colorati:      0.9
+citazionismo:         0.9

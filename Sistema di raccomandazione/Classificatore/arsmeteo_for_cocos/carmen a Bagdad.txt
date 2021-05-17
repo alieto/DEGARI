@@ -1,0 +1,6 @@
+strada:               0.9
+sorriso:              0.9
+gente:                0.9
+folla:                0.9
+estraneamento:        0.9
+esotismo:             0.9

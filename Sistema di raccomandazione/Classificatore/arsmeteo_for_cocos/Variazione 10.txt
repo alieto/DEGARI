@@ -1,0 +1,4 @@
+ink_jet:              0.9
+scarti_di_stampa:     0.9
+tela:                 0.9
+acrilico:             0.9

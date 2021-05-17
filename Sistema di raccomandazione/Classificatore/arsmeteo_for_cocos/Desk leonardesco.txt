@@ -1,0 +1,3 @@
+leonardo:             0.9
+desk:                 0.9
+pc_design:            0.9

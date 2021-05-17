@@ -1,0 +1,2 @@
+gattone:              0.9
+fusa:                 0.9

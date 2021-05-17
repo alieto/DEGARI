@@ -1,0 +1,12 @@
+bestia:               0.9
+occhio:               0.9
+bipede:               0.9
+maculare:             0.9
+ranicorno:            0.9
+surfanta:             0.9
+nuotata:              0.9
+monoronte:            0.9
+mostro:               0.9
+pesci_rana:           0.9
+unicorno:             0.9
+anfibiodonti:         0.9

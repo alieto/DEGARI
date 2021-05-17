@@ -1,0 +1,8 @@
+sobborgo:             0.9
+lavoro:               0.9
+attività:             0.9
+ricupero:             0.9
+catalizzatore:        0.9
+estraneamento:        0.9
+m_touzi:              0.9
+canetti:              0.9

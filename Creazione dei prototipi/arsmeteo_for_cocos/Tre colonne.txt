@@ -1,0 +1,5 @@
+colonna:              0.9
+reperto:              0.9
+pietra:               0.9
+isolato:              0.9
+capitello:            0.9

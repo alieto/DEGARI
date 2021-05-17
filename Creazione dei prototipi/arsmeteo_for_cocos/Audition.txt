@@ -1,0 +1,9 @@
+audizione:            0.9
+affollamento:         0.9
+grandi_speranze:      0.9
+attesa:               0.9
+cappuccetti:          0.9
+cappucceetti_rossi:   0.9
+rosso:                0.9
+ragazza:              0.9
+vanità:               0.9

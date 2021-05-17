@@ -1,0 +1,9 @@
+shopping:             0.9
+folle:                0.9
+negozio:              0.9
+spendere:             0.9
+mania:                0.9
+moda:                 0.9
+esagerazione:         0.9
+prezzo:               0.9
+spesa:                0.9

@@ -1,0 +1,10 @@
+cerchio:              0.9
+combustione:          0.9
+foro:                 0.9
+cerchi_concentrici:   0.9
+bucato:               0.9
+in_cerchio:           0.9
+bianco:               0.9
+minimale:             0.9
+forma:                0.9
+bruciatura:           0.9

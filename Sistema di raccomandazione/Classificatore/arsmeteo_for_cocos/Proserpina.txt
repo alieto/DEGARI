@@ -1,0 +1,11 @@
+donna:                0.9
+proserpina:           0.9
+nudo:                 0.9
+classico:             0.9
+classicismo:          0.9
+mito:                 0.9
+persefone:            0.9
+kore:                 0.9
+alternanza:           0.9
+emergere:             0.9
+cambiamento:          0.9

@@ -1,0 +1,6 @@
+tragedia:             0.9
+anna_frank:           0.9
+figura:               0.9
+graffito:             0.9
+orrore:               0.9
+mai_dimenticare:      0.9

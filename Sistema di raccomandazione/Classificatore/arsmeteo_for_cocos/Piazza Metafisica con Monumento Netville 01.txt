@@ -1,0 +1,7 @@
+piazza:               0.9
+metafisica|metafisico:0.9
+interattivo:          0.9
+chat:                 0.9
+agorà:                0.9
+netville:             0.9
+monumento:            0.9

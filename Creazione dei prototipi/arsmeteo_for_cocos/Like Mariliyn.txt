@@ -1,0 +1,4 @@
+dancing:              0.9
+girotondo:            0.9
+bianco_nero:          0.9
+na:                   0.9

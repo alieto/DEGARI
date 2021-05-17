@@ -1,0 +1,4 @@
+cubo:                 0.9
+cemento:              0.9
+separazione:          0.9
+arredo_urbano:        0.9

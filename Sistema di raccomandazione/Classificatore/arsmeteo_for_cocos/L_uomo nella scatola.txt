@@ -1,0 +1,5 @@
+uomo:                 0.9
+scatola:              0.9
+trasparente:          0.9
+musica:               0.9
+silenzio:             0.9

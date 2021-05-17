@@ -1,0 +1,5 @@
+donna:                0.9
+viola:                0.9
+dormiente:            0.9
+riposo:               0.9
+sdraiare:             0.9

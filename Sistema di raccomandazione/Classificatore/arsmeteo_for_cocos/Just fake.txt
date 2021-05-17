@@ -1,0 +1,6 @@
+pistola:              0.9
+minaccia:             0.9
+uomo_blu:             0.9
+bimbo:                0.9
+paura:                0.9
+violenza:             0.9

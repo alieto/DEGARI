@@ -1,0 +1,6 @@
+umore:                0.9
+continuo:             0.9
+mutare:               0.9
+movimento:            0.9
+sbalzo:               0.9
+voluta:               0.9

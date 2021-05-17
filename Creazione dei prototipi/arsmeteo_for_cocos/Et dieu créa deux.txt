@@ -1,0 +1,8 @@
+dittico:              0.9
+occhio:               0.9
+twin:                 0.9
+due:                  0.9
+sky:                  0.9
+deus_ex_machina:      0.9
+stars:                0.9
+creation:             0.9

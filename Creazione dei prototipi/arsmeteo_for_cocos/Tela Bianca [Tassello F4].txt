@@ -1,0 +1,2 @@
+scrittura:            0.9
+performance:          0.9

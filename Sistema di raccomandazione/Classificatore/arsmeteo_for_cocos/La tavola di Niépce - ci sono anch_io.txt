@@ -1,0 +1,3 @@
+liquido:              0.9
+tri_dimensionare:     0.9
+alcolico:             0.9

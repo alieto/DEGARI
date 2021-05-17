@@ -1,0 +1,3 @@
+calligrafo:           0.9
+calligrafia:          0.9
+segno:                0.9

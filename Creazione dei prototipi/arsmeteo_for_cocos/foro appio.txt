@@ -1,0 +1,3 @@
+acqua:                0.9
+latina:               0.9
+storia:               0.9

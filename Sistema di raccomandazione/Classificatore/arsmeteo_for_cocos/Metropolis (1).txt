@@ -1,0 +1,7 @@
+automobile:           0.9
+traffico:             0.9
+giornata_uggiosa:     0.9
+vetro_appannato:      0.9
+in_strada:            0.9
+goccia:               0.9
+fanale:               0.9

@@ -1,0 +1,3 @@
+pittura:              0.9
+scultura:             0.9
+toccare:              0.9

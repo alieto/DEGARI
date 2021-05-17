@@ -1,0 +1,10 @@
+ritratto:             0.9
+trasparente:          0.9
+ritratto_trasparente: 0.9
+figura:               0.9
+donna:                0.9
+scrittura:            0.9
+scritto:              0.9
+sirena:               0.9
+collage:              0.9
+composizione:         0.9

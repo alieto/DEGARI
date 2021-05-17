@@ -1,0 +1,4 @@
+geco:                 0.9
+trasparente:          0.9
+visita:               0.9
+presenza:             0.9

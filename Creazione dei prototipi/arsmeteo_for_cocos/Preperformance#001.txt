@@ -1,0 +1,5 @@
+performance:          0.9
+flamenco:             0.9
+ritratto:             0.9
+danza:                0.9
+colore:               0.9

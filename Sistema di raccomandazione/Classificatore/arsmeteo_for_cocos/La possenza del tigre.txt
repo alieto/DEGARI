@@ -1,0 +1,3 @@
+forza:                0.9
+tensione:             0.9
+portamento:           0.9

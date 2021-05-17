@@ -1,0 +1,4 @@
+santo:                0.9
+san_giuseppe:         0.9
+baratto:              0.9
+giuseppe:             0.9

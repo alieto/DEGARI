@@ -1,0 +1,17 @@
+niente:               0.9
+reale:                0.9
+sabbia:               0.9
+sand:                 0.9
+vinavil:              0.9
+glue:                 0.9
+collare:              0.9
+salento:              0.9
+arancio:              0.9
+acrilico:             0.9
+arancione:            0.9
+acrylic:              0.9
+orange:               0.9
+tela:                 0.9
+canvas:               0.9
+arte:                 0.9
+contemporaneo:        0.9

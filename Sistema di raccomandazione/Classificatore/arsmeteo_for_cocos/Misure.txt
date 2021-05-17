@@ -1,0 +1,4 @@
+altezza:              0.9
+proporzione:          0.9
+percorribilità:       0.9
+presenza:             0.9

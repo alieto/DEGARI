@@ -1,0 +1,6 @@
+ira:                  0.9
+urlo:                 0.9
+volto:                0.9
+alterato:             0.9
+bocca:                0.9
+tratto:               0.9

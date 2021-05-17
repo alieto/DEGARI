@@ -1,0 +1,4 @@
+linea:                0.9
+divisione:            0.9
+farfalla:             0.9
+mela:                 0.9

@@ -1,0 +1,4 @@
+nascita:              0.9
+morte:                0.9
+ciclo:                0.9
+vita:                 0.9

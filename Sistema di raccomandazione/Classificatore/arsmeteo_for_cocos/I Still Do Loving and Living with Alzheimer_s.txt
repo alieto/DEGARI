@@ -1,0 +1,3 @@
+alzheimer:            0.9
+loving:               0.9
+living_with:          0.9

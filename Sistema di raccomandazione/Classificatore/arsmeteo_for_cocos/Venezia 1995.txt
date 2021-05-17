@@ -1,0 +1,5 @@
+disegno:              0.9
+penna:                0.9
+biro:                 0.9
+acquerello:           0.9
+cartoncino:           0.9

@@ -1,0 +1,6 @@
+massimo:              0.9
+black:                0.9
+castronuovo:          0.9
+white:                0.9
+bianco:               0.9
+nero:                 0.9

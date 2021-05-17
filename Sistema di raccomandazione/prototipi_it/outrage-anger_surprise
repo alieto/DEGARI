@@ -1,0 +1,29 @@
+#Title composizione
+Title : anger-surprise
+
+#Concetto Principale
+Head Concept Name : anger
+
+#Concetto Modificatore
+Modifier Concept Name : surprise
+
+
+
+modifier, -anticipazione
+
+T(modifier), sorpresa, 0.93
+T(modifier), sbalordire, 0.91
+T(modifier), esplodere, 0.91
+T(modifier), imboscata, 0.88
+T(modifier), eruzione, 0.88
+T(modifier), impaurire, 0.88
+
+T(head), oltraggiato, 0.96
+T(head), brutalità, 0.96
+T(head), odio, 0.95
+T(head), terrorizzare, 0.94
+T(head), violentemente, 0.94
+T(head), infuriato, 0.94
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '0', '1', '1', 6.042055838190796e-05

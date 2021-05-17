@@ -1,0 +1,5 @@
+corpo:                0.9
+luminescenza:         0.9
+arsmeteo_nove_undici: 0.9
+schermografia:        0.9
+energia:              0.9

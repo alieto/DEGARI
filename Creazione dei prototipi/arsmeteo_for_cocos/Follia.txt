@@ -1,0 +1,5 @@
+follia:               0.9
+religione:            0.9
+urlare:               0.9
+alta_voce:            0.9
+strada:               0.9

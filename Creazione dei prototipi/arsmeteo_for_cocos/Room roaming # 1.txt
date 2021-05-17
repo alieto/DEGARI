@@ -1,0 +1,6 @@
+guardare_avanti:      0.9
+riflettere:           0.9
+un_vuoto:             0.9
+guardare:             0.9
+paura:                0.9
+di_cosa:              0.9

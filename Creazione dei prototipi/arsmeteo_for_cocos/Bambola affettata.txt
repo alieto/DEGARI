@@ -1,0 +1,5 @@
+lacrima:              0.9
+affettare:            0.9
+forbice:              0.9
+surfanta:             0.9
+surreale:             0.9

@@ -1,0 +1,7 @@
+deportazione:         0.9
+stazione:             0.9
+pendolare:            0.9
+centro_di_transito:   0.9
+collaborazionista:    0.9
+on_the_way_to_paris:  0.9
+on_the_way_to_hell:   0.9

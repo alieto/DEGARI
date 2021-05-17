@@ -1,0 +1,5 @@
+graffito:             0.9
+sorriso:              0.9
+muro:                 0.9
+città:                0.9
+globale:              0.9

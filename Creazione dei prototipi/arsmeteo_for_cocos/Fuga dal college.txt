@@ -1,0 +1,4 @@
+fuga:                 0.9
+millepiedi:           0.9
+scarpa:               0.9
+millepiedi_in_una_scarpa:0.9

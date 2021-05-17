@@ -1,0 +1,3 @@
+feng_zhengjie:        0.9
+singapore_art_museum: 0.9
+acrilico:             0.9

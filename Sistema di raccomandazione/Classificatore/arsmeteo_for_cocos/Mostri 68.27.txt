@@ -1,0 +1,8 @@
+mostro:               0.9
+surfanta:             0.9
+inconscio:            0.9
+zanna:                0.9
+cchio:                0.9
+simbolo:              0.9
+bestia_ovulare:       0.9
+globuli_rossi:        0.9

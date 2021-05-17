@@ -1,0 +1,6 @@
+graffito:             0.9
+torino:               0.9
+auto:                 0.9
+profilo:              0.9
+thru_the_window:      0.9
+provino:              0.9

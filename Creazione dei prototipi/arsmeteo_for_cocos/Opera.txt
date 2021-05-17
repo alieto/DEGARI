@@ -1,0 +1,5 @@
+gabbia:               0.9
+buio:                 0.9
+ignoto:               0.9
+salire:               0.9
+inquietudine:         0.9

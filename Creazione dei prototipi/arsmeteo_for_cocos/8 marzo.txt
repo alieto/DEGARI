@@ -1,0 +1,7 @@
+otto_marzo:           0.9
+fonte:                0.9
+cuore:                0.9
+seno:                 0.9
+tormento:             0.9
+cuore_estirpato:      0.9
+secchio:              0.9

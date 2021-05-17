@@ -1,0 +1,6 @@
+muro:                 0.9
+strappo:              0.9
+fogli_strappati:      0.9
+decollage:            0.9
+frammento:            0.9
+frammentazione:       0.9

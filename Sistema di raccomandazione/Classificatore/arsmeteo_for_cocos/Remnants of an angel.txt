@@ -1,0 +1,8 @@
+resto:                0.9
+angelo:               0.9
+dito:                 0.9
+fiamma:               0.9
+piuma:                0.9
+nella_mano:           0.9
+remnants:             0.9
+angel:                0.9

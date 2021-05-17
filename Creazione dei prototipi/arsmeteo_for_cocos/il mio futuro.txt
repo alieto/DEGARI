@@ -1,0 +1,7 @@
+figlio:               0.9
+partenza:             0.9
+crescita:             0.9
+movimento:            0.9
+scoprire:             0.9
+neonato:              0.9
+futuro:               0.9

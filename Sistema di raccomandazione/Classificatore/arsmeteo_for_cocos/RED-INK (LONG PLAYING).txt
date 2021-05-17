@@ -1,0 +1,7 @@
+red-ink:              0.9
+long_playing:         0.9
+kinder:               0.9
+disco:                0.9
+lp:                   0.9
+33_giri:              0.9
+serigrafia:           0.9

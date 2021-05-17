@@ -1,0 +1,6 @@
+declamazione:         0.9
+risveglio:            0.9
+sognimpiazza:         0.9
+sogno:                0.9
+piazza:               0.9
+argonauta:            0.9

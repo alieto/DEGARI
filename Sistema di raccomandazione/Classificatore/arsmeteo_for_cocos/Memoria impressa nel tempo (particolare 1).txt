@@ -1,0 +1,4 @@
+plexiglas:            0.9
+stampa:               0.9
+rete:                 0.9
+metallico:            0.9

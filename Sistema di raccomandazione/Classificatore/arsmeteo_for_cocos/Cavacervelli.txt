@@ -1,0 +1,4 @@
+cervello:             0.9
+canatappi:            0.9
+psichiatria:          0.9
+metafora:             0.9

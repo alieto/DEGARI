@@ -1,0 +1,5 @@
+ombra:                0.9
+matitona:             0.9
+fune:                 0.9
+appendere:            0.9
+chiocciola:           0.9

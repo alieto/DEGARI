@@ -1,0 +1,5 @@
+cane:                 0.9
+addormentare:         0.9
+zanzara:              0.9
+libro:                0.9
+coperta:              0.9

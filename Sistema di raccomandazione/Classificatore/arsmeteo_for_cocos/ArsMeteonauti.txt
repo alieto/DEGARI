@@ -1,0 +1,2 @@
+vincenzo_ampolo:      0.9
+gianni_colombo:       0.9

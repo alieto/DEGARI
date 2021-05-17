@@ -1,0 +1,2 @@
+optimism:             0.9
+surprise:             0.9

@@ -1,0 +1,7 @@
+giostra:              0.9
+sorriso:              0.9
+trepidazione:         0.9
+spensieratezza:       0.9
+gioco:                0.9
+paese_dei_balocchi:   0.9
+capogiro:             0.9

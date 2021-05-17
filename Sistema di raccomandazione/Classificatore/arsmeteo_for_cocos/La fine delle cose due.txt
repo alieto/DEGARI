@@ -1,0 +1,5 @@
+cavallerizza|cavallerizzo:0.9
+zampa:                0.9
+legno:                0.9
+vernice:              0.9
+disfacimento:         0.9

@@ -1,0 +1,6 @@
+vita:                 0.9
+morte:                0.9
+immobilità:           0.9
+serenità:             0.9
+gelo:                 0.9
+bambola:              0.9

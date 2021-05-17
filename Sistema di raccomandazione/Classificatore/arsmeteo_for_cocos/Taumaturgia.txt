@@ -1,0 +1,6 @@
+malattia:             0.9
+famiglia:             0.9
+cura:                 0.9
+casa:                 0.9
+convivenza:           0.9
+musica:               0.9

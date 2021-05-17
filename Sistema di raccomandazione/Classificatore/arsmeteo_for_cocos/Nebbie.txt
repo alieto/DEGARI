@@ -1,0 +1,7 @@
+nebbia:               0.9
+evanescenza:          0.9
+irrealtà:             0.9
+flusso:               0.9
+connessione:          0.9
+percorso:             0.9
+desolazione:          0.9

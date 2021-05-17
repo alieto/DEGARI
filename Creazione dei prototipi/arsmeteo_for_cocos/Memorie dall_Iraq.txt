@@ -1,0 +1,2 @@
+ricordo:              0.9
+memoria:              0.9

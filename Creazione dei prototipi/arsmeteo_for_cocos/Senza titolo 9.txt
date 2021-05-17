@@ -1,0 +1,5 @@
+velo:                 0.9
+trasparenza:          0.9
+cerchio:              0.9
+cerchi_concentrici:   0.9
+luce:                 0.9

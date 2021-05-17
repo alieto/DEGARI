@@ -1,0 +1,5 @@
+studio:               0.9
+chirone:              0.9
+centauro:             0.9
+orologio:             0.9
+mitologia:            0.9

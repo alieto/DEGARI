@@ -1,0 +1,4 @@
+repetita_juvant:      0.9
+vita_digitale:        0.9
+fake:                 0.9
+bluff:                0.9

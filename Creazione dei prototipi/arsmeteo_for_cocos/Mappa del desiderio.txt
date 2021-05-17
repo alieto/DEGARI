@@ -1,0 +1,2 @@
+mappa:                0.9
+freccia:              0.9

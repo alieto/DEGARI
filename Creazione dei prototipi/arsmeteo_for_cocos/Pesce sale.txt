@@ -1,0 +1,5 @@
+pesce_fuor_di_metafora:0.9
+impalare:             0.9
+pesce:                0.9
+incastonare:          0.9
+occhione:             0.9

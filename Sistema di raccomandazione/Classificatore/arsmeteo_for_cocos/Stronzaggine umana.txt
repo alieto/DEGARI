@@ -1,0 +1,5 @@
+spiaggia:             0.9
+rifiuto:              0.9
+palettine_plastica:   0.9
+mozzicone:            0.9
+sporco:               0.9

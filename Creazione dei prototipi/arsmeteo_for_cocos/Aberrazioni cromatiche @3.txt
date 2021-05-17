@@ -1,0 +1,3 @@
+cromatura:            0.9
+geometrie_analitiche: 0.9
+variazione:           0.9

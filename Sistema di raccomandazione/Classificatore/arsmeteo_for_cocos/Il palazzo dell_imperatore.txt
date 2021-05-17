@@ -1,0 +1,2 @@
+visione:              0.9
+oriente:              0.9

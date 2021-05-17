@@ -1,0 +1,5 @@
+fiume:                0.9
+acqua:                0.9
+canoa:                0.9
+singolo:              0.9
+sport:                0.9

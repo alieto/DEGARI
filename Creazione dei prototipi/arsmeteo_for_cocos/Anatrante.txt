@@ -1,0 +1,4 @@
+anatra:               0.9
+acqua:                0.9
+percorso:             0.9
+trafiggere:           0.9

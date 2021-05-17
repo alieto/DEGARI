@@ -1,0 +1,3 @@
+rettitudine:          0.9
+dissoi_logoi:         0.9
+spettralità:          0.9

@@ -1,0 +1,6 @@
+sogno:                0.9
+mare:                 0.9
+alba:                 0.9
+sole_nascente:        0.9
+striatura:            0.9
+orizzonte:            0.9

@@ -1,0 +1,14 @@
+-energia+:            0.9
+-forze+:              0.9
+-spirito+:            0.9
+-librarsi+:           0.9
+-volare+:             0.9
+-campo_di_forze+:     0.9
+-genesi+:             0.9
+origine+:             0.9
+-creazione+:          0.9
+-inizio+:             0.9
+-leggerezza+:         0.9
+-trasparenze+:        0.9
+uccello:              0.9
+vita:                 0.9

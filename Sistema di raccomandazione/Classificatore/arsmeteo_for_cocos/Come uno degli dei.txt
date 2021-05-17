@@ -1,0 +1,5 @@
+50x70:                0.9
+cm:                   0.9
+tecnica:              0.9
+mista:                0.9
+carta:                0.9

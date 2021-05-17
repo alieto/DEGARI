@@ -1,0 +1,2 @@
+bicicletta:           0.9
+riposo:               0.9

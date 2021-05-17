@@ -1,0 +1,4 @@
+diario:               0.9
+minimo:               0.9
+going:                0.9
+places:               0.9

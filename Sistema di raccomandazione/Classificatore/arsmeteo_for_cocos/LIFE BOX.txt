@@ -1,0 +1,3 @@
+contemporaneo:        0.9
+abitare:              0.9
+modulo:               0.9

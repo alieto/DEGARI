@@ -1,0 +1,8 @@
+ritratto:             0.9
+foto:                 0.9
+fotografia:           0.9
+fototessera:          0.9
+ricerca:              0.9
+identità:             0.9
+cercando_se_stessi:   0.9
+tempo:                0.9

@@ -1,0 +1,8 @@
+ragazza:              0.9
+ombrellone:           0.9
+spiaggia:             0.9
+mare:                 0.9
+bagnante:             0.9
+donna:                0.9
+diavoletto:           0.9
+in_volo:              0.9

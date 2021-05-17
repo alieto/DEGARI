@@ -1,0 +1,7 @@
+asino:                0.9
+in_castigo:           0.9
+nell_angolo:          0.9
+serpente:             0.9
+ombra:                0.9
+topo:                 0.9
+punizione:            0.9

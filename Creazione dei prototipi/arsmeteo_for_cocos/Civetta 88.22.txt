@@ -1,0 +1,16 @@
+civetta:              0.9
+notte:                0.9
+cappotto:             0.9
+notturno:             0.9
+appollaiare:          0.9
+cappottino:           0.9
+surfanta:             0.9
+sul_ramo:             0.9
+artiglio:             0.9
+nottambulo:           0.9
+solitaria:            0.9
+veglia:               0.9
+albero:               0.9
+bosco:                0.9
+rapace:               0.9
+ali_in_tasca:         0.9

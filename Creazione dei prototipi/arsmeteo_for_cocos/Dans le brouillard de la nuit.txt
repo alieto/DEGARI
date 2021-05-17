@@ -1,0 +1,6 @@
+brahms:               0.9
+nebulosa:             0.9
+suono:                0.9
+frammento:            0.9
+amplificazione:       0.9
+sereno_e_noia:        0.9

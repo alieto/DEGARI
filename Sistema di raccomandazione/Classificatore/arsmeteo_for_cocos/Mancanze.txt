@@ -1,0 +1,1 @@
+mancanza:             0.9

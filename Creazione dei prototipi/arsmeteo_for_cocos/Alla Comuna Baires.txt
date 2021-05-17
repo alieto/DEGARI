@@ -1,0 +1,8 @@
+comuna_baires:        0.9
+festa:                0.9
+attore:               0.9
+spettacolo:           0.9
+pubblico:             0.9
+evento:               0.9
+festa_continua:       0.9
+astante:              0.9

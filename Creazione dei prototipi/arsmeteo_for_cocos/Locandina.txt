@@ -1,0 +1,4 @@
+penk:                 0.9
+kentridge:            0.9
+borofsky:             0.9
+haring:               0.9

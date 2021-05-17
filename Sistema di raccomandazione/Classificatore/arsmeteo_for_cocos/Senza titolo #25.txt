@@ -1,0 +1,7 @@
+astratto+:            0.9
+-stilizzazione+:      0.9
+-linee+:              0.9
+-colore+:             0.9
+-curve+:              0.9
+-tagliente+:          0.9
+-affollato+:          0.9

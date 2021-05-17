@@ -1,0 +1,5 @@
+trittico:             0.9
+verde:                0.9
+cerchio:              0.9
+cerchi_concentrici:   0.9
+istanza:              0.9

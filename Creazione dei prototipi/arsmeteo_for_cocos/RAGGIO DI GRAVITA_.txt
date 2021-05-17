@@ -1,0 +1,6 @@
+raggio_di_gravità:    0.9
+gesà¹:                0.9
+raggio:               0.9
+gravità:              0.9
+mazinga:              0.9
+potere:               0.9

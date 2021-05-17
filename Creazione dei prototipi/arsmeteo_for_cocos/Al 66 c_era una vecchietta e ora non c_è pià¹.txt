@@ -1,0 +1,8 @@
+passaggio:            0.9
+storia:               0.9
+passato:              0.9
+scala:                0.9
+muro:                 0.9
+lampione:             0.9
+arco:                 0.9
+pietra:               0.9

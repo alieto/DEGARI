@@ -1,0 +1,10 @@
+convivenza:           0.9
+fusione:              0.9
+controllo:            0.9
+dominio:              0.9
+reale:                0.9
+irreale:              0.9
+interno:              0.9
+esterno:              0.9
+visione:              0.9
+incubo:               0.9

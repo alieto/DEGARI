@@ -1,0 +1,3 @@
+pasto_nudo:           0.9
+tivucrazia:           0.9
+muri_della_città:     0.9

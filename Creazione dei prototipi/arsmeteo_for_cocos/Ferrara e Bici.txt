@@ -1,0 +1,6 @@
+bicicletta:           0.9
+accumulazione:        0.9
+mucchio:              0.9
+piazza:               0.9
+tanto:                0.9
+ferrara:              0.9

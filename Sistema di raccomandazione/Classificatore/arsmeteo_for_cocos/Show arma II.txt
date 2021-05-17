@@ -1,0 +1,4 @@
+war_show:             0.9
+guerra_crudeltà:      0.9
+paura:                0.9
+satira_politica:      0.9

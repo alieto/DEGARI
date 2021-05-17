@@ -1,0 +1,11 @@
+bozzolo:              0.9
+farfalla:             0.9
+crisalide:            0.9
+malattia:             0.9
+libertà:              0.9
+gestazione:           0.9
+incubazione:          0.9
+trasformazione:       0.9
+filamentoso:          0.9
+morbido:              0.9
+vivo:                 0.9

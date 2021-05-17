@@ -1,0 +1,6 @@
+sollevamento:         0.9
+il_quinto_frére_jacque:0.9
+muro:                 0.9
+graffito:             0.9
+strada:               0.9
+ironia:               0.9

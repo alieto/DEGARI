@@ -1,0 +1,3 @@
+neon:                 0.9
+donna:                0.9
+verde:                0.9

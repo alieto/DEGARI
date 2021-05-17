@@ -1,0 +1,5 @@
+angoscia:             0.9
+ossessione:           0.9
+sogno:                0.9
+etereo:               0.9
+lunare:               0.9

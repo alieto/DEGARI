@@ -1,0 +1,7 @@
+operazione_chirurgica:0.9
+bara:                 0.9
+carro_funebre:        0.9
+uccelli_impietosi:    0.9
+uccelli_chirurghi:    0.9
+surfanta:             0.9
+surreale:             0.9

@@ -1,0 +1,5 @@
+principe:             0.9
+profilo:              0.9
+festa:                0.9
+rotazione:            0.9
+banchetto:            0.9

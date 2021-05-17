@@ -1,0 +1,5 @@
+one_way:              0.9
+cappuccio:            0.9
+city:                 0.9
+metropoli:            0.9
+direzione:            0.9

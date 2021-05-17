@@ -1,0 +1,9 @@
+big_bang:             0.9
+creazione:            0.9
+umanità:              0.9
+genesi:               0.9
+esplosione:           0.9
+nascita:              0.9
+scaturire:            0.9
+rinnovamento:         0.9
+energia:              0.9

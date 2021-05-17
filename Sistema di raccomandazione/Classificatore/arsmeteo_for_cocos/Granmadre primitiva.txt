@@ -1,0 +1,7 @@
+donna:                0.9
+madre:                0.9
+pietra:               0.9
+archetipo:            0.9
+arcaico:              0.9
+dea:                  0.9
+divina:               0.9

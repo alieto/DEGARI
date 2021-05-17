@@ -1,0 +1,17 @@
+bottiglia:            0.9
+violino:              0.9
+musica:               0.9
+suono:                0.9
+blu:                  0.9
+azzurro:              0.9
+celesta|celeste:      0.9
+nube:                 0.9
+nebbia:               0.9
+nuvola:               0.9
+cielo:                0.9
+per_aria:             0.9
+consonante:           0.9
+svolazzare:           0.9
+unisono:              0.9
+vino:                 0.9
+bere:                 0.9

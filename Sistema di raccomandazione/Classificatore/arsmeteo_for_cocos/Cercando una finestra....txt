@@ -1,0 +1,4 @@
+occhio:               0.9
+grata:                0.9
+finestra:             0.9
+prigione:             0.9

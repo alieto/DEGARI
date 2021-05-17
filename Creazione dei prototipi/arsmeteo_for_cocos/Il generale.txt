@@ -1,0 +1,8 @@
+generale:             0.9
+guerra:               0.9
+potere:               0.9
+ghigno:               0.9
+belligeranza:         0.9
+stelletta:            0.9
+mostrina:             0.9
+malvagità:            0.9

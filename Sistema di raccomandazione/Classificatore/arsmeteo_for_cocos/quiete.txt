@@ -1,0 +1,7 @@
+ristoro:              0.9
+pace:                 0.9
+equilibrio:           0.9
+natura:               0.9
+cielo:                0.9
+acqua:                0.9
+fresco:               0.9

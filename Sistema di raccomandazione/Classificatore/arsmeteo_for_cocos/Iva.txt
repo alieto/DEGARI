@@ -1,0 +1,6 @@
+femmina:              0.9
+tutto:                0.9
+madre:                0.9
+donna:                0.9
+seno:                 0.9
+vita:                 0.9

@@ -1,0 +1,3 @@
+traffico:             0.9
+pioggia:              0.9
+umidità:              0.9

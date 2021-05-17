@@ -1,0 +1,2 @@
+abbraccio:            0.9
+parola:               0.9

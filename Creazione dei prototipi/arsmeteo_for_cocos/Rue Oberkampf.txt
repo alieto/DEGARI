@@ -1,0 +1,8 @@
+café:                 0.9
+charbon:              0.9
+pioggia:              0.9
+solo:                 0.9
+ombrello:             0.9
+passante:             0.9
+brunch_time:          0.9
+paris:                0.9

@@ -1,0 +1,7 @@
+notte:                0.9
+estate:               0.9
+anguria:              0.9
+vela:                 0.9
+donna:                0.9
+nudo:                 0.9
+di_schiena:           0.9

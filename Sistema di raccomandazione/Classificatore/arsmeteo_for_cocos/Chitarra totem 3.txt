@@ -1,0 +1,1 @@
+chitarra_totem:       0.9

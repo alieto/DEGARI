@@ -1,0 +1,3 @@
+fluido:               0.9
+leggerezza:           0.9
+morbido:              0.9

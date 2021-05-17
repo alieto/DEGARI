@@ -1,0 +1,4 @@
+cartoncino:           0.9
+acquerello:           0.9
+disegno:              0.9
+anno:                 0.9

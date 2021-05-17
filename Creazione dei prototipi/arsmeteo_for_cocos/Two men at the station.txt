@@ -1,0 +1,6 @@
+uomo:                 0.9
+stazione:             0.9
+treno:                0.9
+attesa:               0.9
+viaggio:              0.9
+fuga:                 0.9

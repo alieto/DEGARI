@@ -1,0 +1,5 @@
+cuore:                0.9
+due_cuori:            0.6
+donna:                0.6
+compassione:          0.6
+pasione:              0.6

@@ -1,0 +1,3 @@
+la_giraffe:           0.9
+orchard_road:         0.9
+sera:                 0.9

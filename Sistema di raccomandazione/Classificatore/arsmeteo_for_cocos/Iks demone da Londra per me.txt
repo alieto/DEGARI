@@ -1,0 +1,5 @@
+demone:               0.9
+iks:                  0.9
+rosso_fuoco:          0.9
+corno:                0.9
+sasso:                0.9

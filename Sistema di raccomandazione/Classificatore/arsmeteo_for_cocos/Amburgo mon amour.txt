@@ -1,0 +1,4 @@
+amburgo:              0.9
+ponte:                0.9
+bianco:               0.9
+lucente:              0.9

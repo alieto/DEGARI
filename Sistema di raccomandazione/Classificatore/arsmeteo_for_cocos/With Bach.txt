@@ -1,0 +1,5 @@
+violinista:           0.9
+cane:                 0.9
+scrittura:            0.9
+bach:                 0.9
+gabbia:               0.9

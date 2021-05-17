@@ -1,0 +1,2 @@
+droga:                0.9
+uomo_bionico:         0.9

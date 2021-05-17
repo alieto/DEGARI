@@ -1,0 +1,3 @@
+piuma_di_pavone:      0.9
+epifania:             0.9
+colore_blu:           0.9

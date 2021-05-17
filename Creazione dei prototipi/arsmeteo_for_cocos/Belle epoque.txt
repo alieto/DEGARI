@@ -1,0 +1,7 @@
+belle_epoque:         0.9
+interno:              0.9
+tavolino:             0.9
+sedia:                0.9
+vaso_di_fiori:        0.9
+bei_tempi_andati:     0.9
+seppiato:             0.9

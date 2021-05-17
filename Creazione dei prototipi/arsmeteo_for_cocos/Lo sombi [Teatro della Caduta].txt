@@ -1,0 +1,5 @@
+estate:               0.9
+strada:               0.9
+caldo:                0.9
+spettacolo:           0.9
+varietà:              0.9

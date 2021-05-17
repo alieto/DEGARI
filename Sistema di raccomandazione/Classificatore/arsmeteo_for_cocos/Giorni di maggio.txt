@@ -1,0 +1,6 @@
+giorno:               0.9
+comunicazione:        0.9
+performance:          0.9
+luogo:                0.9
+romanico:             0.9
+monastero:            0.9

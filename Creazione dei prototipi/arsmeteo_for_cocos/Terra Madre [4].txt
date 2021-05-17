@@ -1,0 +1,7 @@
+terra_madre:          0.9
+donna:                0.9
+volto:                0.9
+espressione:          0.9
+vita_vissuta:         0.9
+sguardo_intenso:      0.9
+intensità:            0.9

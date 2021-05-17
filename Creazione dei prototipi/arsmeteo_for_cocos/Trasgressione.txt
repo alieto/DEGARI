@@ -1,0 +1,4 @@
+glamour:              0.9
+provocazione:         0.9
+ironia:               0.9
+polaroid:             0.9

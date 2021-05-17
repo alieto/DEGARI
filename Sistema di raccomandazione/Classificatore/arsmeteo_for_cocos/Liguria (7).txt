@@ -1,0 +1,4 @@
+barca:                0.9
+liguria:              0.9
+imbarcazione:         0.9
+legno:                0.9

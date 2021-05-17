@@ -1,0 +1,7 @@
+fuoco:                0.9
+silente:              0.9
+silente_fuoco:        0.9
+ipnotico:             0.9
+silenzio:             0.9
+fiamma:               0.9
+calore:               0.9

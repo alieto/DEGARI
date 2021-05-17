@@ -1,0 +1,6 @@
+vecchio:              0.9
+miele:                0.9
+fumo:                 0.9
+vespa:                0.9
+blu:                  0.9
+grigio:               0.9

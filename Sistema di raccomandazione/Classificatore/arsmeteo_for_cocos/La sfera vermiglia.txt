@@ -1,0 +1,4 @@
+angelo:               0.9
+roccia:               0.9
+sfavillio:            0.9
+conoscenza:           0.9

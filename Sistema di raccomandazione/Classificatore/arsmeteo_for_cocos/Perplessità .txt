@@ -1,0 +1,5 @@
+introduzione:         0.9
+sogguardare:          0.9
+lunetta:              0.9
+guancia:              0.9
+persuasione:          0.9

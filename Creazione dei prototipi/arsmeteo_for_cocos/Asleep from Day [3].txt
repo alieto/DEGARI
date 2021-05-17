@@ -1,0 +1,9 @@
+vorace:               0.9
+supermercato:         0.9
+moda:                 0.9
+capelli_platinati:    0.9
+consumismo:           0.9
+bellezza:             0.9
+vetro:                0.9
+numero:               0.9
+attesa:               0.9

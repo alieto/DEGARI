@@ -1,0 +1,13 @@
+documentario:         0.9
+realizzazione:        0.9
+ripercorrere:         0.9
+spettacolo:           0.9
+teatrale:             0.9
+visitatio:            0.9
+teatro:               0.9
+sunil:                0.9
+attrice:              0.9
+heredia:              0.9
+messicano:            0.9
+sindrome:             0.9
+down:                 0.9

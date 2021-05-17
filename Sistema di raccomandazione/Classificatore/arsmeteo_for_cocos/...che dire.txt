@@ -1,0 +1,2 @@
+acquaforte:           0.9
+acquatinta:           0.9

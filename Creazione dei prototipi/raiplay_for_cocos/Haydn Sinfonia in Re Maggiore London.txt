@@ -1,0 +1,14 @@
+orchestra:            0.9
+sinfonico:            0.9
+nazionale:            0.9
+rai:                  0.9
+diretto:              0.9
+gerd:                 0.9
+albrecht:             0.9
+haydn:                0.9
+eseguire:             0.9
+sinfonia:             0.9
+mag:                  0.9
+hob:                  0.9
+n.104:                0.9
+london:               0.6

@@ -1,0 +1,10 @@
+volto:                0.9
+ritratto:             0.9
+donna:                0.9
+ballerina:            0.9
+teatro:               0.9
+palcoscenico:         0.9
+demolizione:          0.9
+scenografia:          0.9
+intrinseco:           0.9
+radicamento:          0.9

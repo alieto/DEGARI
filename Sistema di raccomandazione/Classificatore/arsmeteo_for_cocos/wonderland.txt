@@ -1,0 +1,3 @@
+galleria:             0.9
+houston:              0.9
+eccesso:              0.9

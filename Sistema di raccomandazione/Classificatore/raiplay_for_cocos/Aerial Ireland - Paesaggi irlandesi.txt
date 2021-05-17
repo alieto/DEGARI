@@ -1,0 +1,13 @@
+visione:              0.9
+isola:                0.9
+smeraldo:             0.9
+vista:                0.9
+primo:                0.9
+paesaggio:            0.9
+storia:               0.9
+irlandese:            0.9
+vissuta:              0.9
+conoscere:            0.9
+prospettiva:          0.9
+mozzafiato:           0.9
+aereo:                0.9

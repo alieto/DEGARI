@@ -1,0 +1,11 @@
+sottobosco:           0.9
+nella_foresta:        0.9
+-visione_onirica+:    0.9
+fungo:                0.9
+allucinazione:        0.9
+-carta+:              0.9
+-gesso+:              0.9
+legno:                0.9
+-bianco+:             0.9
+-leggerezza+:         0.9
+-sospensione+:        0.9

@@ -1,0 +1,9 @@
+amore:                0.9
+love:                 0.9
+matrimonio:           0.9
+istante:              0.9
+felicità:             0.9
+emozione:             0.9
+intesa:               0.9
+relazione:            0.9
+rapporto:             0.9

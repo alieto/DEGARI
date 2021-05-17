@@ -1,0 +1,6 @@
+cane:                 0.9
+carlino:              0.9
+pennello:             0.9
+colore:               0.9
+quadro_nel_quadro:    0.9
+mensola:              0.9

@@ -1,0 +1,4 @@
+single:               0.9
+vacanza:              0.9
+spiaggia:             0.9
+incontro:             0.9

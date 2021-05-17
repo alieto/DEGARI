@@ -1,0 +1,5 @@
+aires:                0.9
+buenos:               0.9
+tango:                0.9
+festival:             0.9
+estate:               0.9

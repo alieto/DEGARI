@@ -1,0 +1,9 @@
+atrio:                0.9
+abruzzo:              0.9
+belvedere:            0.9
+statua:               0.9
+donna:                0.9
+marmo:                0.9
+chiacchiera:          0.9
+arte:                 0.9
+tramonto:             0.9

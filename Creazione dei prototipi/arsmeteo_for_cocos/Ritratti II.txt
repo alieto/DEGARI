@@ -1,0 +1,3 @@
+babbo_natale:         0.9
+ritratto:             0.9
+barbona|barbone:      0.9

@@ -1,0 +1,6 @@
+scultura:             0.9
+classico:             0.9
+marmo:                0.9
+liquido:              0.9
+venere:               0.9
+sciogliere:           0.9

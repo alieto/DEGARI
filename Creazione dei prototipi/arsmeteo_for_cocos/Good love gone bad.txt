@@ -1,0 +1,8 @@
+taglio:               0.9
+scarti_di_lavorazione:0.9
+ricostruzione:        0.9
+intreccio:            0.9
+tela:                 0.9
+acrilico:             0.9
+riciclare:            0.9
+collage:              0.9

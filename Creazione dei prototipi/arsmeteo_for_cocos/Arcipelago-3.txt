@@ -1,0 +1,8 @@
+isola:                0.9000000000000001
+gruppo:               0.6
+rosso:                0.6
+oro:                  0.6
+bronzo:               0.6
+denso:                0.6
+spessore:             0.6
+consistente:          0.6

@@ -1,0 +1,11 @@
+vaso:                 0.9
+immagine:             0.9
+luogo:                0.9
+persona:              0.9
+memoria:              0.9
+occhio:               0.9
+storia:               0.9
+affinità:             0.9
+destini_incrociati:   0.9
+_elettive:            0.9
+lettura_in_conserva:  0.9

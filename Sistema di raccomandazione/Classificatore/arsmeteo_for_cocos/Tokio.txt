@@ -1,0 +1,7 @@
+zakamoto:             0.9
+bambino:              0.9
+futuro:               0.9
+angelo:               0.9
+tokio:                0.9
+pop:                  0.9
+indaco:               0.9

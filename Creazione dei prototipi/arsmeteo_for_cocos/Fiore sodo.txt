@@ -1,0 +1,4 @@
+fiore:                0.9
+offerta:              0.6
+testa_uovo:           0.6
+caus:                 0.6

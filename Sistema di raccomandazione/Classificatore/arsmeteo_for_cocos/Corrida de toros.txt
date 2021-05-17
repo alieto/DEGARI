@@ -1,0 +1,10 @@
+vecchio:              0.9
+dipinto:              0.9
+festa_toros:          0.9
+occhiale:             0.9
+toro:                 0.9
+torero:               0.9
+olé:                  0.9
+penna:                0.9
+quaderno:             0.9
+nonna:                0.9

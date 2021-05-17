@@ -1,0 +1,7 @@
+grande_zot:           0.9
+iniziazione:          0.9
+fuoco:                0.9
+fuoco_primordiale:    0.9
+legna:                0.9
+alambicco:            0.9
+grappa:               0.9

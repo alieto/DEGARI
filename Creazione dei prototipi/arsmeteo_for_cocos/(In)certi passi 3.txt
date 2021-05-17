@@ -1,0 +1,4 @@
+strada:               0.9
+passeggiare:          0.9
+trasporto:            0.9
+movimento:            0.9

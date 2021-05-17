@@ -1,0 +1,4 @@
+mucca:                0.9
+spiaggia:             0.9
+convivenza:           0.9
+serenità:             0.9

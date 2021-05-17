@@ -1,0 +1,4 @@
+zebra:                0.9
+cervello_spiaccicato: 0.9
+disinformazione:      0.9
+potere_mediatico:     0.9

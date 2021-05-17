@@ -1,0 +1,14 @@
+scala:                0.9
+stairs:               0.9
+buco:                 0.9
+nero:                 0.9
+modernismo:           0.9
+brutalismo:           0.9
+architettura:         0.9
+residential:          0.9
+residenziale:         0.9
+grattacielo:          0.9
+gradino:              0.9
+profondità:           0.9
+depth:                0.9
+foto:                 0.9

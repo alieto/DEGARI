@@ -1,0 +1,2 @@
+nuovi_arrivi:         0.9
+vj_performance:       0.9

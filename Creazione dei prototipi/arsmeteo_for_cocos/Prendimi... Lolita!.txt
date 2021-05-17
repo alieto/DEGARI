@@ -1,0 +1,12 @@
+riba:                 0.9
+michela:              0.9
+rosso:                0.9
+donna:                0.9
+cappello:             0.9
+nero:                 0.9
+klimt:                0.9
+quadretto:            0.9
+oro:                  0.9
+volto:                0.9
+ritratto:             0.9
+viso:                 0.9

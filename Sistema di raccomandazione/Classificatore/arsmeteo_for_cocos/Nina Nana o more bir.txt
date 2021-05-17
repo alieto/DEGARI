@@ -1,0 +1,5 @@
+clandestino:          0.9
+speranza:             0.9
+finestrino:           0.9
+autobus:              0.9
+occidente:            0.9

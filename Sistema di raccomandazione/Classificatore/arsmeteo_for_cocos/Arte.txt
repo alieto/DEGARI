@@ -1,0 +1,11 @@
+linea_dello_stile:    0.9
+se_non_supera:        0.9
+linea_della_testa:    0.9
+linea_del_cuore:      0.9
+arte:                 0.9
+non_arte:             0.9
+norma:                0.9
+grafico:              0.9
+scorciatoia:          0.9
+ruscelletto:          0.9
+cose_sabiane:         0.9

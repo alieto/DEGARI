@@ -1,0 +1,12 @@
+arsmeteo_lab:         0.9
+abécédaire:           0.9
+lettera_z:            0.9
+scrittura:            0.9
+je_trouve:            0.9
+amantes:              0.9
+alfabeto_post_mediale:0.9
+booktrailer:          0.9
+sovrapposizioni_verbali:0.9
+smarrimento:          0.9
+dov_è_finita:         0.9
+niente:               0.9

@@ -1,0 +1,4 @@
+trionfo:              0.9
+proprietà:            0.9
+epoca:                0.9
+tempo:                0.9

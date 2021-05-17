@@ -1,0 +1,4 @@
+enfilade:             0.9
+porta:                0.9
+prospettiva:          0.9
+luce:                 0.9

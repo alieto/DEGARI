@@ -1,0 +1,4 @@
+luce:                 0.9
+aria:                 0.9
+neve:                 0.9
+cellulare:            0.9

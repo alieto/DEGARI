@@ -1,0 +1,6 @@
+motherhood:           0.9
+tenerezza:            0.9
+fragilità:            0.9
+in_riva_al_po:        0.9
+amorevole:            0.9
+attenzione:           0.9

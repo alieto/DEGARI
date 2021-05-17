@@ -1,0 +1,6 @@
+ombrellone:           0.9
+cantiere:             0.9
+campanile:            0.9
+lampione:             0.9
+segno:                0.9
+attenzione:           0.9

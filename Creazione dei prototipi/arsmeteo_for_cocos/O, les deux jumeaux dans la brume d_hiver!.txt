@@ -1,0 +1,6 @@
+gemello:              0.9
+bicicletta:           0.9
+nebbia_virtuale:      0.9
+puntillismo_digitale: 0.9
+disperso:             0.9
+avventura:            0.9

@@ -1,0 +1,3 @@
+porto:                0.9
+barca:                0.9
+liguria:              0.9

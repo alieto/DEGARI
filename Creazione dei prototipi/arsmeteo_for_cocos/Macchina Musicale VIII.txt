@@ -1,0 +1,2 @@
+assemblaggio:         0.9
+aratro:               0.9

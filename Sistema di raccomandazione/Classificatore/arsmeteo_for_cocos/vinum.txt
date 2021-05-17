@@ -1,0 +1,7 @@
+centro:               0.9
+cile:                 0.9
+canepa:               0.9
+acciaio:              0.9
+competenza:           0.9
+passione:             0.9
+soldo:                0.9

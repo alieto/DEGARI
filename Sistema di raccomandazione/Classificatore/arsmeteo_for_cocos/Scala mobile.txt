@@ -1,0 +1,9 @@
+stazione:             0.9
+vetrina:              0.9
+ammiccamento:         0.9
+sotterraneo:          0.9
+scala:                0.9
+convergenza:          0.9
+scala_mobile:         0.9
+simmetrico:           0.9
+freddo:               0.9

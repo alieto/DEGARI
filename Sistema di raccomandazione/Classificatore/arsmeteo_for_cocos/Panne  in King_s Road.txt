@@ -1,0 +1,10 @@
+aereo:                0.9
+biplano:              0.9
+surfanta:             0.9
+atterraggio:          0.9
+pilota:               0.9
+surreale:             0.9
+diavolo:              0.9
+buco:                 0.9
+strada:               0.9
+negozio:              0.9

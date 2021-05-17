@@ -1,0 +1,3 @@
+uomo:                 0.9
+bambina:              0.9
+fila_indiana:         0.9

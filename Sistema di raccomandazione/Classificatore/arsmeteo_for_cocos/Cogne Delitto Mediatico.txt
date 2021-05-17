@@ -1,0 +1,11 @@
+bugia:                0.9
+ignoranza:            0.9
+preconcetto:          0.9
+manipolazione:        0.9
+omaggio_a_keith_e_grazia_torri:0.9
+perizia_imperizia:    0.9
+processo_mediatico:   0.9
+falsità:              0.9
+caduta:               0.9
+prove_false:          0.9
+mamma_tatuata:        0.9

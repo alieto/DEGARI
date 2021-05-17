@@ -1,0 +1,7 @@
+narciso:              0.9
+specchio:             0.9
+doppio:               0.9
+riflesso:             0.9
+mito:                 0.9
+manichino:            0.9
+metafisico:           0.9

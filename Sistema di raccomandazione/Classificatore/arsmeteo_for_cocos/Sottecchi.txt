@@ -1,0 +1,4 @@
+alle_spalle:          0.9
+guardare:             0.9
+passante:             0.9
+verdastro:            0.9

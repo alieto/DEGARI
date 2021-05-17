@@ -1,0 +1,23 @@
+
+#Title composizione
+Title: Pet-Fish
+
+#Concetto Principale
+Head Concept Name: Fish
+
+#Concetto Modificatore
+Modifier Concept Name: Pet
+
+
+head, livesInWater
+
+T(modifier), -livesInWater, 0.9
+T(modifier), affectionate, 0.8
+T(modifier), warm, 0.8
+
+T(head), -affectionate, 0.7
+T(head), greyish, 0.6
+T(head), scaly, 0.9
+T(head), -warm, 0.8
+
+Result : '0', '0', '0', '1', '0', '1', '1', 0.08063999999999996

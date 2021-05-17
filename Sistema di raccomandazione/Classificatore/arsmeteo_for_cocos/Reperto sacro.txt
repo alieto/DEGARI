@@ -1,0 +1,7 @@
+sacro:                0.9
+profano:              0.9
+magico:               0.9
+divinatorio:          0.9
+semiotica_sacra:      0.9
+phisis:               0.9
+prà²phasis:           0.9

@@ -1,0 +1,9 @@
+occhio:               0.9
+vertigo:              0.6
+eye:                  0.6
+vortice:              0.6
+vertigine:            0.6
+spirale:              0.6
+bulbo:                0.6
+occhio_del_vortice:   0.6
+frattali:             0.6

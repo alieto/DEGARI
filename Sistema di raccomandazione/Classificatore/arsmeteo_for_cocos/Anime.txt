@@ -1,0 +1,6 @@
+anima:                0.9
+coppia:               0.6
+intesa:               0.6
+lui_e_lei:            0.6
+pixel:                0.6
+riflessione:          0.6

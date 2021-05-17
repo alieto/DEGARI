@@ -1,0 +1,1 @@
+luce_colore:          0.9

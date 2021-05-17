@@ -1,0 +1,7 @@
+impermanenza:         0.9
+torino:               0.9
+gioco:                0.9
+altalena:             0.9
+bambino:              0.9
+jugando:              0.9
+colore:               0.9

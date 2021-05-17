@@ -1,0 +1,10 @@
+video:                0.9
+easybit:              0.9
+backstage:            0.9
+easybiters:           0.9
+foto:                 0.9
+easybitevi:           0.9
+capannone:            0.9
+sequenza:             0.9
+industrial:           0.9
+ripresa:              0.9

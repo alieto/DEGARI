@@ -1,0 +1,12 @@
+giornalismo:          0.9
+calunnia:             0.9
+servizio:             0.9
+pompa:                0.9
+betulla:              0.9
+farina:               0.9
+mezzo:                0.9
+fine:                 0.9
+segreto:              0.9
+deontologia:          0.9
+professione:          0.9
+sanzione:             0.9

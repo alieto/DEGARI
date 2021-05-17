@@ -1,0 +1,3 @@
+cioccolata:           0.9
+mercatino:            0.9
+alessandria:          0.9

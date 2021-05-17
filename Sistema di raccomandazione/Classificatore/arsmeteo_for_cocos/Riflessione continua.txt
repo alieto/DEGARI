@@ -1,0 +1,6 @@
+riflessione:          0.9
+albero:               0.9
+specchiare:           0.9
+doppio:               0.9
+muovere:              0.9
+acqua:                0.9

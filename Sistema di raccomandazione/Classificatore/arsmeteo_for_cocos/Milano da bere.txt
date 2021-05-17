@@ -1,0 +1,2 @@
+occhio:               0.9
+pioggia:              0.9

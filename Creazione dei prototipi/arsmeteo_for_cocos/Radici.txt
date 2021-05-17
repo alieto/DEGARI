@@ -1,0 +1,10 @@
+terra:                0.9
+anima:                0.6
+albero:               0.6
+donna:                0.6
+natura:               0.6
+radice:               0.6
+inverno:              0.6
+pilastro:             0.6
+testa:                0.6
+piede:                0.6

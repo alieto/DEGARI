@@ -1,0 +1,2 @@
+miseria:              0.9
+musicista:            0.9

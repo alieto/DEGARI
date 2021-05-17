@@ -1,0 +1,10 @@
+padre:                0.9
+figlio:               0.9
+impronta:             0.9
+meta_arte:            0.9
+demiurgo:             0.9
+generazione:          0.9
+paradigma:            0.9
+sguardo:              0.9
+confronto:            0.9
+somiglianza:          0.9

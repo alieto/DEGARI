@@ -1,0 +1,4 @@
+gemella:              0.9
+due:                  0.9
+paio:                 0.9
+tetta:                0.9

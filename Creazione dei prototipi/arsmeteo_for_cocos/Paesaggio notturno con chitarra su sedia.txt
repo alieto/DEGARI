@@ -1,0 +1,5 @@
+chitarra:             0.9
+sedia:                0.9
+mobile:               0.9
+metafisica|metafisico:0.9
+notturno:             0.9

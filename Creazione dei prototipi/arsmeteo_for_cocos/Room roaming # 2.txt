@@ -1,0 +1,3 @@
+casualità:            0.9
+ripercorrere:         0.9
+ripensamento:         0.9

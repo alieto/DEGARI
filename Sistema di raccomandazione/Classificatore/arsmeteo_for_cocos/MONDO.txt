@@ -1,0 +1,9 @@
+collettivo:           0.9
+eteronimo:            0.9
+pulito:               0.9
+innocente:            0.9
+globo:                0.9
+sinonimo:             0.9
+ricorsivo:            0.9
+ars_meteo:            0.9
+folksonomy:           0.9

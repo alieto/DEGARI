@@ -1,0 +1,5 @@
+porta:                0.9
+passaggio:            0.9
+porte_digitali:       0.9
+prova:                0.9
+digitales_ianuae:     0.9

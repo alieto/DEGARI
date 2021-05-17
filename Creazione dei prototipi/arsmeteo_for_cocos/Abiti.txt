@@ -1,0 +1,5 @@
+bosco:                0.9
+colorare:             0.9
+albero:               0.9
+abito:                0.9
+vestire:              0.9

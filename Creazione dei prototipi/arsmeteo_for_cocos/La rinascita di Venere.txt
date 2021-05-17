@@ -1,0 +1,6 @@
+botticelli:           0.9
+liquido:              0.9
+fluido:               0.9
+colore:               0.9
+venere:               0.9
+specchio:             0.9

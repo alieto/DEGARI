@@ -1,0 +1,3 @@
+yang:                 0.9
+spessore:             0.9
+lenticolarità:        0.9

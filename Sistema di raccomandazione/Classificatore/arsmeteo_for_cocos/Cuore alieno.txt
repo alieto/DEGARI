@@ -1,0 +1,9 @@
+viaggio:              0.9
+trasformazione:       0.9
+cambiamento:          0.9
+cuore:                0.9
+scoprire:             0.9
+alieno:               0.9
+ricerca:              0.9
+frattale:             0.9
+esplorazione:         0.9

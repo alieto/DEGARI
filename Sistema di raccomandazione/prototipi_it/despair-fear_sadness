@@ -1,0 +1,30 @@
+#Title composizione
+Title : fear-sadness
+
+#Concetto Principale
+Head Concept Name : fear
+
+#Concetto Modificatore
+Modifier Concept Name : sadness
+
+
+
+modifier, -felicità
+modifier, -giubilante
+
+T(modifier), straziante, 0.97
+T(modifier), lutto, 0.97
+T(modifier), tragico, 0.96
+T(modifier), olocausto, 0.95
+T(modifier), suicida, 0.94
+T(modifier), miseria, 0.94
+
+T(head), tortura, 0.98
+T(head), terrorista, 0.97
+T(head), orribile, 0.97
+T(head), uccidere, 0.96
+T(head), annientare, 0.95
+T(head), terrore, 0.95
+
+
+Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 1.4991902561664085e-06

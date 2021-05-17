@@ -1,0 +1,4 @@
+cattedrale:           0.9
+costruzione:          0.9
+finestra:             0.9
+spirituale:           0.9

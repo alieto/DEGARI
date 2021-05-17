@@ -1,0 +1,4 @@
+vigile:               0.9
+attento:              0.9
+cane:                 0.9
+dik:                  0.9

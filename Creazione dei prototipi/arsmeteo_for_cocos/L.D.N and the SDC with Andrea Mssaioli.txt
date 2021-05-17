@@ -1,0 +1,5 @@
+sabine_delafon+:      0.9
+-incinta+:            0.9
+identità:             0.9
+ritratto:             0.9
+andrea_massaioli:     0.9

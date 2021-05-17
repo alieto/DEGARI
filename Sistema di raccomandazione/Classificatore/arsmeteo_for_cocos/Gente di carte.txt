@@ -1,0 +1,2 @@
+carta:                0.9
+gente:                0.9

@@ -1,0 +1,3 @@
+colore:               0.9
+nastro:               0.9
+moebius:              0.9

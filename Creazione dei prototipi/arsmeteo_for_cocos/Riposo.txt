@@ -1,0 +1,11 @@
+lavoro:               0.9
+sorriso:              0.9
+impegno:              0.9
+fatica:               0.9
+nataniyeh:            0.9
+relax:                0.9
+puma:                 0.9
+riposo:               0.9
+mettere:              0.9
+cima:                 0.9
+scalata:              0.9

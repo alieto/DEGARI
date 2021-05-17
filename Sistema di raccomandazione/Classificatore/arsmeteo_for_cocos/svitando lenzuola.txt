@@ -1,0 +1,13 @@
+br:                   0.9
+raffaele_niro:        0.6
+div:                  0.6
+100px:                0.6
+margin:               0.6
+font-size:            0.6
+line-height:          0.6
+gesto:                0.6
+parola:               0.6
+amore:                0.6
+falso:                0.6
+autore:               0.6
+/:                    0.6

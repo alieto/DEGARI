@@ -1,0 +1,4 @@
+carta:                0.9
+stoffa:               0.9
+emozione:             0.9
+lustrino:             0.9

@@ -1,0 +1,5 @@
+paris:                0.9
+cielo:                0.9
+soldo:                0.9
+osare:                0.9
+grattacielo:          0.9

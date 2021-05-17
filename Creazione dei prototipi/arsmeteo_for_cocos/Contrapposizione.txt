@@ -1,0 +1,10 @@
+scontro:              0.9
+impasto:              0.9
+polarità:             0.9
+magnetismo:           0.9
+magmatico:            0.9
+cromatico:            0.9
+policromatico:        0.9
+ribollire:            0.9
+multicolore:          0.9
+fusione:              0.9

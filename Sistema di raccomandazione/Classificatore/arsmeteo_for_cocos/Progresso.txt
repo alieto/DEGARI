@@ -1,0 +1,3 @@
+progresso:            0.9
+isolamento:           0.9
+contrasto:            0.9

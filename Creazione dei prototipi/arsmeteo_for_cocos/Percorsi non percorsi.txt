@@ -1,0 +1,8 @@
+linea:                0.9
+punto:                0.9
+sentiero:             0.9
+luce:                 0.9
+intersezione:         0.9
+colore:               0.9
+scia:                 0.9
+tensione:             0.9

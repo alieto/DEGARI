@@ -1,0 +1,4 @@
+ball:                 0.9
+pallone:              0.9
+due_palle:            0.9
+doppio:               0.9

@@ -1,0 +1,9 @@
+netville:             0.9
+logo:                 0.9
+chiosco:              0.9
+monumento:            0.9
+comunicazione:        0.9
+città:                0.9
+telematico:           0.9
+cablare:              0.9
+pionieristico:        0.9

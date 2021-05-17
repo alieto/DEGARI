@@ -1,0 +1,5 @@
+monte:                0.9
+paesaggio:            0.9
+nuvola:               0.9
+luce:                 0.9
+ombra:                0.9

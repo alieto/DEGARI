@@ -1,0 +1,6 @@
+adamo:                0.9
+mela:                 0.9
+paradiso:             0.9
+religione:            0.9
+frutto_del_peccato:   0.9
+albero:               0.9

@@ -1,0 +1,8 @@
+metamorfosi:          0.9
+gente:                0.9
+casa_dolce_casa:      0.9
+cambiamento:          0.9
+trasformazione:       0.9
+abitazione:           0.9
+agglomerato:          0.9
+scala:                0.9

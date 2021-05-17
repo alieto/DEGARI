@@ -1,0 +1,2 @@
+colore_rosa:          0.9
+improvvisazione:      0.9

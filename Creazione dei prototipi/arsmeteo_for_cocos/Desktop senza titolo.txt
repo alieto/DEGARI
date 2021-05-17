@@ -1,0 +1,3 @@
+materico:             0.9
+vetroso:              0.9
+grafo_logia:          0.9

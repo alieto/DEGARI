@@ -1,0 +1,4 @@
+dea_verde:            0.9
+fosforescente:        0.9
+dietro_una_grata:     0.9
+donna:                0.9

@@ -1,0 +1,10 @@
+futuro:               0.9
+uomo:                 0.9
+umanità:              0.9
+metafora:             0.9
+simbolo:              0.9
+nello_spazio:         0.9
+sedere:               0.9
+vuoto:                0.9
+sulla_luna:           0.9
+sconosciuto:          0.9

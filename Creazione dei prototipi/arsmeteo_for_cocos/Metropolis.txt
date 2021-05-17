@@ -1,0 +1,4 @@
+uovo:                 0.9
+terra:                0.9
+pulcino:              0.9
+gallo:                0.9

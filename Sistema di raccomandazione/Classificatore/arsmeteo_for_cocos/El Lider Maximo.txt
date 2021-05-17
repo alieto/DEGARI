@@ -1,0 +1,7 @@
+dettaglio:            0.9
+principe:             0.9
+netville:             0.9
+barba:                0.9
+demagogia:            0.9
+potere:               0.9
+soppruso:             0.9

@@ -1,0 +1,5 @@
+montagna:             0.9
+cielo:                0.9
+lago:                 0.9
+silenzio:             0.9
+freddo:               0.9

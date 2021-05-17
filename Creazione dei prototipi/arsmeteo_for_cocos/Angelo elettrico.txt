@@ -1,0 +1,2 @@
+angelo:               0.9
+elettrico:            0.9

@@ -1,0 +1,8 @@
+punto_linea_superficie:0.9
+kandinsky:            0.9
+cerchi_concentrici:   0.9
+taglio:               0.9
+stella:               0.9
+sistema_solare:       0.9
+pianeta:              0.9
+piatto:               0.9

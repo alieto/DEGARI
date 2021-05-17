@@ -1,0 +1,7 @@
+vela:                 0.9
+barca:                0.9
+azzurro:              0.9
+linea:                0.9
+intersezione:         0.9
+geometria:            0.9
+geometrizzazione:     0.9

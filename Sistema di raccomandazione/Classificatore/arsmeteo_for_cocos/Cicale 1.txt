@@ -1,0 +1,6 @@
+performance:          0.9
+festival:             0.9
+collina:              0.9
+moransengo:           0.9
+castello:             0.9
+rude:                 0.9

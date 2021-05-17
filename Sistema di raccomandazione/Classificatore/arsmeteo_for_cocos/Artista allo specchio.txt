@@ -1,0 +1,3 @@
+artista:              0.9
+specchio:             0.9
+musa:                 0.9

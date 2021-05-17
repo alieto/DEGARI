@@ -1,0 +1,3 @@
+granchio:             0.9
+spiaggia:             0.9
+chela:                0.9

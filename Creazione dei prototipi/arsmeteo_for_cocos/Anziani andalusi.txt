@@ -1,0 +1,8 @@
+somiglianza:          0.9
+tranquillità:         0.9
+attesa:               0.9
+frigiliana:           0.9
+andalusia:            0.9
+anziano:              0.9
+espadrillas:          0.9
+canna:                0.9

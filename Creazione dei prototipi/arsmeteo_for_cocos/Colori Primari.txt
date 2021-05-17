@@ -1,0 +1,8 @@
+cielo:                0.9
+violino:              0.9
+azzurro:              0.9
+nuvola:               0.9
+sospensione:          0.9
+tre:                  0.9
+voragine:             0.9
+fenditura:            0.9

@@ -1,0 +1,5 @@
+sguardo:              0.9
+occhio:               0.9
+intenso:              0.9
+sospetto:             0.9
+fiore:                0.9

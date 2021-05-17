@@ -1,0 +1,4 @@
+sonno:                0.9
+sogno:                0.9
+seduzione:            0.9
+fascino:              0.9

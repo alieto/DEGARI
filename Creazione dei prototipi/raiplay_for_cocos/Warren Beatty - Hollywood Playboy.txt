@@ -1,0 +1,14 @@
+storia:               0.9
+ragazzo:              0.9
+primo:                0.9
+porre:                0.9
+filo:                 0.9
+hollywood:            0.9
+playboy:              0.9
+attore:               0.9
+diventare:            0.9
+produttore:           0.9
+successo:             0.9
+regista:              0.9
+oscar:                0.9
+fantasma:             0.9

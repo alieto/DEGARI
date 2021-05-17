@@ -1,0 +1,7 @@
+amore:                0.9
+anello:               0.9
+ritornare:            0.9
+spazio:               0.9
+mano:                 0.9
+uomo:                 0.9
+città:                0.9

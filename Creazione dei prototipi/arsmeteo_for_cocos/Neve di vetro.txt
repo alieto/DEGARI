@@ -1,0 +1,7 @@
+neve:                 0.9
+albero:               0.9
+candore:              0.9
+vetro:                0.9
+bianco:               0.9
+gelido:               0.9
+freddo:               0.9

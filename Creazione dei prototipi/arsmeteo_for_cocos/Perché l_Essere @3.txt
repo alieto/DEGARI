@@ -1,0 +1,3 @@
+metafisica|metafisico:0.9
+meta_pittura:         0.9
+emergenza:            0.9

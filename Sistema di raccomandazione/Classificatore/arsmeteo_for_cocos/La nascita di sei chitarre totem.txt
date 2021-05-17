@@ -1,0 +1,3 @@
+chitarra:             0.9
+totem:                0.9
+forme_geometriche:    0.9

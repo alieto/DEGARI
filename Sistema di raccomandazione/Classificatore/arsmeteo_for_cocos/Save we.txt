@@ -1,0 +1,4 @@
+prigioniero:          0.9
+mano:                 0.9
+inquinamento:         0.9
+indifferenza:         0.9

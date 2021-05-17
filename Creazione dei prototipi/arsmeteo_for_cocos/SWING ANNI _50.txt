@@ -1,0 +1,11 @@
+jazz:                 0.9
+swing:                0.9
+torriani:             0.9
+vaccarino:            0.9
+sala:                 0.9
+invrea:               0.9
+deangelis:            0.9
+quintet:              0.9
+concerto:             0.9
+torino:               0.9
+teatro_alfieri:       0.9

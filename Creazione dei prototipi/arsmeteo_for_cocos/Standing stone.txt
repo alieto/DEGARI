@@ -1,0 +1,6 @@
+pietra:               0.9
+roccia:               0.9
+in_piedi:             0.9
+albero:               0.9
+ombra:                0.9
+digitale:             0.9

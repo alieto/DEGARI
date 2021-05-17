@@ -1,0 +1,1 @@
+il_gallo_cedrone:     0.9

@@ -1,0 +1,2 @@
+happiness:            0.9
+shyness:              0.9

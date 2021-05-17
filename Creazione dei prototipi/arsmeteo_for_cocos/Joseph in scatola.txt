@@ -1,0 +1,6 @@
+mostra:               0.9
+video:                0.9
+borsalino:            0.9
+gilet:                0.9
+sguardo:              0.9
+tagliente:            0.9

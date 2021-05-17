@@ -1,0 +1,3 @@
+bambola:              0.9
+verde:                0.9
+luna:                 0.9

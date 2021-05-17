@@ -1,0 +1,6 @@
+donna:                0.9
+attesa:               0.9
+figura:               0.9
+desolazione:          0.9
+tristezza:            0.9
+sfruttamento:         0.9

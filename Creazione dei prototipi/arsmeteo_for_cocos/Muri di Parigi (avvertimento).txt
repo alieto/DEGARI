@@ -1,0 +1,4 @@
+anticipazione:        0.9
+avvertimento:         0.9
+messaggio:            0.9
+minaccia:             0.9

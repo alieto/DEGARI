@@ -1,0 +1,4 @@
+giacomo_bove:         0.9
+esploratore:          0.9
+nave:                 0.9
+maranzana:            0.9

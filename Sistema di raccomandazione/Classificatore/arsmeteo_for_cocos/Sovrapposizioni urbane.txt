@@ -1,0 +1,5 @@
+metropolitana_aerea:  0.9
+traffico:             0.9
+congestione:          0.9
+insegna:              0.9
+casa:                 0.9

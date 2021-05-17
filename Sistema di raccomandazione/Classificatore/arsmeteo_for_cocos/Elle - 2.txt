@@ -1,0 +1,2 @@
+elle:                 0.9
+femmina:              0.9

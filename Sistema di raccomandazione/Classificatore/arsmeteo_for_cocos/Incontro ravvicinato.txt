@@ -1,0 +1,2 @@
+alessandria:          0.9
+foglia:               0.9

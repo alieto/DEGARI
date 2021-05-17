@@ -1,0 +1,8 @@
+concerto:             0.9
+cuore:                0.9
+musica:               0.9
+jazz:                 0.9
+palco:                0.9
+notte:                0.9
+emozione:             0.9
+luce:                 0.9

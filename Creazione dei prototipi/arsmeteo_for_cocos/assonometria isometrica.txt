@@ -1,0 +1,5 @@
+assonometria:         0.9
+isometrica:           0.9
+luce:                 0.9
+classico:             0.9
+buio:                 0.9

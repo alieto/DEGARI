@@ -1,0 +1,5 @@
+il_ratto_delle_sabine:0.9
+rubens:               0.9
+omaggio:              0.9
+barocco:              0.9
+eroico:               0.9

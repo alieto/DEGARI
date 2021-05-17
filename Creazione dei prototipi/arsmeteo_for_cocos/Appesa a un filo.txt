@@ -1,0 +1,4 @@
+mongolfiera:          0.9
+esibizione:           0.9
+pericolo:             0.9
+bravata:              0.9

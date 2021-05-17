@@ -1,0 +1,7 @@
+impulso:              0.9
+elettrico:            0.9
+finestra:             0.9
+aem:                  0.9
+torino:               0.9
+muro:                 0.9
+marmo:                0.9

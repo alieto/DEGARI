@@ -1,0 +1,7 @@
+tangueros:            0.9
+turismo_scontato:     0.9
+baires:               0.9
+primavera:            0.9
+musica:               0.9
+rimpianto:            0.9
+nostalgia:            0.9

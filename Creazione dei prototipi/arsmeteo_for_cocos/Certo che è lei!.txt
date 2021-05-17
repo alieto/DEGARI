@@ -1,0 +1,3 @@
+ambra:                0.9
+stella:               0.9
+tettomania:           0.9

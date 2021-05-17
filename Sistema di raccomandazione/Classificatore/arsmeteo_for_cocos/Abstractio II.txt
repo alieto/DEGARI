@@ -1,0 +1,6 @@
+synths:               0.9
+paura:                0.9
+oscuro:               0.9
+ambient:              0.9
+electronic:           0.9
+artificiale:          0.9

@@ -1,0 +1,4 @@
+cenobita:             0.9
+icona:                0.9
+oltrepassare:         0.9
+guru:                 0.9

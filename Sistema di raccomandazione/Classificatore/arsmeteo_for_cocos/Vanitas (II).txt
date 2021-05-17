@@ -1,0 +1,7 @@
+riflesso:             0.9
+digitale:             0.6
+vaso:                 0.6
+fiore:                0.6
+ragno:                0.6
+ombra:                0.6
+specchiare:           0.6

@@ -1,0 +1,8 @@
+robert_rauschenberg:  0.9
+jasper_john:          0.9
+john_cage:            0.9
+pop_art:              0.9
+new_dada:             0.9
+abstract_expressionist:0.9
+found_objects:        0.9
+marcel_duchamp:       0.9

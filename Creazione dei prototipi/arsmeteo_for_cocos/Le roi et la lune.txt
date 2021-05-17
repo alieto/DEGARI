@@ -1,0 +1,3 @@
+gatto:                0.9
+luna:                 0.9
+notte:                0.9

@@ -1,0 +1,7 @@
+nuvole-:              0.9
+specchio-:            0.9
+illusione-:           0.9
+reale:                0.9
+irreale:              0.9
+sogno:                0.9
+veglia:               0.9

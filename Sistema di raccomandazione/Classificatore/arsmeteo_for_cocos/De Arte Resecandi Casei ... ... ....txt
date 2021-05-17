@@ -1,0 +1,12 @@
+formaggio:            0.9
+tagliare:             0.9
+marco_parenti:        0.9
+tractatus:            0.9
+senza_microfono:      0.9
+comunicazione:        0.9
+indice:               0.9
+metodo:               0.9
+ordine:               0.9
+odore:                0.9
+tradizione:           0.9
+progetto:             0.9

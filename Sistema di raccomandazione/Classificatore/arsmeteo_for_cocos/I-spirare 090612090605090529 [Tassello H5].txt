@@ -1,0 +1,7 @@
+ispirazione:          0.9
+perdita:              0.9
+attesa:               0.9
+nascita:              0.9
+opera:                0.9
+erba:                 0.9
+reload:               0.9

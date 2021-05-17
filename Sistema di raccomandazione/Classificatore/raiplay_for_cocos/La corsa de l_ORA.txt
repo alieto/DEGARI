@@ -1,0 +1,17 @@
+documentario:         0.9
+storia:               0.9
+ripercorrere:         0.9
+quotidiano:           0.9
+palermitano:          0.9
+denuncia:             0.9
+impegnare:            0.9
+mafia:                0.9
+durante:              0.9
+direzione:            0.9
+vittorio:             0.9
+nisticò:              0.9
+vincitore:            0.9
+miglior:              0.9
+docufilm:             0.9
+nastro:               0.9
+argento:              0.9

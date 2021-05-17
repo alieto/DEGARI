@@ -1,0 +1,4 @@
+triste:               0.9
+solitario:            0.9
+pixel:                0.9
+digitale:             0.9

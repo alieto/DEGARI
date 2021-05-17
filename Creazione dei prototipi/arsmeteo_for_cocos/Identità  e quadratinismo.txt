@@ -1,0 +1,2 @@
+identità:             0.9
+ordine:               0.9

@@ -1,0 +1,4 @@
+madre_madre_t:        0.9
+scala:                0.9
+profondità:           0.9
+percorso:             0.9

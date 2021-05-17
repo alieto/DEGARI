@@ -1,0 +1,11 @@
+ragazza:              0.9
+girls:                0.9
+gruppo:               0.9
+amica:                0.9
+euforia:              0.9
+collega:              0.9
+comunicazione:        0.9
+cena:                 0.9
+conviviale:           0.9
+ilarità:              0.9
+sorriso:              0.9

@@ -1,0 +1,7 @@
+meson_del_moro:       0.9
+uomo_nero:            0.9
+sevilla:              0.9
+scolaresca:           0.9
+trolley:              0.9
+genitore:             0.9
+alunno:               0.9

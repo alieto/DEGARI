@@ -1,0 +1,6 @@
+ombra:                0.9
+luce:                 0.9
+profilo:              0.9
+proiezione:           0.9
+principe:             0.9
+ritratto:             0.9

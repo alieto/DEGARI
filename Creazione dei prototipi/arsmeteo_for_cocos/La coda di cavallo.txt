@@ -1,0 +1,10 @@
+flash:                0.9
+mostra:               0.9
+incontro:             0.9
+casuale:              0.9
+serendipity:          0.9
+lucentezza:           0.9
+sinusoide:            0.9
+fugace:               0.9
+passaggio:            0.9
+rosso:                0.9

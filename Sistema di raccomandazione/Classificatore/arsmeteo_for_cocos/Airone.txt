@@ -1,0 +1,7 @@
+airone:               0.9
+metallo:              0.9
+serbatoio:            0.9
+riciclato:            0.9
+uccello:              0.9
+rivivere:             0.9
+ala:                  0.9

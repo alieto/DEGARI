@@ -1,0 +1,5 @@
+pittura:              0.9
+mulino:               0.9
+don_chisciotte:       0.9
+inquadrare:           0.9
+muro:                 0.9

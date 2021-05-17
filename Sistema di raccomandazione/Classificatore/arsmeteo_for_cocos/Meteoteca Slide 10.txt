@@ -1,0 +1,12 @@
+undici:               0.9
+dieci:                0.9
+netvilleweb:          0.9
+netville_life:        0.9
+netville:             0.9
+tentazione:           0.9
+emozione:             0.9
+opera_collettiva:     0.9
+zeitgeist:            0.9
+perturbazione_artistica:0.9
+ricerca_europea:      0.9
+la_meteoteca_di_netville:0.9

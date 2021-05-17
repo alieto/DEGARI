@@ -1,0 +1,12 @@
+donna:                0.9
+sensualità:           0.9
+cioccolato:           0.9
+passione:             0.9
+tentazione:           0.9
+dolcezza:             0.9
+digitale:             0.9
+corpo:                0.9
+surreale:             0.9
+liquido:              0.9
+fluido:               0.9
+peccato:              0.9

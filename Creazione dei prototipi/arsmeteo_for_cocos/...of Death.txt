@@ -1,0 +1,12 @@
+lato_oscuro:          0.9
+musica:               0.9
+strumento:            0.9
+teschio:              0.9
+morte:                0.9
+metafora:             0.9
+metamorfosi:          0.9
+della_morte:          0.9
+dark:                 0.9
+oscuro:               0.9
+tetro:                0.9
+inquietante:          0.9

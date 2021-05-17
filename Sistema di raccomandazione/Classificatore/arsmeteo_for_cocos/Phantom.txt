@@ -1,0 +1,5 @@
+neutro:               0.9
+pixel:                0.9
+fantasma:             0.9
+sedile:               0.9
+radiatore:            0.9

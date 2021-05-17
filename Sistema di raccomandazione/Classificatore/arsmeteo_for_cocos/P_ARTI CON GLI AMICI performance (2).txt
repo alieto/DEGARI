@@ -1,0 +1,5 @@
+p_arti:               0.9
+amico:                0.9
+performance:          0.9
+carrello:             0.9
+hard_meteo:           0.9

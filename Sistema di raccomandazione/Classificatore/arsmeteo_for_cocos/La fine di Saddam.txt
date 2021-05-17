@@ -1,0 +1,4 @@
+condannato:           0.9
+catturare:            0.9
+copertina:            0.9
+eliminare:            0.9

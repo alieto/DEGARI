@@ -1,0 +1,6 @@
+coltello:             0.9
+manufatto:            0.9
+natura_morta:         0.9
+soddisfazione:        0.9
+cibo:                 0.9
+chef:                 0.9

@@ -1,0 +1,2 @@
+ambra:                0.9
+lazzari:              0.9

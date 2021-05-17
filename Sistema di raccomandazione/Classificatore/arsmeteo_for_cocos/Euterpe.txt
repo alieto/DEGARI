@@ -1,0 +1,12 @@
+-figura+:             0.9
+-composizione+:       0.9
+-musicale+:           0.9
+-donna+:              0.9
+-femminile+:          0.9
+-metafora+:           0.9
+-archetto+:           0.9
+-violino+:            0.9
+-trasformazione+:     0.9
+sirena_violino:       0.9
+donna_violino:        0.9
+euterpe:              0.9

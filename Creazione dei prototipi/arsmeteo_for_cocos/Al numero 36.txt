@@ -1,0 +1,6 @@
+portone:              0.9
+numero:               0.9
+trentasei:            0.9
+orizzonte:            0.9
+falsa_barriera:       0.9
+occultamento:         0.9

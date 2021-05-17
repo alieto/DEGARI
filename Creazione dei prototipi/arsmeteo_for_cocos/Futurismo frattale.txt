@@ -1,0 +1,4 @@
+futurismo:            0.9
+frattali:             0.9
+ricorsione:           0.9
+fiamma:               0.9

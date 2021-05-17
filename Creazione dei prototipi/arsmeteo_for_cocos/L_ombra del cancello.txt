@@ -1,0 +1,6 @@
+antro:                0.9
+cancello:             0.9
+ombra:                0.9
+portale:              0.9
+chiuso:               0.9
+ingresso:             0.9

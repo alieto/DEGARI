@@ -1,0 +1,12 @@
+scarpone:             0.9
+anfibio:              0.9
+scarpa:               0.9
+robusto:              0.9
+resistente:           0.9
+cielo:                0.9
+nube:                 0.9
+azzurro:              0.9
+degrader:             0.9
+sfumato:              0.9
+bianco:               0.9
+nuvola:               0.9

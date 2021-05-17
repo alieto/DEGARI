@@ -1,0 +1,4 @@
+buio_luce:            0.9
+luce_della_luna:      0.9
+buco_nero:            0.9
+infinito:             0.9

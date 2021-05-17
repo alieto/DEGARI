@@ -1,0 +1,3 @@
+simmetria:            0.9
+specularità:          0.9
+disordine:            0.9

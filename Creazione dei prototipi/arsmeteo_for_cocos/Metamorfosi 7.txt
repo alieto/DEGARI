@@ -1,0 +1,7 @@
+pioggia:              0.9
+nuvola:               0.9
+folla:                0.9
+blu:                  0.9
+goccia:               0.9
+libro:                0.9
+artista:              0.9

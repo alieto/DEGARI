@@ -1,0 +1,10 @@
+sepoltura:            0.9
+cadavere:             0.9
+discussione:          0.9
+cavalletta:           0.9
+pala:                 0.9
+fossa:                0.9
+grottesco:            0.9
+litigio:              0.9
+neve:                 0.9
+freddo:               0.9

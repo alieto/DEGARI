@@ -1,0 +1,30 @@
+#Title composizione
+Title : sadness-anticipation
+
+#Concetto Principale
+Head Concept Name : sadness
+
+#Concetto Modificatore
+Modifier Concept Name : anticipation
+
+head, -happiness
+head, -jubilant
+
+modifier, -surprise
+
+T(modifier), anticipation, 0.86
+T(modifier), excited, 0.86
+T(modifier), eagerness, 0.81
+T(modifier), expectant, 0.79
+T(modifier), thrilling, 0.78
+T(modifier), hope, 0.77
+
+T(head), heartbreaking, 0.97
+T(head), mourning, 0.97
+T(head), tragic, 0.96
+T(head), holocaust, 0.95
+T(head), suicidal, 0.94
+T(head), misery, 0.94
+
+
+Result : '0', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '1', 0.0011764333032198405

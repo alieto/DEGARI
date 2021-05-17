@@ -1,0 +1,4 @@
+genova:               0.9
+porto:                0.9
+scatto:               0.9
+blu:                  0.9

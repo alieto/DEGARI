@@ -1,0 +1,9 @@
+cielo:                0.9
+azzurro:              0.9
+paracadute:           0.9
+paracadutista:        0.9
+volo:                 0.9
+discesa:              0.9
+leggerezza:           0.9
+sogno:                0.9
+vela:                 0.9

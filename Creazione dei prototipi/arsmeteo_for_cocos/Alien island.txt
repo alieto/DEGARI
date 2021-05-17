@@ -1,0 +1,9 @@
+fantascienza:         0.9
+inconscio:            0.9
+frattali:             0.9
+sconosciuto:          0.9
+lontano:              0.9
+paura:                0.9
+organismo:            0.9
+isola:                0.9
+alieno:               0.9

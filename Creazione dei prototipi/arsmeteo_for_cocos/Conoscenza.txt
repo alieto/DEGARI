@@ -1,0 +1,4 @@
+progetto:             0.9
+calcolo:              0.9
+probabilità:          0.9
+forza:                0.9

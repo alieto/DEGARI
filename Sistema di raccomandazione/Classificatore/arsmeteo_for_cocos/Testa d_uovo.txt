@@ -1,0 +1,6 @@
+pesca:                0.9
+testa_d_uovo:         0.9
+sfruttamento:         0.9
+idea:                 0.9
+caus:                 0.9
+suora:                0.9

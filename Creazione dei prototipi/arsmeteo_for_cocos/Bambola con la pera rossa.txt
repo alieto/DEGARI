@@ -1,0 +1,6 @@
+bambola:              0.9
+pera:                 0.9
+surfanta:             0.9
+capelli_lunghi:       0.9
+vestito_a_foglie:     0.9
+pera_rossa:           0.9

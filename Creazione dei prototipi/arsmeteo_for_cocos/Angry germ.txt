@@ -1,0 +1,7 @@
+angry:                0.9
+germ:                 0.9
+germe:                0.9
+furioso:              0.9
+organismo:            0.9
+tentacolo:            0.9
+surreale:             0.9

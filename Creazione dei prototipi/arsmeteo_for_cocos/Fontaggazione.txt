@@ -1,0 +1,7 @@
+fondatore:            0.9
+firmatario:           0.9
+parte_dei:            0.9
+progetto:             0.9
+idea:                 0.9
+sogno:                0.9
+realizzazione:        0.9

@@ -1,0 +1,12 @@
+niente:               0.9
+ossessione:           0.9
+fare:                 0.9
+inutile:              0.9
+opera:                0.9
+nulla:                0.9
+vuoto:                0.9
+punto:                0.9
+malevic:              0.9
+compressione:         0.9
+buco_nero:            0.9
+accecare:             0.9

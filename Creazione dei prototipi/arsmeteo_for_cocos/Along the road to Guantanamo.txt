@@ -1,0 +1,4 @@
+guantanamo:           0.9
+crocifissione:        0.9
+soldato:              0.9
+star_wars:            0.9

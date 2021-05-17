@@ -1,0 +1,7 @@
+netville:             0.9
+modella:              0.9
+elaborazione:         0.9
+tango:                0.9
+atelier:              0.9
+studio:               0.9
+pittore:              0.9

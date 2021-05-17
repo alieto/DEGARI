@@ -1,0 +1,11 @@
+nube:                 0.9
+nuvola:               0.9
+automobile:           0.9
+macchina:             0.9
+inconsistenza:        0.9
+evanescenza:          0.9
+impalpabile:          0.9
+blu:                  0.9
+etereo:               0.9
+gassoso:              0.9
+nuvoloso:             0.9

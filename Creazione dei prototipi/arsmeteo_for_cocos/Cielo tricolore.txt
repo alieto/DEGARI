@@ -1,0 +1,9 @@
+cielo:                0.9
+fnancia:              0.9
+blu:                  0.9
+nuvola:               0.9
+bandiera:             0.9
+sequenza:             0.9
+rosso:                0.9
+bianco:               0.9
+verde:                0.9

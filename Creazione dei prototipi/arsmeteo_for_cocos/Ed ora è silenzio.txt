@@ -1,0 +1,3 @@
+gocce_di_colore:      0.9
+fabbrica:             0.9
+ciminiera:            0.9

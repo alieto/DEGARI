@@ -1,0 +1,5 @@
+rombo:                0.9
+simmetrico:           0.9
+ripetizione:          0.9
+comignolo:            0.9
+tetto:                0.9

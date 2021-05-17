@@ -1,0 +1,8 @@
+processione:          0.9
+grottesco:            0.9
+maiale:               0.9
+caricatura:           0.9
+disco_volante:        0.9
+metaforico:           0.9
+personaggio:          0.9
+trasfigurazione:      0.9

@@ -1,0 +1,6 @@
+moda:                 0.9
+calza:                0.9
+donna:                0.9
+gamba:                0.9
+officina:             0.9
+decontestualizzazione:0.9

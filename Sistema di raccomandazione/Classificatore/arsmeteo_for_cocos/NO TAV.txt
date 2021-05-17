@@ -1,0 +1,11 @@
+manifestazione:       0.9
+manganello:           0.9
+corteo:               0.9
+treno:                0.9
+velocità:             0.9
+tunnel:               0.9
+amianto:              0.9
+maggioranza:          0.9
+picchiare:            0.9
+netville:             0.9
+dissentire:           0.9

@@ -1,0 +1,9 @@
+svanvero:             0.9
+colore:               0.9
+luce:                 0.9
+riflessione:          0.9
+torino:               0.9
+cappuccino:           0.9
+notte:                0.9
+bianca:               0.9
+guglia:               0.9

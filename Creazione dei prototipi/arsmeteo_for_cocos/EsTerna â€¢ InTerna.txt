@@ -1,0 +1,6 @@
+light:                0.9
+box:                  0.9
+pixel:                0.9
+art:                  0.9
+digitale:             0.9
+energia:              0.9

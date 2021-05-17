@@ -1,0 +1,12 @@
+suolo:                0.9
+havana:               0.9
+nostalgia:            0.9
+emigrazione:          0.9
+embargo:              0.9
+giurisdizione:        0.9
+occhiale:             0.9
+foulard:              0.9
+stupore:              0.9
+permesso:             0.9
+netville:             0.9
+vedere:               0.9

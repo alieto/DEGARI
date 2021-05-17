@@ -1,0 +1,30 @@
+#Title composizione
+Title : sadness-anger
+
+#Concetto Principale
+Head Concept Name : sadness
+
+#Concetto Modificatore
+Modifier Concept Name : anger
+
+head, -felicità
+head, -giubilante
+
+
+
+T(modifier), oltraggiato, 0.96
+T(modifier), brutalità, 0.96
+T(modifier), odio, 0.95
+T(modifier), terrorizzare, 0.94
+T(modifier), violentemente, 0.94
+T(modifier), infuriato, 0.94
+
+T(head), straziante, 0.97
+T(head), lutto, 0.97
+T(head), tragico, 0.96
+T(head), olocausto, 0.95
+T(head), suicida, 0.94
+T(head), miseria, 0.94
+
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 3.074730311024656e-06

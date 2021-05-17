@@ -1,0 +1,3 @@
+triangolino:          0.9
+tirangolarità:        0.9
+rosso_mattone:        0.9

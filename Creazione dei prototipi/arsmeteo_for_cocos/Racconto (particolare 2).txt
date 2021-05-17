@@ -1,0 +1,6 @@
+-grottesco+:          0.9
+-caricatura+:         0.9
+-metaforico+:         0.9
+-trasfigurazione+:    0.9
+clown:                0.9
+personaggio:          0.9

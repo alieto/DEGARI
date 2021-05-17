@@ -1,0 +1,4 @@
+astratto:             0.9
+cartoncino:           0.9
+tecnica:              0.9
+mista:                0.9

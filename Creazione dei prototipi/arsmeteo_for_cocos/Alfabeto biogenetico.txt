@@ -1,0 +1,5 @@
+alfabeto:             0.9
+font:                 0.9
+cellula:              0.9
+biogenetico:          0.9
+biocaratteri:         0.9

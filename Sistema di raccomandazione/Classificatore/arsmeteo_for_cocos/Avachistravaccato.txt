@@ -1,0 +1,5 @@
+equilibrio_instabile: 0.9
+avachi:               0.9
+attesa:               0.9
+richiamo:             0.9
+finzione:             0.9

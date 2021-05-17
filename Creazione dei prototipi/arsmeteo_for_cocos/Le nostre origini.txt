@@ -1,0 +1,6 @@
+bambina:              0.9
+infanzia:             0.9
+origine:              0.9
+ricordo:              0.9
+classico:             0.9
+gocce_di_colore:      0.9

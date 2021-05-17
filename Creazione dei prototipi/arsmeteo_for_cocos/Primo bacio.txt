@@ -1,0 +1,5 @@
+coppia:               0.9
+ombra:                0.9
+contatto:             0.9
+arancia:              0.9
+sfera:                0.9

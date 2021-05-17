@@ -1,0 +1,8 @@
+rosso:                0.9
+fiore:                0.9
+bianco:               0.9
+taglio:               0.9
+ferita:               0.9
+ripetizione:          0.9
+donna:                0.9
+rifotografare:        0.9

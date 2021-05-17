@@ -1,0 +1,12 @@
+truthfulness: 0.906
+trustworthy: 0.867
+honest: 0.844
+honesty: 0.844
+honor: 0.844
+truth: 0.844
+brotherhood: 0.820
+credibility: 0.805
+committed: 0.805
+loyalty: 0.805
+trust: 0.805
+integrity: 0.805

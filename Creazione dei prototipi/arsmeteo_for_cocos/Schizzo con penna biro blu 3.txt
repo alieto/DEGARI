@@ -1,0 +1,14 @@
+ovalizzazione:        0.9
+ovale:                0.9
+oviforme:             0.9
+elissoidi:            0.9
+ellisse:              0.9
+viso:                 0.9
+alieno:               0.9
+becco:                0.9
+volatiel:             0.9
+uccello:              0.9
+estrapolazione:       0.9
+modificazione:        0.9
+formazione:           0.9
+embrione:             0.9

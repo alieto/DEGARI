@@ -1,0 +1,10 @@
+linea:                0.9
+taglio:               0.9
+sezione:              0.9
+verde:                0.9
+locusta:              0.9
+cavalletta:           0.9
+iterazione:           0.9
+ripetizione:          0.9
+invasione:            0.9
+minaccia:             0.9

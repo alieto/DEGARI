@@ -1,0 +1,10 @@
+supino:               0.9
+braille:              0.9
+sonno:                0.9
+torpore:              0.9
+lettura:              0.9
+dalla_cina:           0.9
+abbandono:            0.9
+scienza:              0.9
+anatomia:             0.9
+corpo:                0.9

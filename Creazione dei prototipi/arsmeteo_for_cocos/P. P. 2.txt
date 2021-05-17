@@ -1,0 +1,4 @@
+traccia:              0.9
+spazio:               0.9
+forchetta:            0.9
+tovaglia:             0.9

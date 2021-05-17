@@ -1,0 +1,2 @@
+solido:               0.9
+nous:                 0.9

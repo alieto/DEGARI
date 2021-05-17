@@ -1,0 +1,3 @@
+terra:                0.9
+vento:                0.9
+mulinello:            0.9

@@ -1,0 +1,9 @@
+kuoki:                0.9
+sushi:                0.9
+bancone:              0.9
+cibo:                 0.9
+fast_good:            0.9
+serata_libera:        0.9
+profilo:              0.9
+dessert:              0.9
+cellulare:            0.9

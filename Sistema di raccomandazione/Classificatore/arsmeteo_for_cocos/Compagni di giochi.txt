@@ -1,0 +1,3 @@
+amicizia:             0.9
+felino:               0.9
+gioco:                0.9

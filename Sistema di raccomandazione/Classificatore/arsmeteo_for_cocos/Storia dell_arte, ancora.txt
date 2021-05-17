@@ -1,0 +1,6 @@
+non_esiste_quiete:    0.9
+un_senso_provvisorio: 0.9
+linea_obliqua:        0.9
+arte_della_storia:    0.9
+arsmeteo:             0.9
+embedded:             0.9

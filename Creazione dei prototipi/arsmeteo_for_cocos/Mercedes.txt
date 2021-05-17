@@ -1,0 +1,5 @@
+auto:                 0.9
+mercedes:             0.9
+polvere:              0.9
+tramonto:             0.9
+rosso:                0.9

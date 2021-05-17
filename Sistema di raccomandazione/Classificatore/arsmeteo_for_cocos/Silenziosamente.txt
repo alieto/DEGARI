@@ -1,0 +1,5 @@
+silenzio:             0.9
+sottobosco:           0.9
+evasione:             0.9
+riduzione:            0.9
+rumore:               0.9

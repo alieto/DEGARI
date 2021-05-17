@@ -1,0 +1,4 @@
+velo:                 0.9
+viola:                0.9
+sguardo:              0.9
+muro:                 0.9

@@ -1,0 +1,5 @@
+monaco:               0.9
+in_preghiera:         0.9
+spiritualità:         0.9
+silenzio:             0.9
+preghiera:            0.9

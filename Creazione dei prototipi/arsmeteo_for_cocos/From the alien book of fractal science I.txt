@@ -1,0 +1,18 @@
+lsd:                  0.9
+love_semantic_tagging:0.9
+forme_vitali:         0.9
+alienazione:          0.9
+psichedelico:         0.9
+codice:               0.9
+mistero:              0.9
+linguaggio_alieno:    0.9
+taggata_galattica:    0.9
+arcobaleno:           0.9
+frattaglia:           0.9
+frattali:             0.9
+al_di_là:             0.9
+libro:                0.9
+arsmeteo_nove_undici: 0.9
+alieno:               0.9
+segno:                0.9
+scienza:              0.9

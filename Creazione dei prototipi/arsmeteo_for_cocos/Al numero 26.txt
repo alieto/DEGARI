@@ -1,0 +1,6 @@
+numero_ventisei:      0.9
+strada:               0.9
+muro:                 0.9
+uomo_solo:            0.9
+manifesto:            0.9
+strappo:              0.9

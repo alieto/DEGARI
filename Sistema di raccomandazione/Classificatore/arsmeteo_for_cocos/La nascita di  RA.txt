@@ -1,0 +1,4 @@
+fiore_di_loto:        0.9
+sfinge:               0.9
+linea:                0.9
+farfalla:             0.9

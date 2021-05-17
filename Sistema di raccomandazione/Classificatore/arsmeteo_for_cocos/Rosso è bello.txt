@@ -1,0 +1,7 @@
+calder:               0.9
+houston:              0.9
+giardino:             0.9
+scultura:             0.9
+ricchezza:            0.9
+cultura:              0.9
+petrolio:             0.9

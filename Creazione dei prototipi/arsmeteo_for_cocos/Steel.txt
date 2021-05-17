@@ -1,0 +1,5 @@
+acciaio:              0.9
+fuso:                 0.9
+colata:               0.9
+fuoco:                0.9
+ferro:                0.9

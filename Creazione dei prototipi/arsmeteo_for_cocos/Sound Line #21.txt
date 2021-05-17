@@ -1,0 +1,12 @@
+wireframe:            0.9
+linea:                0.9
+geometria:            0.9
+digitale:             0.9
+vettoriale:           0.9
+sound_line:           0.9
+volto:                0.9
+espressione:          0.9
+tristezza:            0.9
+pianto:               0.9
+sconforto:            0.9
+dispiacere:           0.9

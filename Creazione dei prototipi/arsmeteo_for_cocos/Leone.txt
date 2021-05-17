@@ -1,0 +1,14 @@
+leone:                0.9
+simpatico:            0.6
+muso:                 0.6
+criniera:             0.6
+peli_spaghetti:       0.6
+sorridente:           0.6
+caricatura:           0.6
+felino:               0.6
+segno_zodiacale:      0.6
+linnea:               0.6
+sincronicità:         0.6
+fuoco:                0.6
+colori_del:           0.6
+solo:                 0.6

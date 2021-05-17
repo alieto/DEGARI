@@ -1,0 +1,3 @@
+meta_paesaggio:       0.9
+meta_naturalismo:     0.9
+meta_fisica:          0.9

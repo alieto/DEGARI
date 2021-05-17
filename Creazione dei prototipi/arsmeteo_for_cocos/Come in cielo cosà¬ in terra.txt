@@ -1,0 +1,3 @@
+disagio:              0.9
+società:              0.9
+povertà:              0.9

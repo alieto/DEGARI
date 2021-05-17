@@ -1,0 +1,4 @@
+ritratto:             0.9
+blu:                  0.9
+donna:                0.9
+rosa:                 0.9

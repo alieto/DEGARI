@@ -1,0 +1,4 @@
+variazione:           0.9
+spostamento:          0.9
+tracciatura:          0.9
+proiezione:           0.9

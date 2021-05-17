@@ -1,0 +1,8 @@
+bd:                   0.9
+fumetto:              0.9
+tradizione:           0.9
+culla:                0.9
+scuola:               0.9
+culto:                0.9
+ossessione:           0.9
+collezione:           0.9

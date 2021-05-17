@@ -1,0 +1,6 @@
+music:                0.9
+image:                0.9
+news:                 0.9
+realtime:             0.9
+world:                0.9
+classical:            0.9

@@ -1,0 +1,11 @@
+netville:             0.9
+mondo:                0.9
+disincanto:           0.9
+potere:               0.9
+villaggio:            0.9
+multimedia:           0.9
+trasparenza:          0.9
+occhio:               0.9
+baghdad:              0.9
+condoleezza:          0.9
+babilonia:            0.9

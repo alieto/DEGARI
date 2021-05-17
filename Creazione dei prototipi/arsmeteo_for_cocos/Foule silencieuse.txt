@@ -1,0 +1,8 @@
+folla:                0.9
+silenzioso:           0.9
+protesta:             0.9
+minaccia:             0.9
+gente:                0.9
+assembramento:        0.9
+richiesta:            0.9
+gruppo:               0.9

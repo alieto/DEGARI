@@ -1,0 +1,8 @@
+torino:               0.9
+design:               0.9
+arco:                 0.9
+torre:                0.9
+olimpiade:            0.9
+arco_olimpico:        0.9
+toro_rampante:        0.9
+orologio:             0.9

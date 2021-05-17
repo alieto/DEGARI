@@ -1,0 +1,3 @@
+il_ventaglio:         0.9
+cubismo_digitale:     0.9
+picasso:              0.9

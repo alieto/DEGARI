@@ -1,0 +1,10 @@
+genesi+:              0.9
+-uomo+:               0.9
+-origine+:            0.9
+-linee+:              0.9
+-creazione+:          0.9
+-sospeso+:            0.9
+-inizio+:             0.9
+-mito+:               0.9
+energia:              0.9
+vitale:               0.9

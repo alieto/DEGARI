@@ -1,0 +1,6 @@
+sogno:                0.9
+onirico:              0.9
+cuscino:              0.9
+galeria:              0.9
+parola:               0.9
+circulo:              0.9

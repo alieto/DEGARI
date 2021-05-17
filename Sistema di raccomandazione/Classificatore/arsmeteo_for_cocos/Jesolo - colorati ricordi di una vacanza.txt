@@ -1,0 +1,3 @@
+jesolo:               0.9
+faro:                 0.9
+mare:                 0.9

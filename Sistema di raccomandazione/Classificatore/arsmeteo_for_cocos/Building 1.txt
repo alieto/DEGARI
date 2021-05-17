@@ -1,0 +1,5 @@
+edificio:             0.9
+casa:                 0.9
+verde:                0.9
+palazzo:              0.9
+balcone:              0.9

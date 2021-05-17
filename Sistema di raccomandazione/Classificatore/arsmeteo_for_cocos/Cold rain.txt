@@ -1,0 +1,7 @@
+ghiaccio:             0.9
+freddo:               0.9
+pioggia:              0.9
+desolazione:          0.9
+intemperia:           0.9
+ostile:               0.9
+tundra:               0.9

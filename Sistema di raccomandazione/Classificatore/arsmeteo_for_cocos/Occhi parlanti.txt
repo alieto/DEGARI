@@ -1,0 +1,6 @@
+occhi_parlanti:       0.9
+marta_nieuwenhuijs:   0.9
+poesia:               0.9
+arte:                 0.9
+pittura:              0.9
+arte_originale:       0.9

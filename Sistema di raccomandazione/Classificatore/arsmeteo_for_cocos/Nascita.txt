@@ -1,0 +1,5 @@
+nascita:              0.9
+pipistrello:          0.9
+mondo:                0.9
+mondo_schiuso:        0.9
+da_cosa_nasce_cosa:   0.9

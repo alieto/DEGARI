@@ -1,0 +1,12 @@
+lavoro:               0.9
+work:                 0.9
+simbolo:              0.9
+symbols:              0.9
+crocifissione:        0.9
+mercato:              0.9
+market:               0.9
+finanza:              0.9
+financial:            0.9
+new:                  0.9
+popart:               0.9
+contemporaneo:        0.9

@@ -1,0 +1,4 @@
+rosso:                0.9
+sicilia:              0.9
+pianta:               0.9
+messaggi_subliminali: 0.9

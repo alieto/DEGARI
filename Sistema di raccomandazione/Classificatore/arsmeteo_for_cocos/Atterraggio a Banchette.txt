@@ -1,0 +1,9 @@
+surfanta:             0.9
+surreale:             0.9
+aereo:                0.9
+atterraggio:          0.9
+dodo:                 0.9
+biplano:              0.9
+frate:                0.9
+chiesa:               0.9
+strega:               0.9

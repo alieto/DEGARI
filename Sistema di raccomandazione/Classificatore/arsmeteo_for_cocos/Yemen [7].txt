@@ -1,0 +1,8 @@
+yemen:                0.9
+ragazzo:              0.9
+amicizia:             0.9
+gruppo:               0.9
+lettura:              0.9
+complicità:           0.9
+letture_proibite:     0.9
+divertimnto:          0.9

@@ -1,0 +1,3 @@
+oiseaux:              0.9
+souci_preoccupazioni: 0.9
+folla:                0.9

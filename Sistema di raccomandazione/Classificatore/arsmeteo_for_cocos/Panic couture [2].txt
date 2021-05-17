@@ -1,0 +1,6 @@
+moda:                 0.9
+donna:                0.9
+posa:                 0.9
+contrasto:            0.9
+luci_ed_ombre:        0.9
+lato_oscuro:          0.9

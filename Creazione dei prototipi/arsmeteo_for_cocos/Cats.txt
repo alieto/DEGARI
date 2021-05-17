@@ -1,0 +1,6 @@
+gatto:                0.9
+posa:                 0.9
+tenerezza:            0.9
+indifeso:             0.9
+essere:               0.9
+sensibilità:          0.9

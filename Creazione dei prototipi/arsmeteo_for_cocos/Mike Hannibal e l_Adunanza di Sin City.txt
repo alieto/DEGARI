@@ -1,0 +1,27 @@
+/:                    0.9
+width:                0.66
+0\:                   0.66
+border:               0.66
+fotofumetto:          0.6
+sin_city:             0.6
+frank_miller:         0.6
+photoshop:            0.6
+sceneggiatura_fumettistica:0.6
+noir:                 0.6
+dark:                 0.6
+hard_boiled:          0.6
+table:                0.6
+tbody:                0.6
+td:                   0.6
+tr:                   0.6
+align:                0.6
+center\:              0.6
+div:                  0.6
+overflow:             0.6
+style:                0.6
+auto:                 0.6
+406px:                0.6
+height:               0.6
+560px\:               0.6
+img:                  0.6
+src:                  0.6

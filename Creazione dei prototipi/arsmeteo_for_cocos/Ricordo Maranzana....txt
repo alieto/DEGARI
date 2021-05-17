@@ -1,0 +1,6 @@
+pastello:             0.9
+maranzana:            0.9
+paese:                0.9
+chiesa:               0.9
+collina:              0.9
+casa:                 0.9

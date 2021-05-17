@@ -1,0 +1,8 @@
+richee:               0.9
+riquadrare:           0.9
+louise:               0.9
+brooks:               0.9
+femme_fatale:         0.9
+vittima:              0.9
+pregiudizio:          0.9
+mito:                 0.9

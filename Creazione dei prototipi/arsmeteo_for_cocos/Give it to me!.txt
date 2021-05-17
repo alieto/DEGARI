@@ -1,0 +1,7 @@
+bambino:              0.9
+mano:                 0.9
+mondo:                0.9
+terra:                0.9
+dammi_il_mondo:       0.9
+mano_protesa:         0.9
+pianto:               0.9

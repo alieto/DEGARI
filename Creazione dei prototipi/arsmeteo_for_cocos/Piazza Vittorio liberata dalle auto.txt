@@ -1,0 +1,5 @@
+spazio:               0.9
+splendore_quasi_originale:0.9
+troppi_arredi_urbani: 0.9
+prospettiva:          0.9
+installazione:        0.9

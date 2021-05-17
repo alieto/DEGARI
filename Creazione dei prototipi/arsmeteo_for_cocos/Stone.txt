@@ -1,0 +1,11 @@
+pietra:               0.9
+stone:                0.6
+acrilico:             0.6
+tela:                 0.6
+acrylic:              0.6
+on:                   0.6
+canvas:               0.6
+informale:            0.6
+astratto:             0.6
+cuore:                0.6
+dolore:               0.6

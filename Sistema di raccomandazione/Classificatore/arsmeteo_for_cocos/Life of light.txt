@@ -1,0 +1,8 @@
+linea:                0.9
+taglio:               0.9
+triangolo:            0.9
+partitura:            0.9
+spartito:             0.9
+farfalla:             0.9
+macaone:              0.9
+volo:                 0.9

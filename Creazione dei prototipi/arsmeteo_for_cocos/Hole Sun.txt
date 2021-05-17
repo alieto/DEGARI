@@ -1,0 +1,5 @@
+colore:               0.9
+crescita:             0.9
+sole:                 0.9
+frattali:             0.9
+natura:               0.9

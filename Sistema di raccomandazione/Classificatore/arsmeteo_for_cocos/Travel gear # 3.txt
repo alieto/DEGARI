@@ -1,0 +1,6 @@
+lettura:              0.9
+orpello:              0.9
+indizio:              0.9
+ceramica:             0.9
+comunicazione:        0.9
+legame:               0.9

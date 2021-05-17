@@ -1,0 +1,6 @@
+monsignore:           0.9
+trono:                0.9
+chiesa:               0.9
+croce:                0.9
+luce:                 0.9
+interruttore:         0.9

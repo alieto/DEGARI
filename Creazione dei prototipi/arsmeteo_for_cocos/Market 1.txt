@@ -1,0 +1,6 @@
+mercato:              0.9
+alto:                 0.9
+terrazzo:             0.9
+pulce:                0.9
+colore:               0.9
+digitale:             0.9

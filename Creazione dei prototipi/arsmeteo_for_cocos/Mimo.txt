@@ -1,0 +1,3 @@
+animazione:           0.9
+bambino:              0.9
+mano:                 0.9

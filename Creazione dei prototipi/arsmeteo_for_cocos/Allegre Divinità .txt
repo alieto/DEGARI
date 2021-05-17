@@ -1,0 +1,4 @@
+benedizione:          0.9
+sincretismo:          0.9
+colore:               0.9
+allegrezza:           0.9

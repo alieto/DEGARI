@@ -1,0 +1,4 @@
+devil:                0.9
+lussuria:             0.9
+nudo:                 0.9
+fallo_infuocato:      0.9

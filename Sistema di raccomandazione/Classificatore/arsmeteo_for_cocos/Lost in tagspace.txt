@@ -1,0 +1,4 @@
+trottola:             0.9
+disorientamento:      0.9
+tagspace:             0.9
+tagroom:              0.9

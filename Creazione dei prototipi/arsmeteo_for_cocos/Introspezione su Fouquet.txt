@@ -1,0 +1,2 @@
+introspezione:        0.9
+fouquet:              0.9

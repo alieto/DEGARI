@@ -1,0 +1,6 @@
+folletto:             0.9
+fiore:                0.9
+fragola:              0.9
+farfalla:             0.9
+illustrazione:        0.9
+alfabeto:             0.9

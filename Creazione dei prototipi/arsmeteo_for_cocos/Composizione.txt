@@ -1,0 +1,4 @@
+luce:                 0.9
+giallo:               0.9
+colore:               0.9
+pennello_a_ventaglio: 0.9

@@ -1,0 +1,5 @@
+teoria:               0.9
+segno:                0.9
+antichità:            0.9
+classico:             0.9
+strumento:            0.9

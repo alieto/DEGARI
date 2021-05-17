@@ -1,0 +1,2 @@
+re_di_denari:         0.9
+jolly:                0.9

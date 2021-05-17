@@ -1,0 +1,4 @@
+guru:                 0.9
+non_le_guarda_nemmeno:0.9
+inseguire:            0.9
+omaggio:              0.9

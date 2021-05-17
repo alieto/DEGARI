@@ -1,0 +1,6 @@
+pesce:                0.9
+yemen:                0.6
+sorriso:              0.6
+offerta:              0.6
+crudo:                0.6
+commercio:            0.6

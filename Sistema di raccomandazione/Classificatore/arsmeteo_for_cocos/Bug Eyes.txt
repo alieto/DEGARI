@@ -1,0 +1,9 @@
+specchio:             0.9
+lingotto:             0.9
+fiera:                0.9
+riflesso:             0.9
+frammentazione:       0.9
+ripetizione:          0.9
+composizione:         0.9
+occhio:               0.9
+scomposizione:        0.9

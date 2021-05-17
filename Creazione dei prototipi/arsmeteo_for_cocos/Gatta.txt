@@ -1,0 +1,3 @@
+labbro:               0.9
+donna:                0.9
+intrigo:              0.9

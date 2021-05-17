@@ -1,0 +1,6 @@
+linea:                0.9
+curva:                0.9
+nebbia:               0.9
+luce:                 0.9
+ombra:                0.9
+movimento:            0.9

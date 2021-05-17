@@ -1,0 +1,8 @@
+houston:              0.9
+grattacielo:          0.9
+presunzione:          0.9
+ufficio:              0.9
+a_un_dito_dal_cielo:  0.9
+cartaccia:            0.9
+potere:               0.9
+soldo:                0.9

@@ -1,0 +1,6 @@
+musikanten:           0.9
+persona:              0.9
+strumento:            0.9
+accessorio:           0.9
+palco:                0.9
+strada:               0.9

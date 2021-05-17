@@ -1,0 +1,8 @@
+preda:                0.9
+linea:                0.9
+sezione:              0.9
+divisione:            0.9
+coccinella:           0.9
+fiammifero:           0.9
+fine:                 0.9
+ragno:                0.9

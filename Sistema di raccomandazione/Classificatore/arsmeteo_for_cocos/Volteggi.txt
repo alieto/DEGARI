@@ -1,0 +1,16 @@
+br:                   0.9
+cercare:              0.6333333333333333
+gioco:                0.6333333333333333
+la_coda_dell_occhio:  0.6
+div:                  0.6
+align:                0.6
+center\:              0.6
+allungo:              0.6
+coda:                 0.6
+occhio:               0.6
+sorriso:              0.6
+sorvolare:            0.6
+parto:                0.6
+torno:                0.6
+perdere:              0.6
+/:                    0.6

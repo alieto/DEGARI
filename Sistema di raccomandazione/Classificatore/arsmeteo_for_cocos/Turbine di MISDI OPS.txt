@@ -1,0 +1,11 @@
+misdi_ops:            0.9
+oro:                  0.9
+bronzo:               0.9
+metallo:              0.9
+evidenza:             0.9
+incisivo:             0.9
+risaltare:            0.9
+marrone:              0.9
+scultura:             0.9
+altorilievo:          0.9
+emergente:            0.9

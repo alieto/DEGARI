@@ -1,0 +1,4 @@
+camino:               0.9
+design:               0.9
+anni_settanta:        0.9
+sfaccettare:          0.9

@@ -1,0 +1,11 @@
+notte:                0.9
+stella:               0.9
+notte_stellata:       0.9
+barchetta_di_carta:   0.9
+auere_di_carta:       0.9
+fiammifero:           0.9
+orologio:             0.9
+tempo:                0.9
+fuga_del_tempo:       0.9
+falce_di_luna:        0.9
+luna:                 0.9

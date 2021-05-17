@@ -1,0 +1,7 @@
+metropoli:            0.9
+taxi:                 0.6
+attesa:               0.6
+incrocio:             0.6
+gente:                0.6
+notturno:             0.6
+filigrana:            0.6

@@ -1,0 +1,6 @@
+tramonto:             0.9
+elica:                0.9
+energia:              0.9
+vento:                0.9
+rosso:                0.9
+nuvola:               0.9

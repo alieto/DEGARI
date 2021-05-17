@@ -1,0 +1,2 @@
+neve:                 0.9
+bianco:               0.9

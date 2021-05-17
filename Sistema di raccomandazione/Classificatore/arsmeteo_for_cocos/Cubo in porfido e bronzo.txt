@@ -1,0 +1,3 @@
+cubo:                 0.9
+porfido:              0.9
+bronzo:               0.9

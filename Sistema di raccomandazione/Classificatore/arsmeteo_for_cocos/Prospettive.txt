@@ -1,0 +1,5 @@
+tunnel:               0.9
+pisa:                 0.9
+labirinto:            0.9
+bianco_e_nero:        0.9
+senza_fine:           0.9

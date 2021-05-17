@@ -1,0 +1,2 @@
+mostra:               0.9
+chieri:               0.9

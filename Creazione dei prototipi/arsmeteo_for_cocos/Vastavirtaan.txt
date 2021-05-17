@@ -1,0 +1,6 @@
+vastavirtaan:         0.9
+simmetria:            0.9
+mistero:              0.9
+alieno:               0.9
+vegetale:             0.9
+essere:               0.9

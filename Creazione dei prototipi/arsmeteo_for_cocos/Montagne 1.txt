@@ -1,0 +1,3 @@
+acqua:                0.9
+acquerello:           0.9
+carta:                0.9

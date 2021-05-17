@@ -1,0 +1,6 @@
+cellula:              0.9
+oro:                  0.9
+nero:                 0.9
+corpo:                0.9
+infanzia:             0.9
+cubo:                 0.9

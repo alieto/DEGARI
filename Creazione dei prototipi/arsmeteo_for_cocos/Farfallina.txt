@@ -1,0 +1,8 @@
+digitale:             0.9
+virtuale:             0.9
+donna:                0.9
+seduzione:            0.9
+second_life:          0.9
+avatar:               0.9
+farfallina:           0.9
+vita_virtuale:        0.9

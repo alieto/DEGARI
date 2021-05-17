@@ -1,0 +1,4 @@
+medicina:             0.9
+matematica:           0.9
+intimità:             0.9
+malattia:             0.9

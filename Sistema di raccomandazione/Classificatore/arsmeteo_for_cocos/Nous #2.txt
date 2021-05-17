@@ -1,0 +1,3 @@
+ricorsività:          0.9
+automatismo:          0.9
+riflesso:             0.9

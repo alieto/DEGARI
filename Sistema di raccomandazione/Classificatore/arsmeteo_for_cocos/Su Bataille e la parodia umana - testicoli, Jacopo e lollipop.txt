@@ -1,0 +1,3 @@
+parodia:              0.9
+umano:                0.9
+bataille:             0.9

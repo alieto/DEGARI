@@ -1,0 +1,5 @@
+pomeriggio:           0.9
+lettura:              0.9
+giardino:             0.9
+prima_del_terremoto:  0.9
+fascino:              0.9

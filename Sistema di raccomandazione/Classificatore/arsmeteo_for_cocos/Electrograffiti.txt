@@ -1,0 +1,8 @@
+electrosaurus_rex:    0.9
+electrosaurus:        0.9
+drago_elettronico:    0.9
+prima_del_nulla:      0.9
+forme_ancestrali:     0.9
+giurassico_siderale:  0.9
+megavirus_preistorico:0.9
+bestiale:             0.9

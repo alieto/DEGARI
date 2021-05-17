@@ -1,0 +1,5 @@
+dettaglio:            0.9
+intreccio:            0.9
+rete:                 0.9
+foglia:               0.9
+rampicante:           0.9

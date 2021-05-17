@@ -1,0 +1,4 @@
+mito:                 0.9
+nostalgia:            0.9
+revolucion:           0.9
+comandante:           0.9

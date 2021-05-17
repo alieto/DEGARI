@@ -1,0 +1,5 @@
+stanley_kubrik:       0.9
+shining:              0.9
+premonizione:         0.9
+fotogramma:           0.9
+rifotografare:        0.9

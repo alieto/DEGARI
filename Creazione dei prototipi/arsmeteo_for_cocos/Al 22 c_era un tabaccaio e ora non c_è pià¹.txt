@@ -1,0 +1,7 @@
+insegna:              0.9
+tabacco:              0.9
+uomo_in_attesa:       0.9
+tenda:                0.9
+portone:              0.9
+balcone:              0.9
+passaggio:            0.9

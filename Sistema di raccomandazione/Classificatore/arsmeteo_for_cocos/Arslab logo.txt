@@ -1,0 +1,11 @@
+netville:             0.9
+logo:                 0.9
+arslab:               0.9
+tecnologia:           0.9
+scienza:              0.9
+arte:                 0.9
+comitato:             0.9
+mostra:               0.9
+mole:                 0.9
+torino:               0.9
+genio:                0.9

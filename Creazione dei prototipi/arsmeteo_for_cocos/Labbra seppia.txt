@@ -1,0 +1,10 @@
+labbro:               0.9
+rifotografare:        0.9
+seppia:               0.9
+giornale:             0.9
+lumix:                0.9
+sabato:               0.9
+prova:                0.9
+attenzione:           0.9
+fascino:              0.9
+particolare:          0.9

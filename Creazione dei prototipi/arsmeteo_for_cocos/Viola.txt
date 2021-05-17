@@ -1,0 +1,7 @@
+labbro:               0.9
+aeroporto:            0.9
+rifotografare:        0.9
+pubblicità:           0.9
+seduzione:            0.9
+viola:                0.9
+crisi:                0.9

@@ -1,0 +1,5 @@
+metamorfosi:          0.9
+cambiamento:          0.6
+massa_informe:        0.6
+coscienza:            0.6
+sorridente:           0.6

@@ -1,0 +1,2 @@
+citta\:               0.9
+-veduta:              0.9

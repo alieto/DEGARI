@@ -1,0 +1,5 @@
+lavoro:               0.9
+incontro:             0.6
+persona:              0.6
+cosa:                 0.6
+fabbrica:             0.6

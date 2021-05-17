@@ -1,0 +1,6 @@
+dimensione:           0.9
+parallela:            0.9
+mondo:                0.9
+spazio:               0.9
+universo:             0.9
+rinascita:            0.9

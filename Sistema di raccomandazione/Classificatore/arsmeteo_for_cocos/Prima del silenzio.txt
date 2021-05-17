@@ -1,0 +1,2 @@
+burocrazia:           0.9
+atti_formali:         0.9

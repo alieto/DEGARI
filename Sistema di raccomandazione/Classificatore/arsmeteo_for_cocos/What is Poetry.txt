@@ -1,0 +1,17 @@
+/:                    0.9
+nbsp:                 0.6857142857142857
+arrampicare:          0.6428571428571428
+libertà:              0.6428571428571428
+planare:              0.6
+statua:               0.6
+lawrence:             0.6
+ferlinghetti:         0.6
+planata:              0.6
+mole:                 0.6
+antoneliana:          0.6
+occhio:               0.6
+spalancare:           0.6
+prosdocimo:           0.6
+what:                 0.6
+is:                   0.6
+poetry:               0.6

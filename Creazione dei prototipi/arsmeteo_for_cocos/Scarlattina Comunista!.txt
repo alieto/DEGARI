@@ -1,0 +1,4 @@
+comunista:            0.9
+scarlattina:          0.9
+lattina:              0.9
+ossessione:           0.9

@@ -1,0 +1,6 @@
+flying_pen:           0.9
+digital_night:        0.9
+migrazione:           0.9
+notturno:             0.9
+ritorno:              0.9
+inessenziale_di_ritorno:0.9

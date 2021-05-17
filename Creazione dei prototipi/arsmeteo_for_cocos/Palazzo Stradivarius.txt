@@ -1,0 +1,12 @@
+violino:              0.9
+pietra:               0.9
+sasso:                0.9
+scala:                0.9
+gradino:              0.9
+stradivario:          0.9
+surrealismo:          0.9
+surreale:             0.9
+intrinseco:           0.9
+metafisica|metafisico:0.9
+simbolismo:           0.9
+musica:               0.9

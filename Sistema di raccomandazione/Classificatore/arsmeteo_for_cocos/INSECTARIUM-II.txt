@@ -1,0 +1,6 @@
+frenzy:               0.9
+sound:                0.9
+echo:                 0.9
+albero:               0.9
+luce:                 0.9
+magia:                0.9

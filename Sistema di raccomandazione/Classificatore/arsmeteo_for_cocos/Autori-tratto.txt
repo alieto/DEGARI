@@ -1,0 +1,13 @@
+autore:               0.9
+tag:                  0.9
+scultore:             0.9
+pittore:              0.9
+musico:               0.9
+scrittore:            0.9
+taggatori:            0.9
+poeta:                0.9
+santo:                0.9
+navigatore:           0.9
+mistico:              0.9
+mitico:               0.9
+firmatario:           0.9

@@ -1,0 +1,7 @@
+foto:                 0.9
+rubato:               0.9
+rivolo:               0.9
+rifotografare:        0.9
+vetrata:              0.9
+inossidabile:         0.9
+tata:                 0.9

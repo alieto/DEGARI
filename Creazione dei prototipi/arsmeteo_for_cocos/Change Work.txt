@@ -1,0 +1,7 @@
+forza:                0.9
+conoscere:            0.9
+possibilità:          0.9
+curiosità:            0.9
+sapienza:             0.9
+fatica:               0.9
+tessera:              0.9

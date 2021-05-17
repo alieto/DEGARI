@@ -1,0 +1,8 @@
+solo:                 0.9
+albero:               0.9
+cielo:                0.9
+aria:                 0.9
+azzurro:              0.9
+etereo:               0.9
+nell_angolo:          0.9
+raggio:               0.9

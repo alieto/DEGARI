@@ -1,0 +1,9 @@
+carnevale:            0.9
+chitarra:             0.9
+piazza:               0.9
+festa:                0.9
+colore:               0.9
+castelletto:          0.9
+monferrato:           0.9
+bebo:                 0.9
+musica:               0.9

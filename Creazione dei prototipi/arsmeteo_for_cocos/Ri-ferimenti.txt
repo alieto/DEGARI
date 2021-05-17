@@ -1,0 +1,4 @@
+gioco:                0.9
+sogno:                0.9
+magia:                0.9
+disegno:              0.9

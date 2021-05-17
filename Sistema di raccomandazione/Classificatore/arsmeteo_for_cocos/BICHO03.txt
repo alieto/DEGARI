@@ -1,0 +1,3 @@
+sundance:             0.9
+rame:                 0.9
+atterraggio_lunare:   0.9

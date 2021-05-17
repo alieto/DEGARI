@@ -1,0 +1,11 @@
+invasione:            0.9
+strategia:            0.9
+matriarcato:          0.9
+potere:               0.9
+ambiguità:            0.9
+sorriso:              0.9
+look:                 0.9
+moneta:               0.9
+federalismo:          0.9
+netville:             0.9
+essere|stare:         0.9

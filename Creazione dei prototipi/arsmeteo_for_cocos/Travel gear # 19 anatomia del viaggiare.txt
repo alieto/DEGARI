@@ -1,0 +1,7 @@
+oggetto:              0.9
+comunicazione:        0.9
+meridien:             0.9
+travel_gear:          0.9
+stanza:               0.9
+comodità:             0.9
+lettura:              0.9

@@ -1,0 +1,8 @@
+fine:                 0.9
+rifotografare:        0.9
+fuga:                 0.9
+bianco:               0.9
+rosso:                0.9
+posto_vuoto:          0.9
+assenza:              0.9
+nostalgia:            0.9

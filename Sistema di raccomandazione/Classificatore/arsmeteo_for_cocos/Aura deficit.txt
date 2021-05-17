@@ -1,0 +1,2 @@
+aura:                 0.9
+deficit:              0.9

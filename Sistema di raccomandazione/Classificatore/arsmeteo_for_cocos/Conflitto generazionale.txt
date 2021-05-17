@@ -1,0 +1,4 @@
+uovo:                 0.9
+gallina:              0.9
+forchettone:          0.9
+caus:                 0.9

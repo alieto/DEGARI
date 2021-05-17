@@ -1,0 +1,8 @@
+sinfonia:             0.9
+estivo:               0.9
+farfalla:             0.9
+astrarre:             0.9
+partitura:            0.9
+spartito:             0.9
+musica:               0.9
+linea:                0.9

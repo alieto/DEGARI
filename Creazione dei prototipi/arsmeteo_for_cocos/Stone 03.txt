@@ -1,0 +1,2 @@
+pietra:               0.9
+cuore:                0.9

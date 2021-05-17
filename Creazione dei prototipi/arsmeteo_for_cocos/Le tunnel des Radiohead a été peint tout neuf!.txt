@@ -1,0 +1,6 @@
+radiohead:            0.9
+colorismo:            0.9
+pop:                  0.9
+variazione:           0.9
+postmodernismo:       0.9
+epigonale:            0.9

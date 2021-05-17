@@ -1,0 +1,8 @@
+mare:                 0.9
+luce:                 0.9
+viaggio:              0.9
+orizzonte:            0.9
+caldo:                0.9
+dolcezza:             0.9
+sensuale:             0.9
+movimento:            0.9

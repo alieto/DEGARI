@@ -1,0 +1,6 @@
+carta:                0.9
+immaginazione:        0.9
+trovata:              0.9
+eleganza:             0.9
+semplicità:           0.9
+perros_guirec:        0.9

@@ -1,0 +1,13 @@
+comodo:               0.9
+design:               0.9
+poltrona:             0.9
+riposo:               0.9
+semplice:             0.9
+carriola:             0.9
+muratore:             0.9
+siesta:               0.9
+ironia:               0.9
+economico:            0.9
+ruota:                0.9
+scienza_operaia:      0.9
+indipendenza:         0.9

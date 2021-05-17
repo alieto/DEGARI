@@ -1,0 +1,4 @@
+finestra:             0.9
+davanzale:            0.9
+bottiglia:            0.9
+vetro:                0.9

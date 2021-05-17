@@ -1,0 +1,4 @@
+sacro:                0.9
+monoteismo:           0.9
+abramo:               0.9
+concordia:            0.9

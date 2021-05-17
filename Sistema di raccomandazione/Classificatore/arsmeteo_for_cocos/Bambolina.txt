@@ -1,0 +1,3 @@
+disegnino:            0.9
+a_colore:             0.9
+bambolina:            0.9

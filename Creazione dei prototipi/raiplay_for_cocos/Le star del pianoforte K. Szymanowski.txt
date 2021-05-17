@@ -1,0 +1,12 @@
+sguardo:              0.9
+informale:            0.9
+pensiero:             0.9
+guidare:              0.9
+musicista:            0.9
+stupore:              0.9
+indagare:             0.9
+intimità:             0.9
+mondo:                0.9
+affascinante:         0.9
+musica:               0.9
+nascondere:           0.9

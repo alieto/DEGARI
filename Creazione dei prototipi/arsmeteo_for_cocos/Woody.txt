@@ -1,0 +1,4 @@
+gioco:                0.9
+ludoteca:             0.9
+festa_di_primavera:   0.9
+aska:                 0.9

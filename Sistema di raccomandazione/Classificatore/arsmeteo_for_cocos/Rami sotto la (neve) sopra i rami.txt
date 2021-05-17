@@ -1,0 +1,5 @@
+neve:                 0.9
+ramo:                 0.9
+intreccio:            0.9
+freddo:               0.9
+inverno:              0.9

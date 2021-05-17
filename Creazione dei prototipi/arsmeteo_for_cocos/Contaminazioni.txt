@@ -1,0 +1,3 @@
+embedded:             0.9
+inglobare:            0.9
+accostamento:         0.9

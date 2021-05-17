@@ -1,0 +1,12 @@
+infinito:             0.9
+brivido:              0.9
+labirinto:            0.9
+second_life:          0.9
+radio_head:           0.9
+ritrovo:              0.9
+sotterraneo:          0.9
+underground:          0.9
+beijin:               0.9
+abisso:               0.9
+braille:              0.9
+liscio:               0.9

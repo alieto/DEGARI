@@ -1,0 +1,5 @@
+farfalla:             0.9
+linea:                0.9
+sincronicità:         0.9
+terra:                0.9
+polvere_alla_polvere: 0.9

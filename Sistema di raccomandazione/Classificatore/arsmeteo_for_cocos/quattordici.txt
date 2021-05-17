@@ -1,0 +1,4 @@
+puntillista:          0.9
+improvvisazione:      0.9
+contemporaneo:        0.9
+pioggia:              0.9

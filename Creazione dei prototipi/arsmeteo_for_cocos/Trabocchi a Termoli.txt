@@ -1,0 +1,10 @@
+molise:               0.9
+termoli:              0.9
+pesca:                0.9
+traboccare:           0.9
+mare:                 0.9
+rete:                 0.9
+usanza:               0.9
+forza:                0.9
+astuzia:              0.9
+attesa:               0.9

@@ -1,0 +1,3 @@
+parola:               0.9
+rumore:               0.9
+caos:                 0.9

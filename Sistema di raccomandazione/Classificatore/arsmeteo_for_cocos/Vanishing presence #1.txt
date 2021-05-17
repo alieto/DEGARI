@@ -1,0 +1,4 @@
+guanto:               0.9
+svanire:              0.9
+traccia:              0.9
+vento:                0.9

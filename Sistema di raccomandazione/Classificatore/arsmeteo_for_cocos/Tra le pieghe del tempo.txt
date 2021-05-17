@@ -1,0 +1,5 @@
+tempo:                0.9
+morbido:              0.9
+vuoto:                0.9
+pieno:                0.9
+pittura:              0.9

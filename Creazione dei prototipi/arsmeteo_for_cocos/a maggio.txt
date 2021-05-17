@@ -1,0 +1,7 @@
+maggio:               0.9
+sa_di_grano:          0.9
+solo:                 0.9
+assolato:             0.9
+geometria:            0.9
+campiture:            0.9
+caldo:                0.9

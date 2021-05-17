@@ -1,0 +1,5 @@
+glamour:              0.9
+moda:                 0.9
+biglietto_da_visita:  0.9
+mail:                 0.9
+art:                  0.9

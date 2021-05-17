@@ -1,0 +1,10 @@
+cielo:                0.9
+moncalieri:           0.9
+dalla_collina:        0.9
+corona:               0.9
+montagna:             0.9
+paramount:            0.9
+visibilità:           0.9
+pace:                 0.9
+neve:                 0.9
+vedere:               0.9

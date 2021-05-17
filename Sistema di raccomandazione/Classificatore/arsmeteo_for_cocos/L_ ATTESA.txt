@@ -1,0 +1,7 @@
+silenzio:             0.9
+tempo:                0.9
+industriale:          0.9
+colore:               0.9
+taglio:               0.9
+prospettico:          0.9
+sospensione:          0.9

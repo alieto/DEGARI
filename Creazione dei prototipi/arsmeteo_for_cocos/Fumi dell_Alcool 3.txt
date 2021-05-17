@@ -1,0 +1,11 @@
+bottiglia:            0.9
+mela:                 0.9
+frutta:               0.9
+stoffa:               0.9
+drappo:               0.9
+fumo:                 0.9
+vapore:               0.9
+lievitazione:         0.9
+gas:                  0.9
+fumi_alcolici:        0.9
+esalazione:           0.9

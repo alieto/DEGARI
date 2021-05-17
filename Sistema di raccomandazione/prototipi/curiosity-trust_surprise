@@ -1,0 +1,31 @@
+#Title composizione
+Title : trust-surprise
+
+#Concetto Principale
+Head Concept Name : trust
+
+#Concetto Modificatore
+Modifier Concept Name : surprise
+
+head, -cannibalism
+head, -molestation
+head, -rape
+
+modifier, -anticipation
+
+T(modifier), surprise, 0.93
+T(modifier), flabbergast, 0.91
+T(modifier), explode, 0.91
+T(modifier), ambush, 0.88
+T(modifier), eruption, 0.88
+T(modifier), frighten, 0.88
+
+T(head), truthfulness, 0.91
+T(head), trustworthy, 0.87
+T(head), honest, 0.84
+T(head), honor, 0.84
+T(head), truth, 0.84
+T(head), trusting, 0.84
+
+
+Result : '1', '1', '1', '0', '1', '1', '1', '0', '0', '0', '0', '0', 0.0005548517993912212

@@ -1,0 +1,6 @@
+borges:               0.9
+vetrina:              0.9
+casa:                 0.9
+attimo:               0.9
+bue:                  0.9
+microcentro:          0.9

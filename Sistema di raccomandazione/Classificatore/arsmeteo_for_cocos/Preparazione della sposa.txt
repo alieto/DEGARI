@@ -1,0 +1,6 @@
+sposa|sposo:          0.9
+preparazione:         0.9
+vestizione:           0.9
+fiore:                0.9
+angelo:               0.9
+spiritello:           0.9

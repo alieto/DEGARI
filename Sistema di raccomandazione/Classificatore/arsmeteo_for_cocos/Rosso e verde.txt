@@ -1,0 +1,3 @@
+ink_jet:              0.9
+pittura_digitale:     0.9
+pixel_art:            0.9

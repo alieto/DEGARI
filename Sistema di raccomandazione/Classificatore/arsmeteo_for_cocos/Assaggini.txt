@@ -1,0 +1,10 @@
+gusto:                0.9
+torino:               0.9
+pepare:               0.9
+pinguino:             0.9
+mostra:               0.9
+serie:                0.9
+zito:                 0.9
+veduta:               0.9
+flash:                0.9
+specialità:           0.9

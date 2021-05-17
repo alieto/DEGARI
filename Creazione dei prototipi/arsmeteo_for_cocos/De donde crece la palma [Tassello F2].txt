@@ -1,0 +1,10 @@
+vincenzo_ampolo:      0.9
+quadratino:           0.9
+fabrizio_fontana:     0.9
+quadratinismo:        0.9
+space_invaders:       0.9
+strappo:              0.9
+composizione:         0.9
+s_tracciati:          0.9
+costruzione:          0.9
+de_costruzione:       0.9

@@ -1,0 +1,6 @@
+cocciutaggine:        0.9
+la_ragione_della_forza:0.9
+menefreghismo:        0.9
+cattiveria:           0.9
+terra:                0.9
+pietra:               0.9

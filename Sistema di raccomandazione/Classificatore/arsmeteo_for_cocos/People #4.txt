@@ -1,0 +1,2 @@
+people:               0.9
+leggero:              0.9

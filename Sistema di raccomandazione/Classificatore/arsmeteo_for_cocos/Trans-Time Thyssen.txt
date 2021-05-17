@@ -1,0 +1,4 @@
+cane:                 0.9
+trans-sistor:         0.9
+led:                  0.9
+gruppo:               0.9

@@ -1,0 +1,8 @@
+surfanta:             0.9
+surreale:             0.9
+vicolo:               0.9
+attesa:               0.9
+paura:                0.9
+lampione:             0.9
+naso_a_becco:         0.9
+mani_in_tasca:        0.9

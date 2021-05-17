@@ -1,0 +1,6 @@
+fagiano:              0.9
+locomotiva:           0.9
+tragedia:             0.9
+sconto:               0.9
+treno:                0.9
+morte:                0.9

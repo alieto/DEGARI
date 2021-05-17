@@ -1,0 +1,6 @@
+bovino:               0.9
+bosco:                0.9
+terra:                0.9
+madre:                0.9
+cartone:              0.9
+riciclare:            0.9

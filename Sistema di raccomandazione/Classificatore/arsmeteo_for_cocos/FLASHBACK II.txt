@@ -1,0 +1,11 @@
+memoria:              0.9
+ripescaggio:          0.9
+interattivo:          0.9
+tango:                0.9
+abbraccio:            0.9
+sexy:                 0.9
+crescendo:            0.9
+trovare:              0.9
+infinito:             0.9
+pubblico:             0.9
+narcisismo:           0.9

@@ -1,0 +1,14 @@
+metallo+:             0.9
+-riciclato+:          0.9
+-rivivere+:           0.9
+-recupero+:           0.9
+-assemblaggio+:       0.9
+-rottami+:            0.9
+-composizione+:       0.9
+-pezzi+:              0.9
+mezzibusto:           0.9
+faraone:              0.9
+egitto:               0.9
+ironia:               0.9
+faraone_meccanico:    0.9
+mezzobusto:           0.9

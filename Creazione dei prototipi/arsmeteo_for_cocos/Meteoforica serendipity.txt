@@ -1,0 +1,10 @@
+incontro:             0.9
+abissale:             0.9
+previsione:           0.9
+retrovisione:         0.9
+perla:                0.9
+sommerso:             0.9
+subacqueo:            0.9
+acquarium:            0.9
+arsmeteo:             0.9
+atlantide:            0.9

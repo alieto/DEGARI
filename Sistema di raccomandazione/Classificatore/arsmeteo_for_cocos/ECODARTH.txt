@@ -1,0 +1,4 @@
+ecografia:            0.9
+darth:                0.9
+star_wars:            0.9
+guerre_stellari:      0.9

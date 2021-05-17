@@ -1,0 +1,3 @@
+mucca:                0.9
+vitello:              0.9
+pascolo:              0.9

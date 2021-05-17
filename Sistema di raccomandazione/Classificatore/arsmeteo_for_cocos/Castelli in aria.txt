@@ -1,0 +1,4 @@
+castello:             0.9
+sogno:                0.9
+aria:                 0.9
+illusione:            0.9

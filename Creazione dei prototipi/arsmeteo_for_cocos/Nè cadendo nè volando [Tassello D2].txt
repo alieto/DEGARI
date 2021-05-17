@@ -1,0 +1,7 @@
+non_cadere:           0.9
+non_volare:           0.9
+pietra:               0.9
+opera:                0.9
+decostruzione:        0.9
+ricostruzione:        0.9
+arsmeteo:             0.9

@@ -1,0 +1,4 @@
+bambino:              0.9
+gallina:              0.9
+pannocchia:           0.9
+gallo:                0.9

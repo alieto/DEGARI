@@ -1,0 +1,10 @@
+romanico:             0.9
+antelami:             0.6
+tempo:                0.6
+narrazione:           0.6
+parola:               0.6
+lettura:              0.6
+volume:               0.6
+forma:                0.6
+tuttotondo:           0.6
+pietra:               0.6

@@ -1,0 +1,30 @@
+#Title composizione
+Title : sadness-surprise
+
+#Concetto Principale
+Head Concept Name : sadness
+
+#Concetto Modificatore
+Modifier Concept Name : surprise
+
+head, -felicità
+head, -giubilante
+
+modifier, -anticipazione
+
+T(modifier), sorpresa, 0.93
+T(modifier), sbalordire, 0.91
+T(modifier), esplodere, 0.91
+T(modifier), imboscata, 0.88
+T(modifier), eruzione, 0.88
+T(modifier), impaurire, 0.88
+
+T(head), straziante, 0.97
+T(head), lutto, 0.97
+T(head), tragico, 0.96
+T(head), olocausto, 0.95
+T(head), suicida, 0.94
+T(head), miseria, 0.94
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '0', '1', 6.29983415132283e-05

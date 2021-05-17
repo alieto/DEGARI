@@ -1,0 +1,5 @@
+georges_lapassade:    0.9
+maestro:              0.9
+ricercazione:         0.9
+analisi_istituzionale:0.9
+stati_modificati_di_coscienza:0.9

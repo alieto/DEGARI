@@ -1,0 +1,7 @@
+ferrari:              0.9
+uscita:               0.9
+velocità:             0.9
+mosaico:              0.9
+tassello:             0.9
+quadretto:            0.9
+esuberanza:           0.9

@@ -1,0 +1,5 @@
+d_après_niépce:       0.9
+tavola:               0.9
+sovrapporre:          0.9
+giardino:             0.9
+collare:              0.9

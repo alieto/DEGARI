@@ -1,0 +1,5 @@
+performance:          0.9
+video:                0.9
+installation:         0.9
+costume:              0.9
+woods:                0.9

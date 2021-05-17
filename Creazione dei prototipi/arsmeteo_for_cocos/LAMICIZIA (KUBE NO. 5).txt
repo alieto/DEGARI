@@ -1,0 +1,6 @@
+cinque:               0.9
+lamicizia:            0.9
+amicizia:             0.9
+micizia:              0.9
+micione:              0.9
+gamba:                0.9

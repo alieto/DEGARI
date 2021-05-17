@@ -1,0 +1,12 @@
+rosso:                0.9
+riflesso:             0.6
+automobile:           0.6
+percettibile:         0.6
+azzurro:              0.6
+soffondere:           0.6
+degrader:             0.6
+arancione:            0.6
+contrasto:            0.6
+blu:                  0.6
+sensazione:           0.6
+in_movimento:         0.6

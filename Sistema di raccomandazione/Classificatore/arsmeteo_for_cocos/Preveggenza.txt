@@ -1,0 +1,6 @@
+preveggenza:          0.9
+premonizione:         0.9
+specchio:             0.9
+uovo:                 0.9
+gallina:              0.9
+caus:                 0.9

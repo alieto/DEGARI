@@ -1,0 +1,4 @@
+vintage:              0.9
+manifestante:         0.9
+hippie:               0.9
+bambina:              0.9

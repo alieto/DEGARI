@@ -1,0 +1,17 @@
+torino:               0.9
+due:                  0.9
+insegnante:           0.9
+mirella:              0.9
+felice:               0.9
+condizione:           0.9
+migliorare:           0.9
+scolastica:           0.9
+bambino:              0.9
+classe:               0.9
+destinare:            0.9
+differenziale:        0.9
+vicenda:              0.9
+ispirare:             0.9
+reale:                0.9
+antonione:            0.9
+casale:               0.9

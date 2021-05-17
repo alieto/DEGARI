@@ -1,0 +1,3 @@
+lettura:              0.9
+travel_gear:          0.9
+oggetto:              0.9

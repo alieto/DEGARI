@@ -1,0 +1,3 @@
+freaks:               0.9
+khazhak:              0.9
+cosmo:                0.9

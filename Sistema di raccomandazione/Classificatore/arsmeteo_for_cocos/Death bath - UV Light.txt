@@ -1,0 +1,4 @@
+pesta|peste:          0.9
+corno:                0.9
+death:                0.9
+bath:                 0.9

@@ -1,0 +1,3 @@
+club:                 0.9
+pazzariello:          0.9
+night_clubbing:       0.9

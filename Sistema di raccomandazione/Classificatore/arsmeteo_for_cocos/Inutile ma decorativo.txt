@@ -1,0 +1,7 @@
+inutile:              0.9
+decorativo:           0.9
+colore:               0.9
+cangiante:            0.9
+fluire:               0.9
+lampo:                0.9
+flash:                0.9

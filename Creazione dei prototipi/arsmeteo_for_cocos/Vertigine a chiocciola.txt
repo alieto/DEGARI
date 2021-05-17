@@ -1,0 +1,6 @@
+chiocciola:           0.9
+scala:                0.9
+spirale:              0.9
+vertigine:            0.9
+buco:                 0.9
+profondo:             0.9

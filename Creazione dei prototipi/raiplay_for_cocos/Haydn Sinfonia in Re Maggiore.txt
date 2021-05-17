@@ -1,0 +1,13 @@
+orchestra:            0.9
+sinfonico:            0.9
+nazionale:            0.9
+rai:                  0.9
+diretto:              0.9
+roberto:              0.9
+abbado:               0.9
+haydn:                0.9
+eseguire:             0.9
+sinfonia:             0.9
+mag:                  0.9
+hob:                  0.9
+n.93:                 0.9

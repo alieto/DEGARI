@@ -1,0 +1,8 @@
+roberta:              0.9
+duomo:                0.9
+occhiale:             0.9
+lucca:                0.9
+riflessione:          0.9
+profilo:              0.9
+facciata:             0.9
+sguardo:              0.9

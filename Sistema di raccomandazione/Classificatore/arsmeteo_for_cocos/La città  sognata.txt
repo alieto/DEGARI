@@ -1,0 +1,6 @@
+città:                0.9
+urbanistica:          0.9
+sogno:                0.9
+degrado:              0.9
+progettazione:        0.9
+corpo_urbano:         0.9

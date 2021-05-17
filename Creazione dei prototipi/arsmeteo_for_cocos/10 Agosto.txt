@@ -1,0 +1,6 @@
+something_that_is_desired:0.9
+desiderio:            0.9
+cadenza:              0.9
+scadenza:             0.9
+ricorrenza:           0.9
+credenza:             0.9

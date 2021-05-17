@@ -1,0 +1,6 @@
+albero:               0.9
+viale:                0.9
+grigio:               0.9
+abito_rosa:           0.9
+fiaba:                0.9
+gotico:               0.9

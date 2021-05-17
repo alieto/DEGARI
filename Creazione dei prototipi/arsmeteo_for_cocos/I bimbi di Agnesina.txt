@@ -1,0 +1,3 @@
+attesa:               0.9
+gruppetto:            0.9
+cornice:              0.9

@@ -1,0 +1,4 @@
+segno:                0.9
+tempo:                0.9
+erosione:             0.9
+roccia:               0.9

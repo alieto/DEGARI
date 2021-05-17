@@ -1,0 +1,9 @@
+riflesso:             0.9
+acqua:                0.9
+scintillio:           0.6
+tridimensionale:      0.6
+tangibile:            0.6
+rosso:                0.6
+blu:                  0.6
+liquido:              0.6
+materico:             0.6

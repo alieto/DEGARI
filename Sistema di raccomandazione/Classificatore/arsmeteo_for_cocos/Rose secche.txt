@@ -1,0 +1,3 @@
+rose_secche:          0.9
+fiore:                0.9
+vaso:                 0.9

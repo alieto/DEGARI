@@ -1,0 +1,9 @@
+bosch:                0.9
+jeronimus:            0.9
+bruxelles:            0.9
+beaux_arts:           0.9
+sao_paulo:            0.9
+lisboa:               0.9
+ertogenbosch:         0.9
+grandiosità:          0.9
+dettaglio:            0.9

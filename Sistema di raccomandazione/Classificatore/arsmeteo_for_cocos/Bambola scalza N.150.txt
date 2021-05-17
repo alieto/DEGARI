@@ -1,0 +1,5 @@
+bambola:              0.9
+palla:                0.9
+malinconia:           0.9
+infanzia:             0.9
+gioco_triste:         0.9

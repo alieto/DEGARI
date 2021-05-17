@@ -1,0 +1,6 @@
+scrittura:            0.9
+segno:                0.9
+semantica:            0.9
+semiotica:            0.9
+interpretazione:      0.9
+conoscenza:           0.9

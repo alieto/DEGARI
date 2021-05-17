@@ -1,0 +1,5 @@
+riva:                 0.9
+fiume:                0.9
+albero:               0.9
+fiume_po:             0.9
+torino:               0.9

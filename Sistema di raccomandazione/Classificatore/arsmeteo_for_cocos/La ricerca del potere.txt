@@ -1,0 +1,5 @@
+linea:                0.9
+ricerca_del_potere:   0.9
+mosca:                0.9
+attimo:               0.9
+divisione:            0.9

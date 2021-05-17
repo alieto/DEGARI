@@ -1,0 +1,3 @@
+strappo:              0.9
+viso:                 0.9
+foglia:               0.9

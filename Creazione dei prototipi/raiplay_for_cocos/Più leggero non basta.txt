@@ -1,0 +1,14 @@
+durante:              0.9
+anno:                 0.9
+servizio:             0.9
+civile:               0.9
+marco:                0.9
+giovane:              0.9
+elena:                0.9
+studentessa:          0.9
+affetto:              0.9
+distrofia:            0.9
+muscolare:            0.9
+valore:               0.9
+apprezzare:           0.9
+diversità:            0.9

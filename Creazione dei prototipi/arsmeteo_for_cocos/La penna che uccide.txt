@@ -1,0 +1,10 @@
+penna:                0.9
+robot:                0.9
+giornalista:          0.9
+scrittore:            0.9
+penna_avvelenata:     0.9
+metallo:              0.9
+riciclato:            0.9
+recupero:             0.9
+rivivere:             0.9
+assemblaggio:         0.9

@@ -1,0 +1,5 @@
+provino:              0.9
+scansione:            0.9
+fiume:                0.9
+monastero:            0.9
+toro:                 0.9

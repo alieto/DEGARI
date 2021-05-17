@@ -1,0 +1,15 @@
+mistero:              0.9
+arte_della_storia:    0.6
+finestra:             0.6
+finestra_chiusa:      0.6
+dietro_le_persiane:   0.6
+occhi_del_lupo:       0.6
+viso:                 0.6
+donna:                0.6
+bambina:              0.6
+donna_bambina:        0.6
+sguardo:              0.6
+passione:             0.6
+ammaliare:            0.6
+desiderio:            0.6
+tempo:                0.6

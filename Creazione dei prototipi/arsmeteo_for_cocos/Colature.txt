@@ -1,0 +1,3 @@
+informale:            0.9
+materiale:            0.9
+colore_pink:          0.9

@@ -1,0 +1,6 @@
+viaggio:              0.9
+tempo:                0.9
+concentrazione:       0.9
+lettura:              0.9
+benessere:            0.9
+spazio:               0.9

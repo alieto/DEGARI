@@ -1,0 +1,4 @@
+fenomeno:             0.9
+periferia:            0.9
+ciminiera:            0.9
+flash:                0.9

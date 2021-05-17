@@ -1,0 +1,10 @@
+dolly:                0.9
+dog:                  0.9
+hand:                 0.9
+mano:                 0.9
+squalor:              0.9
+cacmalaga:            0.9
+museo:                0.9
+malaga:               0.9
+neo:                  0.9
+contemporà:           0.9

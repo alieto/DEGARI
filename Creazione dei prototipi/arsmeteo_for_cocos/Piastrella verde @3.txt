@@ -1,0 +1,3 @@
+stagno:               0.9
+variazione:           0.9
+piastrella:           0.9

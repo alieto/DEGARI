@@ -1,0 +1,12 @@
+verità:               0.9
+smarrimento:          0.9
+innocenza:            0.9
+curiosità:            0.9
+mondo:                0.9
+sguardo:              0.9
+inizio:               0.9
+profezia:             0.9
+mohamed:              0.9
+occhio:               0.9
+netville:             0.9
+multimedia:           0.9

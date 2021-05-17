@@ -1,0 +1,3 @@
+fuochi_artificiali:   0.9
+esplosione:           0.9
+notte:                0.9

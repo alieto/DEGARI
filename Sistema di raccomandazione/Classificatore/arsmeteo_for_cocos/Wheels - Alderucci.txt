@@ -1,0 +1,4 @@
+torino:               0.9
+decorations:          0.9
+stucco:               0.9
+violetto:             0.9

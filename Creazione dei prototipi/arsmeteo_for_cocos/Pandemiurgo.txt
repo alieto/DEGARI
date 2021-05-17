@@ -1,0 +1,10 @@
+contrasto:            0.9
+aquilino:             0.9
+acume:                0.9
+sguardo:              0.9
+pensiero:             0.9
+gianni_colombo:       0.9
+guru:                 0.9
+anticipazione:        0.9
+orologio:             0.9
+locomotore:           0.9

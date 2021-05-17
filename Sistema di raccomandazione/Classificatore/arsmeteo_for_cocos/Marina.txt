@@ -1,0 +1,8 @@
+marina:               0.9
+solo:                 0.9
+mare:                 0.9
+tramonto:             0.9
+scoglio:              0.9
+tramonto_sul_mare:    0.9
+geometria:            0.9
+figure_geometriche:   0.9

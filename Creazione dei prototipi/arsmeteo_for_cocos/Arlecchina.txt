@@ -1,0 +1,4 @@
+arlecchino:           0.9
+donna_nuda:           0.9
+colore:               0.9
+sogno:                0.9

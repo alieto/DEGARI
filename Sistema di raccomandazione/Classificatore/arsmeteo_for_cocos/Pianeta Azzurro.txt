@@ -1,0 +1,4 @@
+gaia:                 0.9
+cosmo:                0.9
+pianeta:              0.9
+azzurro:              0.9

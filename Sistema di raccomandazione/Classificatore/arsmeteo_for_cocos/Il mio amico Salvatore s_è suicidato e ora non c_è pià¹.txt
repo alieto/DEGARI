@@ -1,0 +1,9 @@
+cappello:             0.9
+occhiale:             0.9
+portachiavi:          0.9
+camicia_azzurra:      0.9
+sorriso:              0.9
+locandina:            0.9
+bar:                  0.9
+pancetta:             0.9
+posa:                 0.9

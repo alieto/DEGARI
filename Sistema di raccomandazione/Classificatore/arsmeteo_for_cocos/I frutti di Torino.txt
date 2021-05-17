@@ -1,0 +1,5 @@
+frutto:               0.9
+torino:               0.9
+sarcofago:            0.9
+lampione:             0.9
+egizio:               0.9

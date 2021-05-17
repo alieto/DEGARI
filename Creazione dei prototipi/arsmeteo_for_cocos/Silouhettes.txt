@@ -1,0 +1,4 @@
+moma:                 0.9
+vetrata:              0.9
+opera:                0.9
+giardino:             0.9

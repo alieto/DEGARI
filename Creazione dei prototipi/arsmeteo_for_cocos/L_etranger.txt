@@ -1,0 +1,7 @@
+straniero:            0.9
+comunità:             0.9
+isolamento:           0.9
+separazione:          0.9
+dufferente:           0.9
+gruppo:               0.9
+escludere:            0.9

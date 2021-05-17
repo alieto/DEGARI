@@ -1,0 +1,2 @@
+smog:                 0.9
+mostri_di_cemento:    0.9

@@ -1,0 +1,4 @@
+my_last_name:         0.9
+self_portait:         0.9
+peicper:              0.9
+en_plein_air:         0.9

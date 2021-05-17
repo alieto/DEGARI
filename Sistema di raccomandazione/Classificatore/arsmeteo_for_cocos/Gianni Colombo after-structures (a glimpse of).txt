@@ -1,0 +1,6 @@
+rivolo:               0.9
+antologico:           0.9
+bello:                0.9
+emozionante:          0.9
+magico:               0.9
+cinetica:             0.9

@@ -1,0 +1,8 @@
+cerchio:              0.9
+scoprire:             0.9
+archeologia_automobilistica:0.9
+cerchione:            0.9
+sorpresa:             0.9
+abbandono:            0.9
+perfezione:           0.9
+raggio:               0.9

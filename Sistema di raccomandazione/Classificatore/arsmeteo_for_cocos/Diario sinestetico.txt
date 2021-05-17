@@ -1,0 +1,27 @@
+/:                    0.9
+flashcontent\:        0.7
+replaced-dns:         0.7
+diario:               0.6
+colore:               0.6
+emozione:             0.6
+diario_sinestetico:   0.6
+i_colori_delle_emozioni:0.6
+div:                  0.6
+id:                   0.6
+width:                0.6
+style:                0.6
+height:               0.6
+584px:                0.6
+margin:               0.6
+script:               0.6
+type:                 0.6
+text:                 0.6
+new:                  0.6
+sapere:               0.6
+swfobject:            0.6
+book\:                0.6
+760\:                 0.6
+584\:                 0.6
+8\:                   0.6
+ffffff\:              0.6
+xmlfile\:             0.6

@@ -1,0 +1,8 @@
+leger:                0.9000000000000001
+acrylic:              0.6
+on:                   0.6
+acrilico:             0.6
+black:                0.6
+nero:                 0.6
+rosso:                0.6
+red:                  0.6

@@ -1,0 +1,11 @@
+ink_jet:              0.9
+digitale:             0.9
+azzurro:              0.9
+pixel_art:            0.9
+città:                0.9
+palazzo:              0.9
+albero:               0.9
+casa:                 0.9
+finestra:             0.9
+geometria:            0.9
+rettangolo:           0.9

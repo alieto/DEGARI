@@ -1,0 +1,1 @@
+numeroterzo:          0.9

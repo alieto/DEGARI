@@ -1,0 +1,6 @@
+caldo:                0.9
+profondo:             0.9
+rosso:                0.9
+imbarazzo:            0.9
+umido:                0.9
+concentricità:        0.9

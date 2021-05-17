@@ -1,0 +1,6 @@
+figura:               0.9
+poltrona:             0.9
+collage:              0.9
+fiore:                0.9
+carta:                0.9
+in_bilico:            0.9

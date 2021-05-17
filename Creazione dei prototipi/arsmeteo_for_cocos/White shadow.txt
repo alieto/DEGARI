@@ -1,0 +1,6 @@
+proiezione:           0.9
+profilo:              0.9
+autoritratto:         0.9
+texture:              0.9
+ombra:                0.9
+inversione:           0.9

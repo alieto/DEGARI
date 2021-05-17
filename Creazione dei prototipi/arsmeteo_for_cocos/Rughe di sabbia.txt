@@ -1,0 +1,5 @@
+sabbia:               0.9
+deserto:              0.9
+linea:                0.9
+ruga:                 0.9
+percorso:             0.9

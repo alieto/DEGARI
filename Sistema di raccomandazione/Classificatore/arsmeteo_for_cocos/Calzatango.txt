@@ -1,0 +1,6 @@
+comme_il_faut:        0.9
+buenos:               0.9
+scarpa:               0.9
+tango:                0.9
+moda:                 0.9
+passione:             0.9

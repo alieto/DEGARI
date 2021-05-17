@@ -1,0 +1,6 @@
+organismo:            0.9
+fantasberocchia:      0.9
+vita:                 0.9
+surreale:             0.9
+surfanta:             0.9
+psichedelico:         0.9

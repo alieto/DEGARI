@@ -1,0 +1,8 @@
+quadrifoglio:         0.9
+fortuna:              0.9
+quadri_fogli:         0.9
+destino:              0.9
+ricerca:              0.9
+rarità:               0.9
+eccezione:            0.9
+superstizione:        0.9

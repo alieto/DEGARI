@@ -1,0 +1,14 @@
+nude_look:            0.9
+dissacrazione_sarcastica:0.9
+pediluvio:            0.9
+flagellazione:        0.9
+battesimo:            0.9
+nudo:                 0.9
+gesà¹:                0.9
+ironia:               0.9
+autocelebrazione:     0.9
+clone:                0.9
+in_ginocchio:         0.9
+trasparenza:          0.9
+tutti_i_ruoli:        0.9
+duplicazione:         0.9

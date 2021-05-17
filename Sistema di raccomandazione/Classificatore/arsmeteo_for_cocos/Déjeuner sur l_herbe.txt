@@ -1,0 +1,5 @@
+donna:                0.9
+giallo:               0.9
+vestire:              0.9
+fiore:                0.9
+fragola:              0.9

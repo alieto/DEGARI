@@ -1,0 +1,4 @@
+happy_birthday:       0.9
+vetrina:              0.9
+nyc:                  0.9
+mito:                 0.9

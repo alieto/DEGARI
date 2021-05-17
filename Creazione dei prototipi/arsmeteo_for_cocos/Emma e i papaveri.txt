@@ -1,0 +1,6 @@
+bimba:                0.9
+emma:                 0.9
+papavero:             0.9
+rosa:                 0.9
+rosso:                0.9
+curiosità:            0.9

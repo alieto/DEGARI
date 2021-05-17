@@ -1,0 +1,4 @@
+gioco:                0.9
+dik:                  0.9
+cane:                 0.9
+cmpagno:              0.9

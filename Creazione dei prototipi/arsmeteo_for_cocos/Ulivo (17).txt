@@ -1,0 +1,9 @@
+babbuino:             0.9
+grande:               0.9
+vecchio:              0.9
+tronco:               0.9
+albero:               0.9
+antico:               0.9
+natura:               0.9
+salento:              0.9
+ulivo:                0.9

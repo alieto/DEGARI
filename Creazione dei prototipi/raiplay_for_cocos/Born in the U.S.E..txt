@@ -1,0 +1,14 @@
+the:                  0.9
+born:                 0.9
+u.s.e.:               0.9
+regista:              0.9
+diomà:                0.9
+michele:              0.9
+prova:                0.9
+importante:           0.9
+capire:               0.9
+lezione:              0.9
+maestro:              0.9
+indagine:             0.9
+sociale:              0.9
+cinematografico:      0.9

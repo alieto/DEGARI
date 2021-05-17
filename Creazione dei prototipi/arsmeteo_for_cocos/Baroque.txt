@@ -1,0 +1,9 @@
+musica:               0.9
+violino:              0.6
+conchiglia:           0.6
+metamorfosi:          0.6
+violino_conchiglia:   0.6
+metafora:             0.6
+trasformazione:       0.6
+surreale:             0.6
+strumento:            0.6

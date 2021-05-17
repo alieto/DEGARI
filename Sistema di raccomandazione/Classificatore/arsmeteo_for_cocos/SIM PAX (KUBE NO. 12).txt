@@ -1,0 +1,6 @@
+dodici:               0.9
+simpatico:            0.9
+sim:                  0.9
+pax:                  0.9
+pace:                 0.9
+papa:                 0.9

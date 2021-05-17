@@ -1,0 +1,7 @@
+identity:             0.9
+dance:                0.9
+belgrade:             0.9
+invisibilità:         0.9
+identità:             0.9
+minoranza:            0.9
+mano:                 0.9

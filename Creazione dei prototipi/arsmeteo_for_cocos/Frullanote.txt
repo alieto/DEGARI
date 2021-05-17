@@ -1,0 +1,3 @@
+meccanismo:           0.9
+macchina_sonora:      0.9
+suono:                0.9

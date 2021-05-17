@@ -1,0 +1,5 @@
+cielo:                0.9
+punti_cardinali:      0.9
+nuvola:               0.9
+richiamo:             0.9
+simbolo:              0.9

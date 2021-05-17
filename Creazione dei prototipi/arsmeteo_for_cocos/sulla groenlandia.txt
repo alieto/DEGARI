@@ -1,0 +1,7 @@
+ala:                  0.9
+finestrino:           0.9
+cielo:                0.9
+neve:                 0.9
+solitudine:           0.9
+freddo:               0.9
+viaggio:              0.9

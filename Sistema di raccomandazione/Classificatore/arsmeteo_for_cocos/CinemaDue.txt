@@ -1,0 +1,8 @@
+perdita:              0.9
+cinema:               0.9
+ruggine:              0.9
+pellicola:            0.9
+luce:                 0.9
+idea:                 0.9
+cinemadue:            0.9
+lettera_o:            0.9

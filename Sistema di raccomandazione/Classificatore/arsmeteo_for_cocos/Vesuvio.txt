@@ -1,0 +1,6 @@
+warhol:               0.9
+culona|culone:        0.9
+museo:                0.9
+incanto:              0.9
+foto_rubate:          0.9
+forte:                0.9

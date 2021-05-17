@@ -1,0 +1,5 @@
+quadratino:           0.9
+spazio:               0.9
+densità:              0.9
+esagerazione:         0.9
+ristretto:            0.9

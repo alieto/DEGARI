@@ -1,0 +1,7 @@
+sera:                 0.9
+contemplazione:       0.9
+luna:                 0.9
+piazza:               0.9
+notturno:             0.9
+falce_di_luna:        0.9
+serenità:             0.9

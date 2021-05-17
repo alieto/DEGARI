@@ -1,0 +1,4 @@
+elaborazione:         0.9
+facebook:             0.6
+social_network:       0.6
+_digitale:            0.6

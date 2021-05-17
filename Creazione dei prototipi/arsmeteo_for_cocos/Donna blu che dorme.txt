@@ -1,0 +1,7 @@
+donna:                0.9
+blu:                  0.9
+dormiente:            0.9
+sdraiare:             0.9
+riposo:               0.9
+bella_addormentata:   0.9
+donna_blu:            0.9

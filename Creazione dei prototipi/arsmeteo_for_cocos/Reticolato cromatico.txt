@@ -1,0 +1,4 @@
+colore:               0.9
+gestuale:             0.9
+vibrazione:           0.9
+informale:            0.9

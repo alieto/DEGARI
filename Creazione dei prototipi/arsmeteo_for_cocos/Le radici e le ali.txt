@@ -1,0 +1,17 @@
+br:                   0.9
+div:                  0.6
+salire:               0.6
+font-size:            0.6
+style:                0.6
+18px:                 0.6
+40px:                 0.6
+margin:               0.6
+line-height:          0.6
+30px\:                0.6
+passato:              0.6
+sotterrare:           0.6
+alto:                 0.6
+sale:                 0.6
+radice:               0.6
+ala:                  0.6
+/:                    0.6

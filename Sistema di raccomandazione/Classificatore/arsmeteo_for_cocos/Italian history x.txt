@@ -1,0 +1,4 @@
+acrilico:             0.9
+uniposca:             0.9
+pantoni:              0.9
+carta:                0.9

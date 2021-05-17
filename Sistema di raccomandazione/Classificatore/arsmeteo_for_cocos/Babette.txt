@@ -1,0 +1,3 @@
+evocazione:           0.9
+vetrina:              0.9
+cellulare:            0.9

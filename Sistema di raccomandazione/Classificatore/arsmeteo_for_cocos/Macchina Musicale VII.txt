@@ -1,0 +1,6 @@
+assemblaggio:         0.9
+legno:                0.9
+ruota:                0.9
+riciclare:            0.9
+catena:               0.9
+pedivella:            0.9

@@ -1,0 +1,5 @@
+unione:               0.9
+unità:                0.9
+sogno:                0.9
+umanità:              0.9
+senso:                0.9

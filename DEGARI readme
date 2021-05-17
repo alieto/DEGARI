@@ -1,8 +1,13 @@
 DEGARI:  Dynamic Emotion Generator And ReclassIfier (by Antonio Lieto, Gian Luca Pozzato and Stefano Zoia).
 
-DEGARI is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. internalewis is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with DENOTER. If not, see http://www.gnu.org/licenses/.
+The software is described in detail in the paper "A Commonsense Reasoning Framework for Explanatory Emotion Attribution, Generation and Re-classification" by
+Antonio Lieto, Gian Luca Pozzato, Stefano Zoia, Viviana Patti and Rossana Damiano, link: https://arxiv.org/abs/2101.04017. 
 
-A Python tool for dynamic generation of knowledge in Description Logics of 
+DEGARI is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation,
+either version 3 of the License, or (at your option) any later version. The software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. See http://www.gnu.org/licenses/.
+
+DEGARI is A Python tool for dynamic generation of knowledge in Description Logics of 
 Typicality tested in the contexts of RaiPlay, WikiArt Emotions and ArsMeteo
 ------------------------------------------------------------------------------------------
 

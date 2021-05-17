@@ -1,5 +1,5 @@
 # DEGARI
-DEGARI (Dynamic Emotion Generator And ReclassIfier) (by Antonio Lieto, Gian Luca Pozzato and Stefano Zoia).
+DEGARI (Dynamic Emotion Generator And ReclassIfier) (developed by Antonio Lieto, Gian Luca Pozzato and Stefano Zoia at the University of Turin, Italy).
 
 The software is described in detail in the paper "A Commonsense Reasoning Framework for Explanatory Emotion Attribution, Generation and Re-classification" by
 Antonio Lieto, Gian Luca Pozzato, Stefano Zoia, Viviana Patti and Rossana Damiano, link: https://arxiv.org/abs/2101.04017. 
